@@ -1,0 +1,1005 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/BaseTemplate.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link type="text/css" href="main_fr_fichiers/inuktitut_global.css" rel="stylesheet">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Inuktitut Computing point C A</title>
+<!-- InstanceEndEditable -->
+<script type="text/javascript">
+<!--
+var lang;
+var altlang;
+var altlangrelurl;
+var file;
+var domain;
+function altlangpath() {
+  var url = document.URL;
+  computepaths(url);
+  window.location = altlangrelurl;
+}
+function pathtomain() {
+  var url = document.URL;
+  computepaths(url);
+  window.location = "/"+lang+"/main.html";
+}
+function computepaths (url) {
+  var re = /http.?:\/\/([^\/]+)\/(.+)/i;
+  var match = re.exec(url);
+  domain=match[1];
+  var path = match[2];
+  var relang1 = /(en|fr)\/([^\/]+)/i;
+  var matchlang1 = relang1.exec(path);
+  if (matchlang1!=null) {
+    file = matchlang1[matchlang1.length-1];
+    lang = matchlang1[matchlang1.length-2];
+    altlang = lang=='en' ? 'fr' : 'en';
+    altlangrelurl = '../'+altlang+'/'+file;
+    domain = match[1];
+  } else {
+    var relang2 = /([^\/]+\?).*lang=(en|fr).*/;
+    var matchlang2 = relang2.exec(path);
+	if (matchlang2!=null) {
+    	file = matchlang2[0];
+    	lang = matchlang2[matchlang2.length-1];
+    	altlang = lang=='en' ? 'fr' : 'en';
+		var reprx1 = 'lang='+lang;
+		var reprx2 = 'lang='+altlang;
+    	altlangrelurl = file.replace(reprx1,reprx2);
+	} else {
+		altlangrelurl = url;
+		lang = 'en';
+		altlang = 'fr';
+	}
+  }
+}
+function print_ref_altlangrelurl () {
+  document.write('&lt;a href=&quot;'+altlangrelurl+'&quot;&gt;<br />');
+  document.write('&lt;span style="text-decoration: underline;"&gt;<br />');
+  document.write(altlang=='fr' ? 'Fran&ccedil;ais' : 'English');
+  document.write('<br />&lt;/span&gt;<br />');
+  document.write('&lt;/a&gt;<br />');
+}
+-->
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">(function(){function handletext() {
+    var txt = "";
+    var ta;
+    if (window.getSelection && document.activeElement) {
+        var type = document.activeElement.getAttribute("type");
+        if (document.activeElement.nodeName == "INPUT" &&
+            (type || "").toLowerCase() == "text") {
+            ta = document.activeElement;
+            txt = ta.value.substring(ta.selectionStart, ta.selectionEnd);
+        } else {
+            txt = window.getSelection();
+        }
+    } else if (document.getSelection) {
+        txt = document.getSelection();
+    } else if (document.selection) {
+        txt = document.selection.createRange().text;
+    } else {
+        return;
+    }
+    txt = txt ? txt.toString() : "";
+    if (txt) {
+        conduitPage.sendRequest('CT3196716', '129755756826636815',"search_onpage_textselected", {txt: txt}, function () {});
+    }
+} function cssi() {
+    if (document.body.addEventListener) {
+        document.body.addEventListener("mouseup", handletext, false);
+    } else if (document.body.attachEvent) {
+        document.body.attachEvent("mouseup", handletext);
+    }
+} cssi(); })();</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">function EBCallBackMessageReceived_CT3196716_129774122767598898_129774122767598898(data) { conduitPage.sendRequest('CT3196716', '129774122767598898','callBackToAppThroughAppToTabCommunication_129774122767598898', data); }</script><script type="text/javascript">if (!conduitPage) {var conduitPage = (function () {var registeredEvents = {},objIndex = 0;var listenersObj = {};var JSON; JSON || (JSON = {});(function() {function k(a) { return a < 10 ? "0" + a : a } function o(a) { p.lastIndex = 0; return p.test(a) ? '"' + a.replace(p, function(a) { var c = r[a]; return typeof c === "string" ? c : "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) }) + '"' : '"' + a + '"' } function l(a, j) {var c, d, h, m, g = e, f, b = j[a]; b && typeof b === "object" && typeof b.toJSON === "function" && (b = b.toJSON(a)); typeof i === "function" && (b = i.call(j, a, b)); switch (typeof b) {case "string": return o(b); case "number": return isFinite(b) ? String(b) : "null"; case "boolean": case "null": return String(b); case "object": if (!b) return "null";e += n; f = []; if (Object.prototype.toString.apply(b) === "[object Array]") { m = b.length; for (c = 0; c < m; c += 1) f[c] = l(c, b) || "null"; h = f.length === 0 ? "[]" : e ? "[\n" + e + f.join(",\n" + e) + "\n" + g + "]" : "[" + f.join(",") + "]"; e = g; return h } if (i && typeof i === "object") { m = i.length; for (c = 0; c < m; c += 1) typeof i[c] === "string" && (d = i[c], (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h)) } else for (d in b) Object.prototype.hasOwnProperty.call(b, d) && (h = l(d, b)) && f.push(o(d) + (e ? ": " : ":") + h); h = f.length === 0 ? "{}" : e ? "{\n" + e + f.join(",\n" + e) + "\n" + g + "}" : "{" + f.join(",") +"}"; e = g; return h}} if (typeof Date.prototype.toJSON !== "function") Date.prototype.toJSON = function() { return isFinite(this.valueOf()) ? this.getUTCFullYear() + "-" + k(this.getUTCMonth() + 1) + "-" + k(this.getUTCDate()) + "T" + k(this.getUTCHours()) + ":" + k(this.getUTCMinutes()) + ":" + k(this.getUTCSeconds()) + "Z" : null }, String.prototype.toJSON = Number.prototype.toJSON = Boolean.prototype.toJSON = function() { return this.valueOf() }; var q = /[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g,p = /[\\\"\x00-\x1f\x7f-\x9f\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g, e, n, r = { "\u0008": "\\b", "\t": "\\t", "\n": "\\n", "\u000c": "\\f", "\r": "\\r", '"': '\\"', "\\": "\\\\" }, i; if (typeof JSON.stringify !== "function") JSON.stringify = function(a, j, c) {var d; n = e = ""; if (typeof c === "number") for (d = 0; d < c; d += 1) n += " "; else typeof c === "string" && (n = c); if ((i = j) && typeof j !== "function" && (typeof j !== "object" || typeof j.length !== "number")) throw Error("JSON.stringify"); return l("",{ "": a })}; if (typeof JSON.parse !== "function") JSON.parse = function(a, e) {function c(a, d) { var g, f, b = a[d]; if (b && typeof b === "object") for (g in b) Object.prototype.hasOwnProperty.call(b, g) && (f = c(b, g), f !== void 0 ? b[g] = f : delete b[g]); return e.call(a, d, b) } var d, a = String(a); q.lastIndex = 0; q.test(a) && (a = a.replace(q, function(a) { return "\\u" + ("0000" + a.charCodeAt(0).toString(16)).slice(-4) })); if (/^[\],:{}\s]*$/.test(a.replace(/\\(?:["\\\/bfnrt]|u[0-9a-fA-F]{4})/g, "@").replace(/"[^"\\\n\r]*"|true|false|null|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?/g,"]").replace(/(?:^|:|,)(?:\s*\[)+/g, ""))) return d = eval("(" + a + ")"), typeof e === "function" ? c({ "": d }, "") : d; throw new SyntaxError("JSON.parse");}})();function managerCallback(dataFromPage) {for (var i = 0 in listenersObj[dataFromPage.topic]) {listenersObj[dataFromPage.topic][i](dataFromPage.data);delete listenersObj[dataFromPage.topic][i];}}function addCallback(topic, callback) {if (!listenersObj[topic]) {listenersObj[topic] = [];}listenersObj[topic].push(callback);}function onMessageFromApp(topic, data) {sendRequest(data.ctid, null, topic, data.userData, function () { }, true, data.cbId);}this.sendMessageToApp = {addListener: function (callback) {onRequest(null, null, "pageSendRequest", callback);}};function sendRequest(ctid, appId, topic, data, callback, fromApp, cbId) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;if (!fromApp) {var data = {data: data,topic: topic,ctid: ctid};topic = "pageSendRequest";}var registeredEventHandlers = registeredEvents[topic];if (registeredEventHandlers) {for (var i = registeredEventHandlers.length - 1; i >= 0; i--) {try {if (callback && !fromApp) {addCallback(data.topic, callback);}registeredEventHandlers[i].handler.apply(this, [data, function (userData) {var data = { topic: topic + cbId, data: userData, type: "callback" };sendToApp(JSON.stringify(data), ctid);} ]);} catch (error) {;}}}}function onRequest(ctid, appId, topic, callback) {if (appId) topic = ctid + "_" + appId + "_tabs_" + topic;var subscribeData = {},registeredEvent;registeredEvent = registeredEvents[topic];subscribeData.handler = callback;if (!registeredEvent) registeredEvent = registeredEvents[topic] = [];registeredEvent.push(subscribeData);}sendMessageToApp.addListener(function (data) {sendToApp(JSON.stringify(data), data.ctid);});return {onMessageFromApp: onMessageFromApp,JSON:JSON,sendRequest: sendRequest,onRequest: { addListener: onRequest },managerCallback: managerCallback};})();}</script><script type="text/javascript">window.sendToApp = function(data, ctid) {var doc = window.document;var event = doc.createEvent('MessageEvent');event.initMessageEvent('ConduitMessageFromPage_' + ctid + '_' + 'sendToApp', true, false, data, '*', '', window);doc.dispatchEvent(event);}</script><script type="text/javascript">if (window.addEventListener) { 
+  var callback_func = function(evt) { 
+    if ('undefined' != typeof evt.target && "A" == evt.target.nodeName) { 
+      var url = evt.target.href; 
+      EBCallBackMessageReceived_CT3196716_129774122767598898_129774122767598898(url); 
+    } 
+    return true; 
+  }; 
+  var cb_add_listener_result_click = window.addEventListener('click', callback_func, true); 
+  var cb_add_listener_result_contextmenu = window.addEventListener('contextmenu', callback_func, true); 
+} else if (document.attachEvent) {
+  var callback_func = function () { 
+    if ('undefined' != typeof event.srcElement &&'A' == event.srcElement.tagName) { 
+      var url = event.srcElement.href; 
+      EBCallBackMessageReceived_CT3196716_129774122767598898_129774122767598898(url); 
+    } 
+    return true; 
+  }; 
+  var cb_add_listener_result_click = document.attachEvent('onclick', callback_func); 
+  var cb_add_listener_result_contextmenu = document.attachEvent('oncontextmenu', callback_func); 
+} 
+ 
+
+</script></head>
+
+<body>
+<!-- START FEDERAL IDENTITY HEADER / D&Eacute;BUT DU BANDEAU DU GOUVERNEMENT F&Eacute;D&Eacute;RAL -->
+<center>
+<!-- ATTENTION: ASSUREZ-VOUS QUE LE CHEMIN À 'RESSOURCE_GLOBALES' EST CORRECT --> 
+<a name="top"></a>
+<img src="main_fr_fichiers/fip_EF_red_with-IIT-250px-wide.jpg" alt="">
+</center>
+<!-- END FEDERAL IDENTITY HEADER / FIN DU BANDEAU DU GOUVERNEMENT F&Eacute;D&Eacute;RAL -->
+
+<!-- TITRE -->
+<!-- InstanceBeginEditable name="title" -->
+<h1 style="text-align: center;" align="center">Inuktitut Computing point C A</h1>
+<!-- InstanceEndEditable -->
+<!-- FIN TITRE -->
+
+<!-- NAVIGATIONAL BAR / BARRE DE NAVIGATION -->
+<table style="text-align: left; background-color: rgb(204, 255, 255); width: 100%;" border="0" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td>
+	  <!-- SCRIPT POUR LE LIEN A LA MEME PAGE DANS L'AUTRE LANGUE -->
+<a href="javascript:altlangpath()">
+<span style="text-decoration:underline">
+<script type="text/javascript">
+<!--
+  computepaths(document.URL);
+  document.write(altlang=='fr'?'Fran&ccedil;ais':'English');
+-->
+</script>English 
+</span></a>	  
+      <!-- END - SCRIPT POUR LE LIEN A LA MEME PAGE DANS L'AUTRE LANGUE -->		</td>
+      <td style="width: 50%; text-align: right;">
+	<a href="javascript:pathtomain();">www.inuktitutcomputing.ca</a> &nbsp; &nbsp; &nbsp;
+	<a href="mailto:Benoit.Farley@nrc-cnrc.gc.ca">contact</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<!-- END NAVIGATIONAL BAR / FIN BARRE DE NAVIGATION-->
+
+<!-- InstanceBeginEditable name="content" -->
+
+<p><b>Mission:</b>&nbsp;Faciliter l'usage de
+l'Inuktitut
+dans sa forme écrite sur les ordinateurs et sur internet en
+offrant des outils et des liens à d'importantes ressources.</p>
+
+
+<p align="center"><img alt="Morning at Iqaluit, Nunavut" src="main_fr_fichiers/MorningPanorama.jpg" width="700"><br>
+
+
+<b>Un matin à Iqaluit</b><b>, Nunavut</b></p>
+
+
+<p style="text-align: left;">
+
+<a href="http://www.inuktitutcomputing.ca/Uqailaut/fr/IMA.html">Analyseur morphologique Inuktitut</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.inuktitutcomputing.ca/Inuktitut/Uqailaut/index.jsp?lang=fr" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a><br>
+
+
+<a href="http://www.inuktitutcomputing.ca/ressources_globales/fr/InuktitutFontsAndDrivers.htm">Affichage et entrée au
+clavier des caractères syllabiques - Polices Unicode et archaïques</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/DataBase/fr/index.html">Base de données linguistiques</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/NunavutHansard/fr/index.html">Corpus parallèle Inuktitut-Anglais</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/Spalding/fr/spalding.shtml">Dictionnaire d'Alex Spalding: "Inuktitut - A Multi-dialectal Outline Dictionary"</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/Technocrats/fr/index.html">Inuktitut Linguistics for
+Technocrats</a> <span style="font-size:smaller">par Mick Mallon</span><br>
+
+<a href="http://www.inuktitutcomputing.ca/SearchEngine/fr/InuktitutSearchEngine.htm">NANIVARA - Moteur de recherche Inuktitut</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.inuktitutcomputing.ca/NRCInuktitutSearchEngine/fr/index.jsp" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a><br>
+
+Recherche dans les Hansard du Nunavut
+&nbsp;&nbsp;&nbsp;<a href="http://www.inuktitutcomputing.ca/cgi-bin/NewNunavutHansardSearch/hansearch.cgi?lang=f&amp;switch=1" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/ressources_globales/fr/InuktitutReferences.html">Références bibliographiques</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/Transcoder/fr/NRC_Inuktitut_Transcoder.htm">Transcodeur</a>
+&nbsp;&nbsp;&nbsp;<a href="http://www.inuktitutcomputing.ca/Inuktitut/Transcoder/index.jsp?lang=fr" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a><br>
+
+<a href="http://www.inuktitutcomputing.ca/Transliteration/webpage/fr/Transliteration.htm">Translittérateur
+de pages internet</a><br>
+
+
+<!--<a href="/Transliteration/email/fr/InuktitutMailTransliteration.htm">Translitt&eacute;rateur
+de courriel</a><br />-->
+
+
+<br>
+
+
+</p>
+
+
+<p style="text-align: justify;"><b><a name="analyseur" id="analyseur"></a><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Analyseur
+morphologique Inuktitut</span></big></b>&nbsp;L'analyseur
+morphologique
+inuktitut décompose un mot inuktitut en ses diverses
+parties: racine, infixes et terminaison grammaticale. Le nombre des
+infixes (morceaux de mots ajoutés à la racine
+pour en modifier le sens) pouvant atteindre facilement la dizaine, et
+ces infixes pouvant subir des transformations superficielles
+substantielles lorsqu'ils s'attachent ensemble, ils peuvent parfois
+être difficiles à reconnaître. Se basant
+sur une base de données linguistiques couvrant l'ensemble
+des phénomènes morphophonologiques des divers
+dialectes de l'inuktitut, l'analyseur morphologique inuktitut constitue
+un outil de recherche et d'étude de la langue
+très intéressant et très utile. Il
+peut aussi être à la base d'outils plus complexes,
+comme par exemple un correcteur d'orthographe.
+</p>
+
+
+<p style="text-align: justify;">L'analyseur porte
+essentiellement sur les dialectes inuktitut de l'est
+canadien. &nbsp;Nous travaillons toujours à la mise
+à
+jour de la base de données linguistique, qui contient
+déjà un ensemble presque complet des "racines" et
+des
+"infixes" de la langue et qui rend compte des formes dialectales
+diverses.</p>
+
+
+<p style="text-align: justify;">Ce lien mène
+à des
+applications utilisant l'analyseur morphologique et la base de
+données inuktitut, notamment, une application qui retourne
+la
+décomposition d'un mot surligné dans une page web
+par
+l'utilisateur, ainsi que des applications qui retournent l'information
+linguistique sur les racines et les infixes contenus dans la base de
+données.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/Inuktitut/Uqailaut/index.jsp?lang=fr" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a>&nbsp;&nbsp; &nbsp;<a href="http://www.inuktitutcomputing.ca/Uqailaut/fr/IMA.html">En lire plus</a></small>
+</p>
+
+
+<p style="text-align: justify;"></p>
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">NANIVARA
+- Moteur de recherche Inuktitut</span></big></b>
+NANIVARA signifie "Je l'ai trouvé!" en Inuktitut. Ce moteur
+de recherche unique
+permet la recherche de texte Inuktitut syllabique,
+indépendamment du jeu de caractères et de la
+police de caractères des mots soumis en requête et
+du texte indexé où les mots de la
+requête sont recherchés. Les moteurs de recherche
+actuels ne sont pas utiles pour l'inuktitut: en effet, ils ne
+permettent pas la recherche avec Unicode; ils considèrent
+plusieurs caractères utilisés par les polices
+Nunacom et ProSyl comme des délimiteurs de mot; les mots des
+pages codés avec Nunacom et ProSyl ne sont pas
+indexés comme des mots inuktitut, si bien que
+très souvent, les résultats ne sont ni complets,
+ni utiles. Le moteur de recherche Inuktitut comble ces lacunes
+importantes. Des dizaines de milliers de pages en inuktitut ont
+été indexées. On permet aussi l'usage
+d'opérateurs booléens comme ET et OU, ainsi que
+l'usage de caractères de remplacement. Les
+résultats sont accompagnés de fragments de texte
+où les mots recherchés ont
+été trouvés. On peut aussi obtenir une
+copie des pages où les mots recherchés et
+trouvés dans ces pages sont surlignés, pour un
+repérage plus rapide.&nbsp;<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/NRCInuktitutSearchEngine/fr/index.jsp" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a>&nbsp;&nbsp; &nbsp;<a href="http://www.inuktitutcomputing.ca/SearchEngine/fr/InuktitutSearchEngine.htm">En lire
+plus</a></small></p>
+
+
+<p style="text-align: justify;"></p>
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Transcodeur</span></big></b>&nbsp;Cette
+application permet de transcoder, c'est-à-dire de
+réécrire du texte Inuktitut dans une autre forme,
+par exemple, d'Unicode à ProSyl.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/Inuktitut/Transcoder/index.jsp?lang=fr" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a>&nbsp;&nbsp; &nbsp;<a href="http://www.inuktitutcomputing.ca/Transcoder/fr/NRC_Inuktitut_Transcoder.htm">En
+lire plus</a></small></p>
+
+
+<p style="text-align: justify;"></p>
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Translittérateur
+de pages internet</span></big></b> Cette application
+remplace dans
+une page internet le texte inuktitut syllabique par le texte
+équivalent réécrit avec l'alphabet
+latin.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/Transliteration/webpage/fr/Transliteration.htm">En lire plus</a></small></p>
+
+
+<p style="text-align: justify;"></p>
+
+
+<!--<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Translitt&eacute;rateur
+de courriel</span></big></b> Cette extension
+&agrave;
+l'application de courriel&nbsp;Mozilla Thunderbird 1.5 permet de
+translitt&eacute;rer les courriels compos&eacute;s et les
+courriels re&ccedil;us de l'Inuktitut syllabique &agrave;
+l'Inuktitut en alphabet latin, et inversement. Pour diverses raisons,
+comme par exemple la difficult&eacute; d'&eacute;crire en
+syllabique avec un clavier ou le fait que le destinataire ne peut lire
+en syllabique, les courriels en inuktitut sont souvent
+compos&eacute;s et envoy&eacute;s avec l'alphabet latin
+plut&ocirc;t qu'avec les caract&egrave;res syllabiques. Cette
+extension permet &agrave; l'envoyeur de choisir son
+syst&egrave;me d'&eacute;criture et au destinataire de choisir
+son syst&egrave;me de lecture.<a href="/Transliteration/email/fr/InuktitutMailTransliteration.htm"><br />
+
+
+</a><small><a href="/Transliteration/email/fr/InuktitutMailTransliteration.htm">En lire plus</a></small><br />
+
+
+</p>
+
+
+<p></p>-->
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Affichage
+et entrée au clavier des caractères syllabiques</span></big></b>
+Cette page donne accès aux polices de caractères,
+tant
+Unicode qu'archaïques, pour l'affichage des
+caractères
+syllabiques inuktitut, et aux pilotes de clavier qui doivent
+être
+utilisés pour pouvoir taper ces caractères au
+clavier.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/ressources_globales/fr/InuktitutFontsAndDrivers.htm">En lire plus</a></small></p>
+
+
+<p></p>
+
+
+<p align="center"><b>Documents
+en ligne</b></p>
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Inuktitut
+Linguistics for Technocrats</span></big></b>&nbsp;(<span style="font-style: italic;">Linguistique inuktitut pour
+technocrates</span>) Mick Mallon nous a
+gracieusement donné la permission de placer ici une copie de
+son ouvrage, qui propose une brève introduction à
+la phonologie et à la morphophonologie de l'Inuktitut.
+Écrit dans un style adapté aux <span style="font-style: italic;">qallunaat</span>, il aide
+à comprendre le mécanisme de formation des mots,
+qui est en effet la base même de cette langue.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/Technocrats/fr/index.html">Consulter</a></small></p>
+
+
+<p style="text-align: justify;"></p>
+
+
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Dictionnaire
+"Inuktitut - A Multi-dialectal Outline Dictionary (with an
+Aivilingmiutaq base)" d'Alex Spalding</span></big></b>
+<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/Spalding/fr/spalding.shtml">Consulter</a></small>
+</p>
+
+
+<b><br>
+
+
+</b>
+<p style="text-align: justify;"><b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Corpus
+parallèle Inuktitut-Anglais</span></big></b>
+Avec
+l'aimable coopération de l'<a href="http://www.assembly.nu.ca/">Assemblée
+législative du Nunavut</a>, nous avons
+assemblé un corpus aligné des compte-rendu des
+délibérations de l'Assemblée
+législative du Nunavut. Dans
+ce corpus, on a mis en parallèle, quasiment au niveau de la
+phrase, le
+texte inuktitut et la version anglaise. Nous procédons
+actuellement à
+une mise à jour du corpus parallèle;&nbsp;la
+version produite en 2003 est
+actuellement disponible.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/NunavutHansard/fr/index.html">En lire plus</a></small></p>
+
+
+<p style="text-align: justify;">
+</p>
+
+
+<b><big><span style="text-decoration: underline overline; background-color: rgb(255, 255, 204);">Recherche
+dans les Hansard du Nunavut</span></big></b> Afin de
+démontrer l'utilité de ce corpus
+parallèle anglais-inuktitut,
+nous avons élaboré un mécanisme de
+recherche qui permet d'afficher à
+l'écran les textes correspondants anglais et inuktitut
+contenant un mot
+ou une partie de mot inuktitut ou anglais
+spécifié par
+l'utilisateur.<br>
+
+
+<small><a href="http://www.inuktitutcomputing.ca/cgi-bin/NewNunavutHansardSearch/hansearch.cgi?lang=f&amp;switch=1" style="font-weight:bold ; color:#FF0000 ; font-style:italic ; font-size:smaller">Exécuter</a></small>
+<div align="center"><img alt="" src="main_fr_fichiers/apache_pb.gif"></div>
+
+
+<!-- InstanceEndEditable -->
+
+
+
+</body><!-- InstanceEnd --></html>

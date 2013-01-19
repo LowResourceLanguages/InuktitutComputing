@@ -1,0 +1,302 @@
+body {
+	color:#4C5155;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:76%;
+	margin:0; padding:0;
+	/*background:#fff url(../img/tile-outside.gif);*/
+}
+
+h1, h2, h3, h4, h5, p, ul { margin:0; padding:0; }
+
+h1, h2 {
+	color:#795A24;
+	font-size:1.9em;
+	font-weight:normal;
+	margin-bottom:10px;
+}
+
+h2 {
+	font-size:1.5em;
+	font-weight:bold;
+	margin-top:15px;
+}
+
+a { color:#545A5E; text-decoration:none; }
+a:hover { color:#795A24; }
+
+p { margin-bottom:10px; }
+
+ul { margin-left:15px; }
+
+img { border:none; }
+
+form { margin:0; padding:0; }
+
+#container {
+	font-size:0.8em;
+	margin:0 auto;
+	width:955px;
+	border:1px solid #000;
+	background-color:#B2BCC6;
+}
+
+/* ---------------langue--------------- */
+#langue {
+	border-bottom:1px solid #FFF;
+	background-color:#B2BCC6;
+	width:100%;
+	overflow:hidden;
+	padding:0 0 3px 0;
+	margin-top:4px;
+}
+#langue ul li {
+	float:left;
+	list-style:none;
+	display:inline;
+	margin:0 7px 0 0;
+	padding:0 7px 0 0;
+	line-height:2;
+	border-right:1px solid #4C5155;
+}
+#langue ul li.premier { margin-left:25px; }
+#langue ul li.dernier, #langue ul li.droite { border-right:none; }
+
+#langue ul li.droite { float:right; }
+#langue ul li a, #langue ul li #boutons input { color:#E2EEF9; font-weight:bold; }
+#langue ul li a:hover{ color:#8D969E; }
+
+#langue ul li form { float:left; padding:0; margin:0; }
+#langue ul li input#recherche {
+	float:left;
+	width:150px; height:15px;
+	font-size:0.9em;
+	border:1px solid #000;
+}
+#langue ul li input#loupe { margin:2px 0 0 5px; padding:0; }
+#langue ul li input#loupe:hover { cursor:pointer; }
+
+#langue ul li.droite #bt_inuktitut {
+	float:left;
+	background:transparent url(../img/inuktitut/bt-langue.gif) 0px -18px no-repeat;
+	margin-top:5px;
+}
+#langue ul li.droite #bt_inuktitut a {
+	background:transparent url(../img/inuktitut/bt-langue.gif) left top no-repeat;
+	float:left;
+	width:36px;
+	height:9px;
+}
+#langue ul li.droite #bt_inuktitut a:hover { background-image:none; }
+
+/* ---------------entete--------------- */
+#entete { background-image:url(../img/tile-animaux.gif); padding:20px 0 0 0; }
+#entete #titre { margin-bottom:15px; padding-left:25px; }
+#entete #titre a { color:#795A24; font-size:2.9em; }
+#entete #liens {
+	padding:0 0 12px 22px;
+	border-left:3px solid #795A24;
+	border-bottom:1px solid #FFF;
+}
+#entete #liens a {
+	color:#E2EEF9;
+	font-size:1.1em;
+	font-weight:bold;
+}
+#entete #liens a:hover { color:#545A5E; }
+
+/* ---------------filariane--------------- */
+#filariane {
+	background-color:#B2BCC6;
+	border-left:3px solid #795A24;
+	border-bottom:1px solid #4C5155;
+	padding:5px 10px 5px 22px;
+}
+#filariane a { color:#fff; }
+#filariane a:hover { color:#795A24; }
+
+/* ---------------contenu--------------- */
+#contenu {
+	background:#fff url(../img/tile-lignes-bronzes.gif) left top repeat-y;
+	overflow:hidden;
+	width:100%;
+}
+#contenu #contenu_gauche, #contenu #contenu_droite, #contenu #contenu_centre { float:left; }
+
+#contenu #contenu_gauche {
+	display:inline;
+	width:200px;
+	margin:45px 0 0 10px;
+	padding-bottom:10px;
+}
+#contenu #contenu_gauche ul li {
+	margin-bottom:4px;
+	padding-left:10px;
+	list-style:none;
+	font-weight:normal;
+	background:url(../img/menu-puce-fermer-niveau1.gif) no-repeat 0 3px;
+}
+#contenu #contenu_gauche ul li.ouvert {
+	background:url(../img/menu-puce-ouverte-niveau1.gif) no-repeat 0 3px;
+}
+#contenu #contenu_gauche ul li.select { font-weight:bold; }
+#contenu #contenu_gauche ul li a { color:#000; }
+#contenu #contenu_gauche ul li a:hover { color:#795A24; }
+#contenu #contenu_gauche ul li ul { margin:4px 0 0 10px; padding:0; }
+#contenu #contenu_gauche ul li ul li {
+	font-weight:normal;
+	background:url(../img/menu-puce-fermer-niveau2.gif) no-repeat 0 3px;
+}
+
+#contenu #contenu_gauche ul li ul li.ouvert {
+	background:url(../img/menu-puce-ouverte-niveau2.gif) no-repeat 0 3px;
+}
+#contenu #contenu_gauche ul li ul li a { color:#545A5E; }
+#contenu #contenu_gauche ul li ul li ul li {
+	font-weight:normal;
+	background:url(../img/menu-puce-fermer-niveau3.gif) no-repeat 0 3px;
+}
+#contenu #contenu_gauche ul li ul li ul li a { color:#8D969E; }
+
+#contenu #contenu_centre {
+	width:104px;
+	padding-bottom:10px;
+	margin:0 20px;
+}
+#contenu #contenu_centre .enrobage {
+	padding-top:45px;
+	background:url(../img/tile-contenu-centre.gif) repeat-y center;
+}
+#contenu #contenu_centre p {
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#contenu #contenu_centre a img { border:2px solid #A6A8AA; }
+#contenu #contenu_centre a:hover img { border:2px solid #795A24; }
+#contenu #contenu_centre img { margin-top:60px; }
+
+#contenu #contenu_droite {
+	width:585px;
+	margin-top:5px;
+	padding-bottom:10px;
+	font-size:1.1em;
+}
+#contenu #contenu_droite #liens_pdf {
+	margin:10px 0 15px;
+	text-align:right;
+	font-size:0.9em;
+}
+#contenu #contenu_droite #liens_pdf a { color:#545A5E; font-weight:bold; }
+#contenu #contenu_droite #liens_pdf a:hover { color:#795A24; }
+
+#contenu #contenu_droite #liens_utils { width:100%; height:37px; }
+#contenu #contenu_droite .bt_camera, 
+#contenu #contenu_droite #bt_oeil, 
+#contenu #contenu_droite #bt_documents {
+	float:right;
+	background:transparent url(../img/boutons/bt-camera.gif) 0px -74px no-repeat;
+	width:37px; height:37px;
+	margin-left:10px;
+}
+#contenu #contenu_droite .bt_camera a, 
+#contenu #contenu_droite #bt_oeil a, 
+#contenu #contenu_droite #bt_documents a {
+	background:transparent url(../img/boutons/bt-camera.gif) left top no-repeat;
+	width:100%; height:100%;
+	float:right;
+}
+#contenu #contenu_droite .bt_camera a:hover, 
+#contenu #contenu_droite #bt_oeil a:hover, 
+#contenu #contenu_droite #bt_documents a:hover { background-image:none; }
+#contenu #contenu_droite #bt_oeil { background:transparent url(../img/boutons/bt-oeil.gif) 0px -74px no-repeat; }
+#contenu #contenu_droite #bt_oeil a { background:transparent url(../img/boutons/bt-oeil.gif) left top no-repeat; }
+#contenu #contenu_droite #bt_documents { background:transparent url(../img/boutons/bt-documents.gif) 0px -74px no-repeat; }
+#contenu #contenu_droite #bt_documents a { background:transparent url(../img/boutons/bt-documents.gif) left top no-repeat; }
+
+#contenu #contenu_droite h1 { position:relative; left:-50px; }
+
+#contenu #contenu_droite a { color:#795A24; text-decoration:underline; }
+#contenu #contenu_droite a:hover { color:#795A24; text-decoration:none; }
+
+#contenu #contenu_droite #navigation_chapitre {
+	padding-top:20px;
+	text-align:right;
+	font-size:0.9em;
+}
+#contenu #contenu_droite #navigation_chapitre #precedent {
+	margin-right:20px;
+	padding-left:10px;
+	background:url(../img/fleche-chapitre-precedent.gif) no-repeat 0 3px;
+}
+#contenu #contenu_droite #navigation_chapitre #suivant {
+	padding-right:12px;
+	background:url(../img/fleche-chapitre-suivant.gif) no-repeat right 3px;
+}
+#contenu #contenu_droite #navigation_chapitre a { color:#545A5E; }
+#contenu #contenu_droite #navigation_chapitre a:hover { color:#795A24; }
+
+#contenu #contenu_droite .soustitre .titre { font-weight:bold; color:#795A24; }
+#contenu #contenu_droite .soustitre .texte { margin:20px 0 20px 20px; }
+
+#contenu #vignettes { overflow:hidden; width:100%; margin:30px 0 20px 30px; }
+#contenu #vignettes #vignettes_gauche, 
+#contenu #vignettes #vignettes_centre, 
+#contenu #vignettes #vignettes_droite { float:left; width:320px; }
+#contenu #vignettes #vignettes_droite { width:240px; }
+#contenu #vignettes #vignettes_gauche div, 
+#contenu #vignettes #vignettes_centre div, 
+#contenu #vignettes #vignettes_droite div { overflow:hidden; width:100%; margin-bottom:10px; }
+#contenu #vignettes .premier { margin-left:-20px; font-weight:bold; }
+#contenu #vignettes .espacement { margin-top:30px; }
+#contenu #vignettes p { /*width:120px; */margin:0 50px 0 115px; }
+#contenu #vignettes #vignettes_droite p { margin:0 0 0 115px; }
+#contenu #vignettes a { color:#795A24; }
+#contenu #vignettes a img { float:left; margin-left:-95px; margin-right:10px; border:1px solid #795A24; }
+#contenu #vignettes a:hover { color:#A6A8AA; }
+#contenu #vignettes a:hover img { border:1px solid #A6A8AA; }
+
+/* ---------------footer--------------- */
+#footer { padding:5px 0 5px 25px; background-color:#B2BCC6; }
+#footer #gauche span { margin-left:20px;
+	font-size:1.1em; }
+#footer ul { float:right; }
+#footer ul li {
+	list-style:none;
+	float:left;
+	margin:0 7px 0 0;
+	padding:0 7px 0 0;
+	line-height:2;
+	border-right:1px solid #4C5155;
+}
+#footer ul li.dernier { border-right:none; }
+#footer ul li a { color:#E2EEF9; font-weight:bold; }
+#footer ul li a:hover { color:#8D969E; }
+
+/* ---------------formulaire d'inscription--------------- */
+.formulaire { margin-top:30px; }
+.formulaire label { float:left; display:block; width:130px; padding-right:20px; }
+.formulaire input, .formulaire textarea {
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:1em; 
+	margin-bottom:3px; padding-bottom:0; 
+	width:300px; 
+	border:1px solid #545A5E;
+}
+.formulaire textarea { height:150px; }
+.formulaire input.bouton { width:auto; margin:0 0 0 150px; background:#B2BCC6; }
+.formulaire .note { font-size:0.9em; width:300px; margin:0 0 15px 150px; }
+.formulaire #erreur, .formulaire #confirmation { margin-bottom:20px; color:#795A24; }
+.formulaire #erreur ul { margin-left:30px; }
+.formulaire .champInvalide { background-color:#B2BCC6; }
+.formulaire .champValide { background-color:#fff; }
+
+/* ----------------------font inuit---------------------- */
+.prosyl { font-family:PROSYL, Verdana, Arial, Helvetica, sans-serif; }
+.naamajut { font-family:Naamajut, Verdana, Arial, Helvetica, sans-serif; }
+.nunacom { font-family:nunacom, Verdana, Arial, Helvetica, sans-serif; }
+.nunacomu { font-family:NunacomU, Verdana, Arial, Helvetica, sans-serif; }
+.pigiarniq_regular { font-family:Pigiarniq Regular, Verdana, Arial, Helvetica, sans-serif; }
+.pigiarniq_bold { font-family:Pigiarniq Bold, Verdana, Arial, Helvetica, sans-serif; }
+.pigiarniq_heavy { font-family:Pigiarniq Heavy, Verdana, Arial, Helvetica, sans-serif; }
+.pigiarniq_italic { font-family:Pigiarniq Italic, Verdana, Arial, Helvetica, sans-serif; }
+.pigiarniq_light { font-family:Pigiarniq Light, Verdana, Arial, Helvetica, sans-serif; }

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns="http://logging.apache.org/log4php/">
+    <appender name="indexer" class="LoggerAppenderConsole">
+    	<layout class="LoggerLayoutPattern">
+    		<param name="conversionPattern" value="%p> %m%n" />
+    	</layout>
+    </appender>
+    <appender name="C" class="LoggerAppenderConsole">
+    	<layout class="LoggerLayoutPattern">
+    		<param name="conversionPattern" value="%p> %d{Y-m-d H:i:s-05:00} [%c] - %m%n" />
+    	</layout>
+    </appender>
+    <appender name="R" class="LoggerAppenderFile">
+    	<layout class="LoggerLayoutPattern">
+    		<param name="conversionPattern" value="%p> %d{Y-m-d H:i:s-05:00} [%c] - %m%n" />
+    	</layout>
+    	<param name="file" value="Inuktitut-PHP.log" />
+    	<param name="append" value="true" />
+    </appender>
+    
+	<logger name="LinguaENParticiple.stem"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.makeMeaningsForTransitiveVerbsForSense"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.makeMeaningsForIntransitiveVerbsForSense"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale._makeTransPassRefl_for_one_verb_sense"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.processTransitiveVerbMeaning"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.replaceWithPersPron_FR"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale._makeVerbMeanings"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.toTransitive_FR"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.prepareSenseForTransformation_FR"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.prepareSenseForTransformation_EN"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	
+	<logger name="RacineVerbale.toPassive"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.makeVerbFormPassive"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="RacineVerbale.removeTO"> <appender_ref ref="C" /> <level value="off" /> </logger>
+
+
+	<!-- LinguisticObjects -->
+	<logger name="LinguisticObjects.getObject"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>	
+	<logger name="LinguisticObjects.faireObjetLinguistique"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>	
+		
+		
+	<logger name="RacineVerbale.toReflexive"> <appender_ref ref="C" /> <level value="off" /> </logger>	
+	<logger name="RacineVerbale.replaceObjectInReflexivePart"> <appender_ref ref="C" /> <level value="off" /> </logger>	
+	
+	<logger name="getAllTransitiveVerbs"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	<logger name="test"> <appender_ref ref="C" /> <level value="off" /> </logger>
+	
+	
+	<!-- linguisticdata -->
+	<logger name="DataModel_CSV.new"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="DataModel_CSV.get_attributes_values_iterator"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="Data_Iterator.current"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="Data_Iterator.next"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="DataModel_CSV.extract_tablename_from_filename"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	
+	
+	<!-- bin -->
+
+	<logger name="makeIndex"> <appender_ref ref="indexer" />
+		<level value="info" /> </logger>
+	<logger name="Indexer.info._index_one_indivudual_file"> <appender_ref ref="indexer" />
+		<level value="info" /> </logger>
+
+
+	<!-- NunHanSearch -->
+	
+	<logger name="ProcessQuery.run"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="ProcessQuery.get_all_matching_alignments_from_td"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="ProcessQuery._grep"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="Alignment.highlight"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="ProcessQuery.print_results"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="Alignment.to_html_string"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="ProcessQuery.getDistributionOfOneWord"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="ProcessQuery.getDistribution"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="Grepper.run"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	<logger name="Grepper.escapeChars"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	
+	<!-- MorphologicalAnalyzer -->
+	
+	<logger name="MorphologicalAnalyzer.run"> <appender_ref ref="R" /> 
+		<level value="off" /> </logger>
+	
+	<!-- Indexer -->
+	
+	<logger name="Indexer._index_one_individual_file"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="Indexer._index_all_individual_files"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="Indexer.index_all_files"> <appender_ref ref="C" /> 
+		<level value="off" /> </logger>
+	<logger name="Indexer._do_index_this_file"> <appender_ref ref="C" /> 
+		<level value="debug" /> </logger>
+	<logger name="Indexer._merge_all_individual_index_files"> <appender_ref ref="C" /> 
+		<level value="debug" /> </logger>
+	
+	
+</configuration>

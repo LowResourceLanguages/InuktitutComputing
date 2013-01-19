@@ -1,0 +1,218 @@
+/* cond.jj Conditions for Inuktitut Morphological Analyser */
+options {
+    STATIC = false ;
+}
+
+PARSER_BEGIN(Imacond)
+
+package constraints;
+import java.io.ByteArrayInputStream;
+import java.util.Vector;
+
+    public class Imacond {
+	static public void main( String[] args )
+	    throws ParseException, TokenMgrError {
+	    ByteArrayInputStream bais = new ByteArrayInputStream(args[0].getBytes());
+	    Imacond parser = new Imacond( bais ) ;
+	    parser.ParseCondition() ; 
+	}
+    
+       public Imacond(String str) {
+       this(new ByteArrayInputStream(str.getBytes()));
+   	   }
+    }
+
+PARSER_END(Imacond)
+
+SKIP : { "\n" | "\r" | "\r\n" }
+TOKEN : { < BAR : "/" > }
+TOKEN : { < COLON : ":" > }
+TOKEN : { < PLUS : "+" > }
+TOKEN : { < NEG : "!" > }
+TOKEN : { < OPENPAR : "(" > }
+TOKEN : { < CLOSEPAR : ")" > }
+TOKEN : { < COMMA : "," > }
+TOKEN : { < SPACE : " " > }
+TOKEN : { < CP : "cp" > }
+TOKEN : { < CF : "cf" > }
+TOKEN : { < IDENT : (["a"-"z","A"-"Z","0"-"9","-","'","&"])+ > }
+
+
+
+    /*
+     * Syntaxe:
+     * 
+     * <condMorphMult> ::= <condMorph> ("+" <condMorphMult>)*
+     * <condMorph> ::= <condset> (" " <condMorph>)*
+     * <condset> ::= <cond> ("," <condset>)*
+     * <cond> ::= "!"? ( "(" <condMorph> ")" | <attrvalpair> | <condid> )
+     * <attrvalpair> ::= <attr> ":" <val> 
+     *      "!" indique que la valeur de l'attribut n'est pas égale à 'val'.
+     * <condid> ::= ["cp" | "cf"] "(" <morphid> ")"
+     *
+    */
+
+Condition ParseCondition() :
+{
+Condition cond;
+}
+{
+	cond = CondMorphMult()
+	<EOF>
+	{ return cond; }
+}
+
+Condition CondMorphMult() :
+{
+	Condition c1,c2;
+	Vector cs = new Vector();
+}
+{
+	c1 = CondMorph()
+	{ cs.add(c1); }
+	(
+	<PLUS>
+	c2 = CondMorphMult()
+	{ cs.add(c2); }
+	)*
+	{
+	if (cs.size()==1)
+		return c1;
+	else
+		return new Condition.OverSeveralMorphemes(cs);
+	}
+}
+
+Condition CondMorph() :
+{
+	String s1,s2,res;
+	Condition c1,c2;
+	Vector cs = new Vector();
+}
+{
+	c1 = Condset()
+	{ cs.add(c1); }
+	(
+	<SPACE>
+	c2 = CondMorph()
+	{ cs.add(c2); }
+	)*
+	{
+	if (cs.size()==1)
+		return c1;
+	else
+		return new Condition.Or(cs);
+	}
+}
+
+Condition Condset() :
+{
+	Condition c1,c2;
+	Vector cs = new Vector();
+}
+{
+	c1 = Cond()
+	{ cs.add(c1); }
+	(
+	<COMMA>
+	c2 = Condset()
+	{ cs.add(c2); }
+	)*
+	{ if (cs.size()==1)
+		return c1;
+	  else
+	  	return new Condition.And(cs);
+	}
+}
+
+Condition Cond() :
+{
+boolean neg = false;
+String res,s;
+Token sc;
+Condition cond;
+}
+{
+	(
+	<NEG>
+	{ neg = true; }
+	)?
+	
+	(
+	(
+	<OPENPAR>
+	cond = CondMorph()
+	<CLOSEPAR>
+	{ if (neg) cond.truth = false;
+	}
+	)
+	
+	|
+	
+	(
+	cond = AttrValPair()
+	{ if (neg) cond.truth = false;
+	}
+	)
+	
+	|
+	
+	(
+	(sc = <CP> | sc = <CF>)
+	<OPENPAR>
+	s = Morphid()
+	<CLOSEPAR>
+	{ cond = new Condition.Cid(sc.image,s);
+	  if (neg) cond.truth = false;
+	}
+	)
+	)
+	{ return cond; }
+}	
+
+Condition AttrValPair() :
+{
+String res = "";
+String val;
+Token t;
+}
+{
+	t = <IDENT>
+	{ res = res + t.image; }
+	<COLON>
+	val = Value()
+	{
+		res = res + ":" + val;
+		return new AttrValCond(res);
+	}
+}
+
+String Value() :
+{
+String res = "";
+Token t = null;
+}
+{
+	t = <IDENT>
+	{ res = t.image; }
+	(
+	t = <BAR>
+	{ res = res + t.image; }
+	t = <IDENT>
+	{ res = res + t.image; }
+	)?
+	{ return res; }
+}
+
+String Morphid() :
+{
+Token t1,t2;
+}
+{
+	<IDENT> <COLON>
+	t1 = <IDENT> 
+	<BAR>
+	t2 = <IDENT>
+	{ return "id:"+t1.image+"/"+t2.image; }
+}
+

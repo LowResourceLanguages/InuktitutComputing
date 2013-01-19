@@ -1,0 +1,730 @@
+junga;tv;ger;nsp;1;s;;;junga;x;n;;"junga tunga";x;n;;tunga;x;n;;tunga;x;n;;;?
+jutit;tv;ger;nsp;2;s;;;jutit;x;n;;tutit;x;n;;tutit;x;n;;tutit;x;n;;;?
+juq;tv;ger;nsp;3;s;;;juq;x;n;;tuq;x;n;;tuq;x;n;;tuq;x;n;;;?
+juguk;tv;ger;nsp;1;d;;;juguk;x;n;;tuguk;x;n;;tuguk;x;n;;tuguk;x;n;;;?
+jusik;tv;ger;nsp;2;d;;;"jusik jutik";x;n;;"tusik tutik";x;n;;"tusik tutik";x;n;;"tusik tutik";x;n;;;?
+juuk;tv;ger;nsp;3;d;;;"juuk juk";x;n;;"tuuk tuk";x;n;;"tuuk tuk";x;n;;"tuuk tuk";x;n;;;?
+jugut;tv;ger;nsp;1;p;;;jugut;x;n;;tugut;x;n;;tugut;x;n;;tugut;x;n;;;?
+jusi;tv;ger;nsp;2;p;;;jusi;x;n;;tusi;x;n;;tusi;x;n;;tusi;x;n;;;?
+jut;tv;ger;nsp;3;p;;;jut;x;n;;tut;x;n;;tut;x;n;;tut;x;n;;;?
+vunga;tv;dec;nsp;1;s;;;vunga;x;n;;punga;x;a;;punga;x;n;;"punga qunga";x;"n son";;;?
+vutit;tv;dec;nsp;2;s;;;vutit;x;n;;putit;x;a;;putit;x;n;;"putit qutit";x;"n son";;;?
+vuq;tv;dec;nsp;3;s;;;vuq;x;n;;puq;x;a;;puq;x;n;;"puq quq";x;"n son";;;?
+vuguk;tv;dec;nsp;1;d;;;vuguk;x;n;;puguk;x;a;;puguk;x;n;;"puguk quguk";x;"n son";;;?
+vusik;tv;dec;nsp;2;d;;;"vusik vutik";x;n;;"pusik putik";x;a;;"pusik putik";x;n;;"pusik qusik putik qutik";x;"n son n son";;;?
+vuuk;tv;dec;nsp;3;d;;;"vuuk vuk";x;n;;"puuk puk";x;a;;"puuk puk";x;n;;"puuk quuk puk quk";x;"n son n son";;;?
+vugut;tv;dec;nsp;1;p;;;vugut;x;n;;pugut;x;a;;pugut;x;n;;"pugut qugut";x;"n son";;;?
+vusi;tv;dec;nsp;2;p;;;vusi;x;n;;pusi;x;a;;pusi;x;n;;"pusi qusi";x;"n son";;;?
+vut;tv;dec;nsp;3;p;;;vut;x;n;;put;x;a;;put;x;n;;"put qut";x;"n son";;;?
+langa;tv;dec;nsp;1;s;;;langa;x;n;;langa;x;s;;langa;x;s;;langa;x;s;;id:nngit/1vv;?
+latit;tv;dec;nsp;2;s;;;latit;x;n;;latit;x;s;;latit;x;s;;latit;x;s;;id:nngit/1vv;?
+laq;tv;dec;nsp;3;s;;;laq;x;n;;laq;x;s;;laq;x;s;;laq;x;s;;id:nngit/1vv;?
+laguk;tv;dec;nsp;1;d;;;laguk;x;n;;laguk;x;s;;laguk;x;s;;laguk;x;s;;id:nngit/1vv;?
+lasik;tv;dec;nsp;2;d;;;"lasik latik";x;n;;"lasik latik";x;s;;"lasik latik";x;s;;"lasik latik";x;s;;id:nngit/1vv;?
+lak;tv;dec;nsp;3;d;;;lak;x;n;;lak;x;s;;lak;x;s;;lak;x;s;;id:nngit/1vv;?
+lagut;tv;dec;nsp;1;p;;;lagut;x;n;;lagut;x;s;;lagut;x;s;;lagut;x;s;;id:nngit/1vv;?
+lasi;tv;dec;nsp;2;p;;;lasi;x;n;;lasi;x;s;;lasi;x;s;;lasi;x;s;;id:nngit/1vv;?
+lat;tv;dec;nsp;3;p;;;lat;x;n;;lat;x;s;;lat;x;s;;lat;x;s;;id:nngit/1vv;?
+vunga;tv;int;nsp;1;s;;;vunga;x;n;;punga;x;a;;punga;x;n;;"punga qunga";x;"n son";;;?
+vit;tv;int;nsp;2;s;;;vit;x;n;;pit;x;a;;pit;x;n;;"pit qit";x;"n son";;;?
+va;tv;int;nsp;3;s;;;va;x;n;;pa;x;a;;pa;x;n;;"pa qa";x;"n son";;;?
+vinuk;tv;int;nsp;1;d;;;vinuk;x;n;;pinuk;x;a;;pinuk;x;n;;"pinuk qinuk";x;"n son";;;?
+visik;tv;int;nsp;2;d;;;"visik vitik";x;n;;"pisik pitik";x;a;;"pisik pitik";x;n;;"pisik qisik pitik qitik";x;"n son n son";;;?
+vak;tv;int;nsp;3;d;;;vak;x;n;;pak;x;a;;pak;x;n;;"pak qak";x;"n son";;;?
+vita;tv;int;nsp;1;p;;;vita;x;n;;pita;x;a;;pita;x;n;;"pita qita";x;"n son";;;?
+visi;tv;int;nsp;2;p;;;visi;x;n;;pisi;x;a;;pisi;x;n;;"pisi qisi";x;"n son";;;?
+vat;tv;int;nsp;3;p;;;vat;x;n;;pat;x;a;;pat;x;n;;"pat qat";x;"n son";;;?
+langa;tv;int;nsp;1;s;;;langa;x;n;;langa;x;s;;langa;x;s;;langa;x;s;;id:nngit/1vv;?
+latit;tv;int;nsp;2;s;;;latit;x;n;;latit;x;s;;latit;x;s;;latit;x;s;;id:nngit/1vv;?
+laq;tv;int;nsp;3;s;;;laq;x;n;;laq;x;s;;laq;x;s;;laq;x;s;;id:nngit/1vv;?
+laguk;tv;int;nsp;1;d;;;laguk;x;n;;laguk;x;s;;laguk;x;s;;laguk;x;s;;id:nngit/1vv;?
+lasik;tv;int;nsp;2;d;;;"lasik latik";x;n;;"lasik latik";x;s;;"lasik latik";x;s;;"lasik latik";x;s;;id:nngit/1vv;?
+lak;tv;int;nsp;3;d;;;lak;x;n;;lak;x;s;;lak;x;s;;lak;x;s;;id:nngit/1vv;?
+lagut;tv;int;nsp;1;p;;;lagut;x;n;;lagut;x;s;;lagut;x;s;;lagut;x;s;;id:nngit/1vv;?
+lasi;tv;int;nsp;2;p;;;lasi;x;n;;lasi;x;s;;lasi;x;s;;lasi;x;s;;id:nngit/1vv;?
+lat;tv;int;nsp;3;p;;;lat;x;n;;lat;x;s;;lat;x;s;;lat;x;s;;id:nngit/1vv;?
+vinga;tv;int;sp;2;s;1;s;vinga;x;n;;pinga;x;a;;pinga;x;n;;pinga;x;n;;;?
+vaanga;tv;int;sp;3;s;1;s;vaanga;x;n;;paanga;x;a;;paanga;x;n;;paanga;x;n;;;?
+vagit;tv;int;sp;1;s;2;s;vagit;x;n;;pagit;x;a;;pagit;x;n;;pagit;x;n;;;?
+vaatit;tv;int;sp;3;s;2;s;vaatit;x;n;;paatit;x;a;;paatit;x;n;;paatit;x;n;;;?
+vigu;tv;int;sp;1;s;3;s;vigu;x;n;;pigu;x;a;;pigu;x;n;;pigu;x;n;;;?
+viuk;tv;int;sp;2;s;3;s;viuk;x;n;;piuk;x;a;;piuk;x;n;;piuk;x;n;;;?
+vauk;tv;int;sp;3;s;3;s;vauk;x;n;;pauk;x;a;;pauk;x;n;;pauk;x;n;;;?
+langa;tv;int;sp;2;s;1;s;langa;x;n;;langa;x;s;;langa;x;s;;langa;x;s;;id:nngit/1vv;?
+laanga;tv;int;sp;3;s;1;s;laanga;x;n;;laanga;x;s;;laanga;x;s;;laanga;x;s;;id:nngit/1vv;?
+lagit;tv;int;sp;1;s;2;s;lagit;x;n;;lagit;x;s;;lagit;x;s;;lagit;x;s;;id:nngit/1vv;?
+laatit;tv;int;sp;3;s;2;s;laatit;x;n;;laatit;x;s;;laatit;x;s;;laatit;x;s;;id:nngit/1vv;?
+lagu;tv;int;sp;1;s;3;s;lagu;x;n;;lagu;x;s;;lagu;x;s;;lagu;x;s;;id:nngit/1vv;?
+liuk;tv;int;sp;2;s;3;s;liuk;x;n;;liuk;x;s;;liuk;x;s;;liuk;x;s;;id:nngit/1vv;?
+lauk;tv;int;sp;3;s;3;s;lauk;x;n;;lauk;x;s;;lauk;x;s;;lauk;x;s;;id:nngit/1vv;?
+langa;tv;imp;nsp;1;s;;;langa;x;n;;langa;x;son;;langa;x;son;;langa;x;son;;;?
+git;tv;imp;nsp;2;s;;;git;x;n;;"tit git";x;"n s";;git;x;fus;;rit;x;fus;;;?
+li;tv;imp;nsp;3;s;;;li;x;n;;li;x;son;;li;x;son;;li;x;son;;;?
+luk;tv;imp;nsp;1;d;;;luk;x;n;;luk;x;son;;luk;x;son;;luk;x;son;;;?
+gissik;tv;imp;nsp;2;d;;;"gissik gittik";x;n;;"tissik gissik tittik gittik";x;"n s n s";;"gissik gittik";x;fus;;"rissik rittik";x;fus;;;?
+lik;tv;imp;nsp;3;d;;;lik;x;n;;lik;x;son;;lik;x;son;;lik;x;son;;;?
+ta;tv;imp;nsp;1;p;;;ta;x;"n i(p) i(t)";;ta;x;n;;ta;x;"n a";;ta;x;n;;;?
+gipsi;tv;imp;nsp;2;p;;;"gipsi gitsi";x;n;;"tipsi titsi gipsi gitsi";x;"n n s s";;"gipsi gitsi";x;fus;;"ripsi ritsi";x;fus;;;?
+lit;tv;imp;nsp;3;p;;;lit;x;n;;lit;x;son;;lit;x;son;;lit;x;son;;;?
+vungaa;tv;int;nsp;1;s;;;vungaa;x;n;;pungaa;x;a;;pungaa;x;n;;"pungaa qungaa";x;"n son";;;?
+viit;tv;int;nsp;2;s;;;viit;x;n;;piit;x;a;;piit;x;n;;"piit qiit";x;"n son";;;?
+vaa;tv;int;nsp;3;s;;;vaa;x;n;;paa;x;a;;paa;x;n;;"paa qaa";x;"n son";;;?
+vinuuk;tv;int;nsp;1;d;;;vinuuk;x;n;;pinuuk;x;a;;pinuuk;x;n;;"pinuuk qinuuk";x;"n son";;;?
+visiik;tv;int;nsp;2;d;;;"visiik vitiik";x;n;;"pisiik pitiik";x;a;;"pisiik pitiik";x;n;;"pisiik qisiik pitiik qitiik";x;"n son n son";;;?
+vaak;tv;int;nsp;3;d;;;vaak;x;n;;paak;x;a;;paak;x;n;;"paak qaak";x;"n son";;;?
+vitaa;tv;int;nsp;1;p;;;vitaa;x;n;;pitaa;x;a;;pitaa;x;n;;"pitaa qitaa";x;"n son";;;?
+visii;tv;int;nsp;2;p;;;visii;x;n;;pisii;x;a;;pisii;x;n;;"pisii qisii";x;"n son";;;?
+vaat;tv;int;nsp;3;p;;;vaat;x;n;;paat;x;a;;paat;x;n;;"paat qaat";x;"n son";;;?
+varma;tv;dec;sp;2;s;1;s;varma;x;n;;parma;x;a;;parma;x;n;;"parma qarma";x;"n son";;;?
+vaanga;tv;dec;sp;3;s;1;s;vaanga;x;n;;paanga;x;a;;paanga;x;n;;"paanga qaanga";x;"n son";;;?
+vagit;tv;dec;sp;1;s;2;s;vagit;x;n;;pagit;x;a;;pagit;x;n;;"pagit qagit";x;"n son";;;?
+vaatit;tv;dec;sp;3;s;2;s;vaatit;x;n;;paatit;x;a;;paatit;x;n;;"paatit qaatit";x;"n son";;;?
+vara;tv;dec;sp;1;s;3;s;vara;x;n;;para;x;a;;para;x;n;;"para qara";x;"n son";;;?
+vait;tv;dec;sp;2;s;3;s;vait;x;n;;pait;x;a;;pait;x;n;;"pait qait";x;"n son";;;?
+vanga;tv;dec;sp;3;s;3;s;"vanga vaa";x;n;;"panga paa";x;a;;"panga paa";x;n;;"panga paa qanga qaa";x;"n n son son";;;?
+vattiguk;tv;dec;sp;2;s;1;d;"vattiguk vattikkuk";x;n;;"pattiguk pattikkuk";x;a;;"pattiguk pattikkuk";x;n;;"pattiguk pattikkuk qattiguk qattikkuk";x;"n n son son";;;?
+vaatiguk;tv;dec;sp;3;s;1;d;"vaatiguk vaatikkuk";x;n;;"paatiguk paatikkuk";x;a;;"paatiguk paatikkuk";x;n;;"paatiguk paatikkuk qaatiguk qaatikkuk";x;"n n son son";;;?
+vassik;tv;dec;sp;1;s;2;d;vassik;x;n;;passik;x;a;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaasik;tv;dec;sp;3;s;2;d;"vaasik vaatik";x;n;;"paasik paatik";x;a;;"paasik paatik";x;n;;"paasik paatik qaasik qaatik";x;"n n son son";;;?
+vaakka;tv;dec;sp;1;s;3;d;vaakka;x;n;;paakka;x;a;;paakka;x;n;;"paakka qaakka";x;"n son";;;?
+vaakkik;tv;dec;sp;2;s;3;d;vaakkik;x;n;;paakkik;x;a;;paakkik;x;n;;"paakkik qaakkik";x;"n son";;;?
+vaangik;tv;dec;sp;3;s;3;d;vaangik;x;n;;paangik;x;a;;paangik;x;n;;"paangik qaangik";x;"n son";;;?
+vattigut;tv;dec;sp;2;s;1;p;"vattigut vaptigut";x;n;;"pattigut paptigut";x;a;;"pattigut paptigut";x;n;;"pattigut paptigut qattigut qaptigut";x;"n n son son";;;?
+vaatigut;tv;dec;sp;3;s;1;p;vaatigut;x;n;;paatigut;x;a;;paatigut;x;n;;"paatigut qaatigut";x;"n son";;;?
+vassi;tv;dec;sp;1;s;2;p;"vassi vatsi";x;n;;"passi patsi";x;a;;"passi patsi";x;n;;"passi qassi patsi qatsi";x;"n son n son";;;?
+vaasi;tv;dec;sp;3;s;2;p;vaasi;x;n;;paasi;x;a;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vakka;tv;dec;sp;1;s;3;p;vakka;x;n;;pakka;x;a;;pakka;x;n;;"pakka qakka";x;"n son";;;?
+vatit;tv;dec;sp;2;s;3;p;vatit;x;n;;patit;x;a;;patit;x;n;;"patit qatit";x;"n son";;;?
+vangit;tv;dec;sp;3;s;3;p;"vangit vait";x;n;;"pangit pait";x;a;;"pangit pait";x;n;;"pangit pait qangit qait";x;"n n son son";;;?
+gama;tv;caus;nsp;1;s;;;gama;x;n;;nama;x;a;;kama;x;n;;rama;x;fus;;;?
+gavit;tv;caus;nsp;2;s;;;gavit;x;n;;navit;x;a;;kavit;x;n;;ravit;x;fus;;;?
+gami;tv;caus;nsp;3;s;;;gami;x;n;;nami;x;a;;kami;x;n;;rami;x;fus;;;?
+mat;tv;caus;nsp;4;s;;;mat;x;"i(ng) i(m)";;mat;x;a;;mat;x;nas;;mat;x;nas;;;?
+gannuk;tv;caus;nsp;1;d;;;gannuk;x;n;;nannuk;x;a;;kannuk;x;n;;rannuk;x;fus;;;?
+gassik;tv;caus;nsp;2;d;;;"gassik gapsik gatsik";x;n;;"nassik napsik natsik";x;a;;"kassik kapsik katsik";x;n;;"rassik rapsik ratsik";x;fus;;;?
+gamik;tv;caus;nsp;3;d;;;gamik;x;n;;namik;x;a;;kamik;x;n;;ramik;x;fus;;;?
+matik;tv;caus;nsp;4;d;;;matik;x;"i(ng) i(m)";;matik;x;a;;matik;x;nas;;matik;x;nas;;;?
+gatta;tv;caus;nsp;1;p;;;"gatta gapta";x;n;;"natta napta";x;a;;"katta kapta";x;n;;"ratta rapta";x;fus;;;?
+gassi;tv;caus;nsp;2;p;;;"gassi gapsi gatsi";x;n;;"nassi napsi natsi";x;a;;"kassi kapsi katsi";x;n;;"rassi rapsi ratsi";x;fus;;;?
+gamik;tv;caus;nsp;3;p;;;gamik;x;n;;namik;x;a;;kamik;x;n;;ramik;x;fus;;;?
+mata;tv;caus;nsp;4;p;;;mata;x;"i(ng) i(m)";;mata;x;a;;mata;x;nas;;mata;x;nas;;;?
+guma;tv;cond;nsp;1;s;;;guma;x;n;;kuma;x;a;;kuma;x;n;;ruma;x;fus;;;?
+guvit;tv;cond;nsp;2;s;;;guvit;x;n;;kuvit;x;a;;kuvit;x;n;;ruvit;x;fus;;;?
+guni;tv;cond;nsp;3;s;;;guni;x;n;;kuni;x;a;;kuni;x;n;;runi;x;fus;;;?
+pat;tv;cond;nsp;4;s;;;pat;x;"i(k) i(p)";;pat;x;a;;pat;x;n;;pat;x;n;;;?
+gunnuk;tv;cond;nsp;1;d;;;gunnuk;x;n;;kunnuk;x;a;;kunnuk;x;n;;runnuk;x;fus;;;?
+gussik;tv;cond;nsp;2;d;;;"gussik gupsik gutsik";x;n;;"kussik kupsik kutsik";x;a;;"kussik kupsik kutsik";x;n;;"russik rupsik rutsik";x;fus;;;?
+gunik;tv;cond;nsp;3;d;;;gunik;x;n;;kunik;x;a;;kunik;x;n;;runik;x;fus;;;?
+patik;tv;cond;nsp;4;d;;;patik;x;"i(k) i(p)";;patik;x;a;;patik;x;n;;patik;x;n;;;?
+gutta;tv;cond;nsp;1;p;;;"gutta gupta";x;n;;"kutta kupta";x;a;;"kutta kupta";x;n;;"rutta rupta";x;fus;;;?
+gussi;tv;cond;nsp;2;p;;;"gussi gupsi gutsi";x;n;;"kussi kupsi kutsi";x;a;;"kussi kupsi kutsi";x;n;;"russi rupsi rutsi";x;fus;;;?
+gunik;tv;cond;nsp;3;p;;;gunik;x;n;;kunik;x;a;;kunik;x;n;;runik;x;fus;;;?
+pata;tv;cond;nsp;4;p;;;pata;x;"i(k) i(p)";;pata;x;a;;pata;x;n;;pata;x;n;;;?
+vaattinga;tv;dec;sp;2;d;1;s;vaattinga;x;n;;paattinga;x;a;;paattinga;x;n;;"paattinga qaattinga";x;"n son";;;?
+vaanga;tv;dec;sp;3;d;1;s;vaanga;x;n;;paanga;x;a;;paanga;x;n;;"paanga qaanga";x;"n son";;;?
+vattigik;tv;dec;sp;1;d;2;s;vattigik;x;n;;pattigik;x;a;;pattigik;x;n;;"pattigik qattigik";x;"n son";;;?
+vaatit;tv;dec;sp;3;d;2;s;vaatit;x;n;;paatit;x;a;;paatit;x;n;;"paatit qaatit";x;"n son";;;?
+vavuk;tv;dec;sp;1;d;3;s;vavuk;x;n;;pavuk;x;a;;pavuk;x;n;;"pavuk qavuk";x;"n son";;;?
+vasik;tv;dec;sp;2;d;3;s;"vasik vatik";x;n;;"pasik patik";x;a;;"pasik patik";x;n;;"pasik patik qasik qatik";x;"n n son son";;;?
+vangak;tv;dec;sp;3;d;3;s;vangak;x;n;;pangak;x;a;;pangak;x;n;;"pangak qangak";x;"n son";;;?
+vaattiguk;tv;dec;sp;2;d;1;d;vaattiguk;x;n;;paattiguk;x;a;;paattiguk;x;n;;"paattiguk qaattiguk";x;"n son";;;?
+vaatiguk;tv;dec;sp;3;d;1;d;vaatiguk;x;n;;paatiguk;x;a;;paatiguk;x;n;;"paatiguk qaatiguk";x;"n son";;;?
+vassik;tv;dec;sp;1;d;2;d;vassik;x;n;;passik;x;a;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaatik;tv;dec;sp;3;d;2;d;vaatik;x;n;;paatik;x;a;;paatik;x;n;;"paatik qaatik";x;"n son";;;?
+vaavuk;tv;dec;sp;1;d;3;d;vaavuk;x;n;;paavuk;x;a;;paavuk;x;n;;"paavuk qaavuk";x;"n son";;;?
+vaassik;tv;dec;sp;2;d;3;d;"vaassik vaattik";x;n;;"paassik paattik";x;a;;"paassik paattik";x;n;;"paassik paattik qaassik qaattik";x;"n n son son";;;?
+vaangik;tv;dec;sp;3;d;3;d;vaangik;x;n;;paangik;x;a;;paangik;x;n;;"paangik qaangik";x;"n son";;;?
+vaattigut;tv;dec;sp;2;d;1;p;vaattigut;x;n;;paattigut;x;a;;paattigut;x;n;;"paattigut qaattigut";x;"n son";;;?
+vaatigut;tv;dec;sp;3;d;1;p;vaatigut;x;n;;paatigut;x;a;;paatigut;x;n;;"paatigut qaatigut";x;"n son";;;?
+vassi;tv;dec;sp;1;d;2;p;vassi;x;n;;passi;x;a;;passi;x;n;;"passi qassi";x;"n son";;;?
+vaasi;tv;dec;sp;3;d;2;p;vaasi;x;n;;paasi;x;a;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vavuk;tv;dec;sp;1;d;3;p;vavuk;x;n;;pavuk;x;a;;pavuk;x;n;;"pavuk qavuk";x;"n son";;;?
+vasik;tv;dec;sp;2;d;3;p;"vasik vatik";x;n;;"pasik patik";x;a;;"pasik patik";x;n;;"pasik patik qasik qatik";x;"n n son son";;;?
+vangik;tv;dec;sp;3;d;3;p;vangik;x;n;;pangik;x;a;;pangik;x;n;;"pangik qangik";x;"n son";;;?
+vassinga;tv;dec;sp;2;p;1;s;"vassinga vapsinga vatsinga";x;n;;"passinga papsinga patsinga";x;a;;"passinga papsinga patsinga";x;n;;"passinga papsinga patsinga qassinga qapsinga qatsinga";x;"n n n son son son";;;?
+vaanga;tv;dec;sp;3;p;1;s;vaanga;x;n;;paanga;x;a;;paanga;x;n;;"paanga qaanga";x;"n son";;;?
+vattigit;tv;dec;sp;1;p;2;s;"vattigit vaptigit";x;n;;"pattigit paptigit";x;a;;"pattigit paptigit";x;n;;"pattigit paptigit qattigit qaptigit";x;"n n son son";;;?
+vaatit;tv;dec;sp;3;p;2;s;vaatit;x;n;;paatit;x;a;;paatit;x;n;;"paatit qaatit";x;"n son";;;?
+vavut;tv;dec;sp;1;p;3;s;vavut;x;n;;pavut;x;a;;pavut;x;n;;"pavut qavut";x;"n son";;;?
+vasi;tv;dec;sp;2;p;3;s;vasi;x;n;;pasi;x;a;;pasi;x;n;;"pasi qasi";x;"n son";;;?
+vangat;tv;dec;sp;3;p;3;s;"vangat vaat";x;n;;"pangat paat";x;a;;"pangat paat";x;n;;"pangat paat qangat qaat";x;"n n son son";;;?
+vattiguk;tv;dec;sp;2;p;1;d;vattiguk;x;n;;pattiguk;x;a;;pattiguk;x;n;;"pattiguk qattiguk";x;"n son";;;?
+vaatiguk;tv;dec;sp;3;p;1;d;vaatiguk;x;n;;paatiguk;x;a;;paatiguk;x;n;;"paatiguk qaatiguk";x;"n son";;;?
+vassik;tv;dec;sp;1;p;2;d;vassik;x;n;;passik;x;a;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaasik;tv;dec;sp;3;p;2;d;"vaasik vaatik";x;n;;"paasik paatik";x;a;;"paasik paatik";x;n;;"paasik paatik qaasik qaatik";x;"n n son son";;;?
+vaavut;tv;dec;sp;1;p;3;d;vaavut;x;n;;paavut;x;a;;paavut;x;n;;"paavut qaavut";x;"n son";;;?
+vaassi;tv;dec;sp;2;p;3;d;vaassi;x;n;;paassi;x;a;;paassi;x;n;;"paassi qaassi";x;"n son";;;?
+vaangik;tv;dec;sp;3;p;3;d;vaangik;x;n;;paangik;x;a;;paangik;x;n;;"paangik qaangik";x;"n son";;;?
+vattigut;tv;dec;sp;2;p;1;p;"vattigut vaptigut";x;n;;"pattigut paptigut";x;a;;"pattigut paptigut";x;n;;"pattigut paptigut qattigut qaptigut";x;"n n son son";;;?
+vaatigut;tv;dec;sp;3;p;1;p;vaatigut;x;n;;paatigut;x;a;;paatigut;x;n;;"paatigut qaatigut";x;"n son";;;?
+vassi;tv;dec;sp;1;p;2;p;"vassi vapsi";x;n;;"passi papsi";x;a;;"passi papsi";x;n;;"passi papsi qassi qapsi";x;"n n son son";;;?
+vaasi;tv;dec;sp;3;p;2;p;vaasi;x;n;;paasi;x;a;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vavut;tv;dec;sp;1;p;3;p;vavut;x;n;;pavut;x;a;;pavut;x;n;;"pavut qavut";x;"n son";;;?
+vasi;tv;dec;sp;2;p;3;p;vasi;x;n;;pasi;x;a;;pasi;x;n;;"pasi qasi";x;"n son";;;?
+vangit;tv;dec;sp;3;p;3;p;"vangit vait";x;n;;"pangit pait";x;a;;"pangit pait";x;n;;"pangit pait qangit qait";x;"n n son son";;;?
+vittiguk;tv;int;sp;2;s;1;d;"vittiguk vittikkuk";x;n;;"pittiguk pittikkuk";x;n;;"pittiguk pittikkuk";x;n;;"pittiguk pittikkuk qittiguk qittikkuk";x;"n n son son";;;?
+vaatiguk;tv;int;sp;3;s;1;d;vaatiguk;x;n;;paatiguk;x;n;;paatiguk;x;n;;"paatiguk qaatiguk";x;"n son";;;?
+vassik;tv;int;sp;1;s;2;d;vassik;x;n;;passik;x;n;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaatik;tv;int;sp;3;s;2;d;vaatik;x;n;;paatik;x;n;;paatik;x;n;;"paatik qaatik";x;"n son";;;?
+vaakka;tv;int;sp;1;s;3;d;vaakka;x;n;;paakka;x;n;;paakka;x;n;;"paakka qaakka";x;"n son";;;?
+vigik;tv;int;sp;2;s;3;d;vigik;x;n;;pigik;x;n;;pigik;x;n;;"pigik qigik";x;"n son";;;?
+vagik;tv;int;sp;3;s;3;d;"vagik vakkik";x;n;;"pagik pakkik";x;n;;"pagik pakkik";x;n;;"pagik pakkik qagik qakkik";x;"n n son son";;;?
+vittigut;tv;int;sp;2;s;1;p;vittigut;x;n;;pittigut;x;n;;pittigut;x;n;;"pittigut qittigut";x;"n son";;;?
+vaatigut;tv;int;sp;3;s;1;p;vaatigut;x;n;;paatigut;x;n;;paatigut;x;n;;"paatigut qaatigut";x;"n son";;;?
+vassi;tv;int;sp;1;s;2;p;vassi;x;n;;passi;x;n;;passi;x;n;;"passi qassi";x;"n son";;;?
+vaasi;tv;int;sp;3;s;2;p;vaasi;x;n;;paasi;x;n;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vakka;tv;int;sp;1;s;3;p;vakka;x;n;;pakka;x;n;;pakka;x;n;;"pakka qakka";x;"n son";;;?
+vigit;tv;int;sp;2;s;3;p;vigit;x;n;;pigit;x;n;;pigit;x;n;;"pigit qigit";x;"n son";;;?
+vagit;tv;int;sp;3;s;3;p;vagit;x;n;;pagit;x;n;;pagit;x;n;;"pagit qagit";x;"n son";;;?
+vittinga;tv;int;sp;2;d;1;s;vittinga;x;n;;pittinga;x;n;;pittinga;x;n;;"pittinga qittinga";x;"n son";;;?
+vaanga;tv;int;sp;3;d;1;s;vaanga;x;n;;paanga;x;n;;paanga;x;n;;"paanga qaanga";x;"n son";;;?
+vittigit;tv;int;sp;1;d;2;s;vittigit;x;n;;pittigit;x;n;;pittigit;x;n;;"pittigit qittigit";x;"n son";;;?
+vaatit;tv;int;sp;3;d;2;s;vaatit;x;n;;paatit;x;n;;paatit;x;n;;"paatit qaatit";x;"n son";;;?
+vittigu;tv;int;sp;1;d;3;s;vittigu;x;n;;pittigu;x;n;;pittigu;x;n;;"pittigu qittigu";x;"n son";;;?
+vittikku;tv;int;sp;2;d;3;s;vittikku;x;n;;pittikku;x;n;;pittikku;x;n;;"pittikku qittikku";x;"n son";;;?
+vaak;tv;int;sp;3;d;3;s;vaak;x;n;;paak;x;n;;paak;x;n;;"paak qaak";x;"n son";;;?
+vittiguk;tv;int;sp;2;d;1;d;vittiguk;x;n;;pittiguk;x;n;;pittiguk;x;n;;"pittiguk qittiguk";x;"n son";;;?
+vittiguk;tv;int;sp;3;d;1;d;"vittiguk vaatiguk";x;n;;"pittiguk paatiguk";x;n;;"pittiguk paatiguk";x;n;;"pittiguk paatiguk qittiguk qaatiguk";x;"n n son son";;;?
+vassik;tv;int;sp;1;d;2;d;vassik;x;n;;passik;x;n;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaatik;tv;int;sp;3;d;2;d;vaatik;x;n;;paatik;x;n;;paatik;x;n;;"paatik qaatik";x;"n son";;;?
+vittigik;tv;int;sp;1;d;3;d;vittigik;x;n;;pittigik;x;n;;pittigik;x;n;;"pittigik qittigik";x;"n son";;;?
+vittikkik;tv;int;sp;2;d;3;d;vittikkik;x;n;;pittikkik;x;n;;pittikkik;x;n;;"pittikkik qittikkik";x;"n son";;;?
+vakkik;tv;int;sp;3;d;3;d;vakkik;x;n;;pakkik;x;n;;pakkik;x;n;;"pakkik qakkik";x;"n son";;;?
+vittigut;tv;int;sp;2;d;1;p;vittigut;x;n;;pittigut;x;n;;pittigut;x;n;;"pittigut qittigut";x;"n son";;;?
+vittigut;tv;int;sp;3;d;1;p;"vittigut vaatigut";x;n;;"pittigut paatigut";x;n;;"pittigut paatigut";x;n;;"pittigut paatigut qittigut qaatigut";x;"n n son son";;;?
+vassi;tv;int;sp;1;d;2;p;vassi;x;n;;passi;x;n;;passi;x;n;;"passi qassi";x;"n son";;;?
+vaasi;tv;int;sp;3;d;2;p;vaasi;x;n;;paasi;x;n;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vittigit;tv;int;sp;1;d;3;p;vittigit;x;n;;pittigit;x;n;;pittigit;x;n;;"pittigit qittigit";x;"n son";;;?
+vittikkit;tv;int;sp;2;d;3;p;vittikkit;x;n;;pittikkit;x;n;;pittikkit;x;n;;"pittikkit qittikkit";x;"n son";;;?
+vittigit;tv;int;sp;3;d;3;p;"vittigit vakkit";x;n;;"pittigit pakkit";x;n;;"pittigit pakkit";x;n;;"pittigit pakkit qittigit qakkit";x;"n n son son";;;?
+visinga;tv;int;sp;2;p;1;s;visinga;x;n;;pisinga;x;n;;pisinga;x;n;;"pisinga qisinga";x;"n son";;;?
+vaanga;tv;int;sp;3;p;1;s;vaanga;x;n;;paanga;x;n;;paanga;x;n;;"paanga qaanga";x;"n son";;;?
+vitigit;tv;int;sp;1;p;2;s;vitigit;x;n;;pitigit;x;n;;pitigit;x;n;;"pitigit qitigit";x;"n son";;;?
+vaatit;tv;int;sp;3;p;2;s;vaatit;x;n;;paatit;x;n;;paatit;x;n;;"paatit qaatit";x;"n son";;;?
+vitigu;tv;int;sp;1;p;3;s;vitigu;x;n;;pitigu;x;n;;pitigu;x;n;;"pitigu qitigu";x;"n son";;;?
+visiuk;tv;int;sp;2;p;3;s;visiuk;x;n;;pisiuk;x;n;;pisiuk;x;n;;"pisiuk qisiuk";x;"n son";;;?
+vajjuk;tv;int;sp;3;p;3;s;vajjuk;x;n;;pajjuk;x;n;;pajjuk;x;n;;"pajjuk qajjuk";x;"n son";;;?
+vittiguk;tv;int;sp;2;p;1;d;vittiguk;x;n;;pittiguk;x;n;;pittiguk;x;n;;"pittiguk qittiguk";x;"n son";;;?
+vittiguk;tv;int;sp;3;p;1;d;"vittiguk vaatiguk";x;n;;"pittiguk paatiguk";x;n;;"pittiguk paatiguk";x;n;;"pittiguk paatiguk qittiguk qaatiguk";x;"n n son son";;;?
+vassik;tv;int;sp;1;p;2;d;vassik;x;n;;passik;x;n;;passik;x;n;;"passik qassik";x;"n son";;;?
+vaatik;tv;int;sp;3;p;2;d;vaatik;x;n;;paatik;x;n;;paatik;x;n;;"paatik qaatik";x;"n son";;;?
+vitigik;tv;int;sp;1;p;3;d;vitigik;x;n;;pitigik;x;n;;pitigik;x;n;;"pitigik qitigik";x;"n son";;;?
+visigik;tv;int;sp;2;p;3;d;visigik;x;n;;pisigik;x;n;;pisigik;x;n;;"pisigik qisigik";x;"n son";;;?
+vagik;tv;int;sp;3;p;3;d;vagik;x;n;;pagik;x;n;;pagik;x;n;;"pagik qagik";x;"n son";;;?
+vitigut;tv;int;sp;2;p;1;p;vitigut;x;n;;pitigut;x;n;;pitigut;x;n;;"pitigut qitigut";x;"n son";;;?
+vaatigut;tv;int;sp;3;p;1;p;vaatigut;x;n;;paatigut;x;n;;paatigut;x;n;;"paatigut qaatigut";x;"n son";;;?
+vassi;tv;int;sp;1;p;2;p;vassi;x;n;;passi;x;n;;passi;x;n;;"passi qassi";x;"n son";;;?
+vaasi;tv;int;sp;3;p;2;p;vaasi;x;n;;paasi;x;n;;paasi;x;n;;"paasi qaasi";x;"n son";;;?
+vitigit;tv;int;sp;1;p;3;p;vitigit;x;n;;pitigit;x;n;;pitigit;x;n;;"pitigit qitigit";x;"n son";;;?
+visigit;tv;int;sp;2;p;3;p;visigit;x;n;;pisigit;x;n;;pisigit;x;n;;"pisigit qisigit";x;"n son";;;?
+vagit;tv;int;sp;3;p;3;p;vagit;x;n;;pagit;x;n;;pagit;x;n;;"pagit qagit";x;"n son";;;?
+nnga;tv;imp;sp;2;s;1;s;nnga;x;n;;nnga;x;s;;nnga;x;s;;nnga;x;s;;;?
+linga;tv;imp;sp;3;s;1;s;linga;x;n;;linga;x;son;;linga;x;son;;linga;x;son;;;?
+lagit;tv;imp;sp;1;s;2;s;lagit;x;n;;lagit;x;son;;lagit;x;son;;lagit;x;son;;;?
+litit;tv;imp;sp;3;s;2;s;litit;x;n;;litit;x;son;;litit;x;son;;litit;x;son;;;?
+lagu;tv;imp;sp;1;s;3;s;lagu;x;n;;lagu;x;son;;lagu;x;son;;lagu;x;son;;;?
+guk;tv;imp;sp;2;s;3;s;guk;x;n;;juk;x;a;;guk;x;fus;;ruk;x;fus;;;?
+liuk;tv;imp;sp;3;s;3;s;liuk;x;n;;liuk;x;son;;liuk;x;son;;liuk;x;son;;;?
+tiguk;tv;imp;sp;2;s;1;d;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;;?
+litiguk;tv;imp;sp;3;s;1;d;litiguk;x;n;;litiguk;x;son;;litiguk;x;son;;litiguk;x;son;;;?
+lassik;tv;imp;sp;1;s;2;d;lassik;x;n;;lassik;x;son;;lassik;x;son;;lassik;x;son;;;?
+litik;tv;imp;sp;3;s;2;d;litik;x;n;;litik;x;son;;litik;x;son;;litik;x;son;;;?
+laakka;tv;imp;sp;1;s;3;d;laakka;x;n;;laakka;x;son;;laakka;x;son;;laakka;x;son;;;?
+kkik;tv;imp;sp;2;s;3;d;kkik;x;n;;kkik;x;s;;kkik;x;s;;kkik;x;s;;;?
+likkik;tv;imp;sp;3;s;3;d;likkik;x;n;;likkik;x;son;;likkik;x;son;;likkik;x;son;;;?
+tigut;tv;imp;sp;2;s;1;p;tigut;x;n;;tigut;x;n;;tigut;x;n;;tigut;x;n;;;?
+litigut;tv;imp;sp;3;s;1;p;litigut;x;n;;litigut;x;son;;litigut;x;son;;litigut;x;son;;;?
+lassi;tv;imp;sp;1;s;2;p;lassi;x;n;;lassi;x;son;;lassi;x;son;;lassi;x;son;;;?
+lisi;tv;imp;sp;3;s;2;p;lisi;x;n;;lisi;x;son;;lisi;x;son;;lisi;x;son;;;?
+lakka;tv;imp;sp;1;s;3;p;lakka;x;n;;lakka;x;son;;lakka;x;son;;lakka;x;son;;;?
+kkit;tv;imp;sp;2;s;3;p;kkit;x;n;;kkit;x;s;;kkit;x;s;;kkit;x;s;;;?
+ligit;tv;imp;sp;3;s;3;p;ligit;x;n;;ligit;x;son;;ligit;x;son;;ligit;x;son;;;?
+ttinga;tv;imp;sp;2;d;1;s;ttinga;x;n;;ttinga;x;s;;ttinga;x;s;;ttinga;x;s;;;?
+linga;tv;imp;sp;3;d;1;s;linga;x;n;;linga;x;son;;linga;x;son;;linga;x;son;;;?
+lattigit;tv;imp;sp;1;d;2;s;lattigit;x;n;;lattigit;x;son;;lattigit;x;son;;lattigit;x;son;;;?
+litit;tv;imp;sp;3;d;2;s;litit;x;n;;litit;x;son;;litit;x;son;;litit;x;son;;;?
+lavuk;tv;imp;sp;1;d;3;s;lavuk;x;n;;lavuk;x;son;;lavuk;x;son;;lavuk;x;son;;;?
+tikku;tv;imp;sp;2;d;3;s;tikku;x;n;;tikku;x;n;;tikku;x;n;;tikku;x;n;;;?
+likku;tv;imp;sp;3;d;3;s;likku;x;n;;likku;x;son;;likku;x;son;;likku;x;son;;;?
+tiguk;tv;imp;sp;2;d;1;d;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;;?
+litiguk;tv;imp;sp;3;d;1;d;litiguk;x;n;;litiguk;x;son;;litiguk;x;son;;litiguk;x;son;;;?
+lassik;tv;imp;sp;1;d;2;d;lassik;x;n;;lassik;x;son;;lassik;x;son;;lassik;x;son;;;?
+litik;tv;imp;sp;3;d;2;d;litik;x;n;;litik;x;son;;litik;x;son;;litik;x;son;;;?
+laavuk;tv;imp;sp;1;d;3;d;laavuk;x;n;;laavuk;x;son;;laavuk;x;son;;laavuk;x;son;;;?
+tikkik;tv;imp;sp;2;d;3;d;tikkik;x;n;;tikkik;x;n;;tikkik;x;n;;tikkik;x;n;;;?
+likkik;tv;imp;sp;3;d;3;d;likkik;x;n;;likkik;x;son;;likkik;x;son;;likkik;x;son;;;?
+tigut;tv;imp;sp;2;d;1;p;tigut;x;n;;tigut;x;n;;tigut;x;n;;tigut;x;n;;;?
+litigut;tv;imp;sp;3;d;1;p;litigut;x;n;;litigut;x;son;;litigut;x;son;;litigut;x;son;;;?
+lassi;tv;imp;sp;1;d;2;p;lassi;x;n;;lassi;x;son;;lassi;x;son;;lassi;x;son;;;?
+lisi;tv;imp;sp;3;d;2;p;lisi;x;n;;lisi;x;son;;lisi;x;son;;lisi;x;son;;;?
+lavuk;tv;imp;sp;1;d;3;p;lavuk;x;n;;lavuk;x;son;;lavuk;x;son;;lavuk;x;son;;;?
+tikkit;tv;imp;sp;2;d;3;p;tikkit;x;n;;tikkit;x;n;;tikkit;x;n;;tikkit;x;n;;;?
+likkit;tv;imp;sp;3;d;3;p;likkit;x;n;;likkit;x;son;;likkit;x;son;;likkit;x;son;;;?
+singa;tv;imp;sp;2;p;1;s;singa;x;n;;singa;x;n;;singa;x;n;;singa;x;n;;;?
+linga;tv;imp;sp;3;p;1;s;linga;x;n;;linga;x;son;;linga;x;son;;linga;x;son;;;?
+lattigit;tv;imp;sp;1;p;2;s;lattigit;x;n;;lattigit;x;son;;lattigit;x;son;;lattigit;x;son;;;?
+litit;tv;imp;sp;3;p;2;s;litit;x;n;;litit;x;son;;litit;x;son;;litit;x;son;;;?
+lavut;tv;imp;sp;1;p;3;s;lavut;x;n;;lavut;x;son;;lavut;x;son;;lavut;x;son;;;?
+siuk;tv;imp;sp;2;p;3;s;siuk;x;n;;siuk;x;n;;siuk;x;n;;siuk;x;n;;;?
+lijjuk;tv;imp;sp;3;p;3;s;lijjuk;x;n;;lijjuk;x;son;;lijjuk;x;son;;lijjuk;x;son;;;?
+tiguk;tv;imp;sp;2;p;1;d;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;tiguk;x;n;;;?
+litiguk;tv;imp;sp;3;p;1;d;litiguk;x;n;;litiguk;x;son;;litiguk;x;son;;litiguk;x;son;;;?
+lassik;tv;imp;sp;1;p;2;d;lassik;x;n;;lassik;x;son;;lassik;x;son;;lassik;x;son;;;?
+litik;tv;imp;sp;3;p;2;d;litik;x;n;;litik;x;son;;litik;x;son;;litik;x;son;;;?
+laavut;tv;imp;sp;1;p;3;d;laavut;x;n;;laavut;x;son;;laavut;x;son;;laavut;x;son;;;?
+sikkik;tv;imp;sp;2;p;3;d;sikkik;x;n;;sikkik;x;n;;sikkik;x;n;;sikkik;x;n;;;?
+likkik;tv;imp;sp;3;p;3;d;likkik;x;n;;likkik;x;son;;likkik;x;son;;likkik;x;son;;;?
+tigut;tv;imp;sp;2;p;1;p;tigut;x;n;;tigut;x;n;;tigut;x;n;;tigut;x;n;;;?
+litigut;tv;imp;sp;3;p;1;p;litigut;x;n;;litigut;x;son;;litigut;x;son;;litigut;x;son;;;?
+lassi;tv;imp;sp;1;p;2;p;lassi;x;n;;lassi;x;son;;lassi;x;son;;lassi;x;son;;;?
+lisi;tv;imp;sp;3;p;2;p;lisi;x;n;;lisi;x;son;;lisi;x;son;;lisi;x;son;;;?
+lavut;tv;imp;sp;1;p;3;p;lavut;x;n;;lavut;x;son;;lavut;x;son;;lavut;x;son;;;?
+sigit;tv;imp;sp;2;p;3;p;sigit;x;n;;sigit;x;n;;sigit;x;n;;sigit;x;n;;;?
+ligit;tv;imp;sp;3;p;3;p;ligit;x;n;;ligit;x;son;;ligit;x;son;;ligit;x;son;;;?
+gavinga;tv;caus;sp;2;s;1;s;"gavinga gangma";x;n;;"navinga nangma";x;a;;"kavinga kangma";x;n;;"ravinga rangma";x;fus;;;?
+gaminga;tv;caus;sp;3;s;1;s;gaminga;x;n;;naminga;x;a;;kaminga;x;n;;raminga;x;fus;;;?
+maanga;tv;caus;sp;4;s;1;s;maanga;x;i(ng);;maanga;x;a;;maanga;x;nas;;maanga;x;nas;;;?
+gakkit;tv;caus;sp;1;s;2;s;"gakkit gapkit gikkit";x;n;;"nakkit napkit nikkit";x;a;;"kakkit kapkit kikkit";x;n;;"rakkit rapkit rikkit";x;fus;;;?
+gamitit;tv;caus;sp;3;s;2;s;gamitit;x;n;;namitit;x;a;;kamitit;x;n;;ramitit;x;fus;;;?
+maatit;tv;caus;sp;4;s;2;s;maatit;x;i(ng);;maatit;x;a;;maatit;x;nas;;maatit;x;nas;;;?
+gakku;tv;caus;sp;1;s;3;s;"gakku gapku";x;n;;nakku;x;a;;"kakku kapku";x;n;;"rakku rapku";x;fus;;;?
+gaviuk;tv;caus;sp;2;s;3;s;"gaviuk gangni";x;n;;"naviuk nangni";x;a;;"kaviuk kangni";x;n;;"raviuk rangni";x;fus;;;?
+gamiuk;tv;caus;sp;3;s;3;s;gamiuk;x;n;;namiuk;x;a;;kamiuk;x;n;;ramiuk;x;fus;;;?
+magu;tv;caus;sp;4;s;3;s;magu;x;i(ng);;magu;x;a;;magu;x;nas;;magu;x;nas;;;?
+gattiguk;tv;caus;sp;2;s;1;d;"gattiguk gaptiguk";x;n;;"nattiguk naptiguk";x;a;;"kattiguk kaptiguk";x;n;;"rattiguk raptiguk";x;fus;;;?
+gamitiguk;tv;caus;sp;3;s;1;d;gamitiguk;x;n;;namitiguk;x;a;;kamitiguk;x;n;;ramitiguk;x;fus;;;?
+maatiguk;tv;caus;sp;4;s;1;d;maatiguk;x;i(ng);;maatiguk;x;a;;maatiguk;x;nas;;maatiguk;x;nas;;;?
+gassik;tv;caus;sp;1;s;2;d;"gassik gattik";x;n;;"nassik nattik";x;a;;"kassik kattik";x;n;;"rassik rattik";x;fus;;;?
+gamitik;tv;caus;sp;3;s;2;d;gamitik;x;n;;namitik;x;a;;kamitik;x;n;;ramitik;x;fus;;;?
+maatik;tv;caus;sp;4;s;2;d;maatik;x;i(ng);;maatik;x;a;;maatik;x;nas;;maatik;x;nas;;;?
+gakkik;tv;caus;sp;1;s;3;d;gakkik;x;n;;nakkik;x;a;;kakkik;x;n;;rakkik;x;fus;;;?
+gavigik;tv;caus;sp;2;s;3;d;"gavigik gangni";x;n;;"navigik nangni";x;a;;"kavigik kangni";x;n;;"ravigik rangni";x;fus;;;?
+gamigik;tv;caus;sp;3;s;3;d;gamigik;x;n;;namigik;x;a;;kamigik;x;n;;ramigik;x;fus;;;?
+magik;tv;caus;sp;4;s;3;d;magik;x;i(ng);;magik;x;a;;magik;x;nas;;magik;x;nas;;;?
+gattigut;tv;caus;sp;2;s;1;p;"gattigut gaptigut";x;n;;"nattigut naptigut";x;a;;"kattigut kaptigut";x;n;;"rattigut raptigut";x;fus;;;?
+gamitigut;tv;caus;sp;3;s;1;p;gamitigut;x;n;;namitigut;x;a;;kamitigut;x;n;;ramitigut;x;fus;;;?
+maatigut;tv;caus;sp;4;s;1;p;maatigut;x;i(ng);;maatigut;x;a;;maatigut;x;nas;;maatigut;x;nas;;;?
+gassi;tv;caus;sp;1;s;2;p;"gassi gapsi gatsi";x;n;;"nassi napsi natsi";x;a;;"kassi kapsi katsi";x;n;;"rassi rapsi ratsi";x;fus;;;?
+gamisi;tv;caus;sp;3;s;2;p;gamisi;x;n;;namisi;x;a;;kamisi;x;n;;ramisi;x;fus;;;?
+maasi;tv;caus;sp;4;s;2;p;maasi;x;i(ng);;maasi;x;a;;maasi;x;nas;;maasi;x;nas;;;?
+gakkit;tv;caus;sp;1;s;3;p;"gakkit gapkit";x;n;;"nakkit napkit";x;a;;"kakkit kapkit";x;n;;"rakkit rapkit";x;fus;;;?
+gavigit;tv;caus;sp;2;s;3;p;"gavigit gangni";x;n;;"navigit nangni";x;a;;"kavigit kangni";x;n;;"ravigit rangni";x;fus;;;?
+gamigit;tv;caus;sp;3;s;3;p;gamigit;x;n;;namigit;x;a;;kamigit;x;n;;ramigit;x;fus;;;?
+magit;tv;caus;sp;4;s;3;p;magit;x;i(ng);;magit;x;a;;magit;x;nas;;magit;x;nas;;;?
+gattinga;tv;caus;sp;2;d;1;s;gattinga;x;n;;nattinga;x;a;;kattinga;x;n;;rattinga;x;fus;;;?
+gaminga;tv;caus;sp;3;d;1;s;gaminga;x;n;;naminga;x;a;;kaminga;x;n;;raminga;x;fus;;;?
+maanga;tv;caus;sp;4;d;1;s;maanga;x;i(ng);;maanga;x;a;;maanga;x;nas;;maanga;x;nas;;;?
+gattigit;tv;caus;sp;1;d;2;s;"gattigit gaptigit";x;n;;"nattigit naptigit";x;a;;"kattigit kaptigit";x;n;;"rattigit raptigit";x;fus;;;?
+gamitit;tv;caus;sp;3;d;2;s;gamitit;x;n;;namitit;x;a;;kamitit;x;n;;ramitit;x;fus;;;?
+maatit;tv;caus;sp;4;d;2;s;maatit;x;i(ng);;maatit;x;a;;maatit;x;nas;;maatit;x;nas;;;?
+gattigu;tv;caus;sp;1;d;3;s;"gattigu gaptigu";x;n;;"nattigu naptigu";x;a;;"kattigu kaptigu";x;n;;"rattigu raptigu";x;fus;;;?
+gattiku;tv;caus;sp;2;d;3;s;gattiku;x;n;;nattiku;x;a;;kattiku;x;n;;rattiku;x;fus;;;?
+gamikku;tv;caus;sp;3;d;3;s;gamikku;x;n;;namikku;x;a;;kamikku;x;n;;ramikku;x;fus;;;?
+makku;tv;caus;sp;4;d;3;s;makku;x;i(ng);;makku;x;a;;makku;x;nas;;makku;x;nas;;;?
+gattiguk;tv;caus;sp;2;d;1;d;gattiguk;x;n;;nattiguk;x;a;;kattiguk;x;n;;rattiguk;x;fus;;;?
+gamitiguk;tv;caus;sp;3;d;1;d;gamitiguk;x;n;;namitiguk;x;a;;kamitiguk;x;n;;ramitiguk;x;fus;;;?
+maatiguk;tv;caus;sp;4;d;1;d;maatiguk;x;i(ng);;maatiguk;x;a;;maatiguk;x;nas;;maatiguk;x;nas;;;?
+gassik;tv;caus;sp;1;d;2;d;"gassik gattik";x;n;;"nassik nattik";x;a;;"kassik kattik";x;n;;"rassik rattik";x;fus;;;?
+gamitik;tv;caus;sp;3;d;2;d;gamitik;x;n;;namitik;x;a;;kamitik;x;n;;ramitik;x;fus;;;?
+maatik;tv;caus;sp;4;d;2;d;maatik;x;i(ng);;maatik;x;a;;maatik;x;nas;;maatik;x;nas;;;?
+gattigik;tv;caus;sp;1;d;3;d;"gattigik gaptigik";x;n;;"nattigik naptigik";x;a;;"kattigik kaptigik";x;n;;"rattigik raptigik";x;fus;;;?
+gattikik;tv;caus;sp;2;d;3;d;gattikik;x;n;;nattikik;x;a;;kattikik;x;n;;rattikik;x;fus;;;?
+gamikkik;tv;caus;sp;3;d;3;d;gamikkik;x;n;;namikkik;x;a;;kamikkik;x;n;;ramikkik;x;fus;;;?
+makkik;tv;caus;sp;4;d;3;d;makkik;x;i(ng);;makkik;x;a;;makkik;x;nas;;makkik;x;nas;;;?
+gattigut;tv;caus;sp;2;d;1;p;gattigut;x;n;;nattigut;x;a;;kattigut;x;n;;rattigut;x;fus;;;?
+gamitigut;tv;caus;sp;3;d;1;p;gamitigut;x;n;;namitigut;x;a;;kamitigut;x;n;;ramitigut;x;fus;;;?
+maatigut;tv;caus;sp;4;d;1;p;maatigut;x;i(ng);;maatigut;x;a;;maatigut;x;nas;;maatigut;x;nas;;;?
+gassi;tv;caus;sp;1;d;2;p;"gassi gapsi gatsi";x;n;;"nassi napsi natsi";x;a;;"kassi kapsi katsi";x;n;;"rassi rapsi ratsi";x;fus;;;?
+gamisi;tv;caus;sp;3;d;2;p;gamisi;x;n;;namisi;x;a;;kamisi;x;n;;ramisi;x;fus;;;?
+maasi;tv;caus;sp;4;d;2;p;maasi;x;i(ng);;maasi;x;a;;maasi;x;nas;;maasi;x;nas;;;?
+gattigit;tv;caus;sp;1;d;3;p;"gattigit gaptigit";x;n;;"nattigit naptigit";x;a;;"kattigit kaptigit";x;n;;"rattigit raptigit";x;fus;;;?
+gattikit;tv;caus;sp;2;d;3;p;gattikit;x;n;;nattikit;x;a;;kattikit;x;n;;rattikit;x;fus;;;?
+gamikkit;tv;caus;sp;3;d;3;p;gamikkit;x;n;;namikkit;x;a;;kamikkit;x;n;;ramikkit;x;fus;;;?
+makkit;tv;caus;sp;4;d;3;p;makkit;x;i(ng);;makkit;x;a;;makkit;x;nas;;makkit;x;nas;;;?
+gassinga;tv;caus;sp;2;p;1;s;"gassinga gapsinga gatsinga";x;n;;"nassinga napsinga natsinga";x;a;;"kassinga kapsinga katsinga";x;n;;"rassinga rapsinga ratsinga";x;fus;;;?
+gaminga;tv;caus;sp;3;p;1;s;gaminga;x;n;;naminga;x;a;;kaminga;x;n;;raminga;x;fus;;;?
+maanga;tv;caus;sp;4;p;1;s;maanga;x;i(ng);;maanga;x;a;;maanga;x;nas;;maanga;x;nas;;;?
+gattigit;tv;caus;sp;1;p;2;s;"gattigit gaptigit";x;n;;"nattigit naptigit";x;a;;"kattigit kaptigit";x;n;;"rattigit raptigit";x;fus;;;?
+gamitit;tv;caus;sp;3;p;2;s;gamitit;x;n;;namitit;x;a;;kamitit;x;n;;ramitit;x;fus;;;?
+maatit;tv;caus;sp;4;p;2;s;maatit;x;i(ng);;maatit;x;a;;maatit;x;nas;;maatit;x;nas;;;?
+gattigu;tv;caus;sp;1;p;3;s;"gattigu gaptigu";x;n;;"nattigu naptigu";x;a;;"kattigu kaptigu";x;n;;"rattigu raptigu";x;fus;;;?
+gassiuk;tv;caus;sp;2;p;3;s;"gassiuk gapsiuk gatsiuk";x;n;;"nassiuk napsiuk natsiuk";x;a;;"kassiuk kapsiuk katsiuk";x;n;;"rassiuk rapsiuk ratsiuk";x;fus;;;?
+gamijjuk;tv;caus;sp;3;p;3;s;"gamijjuk gamiku";x;n;;"namijjuk namiku";x;a;;"kamijjuk kamiku";x;n;;"ramijjuk ramiku";x;fus;;;?
+majjuk;tv;caus;sp;4;p;3;s;"majjuk magjuk";x;i(ng);;"majjuk magjuk";x;a;;"majjuk magjuk";x;nas;;"majjuk magjuk";x;nas;;;?
+gattiguk;tv;caus;sp;2;p;1;d;"gattiguk gaptiguk";x;n;;"nattiguk naptiguk";x;a;;"kattiguk kaptiguk";x;n;;"rattiguk raptiguk";x;fus;;;?
+gamitiguk;tv;caus;sp;3;p;1;d;gamitiguk;x;n;;namitiguk;x;a;;kamitiguk;x;n;;ramitiguk;x;fus;;;?
+maatiguk;tv;caus;sp;4;p;1;d;maatiguk;x;i(ng);;maatiguk;x;a;;maatiguk;x;nas;;maatiguk;x;nas;;;?
+gassik;tv;caus;sp;1;p;2;d;"gassik gattik";x;n;;"nassik nattik";x;a;;"kassik kattik";x;n;;"rassik rattik";x;fus;;;?
+gamitik;tv;caus;sp;3;p;2;d;gamitik;x;n;;namitik;x;a;;kamitik;x;n;;ramitik;x;fus;;;?
+maatik;tv;caus;sp;4;p;2;d;maatik;x;i(ng);;maatik;x;a;;maatik;x;nas;;maatik;x;nas;;;?
+gattigik;tv;caus;sp;1;p;3;d;"gattigik gaptigik";x;n;;"nattigik naptigik";x;a;;"kattigik kaptigik";x;n;;"rattigik raptigik";x;fus;;;?
+gassigik;tv;caus;sp;2;p;3;d;"gassigik gapsigik gatsigik";x;n;;"nassigik napsigik natsigik";x;a;;"kassigik kapsigik katsigik";x;n;;"rassigik rapsigik ratsigik";x;fus;;;?
+gamigik;tv;caus;sp;3;p;3;d;gamigik;x;n;;namigik;x;a;;kamigik;x;n;;ramigik;x;fus;;;?
+magik;tv;caus;sp;4;p;3;d;magik;x;i(ng);;magik;x;a;;magik;x;nas;;magik;x;nas;;;?
+gattigut;tv;caus;sp;2;p;1;p;"gattigut gaptigut";x;n;;"nattigut naptigut";x;a;;"kattigut kaptigut";x;n;;"rattigut raptigut";x;fus;;;?
+gamitigut;tv;caus;sp;3;p;1;p;gamitigut;x;n;;namitigut;x;a;;kamitigut;x;n;;ramitigut;x;fus;;;?
+maatigut;tv;caus;sp;4;p;1;p;maatigut;x;i(ng);;maatigut;x;a;;maatigut;x;nas;;maatigut;x;nas;;;?
+gassi;tv;caus;sp;1;p;2;p;"gassi gapsi gatsi";x;n;;"nassi napsi natsi";x;a;;"kassi kapsi katsi";x;n;;"rassi rapsi ratsi";x;fus;;;?
+gamisi;tv;caus;sp;3;p;2;p;gamisi;x;n;;namisi;x;a;;kamisi;x;n;;ramisi;x;fus;;;?
+maasi;tv;caus;sp;4;p;2;p;maasi;x;i(ng);;maasi;x;a;;maasi;x;nas;;maasi;x;nas;;;?
+gattigit;tv;caus;sp;1;p;3;p;"gattigit gaptigit";x;n;;"nattigit naptigit";x;a;;"kattigit kaptigit";x;n;;"rattigit raptigit";x;fus;;;?
+gassigit;tv;caus;sp;2;p;3;p;"gassigit gapsigit";x;n;;"nassigit napsigit";x;a;;"kassigit kapsigit";x;n;;"rassigit rapsigit";x;fus;;;?
+gamigit;tv;caus;sp;3;p;3;p;gamigit;x;n;;namigit;x;a;;kamigit;x;n;;ramigit;x;fus;;;?
+magit;tv;caus;sp;4;p;3;p;magit;x;i(ng);;magit;x;a;;magit;x;nas;;magit;x;nas;;;?
+guvinga;tv;cond;sp;2;s;1;s;"guvinga gungma";x;n;;"kuvinga kungma";x;a;;"kuvinga kungma";x;n;;"ruvinga rungma";x;fus;;;?
+guninga;tv;cond;sp;3;s;1;s;guninga;x;n;;kuninga;x;a;;kuninga;x;n;;runinga;x;fus;;;?
+paanga;tv;cond;sp;4;s;1;s;paanga;x;i(k);;paanga;x;a;;paanga;x;n;;paanga;x;n;;;?
+gukkit;tv;cond;sp;1;s;2;s;"gukkit gupkit";x;n;;"kukkit kupkit";x;a;;"kukkit kupkit";x;n;;"rukkit rupkit";x;fus;;;?
+gunitit;tv;cond;sp;3;s;2;s;gunitit;x;n;;kunitit;x;a;;kunitit;x;n;;runitit;x;fus;;;?
+paatit;tv;cond;sp;4;s;2;s;paatit;x;i(k);;paatit;x;a;;paatit;x;n;;paatit;x;n;;;?
+gukku;tv;cond;sp;1;s;3;s;"gukku gupku";x;n;;"kukku kupku";x;a;;"kukku kupku";x;n;;"rukku rupku";x;fus;;;?
+guviuk;tv;cond;sp;2;s;3;s;"guviuk gungni";x;n;;"kuviuk kungni";x;a;;"kuviuk kungni";x;n;;"ruviuk rungni";x;fus;;;?
+guniuk;tv;cond;sp;3;s;3;s;guniuk;x;n;;kuniuk;x;a;;kuniuk;x;n;;runiuk;x;fus;;;?
+pagu;tv;cond;sp;4;s;3;s;pagu;x;i(k);;pagu;x;a;;pagu;x;n;;pagu;x;n;;;?
+guttiguk;tv;cond;sp;2;s;1;d;"guttiguk guptiguk";x;n;;"kuttiguk kuptiguk";x;a;;"kuttiguk kuptiguk";x;n;;"ruttiguk ruptiguk";x;fus;;;?
+gunitiguk;tv;cond;sp;3;s;1;d;gunitiguk;x;n;;kunitiguk;x;a;;kunitiguk;x;n;;runitiguk;x;fus;;;?
+paatiguk;tv;cond;sp;4;s;1;d;paatiguk;x;i(k);;paatiguk;x;a;;paatiguk;x;n;;paatiguk;x;n;;;?
+gussik;tv;cond;sp;1;s;2;d;"gussik guttik";x;n;;"kussik kuttik";x;a;;"kussik kuttik";x;n;;"russik ruttik";x;fus;;;?
+gunitik;tv;cond;sp;3;s;2;d;gunitik;x;n;;kunitik;x;a;;kunitik;x;n;;runitik;x;fus;;;?
+paatik;tv;cond;sp;4;s;2;d;paatik;x;i(k);;paatik;x;a;;paatik;x;n;;paatik;x;n;;;?
+gukkik;tv;cond;sp;1;s;3;d;gukkik;x;n;;kukkik;x;a;;kukkik;x;n;;rukkik;x;fus;;;?
+guvigik;tv;cond;sp;2;s;3;d;"guvigik gungni";x;n;;"kuvigik kungni";x;a;;"kuvigik kungni";x;n;;"ruvigik rungni";x;fus;;;?
+gunigik;tv;cond;sp;3;s;3;d;gunigik;x;n;;kunigik;x;a;;kunigik;x;n;;runigik;x;fus;;;?
+pagik;tv;cond;sp;4;s;3;d;pagik;x;i(k);;pagik;x;a;;pagik;x;n;;pagik;x;n;;;?
+guttigut;tv;cond;sp;2;s;1;p;guttigut;x;n;;kuttigut;x;a;;kuttigut;x;n;;ruttigut;x;fus;;;?
+gunitigut;tv;cond;sp;3;s;1;p;gunitigut;x;n;;kunitigut;x;a;;kunitigut;x;n;;runitigut;x;fus;;;?
+paatigut;tv;cond;sp;4;s;1;p;paatigut;x;i(k);;paatigut;x;a;;paatigut;x;n;;paatigut;x;n;;;?
+gussi;tv;cond;sp;1;s;2;p;"gussi gupsi gutsi";x;n;;"kussi kupsi kutsi";x;a;;"kussi kupsi kutsi";x;n;;"russi rupsi rutsi";x;fus;;;?
+gunisi;tv;cond;sp;3;s;2;p;gunisi;x;n;;kunisi;x;a;;kunisi;x;n;;runisi;x;fus;;;?
+paasi;tv;cond;sp;4;s;2;p;paasi;x;i(k);;paasi;x;a;;paasi;x;n;;paasi;x;n;;;?
+gukkit;tv;cond;sp;1;s;3;p;"gukkit gupkit";x;n;;"kukkit kupkit";x;a;;"kukkit kupkit";x;n;;"rukkit rupkit";x;fus;;;?
+guvigit;tv;cond;sp;2;s;3;p;"guvigit gungni";x;n;;"kuvigit kungni";x;a;;"kuvigit kungni";x;n;;"ruvigit rungni";x;fus;;;?
+gunigit;tv;cond;sp;3;s;3;p;gunigit;x;n;;kunigit;x;a;;kunigit;x;n;;runigit;x;fus;;;?
+pagit;tv;cond;sp;4;s;3;p;pagit;x;i(k);;pagit;x;a;;pagit;x;n;;pagit;x;n;;;?
+guttinga;tv;cond;sp;2;d;1;s;guttinga;x;n;;kuttinga;x;a;;kuttinga;x;n;;ruttinga;x;fus;;;?
+guninga;tv;cond;sp;3;d;1;s;guninga;x;n;;kuninga;x;a;;kuninga;x;n;;runinga;x;fus;;;?
+paanga;tv;cond;sp;4;d;1;s;paanga;x;i(k);;paanga;x;a;;paanga;x;n;;paanga;x;n;;;?
+guttigit;tv;cond;sp;1;d;2;s;"guttigit guptigit";x;n;;"kuttigit kuptigit";x;a;;"kuttigit kuptigit";x;n;;"ruttigit ruptigit";x;fus;;;?
+gunitit;tv;cond;sp;3;d;2;s;gunitit;x;n;;kunitit;x;a;;kunitit;x;n;;runitit;x;fus;;;?
+paatit;tv;cond;sp;4;d;2;s;paatit;x;i(k);;paatit;x;a;;paatit;x;n;;paatit;x;n;;;?
+guttigu;tv;cond;sp;1;d;3;s;"guttigu guptigu";x;n;;"kuttigu kuptigu";x;a;;"kuttigu kuptigu";x;n;;"ruttigu ruptigu";x;fus;;;?
+guttiku;tv;cond;sp;2;d;3;s;guttiku;x;n;;kuttiku;x;a;;kuttiku;x;n;;ruttiku;x;fus;;;?
+gunikku;tv;cond;sp;3;d;3;s;gunikku;x;n;;kunikku;x;a;;kunikku;x;n;;runikku;x;fus;;;?
+pakku;tv;cond;sp;4;d;3;s;pakku;x;i(k);;pakku;x;a;;pakku;x;n;;pakku;x;n;;;?
+guttiguk;tv;cond;sp;2;d;1;d;guttiguk;x;n;;kuttiguk;x;a;;kuttiguk;x;n;;ruttiguk;x;fus;;;?
+gunitiguk;tv;cond;sp;3;d;1;d;gunitiguk;x;n;;kunitiguk;x;a;;kunitiguk;x;n;;runitiguk;x;fus;;;?
+paatiguk;tv;cond;sp;4;d;1;d;paatiguk;x;i(k);;paatiguk;x;a;;paatiguk;x;n;;paatiguk;x;n;;;?
+gussik;tv;cond;sp;1;d;2;d;"gussik guttik";x;n;;"kussik kuttik";x;a;;"kussik kuttik";x;n;;"russik ruttik";x;fus;;;?
+gunitik;tv;cond;sp;3;d;2;d;gunitik;x;n;;kunitik;x;a;;kunitik;x;n;;runitik;x;fus;;;?
+paatik;tv;cond;sp;4;d;2;d;paatik;x;i(k);;paatik;x;a;;paatik;x;n;;paatik;x;n;;;?
+guttigik;tv;cond;sp;1;d;3;d;"guttigik guptigik";x;n;;"kuttigik kuptigik";x;a;;"kuttigik kuptigik";x;n;;"ruttigik ruptigik";x;fus;;;?
+guttikik;tv;cond;sp;2;d;3;d;guttikik;x;n;;kuttikik;x;a;;kuttikik;x;n;;ruttikik;x;fus;;;?
+gunikkik;tv;cond;sp;3;d;3;d;gunikkik;x;n;;kunikkik;x;a;;kunikkik;x;n;;runikkik;x;fus;;;?
+pakkik;tv;cond;sp;4;d;3;d;pakkik;x;i(k);;pakkik;x;a;;pakkik;x;n;;pakkik;x;n;;;?
+guttigut;tv;cond;sp;2;d;1;p;guttigut;x;n;;kuttigut;x;a;;kuttigut;x;n;;ruttigut;x;fus;;;?
+gunitigut;tv;cond;sp;3;d;1;p;gunitigut;x;n;;kunitigut;x;a;;kunitigut;x;n;;runitigut;x;fus;;;?
+paatigut;tv;cond;sp;4;d;1;p;paatigut;x;i(k);;paatigut;x;a;;paatigut;x;n;;paatigut;x;n;;;?
+gussi;tv;cond;sp;1;d;2;p;"gussi gupsi gutsi";x;n;;"kussi kupsi kutsi";x;a;;"kussi kupsi kutsi";x;n;;"russi rupsi rutsi";x;fus;;;?
+gunisi;tv;cond;sp;3;d;2;p;gunisi;x;n;;kunisi;x;a;;kunisi;x;n;;runisi;x;fus;;;?
+paasi;tv;cond;sp;4;d;2;p;paasi;x;i(k);;paasi;x;a;;paasi;x;n;;paasi;x;n;;;?
+guttigit;tv;cond;sp;1;d;3;p;"guttigit guptigit";x;n;;"kuttigit kuptigit";x;a;;"kuttigit kuptigit";x;n;;"ruttigit ruptigit";x;fus;;;?
+guttikit;tv;cond;sp;2;d;3;p;guttikit;x;n;;kuttikit;x;a;;kuttikit;x;n;;ruttikit;x;fus;;;?
+gunikkit;tv;cond;sp;3;d;3;p;gunikkit;x;n;;kunikkit;x;a;;kunikkit;x;n;;runikkit;x;fus;;;?
+pakkit;tv;cond;sp;4;d;3;p;pakkit;x;i(k);;pakkit;x;a;;pakkit;x;n;;pakkit;x;n;;;?
+gussinga;tv;cond;sp;2;p;1;s;"gussinga gupsinga";x;n;;"kussinga kupsinga";x;a;;"kussinga kupsinga";x;n;;"russinga rupsinga";x;fus;;;?
+guninga;tv;cond;sp;3;p;1;s;guninga;x;n;;kuninga;x;a;;kuninga;x;n;;runinga;x;fus;;;?
+paanga;tv;cond;sp;4;p;1;s;paanga;x;i(k);;paanga;x;a;;paanga;x;n;;paanga;x;n;;;?
+guttigit;tv;cond;sp;1;p;2;s;"guttigit guptigit";x;n;;"kuttigit kuptigit";x;a;;"kuttigit kuptigit";x;n;;"ruttigit ruptigit";x;fus;;;?
+gunitit;tv;cond;sp;3;p;2;s;gunitit;x;n;;kunitit;x;a;;kunitit;x;n;;runitit;x;fus;;;?
+paatit;tv;cond;sp;4;p;2;s;paatit;x;i(k);;paatit;x;a;;paatit;x;n;;paatit;x;n;;;?
+guttigu;tv;cond;sp;1;p;3;s;"guttigu guptigu";x;n;;"kuttigu kuptigu";x;a;;"kuttigu kuptigu";x;n;;"ruttigu ruptigu";x;fus;;;?
+gussiuk;tv;cond;sp;2;p;3;s;"gussiuk gupsiuk";x;n;;"kussiuk kupsiuk";x;a;;"kussiuk kupsiuk";x;n;;"russiuk rupsiuk";x;fus;;;?
+gunijjuk;tv;cond;sp;3;p;3;s;"gunijjuk guniku";x;n;;"kunijjuk kuniku";x;a;;"kunijjuk kuniku";x;n;;"runijjuk runiku";x;fus;;;?
+pajjuk;tv;cond;sp;4;p;3;s;pajjuk;x;i(k);;pajjuk;x;a;;pajjuk;x;n;;pajjuk;x;n;;;?
+guttiguk;tv;cond;sp;2;p;1;d;"guttiguk guptiguk";x;n;;"kuttiguk kuptiguk";x;a;;"kuttiguk kuptiguk";x;n;;"ruttiguk ruptiguk";x;fus;;;?
+gunitiguk;tv;cond;sp;3;p;1;d;gunitiguk;x;n;;kunitiguk;x;a;;kunitiguk;x;n;;runitiguk;x;fus;;;?
+paatiguk;tv;cond;sp;4;p;1;d;paatiguk;x;i(k);;paatiguk;x;a;;paatiguk;x;n;;paatiguk;x;n;;;?
+gussik;tv;cond;sp;1;p;2;d;"gussik guttik";x;n;;"kussik kuttik";x;a;;"kussik kuttik";x;n;;"russik ruttik";x;fus;;;?
+gunitik;tv;cond;sp;3;p;2;d;gunitik;x;n;;kunitik;x;a;;kunitik;x;n;;runitik;x;fus;;;?
+paatik;tv;cond;sp;4;p;2;d;paatik;x;i(k);;paatik;x;a;;paatik;x;n;;paatik;x;n;;;?
+guttigik;tv;cond;sp;1;p;3;d;"guttigik guptigik";x;n;;"kuttigik kuptigik";x;a;;"kuttigik kuptigik";x;n;;"ruttigik ruptigik";x;fus;;;?
+gussigik;tv;cond;sp;2;p;3;d;"gussigik gupsigik";x;n;;"kussigik kupsigik";x;a;;"kussigik kupsigik";x;n;;"russigik rupsigik";x;fus;;;?
+gunigik;tv;cond;sp;3;p;3;d;gunigik;x;n;;kunigik;x;a;;kunigik;x;n;;runigik;x;fus;;;?
+pagik;tv;cond;sp;4;p;3;d;pagik;x;i(k);;pagik;x;a;;pagik;x;n;;pagik;x;n;;;?
+guttigut;tv;cond;sp;2;p;1;p;"guttigut guptigut gupsigut";x;n;;"kuttigut kuptigut kupsigut";x;a;;"kuttigut kuptigut kupsigut";x;n;;"ruttigut ruptigut rupsigut";x;fus;;;?
+gunitigut;tv;cond;sp;3;p;1;p;gunitigut;x;n;;kunitigut;x;a;;kunitigut;x;n;;runitigut;x;fus;;;?
+paatigut;tv;cond;sp;4;p;1;p;paatigut;x;i(k);;paatigut;x;a;;paatigut;x;n;;paatigut;x;n;;;?
+gussi;tv;cond;sp;1;p;2;p;"gussi gupsi gutsi";x;n;;"kussi kupsi kutsi";x;a;;"kussi kupsi kutsi";x;n;;"russi rupsi rutsi";x;fus;;;?
+gunisi;tv;cond;sp;3;p;2;p;gunisi;x;n;;kunisi;x;a;;kunisi;x;n;;runisi;x;fus;;;?
+paasi;tv;cond;sp;4;p;2;p;paasi;x;i(k);;paasi;x;a;;paasi;x;n;;paasi;x;n;;;?
+guttigit;tv;cond;sp;1;p;3;p;"guttigit guptigit";x;n;;"kuttigit kuptigit";x;a;;"kuttigit kuptigit";x;n;;"ruttigit ruptigit";x;fus;;;?
+gussigit;tv;cond;sp;2;p;3;p;"gussigit gupsigit";x;n;;"kussigit kupsigit";x;a;;"kussigit kupsigit";x;n;;"russigit rupsigit";x;fus;;;?
+gunigit;tv;cond;sp;3;p;3;p;gunigit;x;n;;kunigit;x;a;;kunigit;x;n;;runigit;x;fus;;;?
+pagit;tv;cond;sp;4;p;3;p;pagit;x;i(k);;pagit;x;a;;pagit;x;n;;pagit;x;n;;;?
+jarma;tv;ger;sp;2;s;1;s;jarma;x;n;;tarma;x;n;;tarma;x;n;;tarma;x;n;;;?
+jaanga;tv;ger;sp;3;s;1;s;jaanga;x;n;;taanga;x;n;;taanga;x;n;;taanga;x;n;;;?
+jagit;tv;ger;sp;1;s;2;s;jagit;x;n;;tagit;x;n;;tagit;x;n;;tagit;x;n;;;?
+jaatit;tv;ger;sp;3;s;2;s;jaatit;x;n;;taatit;x;n;;taatit;x;n;;taatit;x;n;;;?
+jara;tv;ger;sp;1;s;3;s;jara;x;n;;tara;x;n;;tara;x;n;;tara;x;n;;;?
+jait;tv;ger;sp;2;s;3;s;jait;x;n;;tait;x;n;;tait;x;n;;tait;x;n;;;?
+janga;tv;ger;sp;3;s;3;s;"janga jaa";x;n;;"tanga taa";x;n;;"tanga taa";x;n;;"tanga taa";x;n;;;?
+jattiguk;tv;ger;sp;2;s;1;d;"jattiguk jattikkuk";x;n;;"tattiguk tattikkuk";x;n;;"tattiguk tattikkuk";x;n;;"tattiguk tattikkuk";x;n;;;?
+jaatiguk;tv;ger;sp;3;s;1;d;"jaatiguk jaatikkuk";x;n;;"taatiguk taatikkuk";x;n;;"taatiguk taatikkuk";x;n;;"taatiguk taatikkuk";x;n;;;?
+jassik;tv;ger;sp;1;s;2;d;jassik;x;n;;tassik;x;n;;tassik;x;n;;tassik;x;n;;;?
+jaasik;tv;ger;sp;3;s;2;d;"jaasik jaatik";x;n;;"taasik taatik";x;n;;"taasik taatik";x;n;;"taasik taatik";x;n;;;?
+jaakka;tv;ger;sp;1;s;3;d;jaakka;x;n;;taakka;x;n;;taakka;x;n;;taakka;x;n;;;?
+jaakkik;tv;ger;sp;2;s;3;d;jaakkik;x;n;;taakkik;x;n;;taakkik;x;n;;taakkik;x;n;;;?
+jaangik;tv;ger;sp;3;s;3;d;jaangik;x;n;;taangik;x;n;;taangik;x;n;;taangik;x;n;;;?
+jattigut;tv;ger;sp;2;s;1;p;"jattigut japtigut";x;n;;"tattigut taptigut";x;n;;"tattigut taptigut";x;n;;"tattigut taptigut";x;n;;;?
+jaatigut;tv;ger;sp;3;s;1;p;jaatigut;x;n;;taatigut;x;n;;taatigut;x;n;;taatigut;x;n;;;?
+jassi;tv;ger;sp;1;s;2;p;jassi;x;n;;tassi;x;n;;tassi;x;n;;tassi;x;n;;;?
+jaasi;tv;ger;sp;3;s;2;p;jaasi;x;n;;taasi;x;n;;taasi;x;n;;taasi;x;n;;;?
+jakka;tv;ger;sp;1;s;3;p;jakka;x;n;;takka;x;n;;takka;x;n;;takka;x;n;;;?
+jatit;tv;ger;sp;2;s;3;p;jatit;x;n;;tatit;x;n;;tatit;x;n;;tatit;x;n;;;?
+jangit;tv;ger;sp;3;s;3;p;"jangit jait";x;n;;"tangit pait";x;n;;"tangit tait";x;n;;"tangit tait";x;n;;;?
+jaattinga;tv;ger;sp;2;d;1;s;jaattinga;x;n;;taattinga;x;n;;taattinga;x;n;;taattinga;x;n;;;?
+jaanga;tv;ger;sp;3;d;1;s;jaanga;x;n;;taanga;x;n;;taanga;x;n;;taanga;x;n;;;?
+jattigik;tv;ger;sp;1;d;2;s;jattigik;x;n;;tattigik;x;n;;tattigik;x;n;;tattigik;x;n;;;?
+jaatit;tv;ger;sp;3;d;2;s;jaatit;x;n;;taatit;x;n;;taatit;x;n;;taatit;x;n;;;?
+javuk;tv;ger;sp;1;d;3;s;javuk;x;n;;tavuk;x;n;;tavuk;x;n;;tavuk;x;n;;;?
+jasik;tv;ger;sp;2;d;3;s;"jasik jatik";x;n;;"tasik tatik";x;n;;"tasik tatik";x;n;;"tasik tatik";x;n;;;?
+jangak;tv;ger;sp;3;d;3;s;jangak;x;n;;tangak;x;n;;tangak;x;n;;tangak;x;n;;;?
+jaattiguk;tv;ger;sp;2;d;1;d;jaattiguk;x;n;;taattiguk;x;n;;taattiguk;x;n;;taattiguk;x;n;;;?
+jaatiguk;tv;ger;sp;3;d;1;d;jaatiguk;x;n;;taatiguk;x;n;;taatiguk;x;n;;taatiguk;x;n;;;?
+jassik;tv;ger;sp;1;d;2;d;jassik;x;n;;tassik;x;n;;tassik;x;n;;tassik;x;n;;;?
+jaatik;tv;ger;sp;3;d;2;d;jaatik;x;n;;taatik;x;n;;taatik;x;n;;taatik;x;n;;;?
+jaavuk;tv;ger;sp;1;d;3;d;jaavuk;x;n;;taavuk;x;n;;taavuk;x;n;;taavuk;x;n;;;?
+jaassik;tv;ger;sp;2;d;3;d;"jaassik jaattik";x;n;;"taassik taattik";x;n;;"taassik taattik";x;n;;"taassik taattik";x;n;;;?
+jaangik;tv;ger;sp;3;d;3;d;jaangik;x;n;;taangik;x;n;;taangik;x;n;;paangik;x;n;;;?
+jaattigut;tv;ger;sp;2;d;1;p;jaattigut;x;n;;taattigut;x;n;;taattigut;x;n;;taattigut;x;n;;;?
+jaatigut;tv;ger;sp;3;d;1;p;jaatigut;x;n;;taatigut;x;n;;taatigut;x;n;;taatigut;x;n;;;?
+jassi;tv;ger;sp;1;d;2;p;jassi;x;n;;tassi;x;n;;tassi;x;n;;tassi;x;n;;;?
+jaasi;tv;ger;sp;3;d;2;p;jaasi;x;n;;taasi;x;n;;taasi;x;n;;taasi;x;n;;;?
+javuk;tv;ger;sp;1;d;3;p;javuk;x;n;;tavuk;x;n;;tavuk;x;n;;tavuk;x;n;;;?
+jasik;tv;ger;sp;2;d;3;p;"jasik jatik";x;n;;"tasik tatik";x;n;;"tasik tatik";x;n;;"tasik tatik";x;n;;;?
+jangik;tv;ger;sp;3;d;3;p;jangik;x;n;;tangik;x;n;;tangik;x;n;;tangik;x;n;;;?
+jassinga;tv;ger;sp;2;p;1;s;"jassinga japsinga jatsinga";x;n;;"tassinga tapsinga tatsinga";x;n;;"tassinga tapsinga tatsinga";x;n;;"tassinga tapsinga tatsinga";x;n;;;?
+jaanga;tv;ger;sp;3;p;1;s;jaanga;x;n;;taanga;x;n;;taanga;x;n;;taanga;x;n;;;?
+jattigit;tv;ger;sp;1;p;2;s;"jattigit japtigit";x;n;;"tattigit taptigit";x;n;;"tattigit taptigit";x;n;;"tattigit taptigit";x;n;;;?
+jaatit;tv;ger;sp;3;p;2;s;jaatit;x;n;;taatit;x;n;;taatit;x;n;;taatit;x;n;;;?
+javut;tv;ger;sp;1;p;3;s;javut;x;n;;tavut;x;n;;tavut;x;n;;tavut;x;n;;;?
+jasi;tv;ger;sp;2;p;3;s;jasi;x;n;;tasi;x;n;;tasi;x;n;;tasi;x;n;;;?
+jangat;tv;ger;sp;3;p;3;s;"jangat jaat";x;n;;"tangat taat";x;n;;"tangat taat";x;n;;"tangat taat";x;n;;;?
+jattiguk;tv;ger;sp;2;p;1;d;jattiguk;x;n;;tattiguk;x;n;;tattiguk;x;n;;tattiguk;x;n;;;?
+jaatiguk;tv;ger;sp;3;p;1;d;jaatiguk;x;n;;taatiguk;x;n;;taatiguk;x;n;;taatiguk;x;n;;;?
+jassik;tv;ger;sp;1;p;2;d;jassik;x;n;;tassik;x;n;;tassik;x;n;;tassik;x;n;;;?
+jaasik;tv;ger;sp;3;p;2;d;"jaasik jaatik";x;n;;"taasik taatik";x;n;;"taasik taatik";x;n;;"taasik taatik";x;n;;;?
+jaavut;tv;ger;sp;1;p;3;d;jaavut;x;n;;taavut;x;n;;taavut;x;n;;taavut;x;n;;;?
+jaassi;tv;ger;sp;2;p;3;d;jaassi;x;n;;taassi;x;n;;taassi;x;n;;taassi;x;n;;;?
+jaangik;tv;ger;sp;3;p;3;d;jaangik;x;n;;taangik;x;n;;taangik;x;n;;taangik;x;n;;;?
+jattigut;tv;ger;sp;2;p;1;p;"jattigut japtigut";x;n;;"tattigut taptigut";x;n;;"tattigut taptigut";x;n;;"tattigut taptigut";x;n;;;?
+jaatigut;tv;ger;sp;3;p;1;p;jaatigut;x;n;;taatigut;x;n;;taatigut;x;n;;taatigut;x;n;;;?
+jassi;tv;ger;sp;1;p;2;p;"jassi japsi";x;n;;"tassi tapsi";x;n;;"tassi tapsi";x;n;;"tassi tapsi";x;n;;;?
+jaasi;tv;ger;sp;3;p;2;p;jaasi;x;n;;taasi;x;n;;taasi;x;n;;taasi;x;n;;;?
+javut;tv;ger;sp;1;p;3;p;javut;x;n;;tavut;x;n;;tavut;x;n;;tavut;x;n;;;?
+jasi;tv;ger;sp;2;p;3;p;jasi;x;n;;tasi;x;n;;tasi;x;n;;tasi;x;n;;;?
+jangit;tv;ger;sp;3;p;3;p;"jangit jait";x;n;;"tangit tait";x;n;;"tangit tait";x;n;;"tangit tait";x;n;;;?
+jaraangama;tv;freq;nsp;1;s;;;jaraangama;x;n;;"taraangama saarangama";x;n;;"kaangama gaangama";x;n;;raangama;x;fus;;;?
+jaraangavit;tv;freq;nsp;2;s;;;jaraangavit;x;n;;"taraangavit saraangavit";x;n;;"kaangavit gaangavit";x;n;;raangavit;x;fus;;;?
+jaraangami;tv;freq;nsp;3;s;;;jaraangami;x;n;;"taraangami saraangami";x;n;;"kaangami gaangami";x;n;;raangami;x;fus;;;?
+jaraangat;tv;freq;nsp;4;s;;;jaraangat;x;n;;"taraangat saraangat";x;n;;"kaangat gaangat";x;n;;raangat;x;fus;;;?
+jaraangannuk;tv;freq;nsp;1;d;;;jaraangannuk;x;n;;"taraangannuk saraangannuk";x;n;;"kaangannuk gaangannuk";x;n;;raangannuk;x;fus;;;?
+jaraangassik;tv;freq;nsp;2;d;;;jaraangassik;x;n;;"taraangassik saraangassik";x;n;;"kaangassik gaangassik";x;n;;raangassik;x;fus;;;?
+jaraangamik;tv;freq;nsp;3;d;;;jaraangamik;x;n;;taraangamik;x;n;;"kaangamik gaangamik";x;n;;raangamik;x;fus;;;?
+jaraangatik;tv;freq;nsp;4;d;;;jaraangatik;x;n;;"taraangatik saraangatik";x;n;;"kaangatik gaangatik";x;n;;raangatik;x;fus;;;?
+jaraangatta;tv;freq;nsp;1;p;;;jaraangatta;x;n;;"taraangatta saraangatta";x;n;;"kaangatta gaangatta";x;n;;raangatta;x;fus;;;?
+jaraangassi;tv;freq;nsp;2;p;;;jaraangassi;x;n;;"taraangassi sarrangassi";x;n;;"kaangassi gaangassi";x;n;;raangassi;x;fus;;;?
+jaraangamik;tv;freq;nsp;3;p;;;jaraangamik;x;n;;"taraangamik sarrangamik";x;n;;"kaangamik gaangamik";x;n;;raangamik;x;fus;;;?
+jaraangata;tv;freq;nsp;4;p;;;jaraangata;x;n;;"taraangata saraangata";x;n;;"kaangata gaangata";x;n;;raangata;x;fus;;;?
+jaraangavinga;tv;freq;sp;2;s;1;s;"jaraangavinga jaraangangma";x;n;;"taraangavinga taraangangma saraangavinga saraangangma";x;n;;"kaangavinga kaangangma gaangavinga gaangangma";x;n;;"raangavinga raangangma";x;fus;;;?
+jaraangaminga;tv;freq;sp;3;s;1;s;jaraangaminga;x;n;;"taraangaminga saraangaminga";x;n;;"kaangaminga gaangaminga";x;n;;raangaminga;x;fus;;;?
+jaraangaanga;tv;freq;sp;4;s;1;s;jaraangaanga;x;n;;"taraangaanga saraangaanga";x;n;;kaangaanga;x;n;;raangaanga;x;fus;;;?
+jaraangakkit;tv;freq;sp;1;s;2;s;"jaraangakkit jaraangapkit";x;n;;"taraangakkit saraangakkit taraangapkit saraangapkit";x;n;;"kaangakkit gaangakkit kaangapkit gaangapkit";x;n;;"raangakkit raangapkit";x;fus;;;?
+jaraangamitit;tv;freq;sp;3;s;2;s;jaraangamitit;x;n;;"taraangamitit saraangamitit";x;n;;"kaangamitit gaangamitit";x;n;;raangamitit;x;fus;;;?
+jaraangaatit;tv;freq;sp;4;s;2;s;jaraangaatit;x;n;;"taraangaatit saraangaatit";x;n;;"kaangaatit gaangaatit";x;n;;raangaatit;x;fus;;;?
+jaraangakku;tv;freq;sp;1;s;3;s;"jaraangakku jaraangapku";x;n;;"taraangakku saraangakku taraangapku saraangapku";x;n;;"kaangakku gaangakku kaangapku gaangapku";x;n;;"raangakku raangapku";x;fus;;;?
+jaraangaviuk;tv;freq;sp;2;s;3;s;"jaraangaviuk jaraangangni";x;n;;"taraangaviuk saraangaviuk taraangangni saraangangni";x;n;;"kaangaviuk gaangaviuk kaangangni gaangangni";x;n;;"raangaviuk raangangni";x;fus;;;?
+jaraangamiuk;tv;freq;sp;3;s;3;s;jaraangamiuk;x;n;;"taraangamiuk saraangamiuk";x;n;;"kaangamiuk gaangamiuk";x;n;;raangamiuk;x;fus;;;?
+jaraangagu;tv;freq;sp;4;s;3;s;jaraangagu;x;n;;"taraangagu saraangagu";x;n;;"kaangagu gaangagu";x;n;;raangagu;x;fus;;;?
+jaraangattiguk;tv;freq;sp;2;s;1;d;"jaraangattiguk jaraangaptiguk";x;n;;"taraangattiguk saraangattiguk taraangaptiguk saraangaptiguk";x;n;;"kaangattiguk gaangattiguk kaangaptiguk gaangaptiguk";x;n;;"raangattiguk raangaptiguk";x;fus;;;?
+jaraangamitiguk;tv;freq;sp;3;s;1;d;jaraangamitiguk;x;n;;"taraangamitiguk saraangamitiguk";x;n;;"kaangamitiguk gaangamitiguk";x;n;;raangamitiguk;x;fus;;;?
+jaraangaatiguk;tv;freq;sp;4;s;1;d;jaraangaatiguk;x;n;;"taraangaatiguk saraangaatiguk";x;n;;"kaangaatiguk gaangaatiguk";x;n;;raangaatiguk;x;fus;;;?
+jaraangassik;tv;freq;sp;1;s;2;d;"jaraangassik jaraangattik";x;n;;"taraangassik saraangassik taraangattik saraangattik";x;n;;"kaangassik gaangassik kaangattik gaangattik";x;n;;"raangassik raangattik";x;fus;;;?
+jaraangamitik;tv;freq;sp;3;s;2;d;jaraangamitik;x;n;;"taraangamitik saraangamitik";x;n;;"kaangamitik gaangamitik";x;n;;raangamitik;x;fus;;;?
+jaraangaatik;tv;freq;sp;4;s;2;d;jaraangaatik;x;n;;"taraangaatik saraangaatik";x;n;;"kaangaatik gaangaatik";x;n;;raangaatik;x;fus;;;?
+jaraangakkik;tv;freq;sp;1;s;3;d;jaraangakkik;x;n;;"taraangakkik saraangakkik";x;n;;"kaangakkik gaangakkik";x;n;;raangakkik;x;fus;;;?
+jaraangavigik;tv;freq;sp;2;s;3;d;"jaraangavigik jaraangangni";x;n;;"taraangavigik saraangavigik taraangangni saraangangni";x;n;;"kaangavigik gaangavigik gaangangni gaangangni";x;n;;"raangavigik raangangni";x;fus;;;?
+jaraangamigik;tv;freq;sp;3;s;3;d;jaraangamigik;x;n;;"taraangamigik saraangamigik";x;n;;"kaangamigik gaangamigik";x;n;;raangamigik;x;fus;;;?
+jaraangagik;tv;freq;sp;4;s;3;d;jaraangagik;x;n;;"taraangagik saraangagik";x;n;;"kaangagik gaangagik";x;n;;raangagik;x;fus;;;?
+jaraangattigut;tv;freq;sp;2;s;1;p;"jaraangattigut jaraangaptigut";x;n;;"taraangattigut saraangattigut taraangaptigut saraangaptigut";x;n;;"kaangattigut gaangattigut kaangaptigut gaangaptigut";x;n;;"raangattigut raangaptigut";x;fus;;;?
+jaraangamitigut;tv;freq;sp;3;s;1;p;jaraangamitigut;x;n;;"taraangamitigut saraangamitigut";x;n;;"kaangamitigut gaangamitigut";x;n;;raangamitigut;x;fus;;;?
+jaraangaatigut;tv;freq;sp;4;s;1;p;jaraangaatigut;x;n;;"taraangaatigut saraangaatigut";x;n;;"kaangaatigut gaangaatigut";x;n;;raangaatigut;x;fus;;;?
+jaraangassi;tv;freq;sp;1;s;2;p;"jaraangassi jaraangapsi jaraangatsi";x;n;;"taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi";x;n;;"kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi";x;n;;"raangassi raangapsi raangatsi";x;fus;;;?
+jaraangamisi;tv;freq;sp;3;s;2;p;jaraangamisi;x;n;;"taraangamisi saraangamisi";x;n;;"kaangamisi gaangamisi";x;n;;raangamisi;x;fus;;;?
+jaraangaasi;tv;freq;sp;4;s;2;p;jaraangaasi;x;n;;"taraangaasi saraangaasi";x;n;;"kaangaasi gaangaasi";x;n;;raangaasi;x;fus;;;?
+jaraangakkit;tv;freq;sp;1;s;3;p;"jaraangakkit jaraangapkit";x;n;;"taraangakkit saraangakkit taraangapkit saraangapkit";x;n;;"kaangakkit gaangakkit kaangapkit gaangapkit";x;n;;"raangakkit raangapkit";x;fus;;;?
+jaraangavigit;tv;freq;sp;2;s;3;p;"jaraangavigit jaraangangni";x;n;;"taraangavigit saraangavigit taraangangni saraangangni";x;n;;"kaangavigit gaangavigit kaangangni gaangangni";x;n;;"raangavigit raangangni";x;fus;;;?
+jaraangamigit;tv;freq;sp;3;s;3;p;jaraangamigit;x;n;;"taraangamigit saraangamigit";x;n;;"kaangamigit gaangamigit";x;n;;raangamigit;x;fus;;;?
+jaraangagit;tv;freq;sp;4;s;3;p;jaraangagit;x;n;;"taraangagit saraangagit";x;n;;"kaangagit gaangagit";x;n;;raangagit;x;fus;;;?
+jaraangattinga;tv;freq;sp;2;d;1;s;jaraangattinga;x;n;;"taraangattinga saraangattinga";x;n;;"kaangattinga gaangattinga";x;n;;raangattinga;x;fus;;;?
+jaraangaminga;tv;freq;sp;3;d;1;s;jaraangaminga;x;n;;"taraangaminga saraangaminga";x;n;;"kaangaminga gaangaminga";x;n;;raangaminga;x;fus;;;?
+jaraangaanga;tv;freq;sp;4;d;1;s;jaraangaanga;x;n;;"taraangaanga saraangaanga";x;n;;"kaangaanga gaangaanga";x;n;;raangaanga;x;fus;;;?
+jaraangattigit;tv;freq;sp;1;d;2;s;"jaraangattigit jaraangaptigit";x;n;;"taraangattigit saraangattigit taraangaptigit saraangaptigit";x;n;;"kaangattigit gaangattigit kaangaptigit gaangaptigit";x;n;;"raangattigit raangaptigit";x;fus;;;?
+jaraangamitit;tv;freq;sp;3;d;2;s;jaraangamitit;x;n;;"taraangamitit saraangamitit";x;n;;"kaangamitit gaangamitit";x;n;;raangamitit;x;fus;;;?
+jaraangaatit;tv;freq;sp;4;d;2;s;jaraangaatit;x;n;;"taraangaatit saraangaatit";x;n;;"kaangaatit gaangaatit";x;n;;raangaatit;x;fus;;;?
+jaraangattigu;tv;freq;sp;1;d;3;s;"jaraangattigu jaraangaptigu";x;n;;"taraangattigu saraangattigu taraangaptigu saraangaptigu";x;n;;"kaangattigu gaangattigu kaangaptigu gaangaptigu";x;n;;"raangattigu raangaptigu";x;fus;;;?
+jaraangattiku;tv;freq;sp;2;d;3;s;jaraangattiku;x;n;;"taraangattiku saraangattiku";x;n;;"kaangattiku gaangattiku";x;n;;raangattiku;x;fus;;;?
+jaraangamikku;tv;freq;sp;3;d;3;s;jaraangamikku;x;n;;"taraangamikku saraangamikku";x;n;;"kaangamikku gaangamikku";x;n;;raangamikku;x;fus;;;?
+jaraangakku;tv;freq;sp;4;d;3;s;jaraangakku;x;n;;"taraangakku saraangakku";x;n;;"kaangakku gaangakku";x;n;;raangakku;x;fus;;;?
+jaraangattiguk;tv;freq;sp;2;d;1;d;jaraangattiguk;x;n;;"taraangattiguk saraangattiguk";x;n;;"kaangattiguk gaangattiguk";x;n;;raangattiguk;x;fus;;;?
+jaraangamitiguk;tv;freq;sp;3;d;1;d;jaraangamitiguk;x;n;;"taraangamitiguk saraangamitiguk";x;n;;"kaangamitiguk gaangamitiguk";x;n;;raangamitiguk;x;fus;;;?
+jaraangaatiguk;tv;freq;sp;4;d;1;d;jaraangaatiguk;x;n;;"taraangaatiguk saraangaatiguk";x;n;;"kaangaatiguk gaangaatiguk";x;n;;raangaatiguk;x;fus;;;?
+jaraangassik;tv;freq;sp;1;d;2;d;"jaraangassik jaraangattik";x;n;;"taraangassik saraangassik taraangattik saraangattik";x;n;;"kaangasiik gaangassik kaangattik gaangattik";x;n;;"raangassik raangattik";x;fus;;;?
+jaraangamitik;tv;freq;sp;3;d;2;d;jaraangamitik;x;n;;"taraangamitik saraangamitik";x;n;;"kaangamitik gaangamitik";x;n;;raangamitik;x;fus;;;?
+jaraangaatik;tv;freq;sp;4;d;2;d;jaraangaatik;x;n;;"taraangaatik saraangaatik";x;n;;"kaangaatik gaangaatik";x;n;;raangaatik;x;fus;;;?
+jaraangattigik;tv;freq;sp;1;d;3;d;"jaraangattigik jaraangaptigik";x;n;;"taraangattigik saraangattigik taraangaptigik saraangaptigik";x;n;;"kaangattigik gaangattigik kaangaptigik gaangaptigik";x;n;;"raangattigik raangaptigik";x;fus;;;?
+jaraangattikik;tv;freq;sp;2;d;3;d;jaraangattikik;x;n;;"taraangattikik saraangattikik";x;n;;"kaangattikik gaangattikik";x;n;;raangattikik;x;fus;;;?
+jaraangamikkik;tv;freq;sp;3;d;3;d;jaraangamikkik;x;n;;"taraangamikkik saraangamikkik";x;n;;"kaangamikkik gaangamikkik";x;n;;raangamikkik;x;fus;;;?
+jaraangakkik;tv;freq;sp;4;d;3;d;jaraangakkik;x;n;;"taraangakkik saraangakkik";x;n;;"kaangakkik gaangakkik";x;n;;raangakkik;x;fus;;;?
+jaraangattigut;tv;freq;sp;2;d;1;p;jaraangattigut;x;n;;"taraangattigut saraangattigut";x;n;;"kaangattigut gaangattigut";x;n;;raangattigut;x;fus;;;?
+jaraangamitigut;tv;freq;sp;3;d;1;p;jaraangamitigut;x;n;;"taraangamitigut saraangamitigut";x;n;;"kaangamitigut gaangamitigut";x;n;;raangamitigut;x;fus;;;?
+jaraangaatigut;tv;freq;sp;4;d;1;p;jaraangaatigut;x;n;;"taraangaatigut saraangaatigut";x;n;;"kaangaatigut gaangaatigut";x;n;;raangaatigut;x;fus;;;?
+jaraangassi;tv;freq;sp;1;d;2;p;"jaraangassi jaraangapsi jaraangatsi";x;n;;"taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi";x;n;;"kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi";x;n;;"raangassi raangapsi raangatsi";x;fus;;;?
+jaraangamisi;tv;freq;sp;3;d;2;p;jaraangamisi;x;n;;"taraangamisi saraangamisi";x;n;;"kaangamisi gaangamisi";x;n;;raangamisi;x;fus;;;?
+jaraangaasi;tv;freq;sp;4;d;2;p;jaraangaasi;x;n;;"taraangaasi saraangaasi";x;n;;"kaangaasi gaangaasi";x;n;;raangaasi;x;fus;;;?
+jaraangattigit;tv;freq;sp;1;d;3;p;"jaraangattigit jaraangaptigit";x;n;;"taraangattigit saraangattigit taraangaptigit saraangaptigit";x;n;;"kaangattigit gaangattigit kaangaptigit gaangaptigit";x;n;;"raangattigit raangaptigit";x;fus;;;?
+jaraangattikit;tv;freq;sp;2;d;3;p;jaraangattikit;x;n;;"taraangattikit saraangattikit";x;n;;"kaangattikit gaangattikit";x;n;;raangattikit;x;fus;;;?
+jaraangamikkit;tv;freq;sp;3;d;3;p;jaraangamikkit;x;n;;"taraangamikkit saraangamikkit";x;n;;"kaangamikkit gaangamikkit";x;n;;raangamikkit;x;fus;;;?
+jaraangakkit;tv;freq;sp;4;d;3;p;jaraangakkit;x;n;;"taraangakkit saraangakkit";x;n;;"kaangakkit gaangakkit";x;n;;raangakkit;x;fus;;;?
+jaraangassinga;tv;freq;sp;2;p;1;s;"jaraangassinga jaraangapsinga jaraangatsinga";x;n;;"taraangassinga saraangassinga taraangapsinga saraangapsinga taraangatsinga saraangatsinga";x;n;;"kaangassinga gaangassinga kaangapsinga gaangapsinga kaangatsinga gaangatsinga";x;n;;"raangassinga raangapsinga raangatsinga";x;fus;;;?
+jaraangaminga;tv;freq;sp;3;p;1;s;jaraangaminga;x;n;;"taraangaminga saraangaminga";x;n;;"kaangaminga gaangaminga";x;n;;raangaminga;x;fus;;;?
+jaraangaanga;tv;freq;sp;4;p;1;s;jaraangaanga;x;n;;"taraangaanga saraangaanga";x;n;;"kaangaanga gaangaanga";x;n;;raangaanga;x;fus;;;?
+jaraangattigit;tv;freq;sp;1;p;2;s;"jaraangattigit jaraangaptigit";x;n;;"taraangattigit saraangattigit taraangaptigit saraangaptigit";x;n;;"kaangattigit gaangattigit kaangaptigit gaangaptigit";x;n;;"raangattigit raangaptigit";x;fus;;;?
+jaraangamitit;tv;freq;sp;3;p;2;s;jaraangamitit;x;n;;"taraangamitit saraangamitit";x;n;;"kaangamitit gaangamitit";x;n;;raangamitit;x;fus;;;?
+jaraangaatit;tv;freq;sp;4;p;2;s;jaraangaatit;x;n;;"taraangaatit saraangaatit";x;n;;"kaangaatit gaangaatit";x;n;;raangaatit;x;fus;;;?
+jaraangattigu;tv;freq;sp;1;p;3;s;"jaraangattigu jaraangaptigu";x;n;;"taraangattigu saraangattigu taraangaptigu saraangaptigu";x;n;;"kaangattigu gaangattigu kaangaptigu gaangaptigu";x;n;;"raangattigu raangaptigu";x;fus;;;?
+jaraangassiuk;tv;freq;sp;2;p;3;s;"jaraangassiuk jaraangapsiuk jaraangatsiuk";x;n;;"taraangassiuk saraangassiuk taraangapsiuk saraangapsiuk taraangatsiuk saraangatsiuk";x;n;;"kaangassiuk gaangassiuk kaangapsiuk gaangapsiuk kaangatsiuk gaangatsiuk";x;n;;"raangassiuk raangapsiuk raangatsiuk";x;fus;;;?
+jaraangamijjuk;tv;freq;sp;3;p;3;s;"jaraangamijjuk jaraangamiku";x;n;;"taraangamijjuk saraangamijjuk taraangamiku saraangamiku";x;n;;"kaangamijjuk gaangamijjuk kaangamiku gaangamiku";x;n;;"raangamijjuk raangamiku";x;fus;;;?
+jaraangajjuk;tv;freq;sp;4;p;3;s;jaraangajjuk;x;n;;"taraangajjuk saraangajjuk";x;n;;"kaangajjuk gaangajjuk";x;n;;raangajjuk;x;fus;;;?
+jaraangattiguk;tv;freq;sp;2;p;1;d;"jaraangattiguk jaraangaptiguk";x;n;;"taraangattiguk saraangattiguk taraangaptiguk saraangaptiguk";x;n;;"kaangattiguk gaangattiguk kaangaptiguk gaangaptiguk";x;n;;"raangattiguk raangaptiguk";x;fus;;;?
+jaraangamitiguk;tv;freq;sp;3;p;1;d;jaraangamitiguk;x;n;;"taraangamitiguk saraangamitiguk";x;n;;"kaangamitiguk gaangamitiguk";x;n;;raangamitiguk;x;fus;;;?
+jaraangaatiguk;tv;freq;sp;4;p;1;d;jaraangaatiguk;x;n;;"taraangaatiguk saraangaatiguk";x;n;;"kaangaatiguk gaangaatiguk";x;n;;raangaatiguk;x;fus;;;?
+jaraangassik;tv;freq;sp;1;p;2;d;"jaraangassik jaraangattik";x;n;;"taraangassik saraangassik taraangattik saraangattik";x;n;;"kaangassik gaangassik kaangattik gaangattik";x;n;;"raangassik raangattik";x;fus;;;?
+jaraangamitik;tv;freq;sp;3;p;2;d;jaraangamitik;x;n;;"taraangamitik saraangamitik";x;n;;"kaangamitik gaangamitik";x;n;;raangamitik;x;fus;;;?
+jaraangaatik;tv;freq;sp;4;p;2;d;jaraangaatik;x;n;;"taraangaatik saraangaatik";x;n;;"kaangaatik gaangaatik";x;n;;raangaatik;x;fus;;;?
+jaraangattigik;tv;freq;sp;1;p;3;d;"jaraangattigik jaraangaptigik";x;n;;"taraangattigik saraangattigik taraangaptigik saraangaptigik";x;n;;"kaangattigik gaangattigik kaangaptigik gaangaptigik";x;n;;"raangattigik raangaptigik";x;fus;;;?
+jaraangassigik;tv;freq;sp;2;p;3;d;"jaraangassigik jaraangapsigik jaraangatsigik";x;n;;"taraangassigik saraangassigik taraangapsigik saraangapsigik taraangatsigik saraangatsigik";x;n;;"kaangassigik gaangassigik kaangapsigik gaangapsigik taraangatsigik gaangatsigik";x;n;;"raangassigik raangapsigik raangatsigik";x;fus;;;?
+jaraangamigik;tv;freq;sp;3;p;3;d;jaraangamigik;x;n;;"taraangamigik saraangamigik";x;n;;"kaangamigik gaangamigik";x;n;;raangamigik;x;fus;;;?
+jaraangagik;tv;freq;sp;4;p;3;d;jaraangagik;x;n;;"taraangagik saraangagik";x;n;;"kaangagik gaangagik";x;n;;raangagik;x;fus;;;?
+jaraangattigut;tv;freq;sp;2;p;1;p;"jaraangattigut jaraangaptigut";x;n;;"taraangattigut saraangattigut taraangaptigut saraangaptigut";x;n;;"kaangattigut gaangattigut kaangaptigut gaangaptigut";x;n;;"raangattigut raangaptigut";x;fus;;;?
+jaraangamitigut;tv;freq;sp;3;p;1;p;jaraangamitigut;x;n;;"taraangamitigut saraangamitigut";x;n;;"kaangamitigut gaangamitigut";x;n;;raangamitigut;x;fus;;;?
+jaraangaatigut;tv;freq;sp;4;p;1;p;jaraangaatigut;x;n;;"taraangaatigut saraangaatigut";x;n;;"kaangaatigut gaangaatigut";x;n;;raangaatigut;x;fus;;;?
+jaraangassi;tv;freq;sp;1;p;2;p;"jaraangassi jaraangapsi jaraangatsi";x;n;;"taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi";x;n;;"kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi";x;n;;"raangassi raangapsi raangatsi";x;fus;;;?
+jaraangamisi;tv;freq;sp;3;p;2;p;jaraangamisi;x;n;;"taraangamisi saraangamisi";x;n;;"kaangamisi gaangamisi";x;n;;raangamisi;x;fus;;;?
+jaraangaasi;tv;freq;sp;4;p;2;p;jaraangaasi;x;n;;"taraangaasi saraangaasi";x;n;;"kaangaasi gaangaasi";x;n;;raangaasi;x;fus;;;?
+jaraangattigit;tv;freq;sp;1;p;3;p;"jaraangattigit jaraangaptigit";x;n;;"taraangattigit saraangattigit taraangaptigit saraangaptigit";x;n;;"kaangattigit gaangattigit kaangaptigit gaangaptigit";x;n;;"raangattigit raangaptigit";x;fus;;;?
+jaraangassigit;tv;freq;sp;2;p;3;p;"jaraangassigit jaraangapsigit";x;n;;"taraangassigit saraangassigit taraangapsigit saraangapsigit";x;n;;"kaangassigit gaangassigit kaangapsigit gaangapsigit";x;n;;"raangassigit raangapsigit";x;fus;;;?
+jaraangamigit;tv;freq;sp;3;p;3;p;jaraangamigit;x;n;;"taraangamigit saraangamigit";x;n;;"kaangamigit gaangamigit";x;n;;raangamigit;x;fus;;;?
+jaraangagit;tv;freq;sp;4;p;3;p;jaraangagit;x;n;;"taraangagit saraangagit";x;n;;"kaangagit gaangagit";x;n;;raangagit;x;fus;;;?
+mangaarma;tv;dub;nsp;1;s;;;mangaarma;x;i(ng);;mangaarma;x;a;;mangaarma;x;nas;;mangaarma;x;nas;;;?
+mangaaqpit;tv;dub;nsp;2;s;;;mangaaqpit;x;i(ng);;mangaaqpit;x;a;;mangaaqpit;x;nas;;mangaaqpit;x;nas;;;?
+mangaarmi;tv;dub;nsp;3;s;;;mangaarmi;x;i(ng);;mangaarmi;x;a;;mangaarmi;x;nas;;mangaarmi;x;nas;;;?
+mangaat;tv;dub;nsp;4;s;;;"mangaat mangaaq";x;i(ng);;"mangaat mangaaq";x;a;;"mangaat mangaaq";x;nas;;"mangaat mangaaq";x;nas;;;?
+mangaannuk;tv;dub;nsp;1;d;;;mangaannuk;x;i(ng);;mangaannuk;x;a;;mangaannuk;x;nas;;mangaannuk;x;nas;;;?
+mangaassik;tv;dub;nsp;2;d;;;mangaassik;x;i(ng);;mangaassik;x;a;;mangaassik;x;nas;;mangaassik;x;nas;;;?
+mangaarmik;tv;dub;nsp;3;d;;;mangaarmik;x;i(ng);;mangaarmik;x;a;;mangaarmik;x;nas;;mangaarmik;x;nas;;;?
+mangaatik;tv;dub;nsp;4;d;;;mangaatik;x;i(ng);;mangaatik;x;a;;mangaatik;x;nas;;mangaatik;x;nas;;;?
+mangaatta;tv;dub;nsp;1;p;;;mangaatta;x;i(ng);;mangaatta;x;a;;mangaatta;x;nas;;mangaatta;x;nas;;;?
+mangaassi;tv;dub;nsp;2;p;;;mangaassi;x;i(ng);;mangaassi;x;a;;mangaassi;x;nas;;mangaassi;x;nas;;;?
+mangaarmik;tv;dub;nsp;3;p;;;mangaarmik;x;i(ng);;mangaarmik;x;a;;mangaarmik;x;nas;;mangaarmik;x;nas;;;?
+mangaata;tv;dub;nsp;4;p;;;mangaata;x;i(ng);;mangaata;x;a;;mangaata;x;nas;;mangaata;x;nas;;;?
+mangaaqpinga;tv;dub;sp;2;s;1;s;"mangaaqpinga mangaarma";x;i(ng);;"mangaaqpinga mangaarma";x;a;;"mangaaqpinga mangaarma";x;nas;;"mangaaqpinga mangaarma";x;nas;;;?
+mangaarminga;tv;dub;sp;3;s;1;s;mangaarminga;x;i(ng);;mangaarminga;x;a;;mangaarminga;x;nas;;mangaarminga;x;nas;;;?
+mangaanga;tv;dub;sp;4;s;1;s;mangaanga;x;i(ng);;mangaanga;x;a;;mangaanga;x;nas;;mangaanga;x;nas;;;?
+mangaakkit;tv;dub;sp;1;s;2;s;mangaakkit;x;i(ng);;mangaakkit;x;a;;mangaakkit;x;nas;;mangaakkit;x;nas;;;?
+mangaarmitit;tv;dub;sp;3;s;2;s;mangaarmitit;x;i(ng);;mangaarmitit;x;a;;mangaarmitit;x;nas;;mangaarmitit;x;nas;;;?
+mangaatit;tv;dub;sp;4;s;2;s;mangaatit;x;i(ng);;mangaatit;x;a;;mangaatit;x;nas;;mangaatit;x;nas;;;?
+mangaakku;tv;dub;sp;1;s;3;s;mangaakku;x;i(ng);;mangaakku;x;a;;mangaakku;x;nas;;mangaakku;x;nas;;;?
+mangaaqpiuk;tv;dub;sp;2;s;3;s;"mangaaqpiuk mangaarni";x;i(ng);;"mangaaqpiuk mangaarni";x;a;;"mangaaqpiuk mangaarni";x;nas;;"mangaaqpiuk mangaarni";x;nas;;;?
+mangaarmiuk;tv;dub;sp;3;s;3;s;mangaarmiuk;x;i(ng);;mangaarmiuk;x;a;;mangaarmiuk;x;nas;;mangaarmiuk;x;nas;;;?
+mangaagu;tv;dub;sp;4;s;3;s;mangaagu;x;i(ng);;mangaagu;x;a;;mangaagu;x;nas;;mangaagu;x;nas;;;?
+mangaattiguk;tv;dub;sp;2;s;1;d;mangaattiguk;x;i(ng);;mangaattiguk;x;a;;mangaattiguk;x;nas;;mangaattiguk;x;nas;;;?
+mangaarmitiguk;tv;dub;sp;3;s;1;d;mangaarmitiguk;x;i(ng);;mangaarmitiguk;x;a;;mangaarmitiguk;x;nas;;mangaarmitiguk;x;nas;;;?
+mangaatiguk;tv;dub;sp;4;s;1;d;mangaatiguk;x;i(ng);;mangaatiguk;x;a;;mangaatiguk;x;nas;;mangaatiguk;x;nas;;;?
+mangaassik;tv;dub;sp;1;s;2;d;mangaassik;x;i(ng);;mangaassik;x;a;;mangaassik;x;nas;;mangaassik;x;nas;;;?
+mangaarmitik;tv;dub;sp;3;s;2;d;mangaarmitik;x;i(ng);;mangaarmitik;x;a;;mangaarmitik;x;nas;;mangaarmitik;x;nas;;;?
+mangaatik;tv;dub;sp;4;s;2;d;mangaatik;x;i(ng);;mangaatik;x;a;;mangaatik;x;nas;;mangaatik;x;nas;;;?
+mangaakkik;tv;dub;sp;1;s;3;d;mangaakkik;x;i(ng);;mangaakkik;x;a;;mangaakkik;x;nas;;mangaakkik;x;nas;;;?
+mangaaqpigik;tv;dub;sp;2;s;3;d;"mangaaqpigik mangaarni";x;i(ng);;"mangaaqpigik mangaarni";x;a;;"mangaaqpigik mangaarni";x;nas;;"mangaaqpigik mangaarni";x;nas;;;?
+mangaarmigik;tv;dub;sp;3;s;3;d;mangaarmigik;x;i(ng);;mangaarmigik;x;a;;mangaarmigik;x;nas;;mangaarmigik;x;nas;;;?
+mangaagik;tv;dub;sp;4;s;3;d;mangaagik;x;i(ng);;mangaagik;x;a;;mangaagik;x;nas;;mangaagik;x;nas;;;?
+mangaattigut;tv;dub;sp;2;s;1;p;mangaattigut;x;i(ng);;mangaattigut;x;a;;mangaattigut;x;nas;;mangaattigut;x;nas;;;?
+mangaarmitigut;tv;dub;sp;3;s;1;p;mangaarmitigut;x;i(ng);;mangaarmitigut;x;a;;mangaarmitigut;x;nas;;mangaarmitigut;x;nas;;;?
+mangaatigut;tv;dub;sp;4;s;1;p;mangaatigut;x;i(ng);;mangaatigut;x;a;;mangaatigut;x;nas;;mangaatigut;x;nas;;;?
+mangaassi;tv;dub;sp;1;s;2;p;mangaassi;x;i(ng);;mangaassi;x;a;;mangaassi;x;nas;;mangaassi;x;nas;;;?
+mangaarmisi;tv;dub;sp;3;s;2;p;mangaarmisi;x;i(ng);;mangaarmisi;x;a;;mangaarmisi;x;nas;;mangaarmisi;x;nas;;;?
+mangaasi;tv;dub;sp;4;s;2;p;mangaasi;x;i(ng);;mangaasi;x;a;;mangaasi;x;nas;;mangaasi;x;nas;;;?
+mangaakkit;tv;dub;sp;1;s;3;p;mangaakkit;x;i(ng);;mangaakkit;x;a;;mangaakkit;x;nas;;mangaakkit;x;nas;;;?
+mangaaqpigit;tv;dub;sp;2;s;3;p;"mangaaqpigit mangaarni";x;i(ng);;"mangaaqpigit mangaarni";x;a;;"mangaaqpigit mangaarni";x;nas;;"mangaaqpigit mangaarni";x;nas;;;?
+mangaarmigit;tv;dub;sp;3;s;3;p;mangaarmigit;x;i(ng);;mangaarmigit;x;a;;mangaarmigit;x;nas;;mangaarmigit;x;nas;;;?
+mangaagit;tv;dub;sp;4;s;3;p;mangaagit;x;i(ng);;mangaagit;x;a;;mangaagit;x;nas;;mangaagit;x;nas;;;?
+mangaattinga;tv;dub;sp;2;d;1;s;mangaattinga;x;i(ng);;mangaattinga;x;a;;mangaattinga;x;nas;;mangaattinga;x;nas;;;?
+mangaarminga;tv;dub;sp;3;d;1;s;mangaarminga;x;i(ng);;mangaarminga;x;a;;mangaarminga;x;nas;;mangaarminga;x;nas;;;?
+mangaanga;tv;dub;sp;4;d;1;s;mangaanga;x;i(ng);;mangaanga;x;a;;mangaanga;x;nas;;mangaanga;x;nas;;;?
+mangaattigit;tv;dub;sp;1;d;2;s;mangaattigit;x;i(ng);;mangaattigit;x;a;;mangaattigit;x;nas;;mangaattigit;x;nas;;;?
+mangaarmitit;tv;dub;sp;3;d;2;s;mangaarmitit;x;i(ng);;mangaarmitit;x;a;;mangaarmitit;x;nas;;mangaarmitit;x;nas;;;?
+mangaatit;tv;dub;sp;4;d;2;s;mangaatit;x;i(ng);;mangaatit;x;a;;mangaatit;x;nas;;mangaatit;x;nas;;;?
+mangaattigu;tv;dub;sp;1;d;3;s;mangaattigu;x;i(ng);;mangaattigu;x;a;;mangaattigu;x;nas;;mangaattigu;x;nas;;;?
+mangaattiku;tv;dub;sp;2;d;3;s;mangaattiku;x;i(ng);;mangaattiku;x;a;;mangaattiku;x;nas;;mangaattiku;x;nas;;;?
+mangaarmikku;tv;dub;sp;3;d;3;s;mangaarmikku;x;i(ng);;mangaarmikku;x;a;;mangaarmikku;x;nas;;mangaarmikku;x;nas;;;?
+mangaakku;tv;dub;sp;4;d;3;s;mangaakku;x;i(ng);;mangaakku;x;a;;mangaakku;x;nas;;mangaakku;x;nas;;;?
+mangaattiguk;tv;dub;sp;2;d;1;d;mangaattiguk;x;i(ng);;mangaattiguk;x;a;;mangaattiguk;x;nas;;mangaattiguk;x;nas;;;?
+mangaarmitiguk;tv;dub;sp;3;d;1;d;mangaarmitiguk;x;i(ng);;mangaarmitiguk;x;a;;mangaarmitiguk;x;nas;;mangaarmitiguk;x;nas;;;?
+mangaatiguk;tv;dub;sp;4;d;1;d;mangaatiguk;x;i(ng);;mangaatiguk;x;a;;mangaatiguk;x;nas;;mangaatiguk;x;nas;;;?
+mangaassik;tv;dub;sp;1;d;2;d;mangaassik;x;i(ng);;mangaassik;x;a;;mangaassik;x;nas;;mangaassik;x;nas;;;?
+mangaarmitik;tv;dub;sp;3;d;2;d;mangaarmitik;x;i(ng);;mangaarmitik;x;a;;mangaarmitik;x;nas;;mangaarmitik;x;nas;;;?
+mangaatik;tv;dub;sp;4;d;2;d;mangaatik;x;i(ng);;mangaatik;x;a;;mangaatik;x;nas;;mangaatik;x;nas;;;?
+mangaattigik;tv;dub;sp;1;d;3;d;mangaattigik;x;i(ng);;mangaattigik;x;a;;mangaattigik;x;nas;;mangaattigik;x;nas;;;?
+mangaattikik;tv;dub;sp;2;d;3;d;mangaattikik;x;i(ng);;mangaattikik;x;a;;mangaattikik;x;nas;;mangaattikik;x;nas;;;?
+mangaarmikkik;tv;dub;sp;3;d;3;d;mangaarmikkik;x;i(ng);;mangaarmikkik;x;a;;mangaarmikkik;x;nas;;mangaarmikkik;x;nas;;;?
+mangaakkik;tv;dub;sp;4;d;3;d;mangaakkik;x;i(ng);;mangaakkik;x;a;;mangaakkik;x;nas;;mangaakkik;x;nas;;;?
+mangaattigut;tv;dub;sp;2;d;1;p;mangaattigut;x;i(ng);;mangaattigut;x;a;;mangaattigut;x;nas;;mangaattigut;x;nas;;;?
+mangaarmitigut;tv;dub;sp;3;d;1;p;mangaarmitigut;x;i(ng);;mangaarmitigut;x;a;;mangaarmitigut;x;nas;;mangaarmitigut;x;nas;;;?
+mangaatigut;tv;dub;sp;4;d;1;p;mangaatigut;x;i(ng);;mangaatigut;x;a;;mangaatigut;x;nas;;mangaatigut;x;nas;;;?
+mangaassi;tv;dub;sp;1;d;2;p;mangaassi;x;i(ng);;mangaassi;x;a;;mangaassi;x;nas;;mangaassi;x;nas;;;?
+mangaarmisi;tv;dub;sp;3;d;2;p;mangaarmisi;x;i(ng);;mangaarmisi;x;a;;mangaarmisi;x;nas;;mangaarmisi;x;nas;;;?
+mangaasi;tv;dub;sp;4;d;2;p;mangaasi;x;i(ng);;mangaasi;x;a;;mangaasi;x;nas;;mangaasi;x;nas;;;?
+mangaattigit;tv;dub;sp;1;d;3;p;mangaattigit;x;i(ng);;mangaattigit;x;a;;mangaattigit;x;nas;;mangaattigit;x;nas;;;?
+mangaattikit;tv;dub;sp;2;d;3;p;mangaattikit;x;i(ng);;mangaattikit;x;a;;mangaattikit;x;nas;;mangaattikit;x;nas;;;?
+mangaarmikkit;tv;dub;sp;3;d;3;p;mangaarmikkit;x;i(ng);;mangaarmikkit;x;a;;mangaarmikkit;x;nas;;mangaarmikkit;x;nas;;;?
+mangaakkit;tv;dub;sp;4;d;3;p;mangaakkit;x;i(ng);;mangaakkit;x;a;;mangaakkit;x;nas;;mangaakkit;x;nas;;;?
+mangaassinga;tv;dub;sp;2;p;1;s;mangaassinga;x;i(ng);;mangaassinga;x;a;;mangaassinga;x;nas;;mangaassinga;x;nas;;;?
+mangaarminga;tv;dub;sp;3;p;1;s;mangaarminga;x;i(ng);;mangaarminga;x;a;;mangaarminga;x;nas;;mangaarminga;x;nas;;;?
+mangaanga;tv;dub;sp;4;p;1;s;mangaanga;x;i(ng);;mangaanga;x;a;;mangaanga;x;nas;;mangaanga;x;nas;;;?
+mangaattigit;tv;dub;sp;1;p;2;s;mangaattigit;x;i(ng);;mangaattigit;x;a;;mangaattigit;x;nas;;mangaattigit;x;nas;;;?
+mangaarmitit;tv;dub;sp;3;p;2;s;mangaarmitit;x;i(ng);;mangaarmitit;x;a;;mangaarmitit;x;nas;;mangaarmitit;x;nas;;;?
+mangaatit;tv;dub;sp;4;p;2;s;mangaatit;x;i(ng);;mangaatit;x;a;;mangaatit;x;nas;;mangaatit;x;nas;;;?
+mangaattigu;tv;dub;sp;1;p;3;s;mangaattigu;x;i(ng);;mangaattigu;x;a;;mangaattigu;x;nas;;mangaattigu;x;nas;;;?
+mangaassiuk;tv;dub;sp;2;p;3;s;mangaassiuk;x;i(ng);;mangaassiuk;x;a;;mangaassiuk;x;nas;;mangaassiuk;x;nas;;;?
+mangaarmijjuk;tv;dub;sp;3;p;3;s;mangaarmijjuk;x;i(ng);;mangaarmijjuk;x;a;;mangaarmijjuk;x;nas;;mangaarmijjuk;x;nas;;;?
+mangaajjuk;tv;dub;sp;4;p;3;s;mangaajjuk;x;i(ng);;mangaajjuk;x;a;;mangaajjuk;x;nas;;mangaajjuk;x;nas;;;?
+mangaattiguk;tv;dub;sp;2;p;1;d;mangaattiguk;x;i(ng);;mangaattiguk;x;a;;mangaattiguk;x;nas;;mangaattiguk;x;nas;;;?
+mangaarmitiguk;tv;dub;sp;3;p;1;d;mangaarmitiguk;x;i(ng);;mangaarmitiguk;x;a;;mangaarmitiguk;x;nas;;mangaarmitiguk;x;nas;;;?
+mangaatiguk;tv;dub;sp;4;p;1;d;mangaatiguk;x;i(ng);;mangaatiguk;x;a;;mangaatiguk;x;nas;;mangaatiguk;x;nas;;;?
+mangaassik;tv;dub;sp;1;p;2;d;mangaassik;x;i(ng);;mangaassik;x;a;;mangaassik;x;nas;;mangaassik;x;nas;;;?
+mangaarmitik;tv;dub;sp;3;p;2;d;mangaarmitik;x;i(ng);;mangaarmitik;x;a;;mangaarmitik;x;nas;;mangaarmitik;x;nas;;;?
+mangaatik;tv;dub;sp;4;p;2;d;mangaatik;x;i(ng);;mangaatik;x;a;;mangaatik;x;nas;;mangaatik;x;nas;;;?
+mangaattigik;tv;dub;sp;1;p;3;d;mangaattigik;x;i(ng);;mangaattigik;x;a;;mangaattigik;x;nas;;mangaattigik;x;nas;;;?
+mangaassigik;tv;dub;sp;2;p;3;d;mangaassigik;x;i(ng);;mangaassigik;x;a;;mangaassigik;x;nas;;mangaassigik;x;nas;;;?
+mangaarmigik;tv;dub;sp;3;p;3;d;mangaarmigik;x;i(ng);;mangaarmigik;x;a;;mangaarmigik;x;nas;;mangaarmigik;x;nas;;;?
+mangaagik;tv;dub;sp;4;p;3;d;mangaagik;x;i(ng);;mangaagik;x;a;;mangaagik;x;nas;;mangaagik;x;nas;;;?
+mangaattigut;tv;dub;sp;2;p;1;p;mangaattigut;x;i(ng);;mangaattigut;x;a;;mangaattigut;x;nas;;mangaattigut;x;nas;;;?
+mangaarmitigut;tv;dub;sp;3;p;1;p;mangaarmitigut;x;i(ng);;mangaarmitigut;x;a;;mangaarmitigut;x;nas;;mangaarmitigut;x;nas;;;?
+mangaatigut;tv;dub;sp;4;p;1;p;mangaatigut;x;i(ng);;mangaatigut;x;a;;mangaatigut;x;nas;;mangaatigut;x;nas;;;?
+mangaassi;tv;dub;sp;1;p;2;p;mangaassi;x;i(ng);;mangaassi;x;a;;mangaassi;x;nas;;mangaassi;x;nas;;;?
+mangaarmisi;tv;dub;sp;3;p;2;p;mangaarmisi;x;i(ng);;mangaarmisi;x;a;;mangaarmisi;x;nas;;mangaarmisi;x;nas;;;?
+mangaasi;tv;dub;sp;4;p;2;p;mangaasi;x;i(ng);;mangaasi;x;a;;mangaasi;x;nas;;mangaasi;x;nas;;;?
+mangaattigit;tv;dub;sp;1;p;3;p;mangaattigit;x;i(ng);;mangaattigit;x;a;;mangaattigit;x;nas;;mangaattigit;x;nas;;;?
+mangaassigit;tv;dub;sp;2;p;3;p;mangaassigit;x;i(ng);;mangaassigit;x;a;;mangaassigit;x;nas;;mangaassigit;x;nas;;;?
+mangaarmigit;tv;dub;sp;3;p;3;p;mangaarmigit;x;i(ng);;mangaarmigit;x;a;;mangaarmigit;x;nas;;mangaarmigit;x;nas;;;?
+mangaagit;tv;dub;sp;4;p;3;p;mangaagit;x;i(ng);;mangaagit;x;a;;mangaagit;x;nas;;mangaagit;x;nas;;;?

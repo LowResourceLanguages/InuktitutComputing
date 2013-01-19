@@ -1,0 +1,352 @@
+morpheme;key;type;function;position;transitivity;nature;plural;antipassive;V-form;V-actions;V-action1;V-action2;t-form;t-actions;t-action1;t-action2;k-form;k-actions;k-action1;k-action2;q-form;q-actions;q-action1;q-action2;engMean;freMean;condPrec;condPrecTrans;condOnNext;sources;composition;dialect;mobility
+&&apik;1;sv;vv;m;n;;;;&&apik;n;n;;&&apik;s;s;;&&apik;s;s;;&&apik;s;s;;implies frustration or annoyance, because of embarassment, inconvenience or awkwardness to one's position or plans: 'damn it!';implique de la frustration ou de la contrariété à cause d'un embarras, d'un désagrément ou d'un dérangement à ses plans;;;;A1;;;m
+&&aq;1;sv;vv;m;n;;;;&&aq;n;n;;&&aq;s;s;;&&aq;s;s;;&&aq;s;s;;implies frustration or annoyance, because of embarassment, inconvenience or awkwardness to one's position or plans: 'damn it!';implique de la frustration ou de la contrariété à cause d'un embarras, d'un désagrément ou d'un dérangement à ses plans;;;;A1;;;m
+&aq;1;sv;vv;m;i;;;;&aq;n;n;;0;0;0;;0;0;0;;0;0;0;;identification;identification;id:u/1nv;;mode:caus;H1;;;m
+&iq;1;sn;nn;t;;;;;&iq lliq;n n;n;;&iq lliq;n s;n s;;&iq lliq;n s;n s;;&iq lliq;n s;n s;;superlativeness, highest degree, the most of all;superlatif, le plus haut degré, le plus ... de tous;;;;;;;m
+a;1;sv;vv;m;t;;;ksi/1vv ri/1vv gi/4vv;a aq;n n;n;;a aq;s s;s;;a aq;s s;s;;a aq;s s;s;;action done several times, or continuously, or on several objects, or by several subjects;;;;;;;;
+ajak;1;sn;nv;m;i;;;;ajak;n;n;;akak;s;s;;ajak;s;s;;ajak;s;s;;to take many (animals);attraper beaucoup d'animaux;;;;A1;;;m
+allak;1;sv;vv;m;n;;;;allak ala;n-i(ra) n-i(ra);n;i(ra);allak ala;s-i(ra) s-i(ra);s;i(ra);allak ala;s-i(ra) s-i(ra);s;i(ra);allak ala;s-i(ra) s-i(ra);s;i(ra);ease, simpleness of action;;;;;;;;
+aluk;1;sn;nn;t;;;;;aluk aaluk;n-i(ra) n-i(ra);n n;i(ra) i(ra);aluk aluk aaluk;s-i(ra) i(i) s-i(ra);s i(i) s;i(ra) - i(ra);aluk aaluk;s-i(ra) s-i(ra);s s;i(ra) i(ra);aluk aaluk;s-i(ra) s-i(ra);s s;i(ra) i(ra);largeness;;;;;;;;
+anik;1;sv;vv;m;n;;;;anik;n-i(ra);n;i(ra);anik;s-i(ra);s;i(ra);anik;s-i(ra);s;i(ra);anik;s-i(ra);s;i(ra);action already done;;;;;;;;
+annuk;1;sn;nn;t;;;;;annuk;n-i(r);n;i(r);annuk;s;s;;annuk;s;s;;annuk;s-?;s;;diminutiveness;;;;;;;;
+apik;1;sn;nn;t;;;;;apik;n-i(ra);n;i(ra);apik;s-i(ra);s;i(ra);apik;s-i(ra);s;i(ra);apik;s-i(ra);s;i(ra);diminutiveness;;;;;;;;
+aq;1;sn;nv;m;i;;;;0;;0;;aq uq;s s;s;;0;0;0;;0;0;0;;arrival at a place: 'go to';arrivée à un endroit: 'aller à';case:dat;;;H1;;;m
+aq;2;sn;nv;m;t;;;si/1vv ri/1vv;aq;n;n;;aq;s;s;;aq;s;s;;aq;s-?;s;;1) to spread s.t. (a substance) on s.t. 2) to hurt s.o. on a body part;;;;;;;;
+arjuk;1;sn;nn;t;;;;;arjuk;n-i(ra);n;i(ra);arjuk;s-i(ra);s;i(ra);arjuk arjuk;s-i(ra) s-i(ga);s;i(ra) i(ga);arjuk;s-i(ra);s;i(ra);smallness;;;;;;;;
+arjuk;2;sv;vv;m;n;;;;arjuk;n-i(ra);n;i(ra);arjuk;s-i(ra);s;i(ra);arjuk arjuk;s-i(ra) s-i(ga);s;i(ra) i(ga);arjuk;s-i(ra);s;i(ra);a little;un peu;;;;A1;;;m
+gai;1;sv;vv;m;n;;;;gai gaik;n n;n;;gai gaik;n n;n;;gai gaik kaik;s s n;s s n;;rai raik;s s;s s;;whenever;chaque fois que, lorsque;;;;;;;m
+gajuk;1;sv;vv;m;n;;;;gajuk;n;n;;gajuk;s;s;;gajuk;s;s;;rajuk;s;s;;expresses more than regular action: 'frequently', 'always';exprime une action plus que régulière: 'fréquemment', 'toujours';;;;A1;;;m
+galaq;1;sn;nn;m;;;;;galaq;n;n;;galaq;s;s;;galaq;s;s;;galaq;s;s;;collectiveness;;;;;;;;
+galuaq;1;sv;vv;m;n;;;;galuaq;n;n;;kaluaq;a;a;;kaluaq;s;s;;raluaq;s;s;;really;;;;;;;;
+galuaq;2;sv;vn;t;;;;;galuaq;n;n;;kaluaq;a;a;;kaluaq;s;s;;raluaq;s;s;;really;;;;;;;;
+gaq;1;sv;vn;t;;;;;gaq;n;n;;gaq;s;s;;gaq;s;s;;gaq;s;s;;forms a noun with an inherently passive meaning: someone/something that one ...;forme un nom avec un sens inhérent passif: quelqu'un/quelque chose que l'on ...;;;;H1;;;m
+gaq;2;sv;vv;m;t;;;i/1vv si/1vv;gaq;n;n;;gaq;s;s;;gaq;s;s;;gaq;s;s;;frequentative: several times;nil;;;;S1;;;m
+ggiq;1;sn;nv;m;i;;;;ggiq;n;n;;gaq;s;s;;ggiq;s;s;;ggiq;s;s;;bring along with;emmener avec soi;type:n function:vn function:nn;;;H1;;;m
+gi;1;sn;nv;m;t;;;;gi;n;n;;gi;i(i);i(i);;gi;s;s;;ri;s;s;;have as;;;;;;;;
+gi;2;sv;vv;m;n;;;;gi;n;n;;ni ki;a n;a n;;ki gi;n s;n s;;ri;s;s;;again;encore;;;;;;;
+gi;3;sv;vv;m;t;;;;gi;n;n;;gi;s;s;;gi;s;s;;ri;s;s;;to find, consider s.t. or s.o. ...;trouver, considérer qqn ou qqch. ...;type:v,nature:a;;;H1;;;m
+gi;4;sv;vv;m;t;;;;gi;n;n;;gi;s;s;;gi;s;s;;ri;s;s;;added to [[gi verb(s)]] to use them transitively;ajouté aux verbes 'gi' pour les utiliser transitivement;type:v,transinfix:gi/4vv;i;;H1;;;m
+giaq;1;sv;vv;m;n;;;ri/1vv;giaq;n;n;;giaq;s;s;;giaq;s;s;;riaq;s;s;;commencement of action: 'begin to';commencement de l'action: 'commencer à';;;;H1;;;m
+giaq;2;sv;vn;t;;;;;giaq;n;n;;giaq;s;s;;giaq;s;s;;riaq;s;s;;which has a natural tendency to;qui a une tendance naturelle à;;;;A1;;;m
+giaq;3;sv;vn;t;;;;;giaq;n;n;;giaq;s;s;;giaq;s;s;;riaq;s;s;;the fact of;le fait de;;;;S1;;;m
+giik;1;sn;nn;t;;;;;giik;n;n;;giik;i(i);i(i);;giik;s;s;;riik;s;s;;a pair of two (or a group of three or more, in the plural) people or things;;;;;;;;
+giik;2;sn;nv;m;i;a;;;giik;n;n;;giik;i(i);i(i);;giik;s;s;;riik;s;s;;to be mutually the same;;;;;;;;
+gik;1;sn;nv;m;i;a;;;gik;n;n;;gik;s;s;;gik;s;s;;rik;s;s;;to have good ...;avoir de bons ...;type:n function:vn function:nn;;;A1;;;m
+guk;1;sn;nv;m;i;a;;;guk guq;n n;n;;guk guq;s s;s;;guk guq;s s;s;;ruk ruq;s s;s;;to be desirous of the fulfillment of a physical or sensual need;avoir envie ou besoin d'assouvir un besoin physique ou sensuel;type:n function:vn function:nn;;;H1 A1;;;m
+gulu;1;sn;nn;t;;;;;gulu;n;n;;gulu;s;s;;gulu;s;s;;gulu;s;s;;terrible;;;;;;;;
+guq;2;sn;nv;m;t;;;i/1vv;guq;n;n;;guq;s;s;;guq;s;s;;ruq;s;s;;to make s.o. (refl.: oneself = to mature) become more of what one already is;rendre qqn (réfl.: soi-même = devenir) plus ce qu'on est déjà;type:n function:vn function:nn;;;S1;;;m
+gusuk;1;sv;vv;m;i;;;;gusuk;n;n;;gusuk;s;s;;gusuk;s;s;;rusuk;s;s;;added to [[gi verb(s)]] to use them intransitively;ajouté aux verbes 'gi' pour les utiliser intransitivement;type:v,intransinfix:gusuk/1vv;i;;H1;;;m
+gusuk;2;sv;vv;m;n;;;;gusuk;n;n;;gusuk;s;s;;gusuk;s;s;;rusuk;s;s;;to like, to want to do s.t.;;;;;;;;
+guuq;1;q;q;f;;;;;guuq;n;n;;guuq;a;a;;guuq;s;s;;ruuq;s;s;;reporting discourse: 'he/she said';rapport d'un discours: 'il/elle a dit';;;;H1 A1;;;m
+i;1;sv;vv;m;i;;;;i;n;n;;i;s;s;;i;s;s;;i;s-?;s;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:i/1vv;t;;H1;;;m
+ijaq;1;sn;nv;m;t;;;i/1vv;ijaq;n-i(ng);n;i(ng);ijaq;i(a);i(a);;ijaq;s-i(ng);s;i(ng);ijaq;s-i(ng);s;i(ng);to remove;;;;;;;;
+ilaak;1;q;q;;;;;;ilaak;n-decap;n;decap;ilaak;nas;nas;;ilaak;nas;nas;;ilaak;nas;nas;;"marker of reaffirmation: ""so"", ""indeed""";"marque la réaffirmation: ""ainsi"", ""alors""";;;;A1;;;m
+ilitaq;1;sn;nn;t;;;;;ilitaq ilitaq;n-s n-i(ng);n n;s i(ng);ilitaq;i(a);i(a);;ilitaq;s-i(ng);s;i(ng);ilitaq;s-i(ng);s;s;protection for part of body;;;;;;;;
+illi;1;sn;nv;m;t;;;i/1vv;illi;n-i(ng);n;i(ng);illi;i(a);i(a);;illi;s-i(ng);s;i(ng);illi;s-i(ng);s;i(ng);to break or to seriously impair a body part;se briser ou sérieusement se blesser à une partie du corps;;;;H1;;;m
+innaq;2;sv;vv;m;n;;;;innaq;n-i(ng);n;i(ng);innaq;s-i(ng);s;i(ng);innaq;s-i(ng);s;i(ng);innaq;s-i(ng);s;i(ng);to do nothing but;;;;;;;;
+innaq;1;sn;nn;t;;;;;innaq;n-i(ng);n;i(ng);innaq;s-i(ng);s;i(ng);innaq;s-i(ng);s;i(ng);innaq;s-i(ng);s;i(ng);exclusiveness: 'just', 'only';exclusivité: 'juste', 'seulement';;;;H1;;;m
+innaujaq;1;sv;vv;m;n;;;;innaujaq;n-i(ng);n;i(ng);innaujaq;s-i(ng);s;i(ng);innaujaq;s-i(ng);s;i(ng);innaujaq;s-i(ng);s;i(ng);to seem to do nothing but, to always do;avoir l'air de ne faire que, de toujours faire;;;;H1;;;m
+iq;1;sn;nv;m;t;;;si/1vv i/1vv nnik/1vv;iq;n-i(ng);n;i(ng);iq;i(a);i(a);;iq;s-i(ng);s;i(ng);iq;s-i(ng);s;i(ng);to remove;;;;;;;;
+iq;2;sv;vv;m;n;;;;iq;n-i(ng);n;i(ng);iq;i(a);i(a);;iq;s-i(ng);s;i(ng);iq;s-i(ng);s;i(ng);no longer;ne plus;;;;H1;;;m
+iqsuq;1;sn;nv;m;i;;;;iqsuq;n-i(ng);n;i(ng);iqsuq;i(a);i(a);;iqsuq;s-i(ng);s;i(ng);iqsuq;s-i(ng);s;i(ng);to do a number of times;faire un nombre de fois;nature:nb;;;H1;;;m
+irujjaq;1;sn;nn;t;;;;;irujjaq;n-i(ng);n;i(ng);irujjaq;i(a);i(a);;irujjaq;s-i(ng);s;i(ng);irujjaq;s-i(ng);s;i(ng);one who is bereft of s.t., who is left without s.t.;qqn qui est privé de qqch., qui est laissé sans qqch.;;;;A1;iq/1nv+uti/1vv+jaq/1vn;;m
+irujji;1;sn;nv;m;i;;;;irujji;n-i(ng);n;i(ng);irujji;i(a);i(a);;irujji;s-i(ng);s;i(ng);irujji;s-i(ng);s;i(ng);to remove all of s.t.;tout enlever de qqch.;;;;H1;iq/1nv+uti/1vv+ji/1vv;;m
+iruti;1;sn;nv;m;t;;;;iruti;n-i(ng);n;i(ng);iruti;i(a);i(a);;iruti;s-i(ng);s;i(ng);iruti;s-i(ng);s;i(ng);to remove all of s.t. (refl.: to be bereft of;;;;;;;;
+isak;1;sn;nv;m;i;;;;isak;n;n;;isak;i(a);i(a);;isak;s;s;;isak;s-?;s;;to have almost no more of s.t.;;;;;;;;
+it;3;sn;nv;m;i;;;;it;n-i(ng);n;i(ng);it it;i(a) i(i);i(a) i(i);;it;s-i(ng);s;i(ng);it it;s-i(ng) s-s(a);s s;i(ng) s(a);to be such;être tel;type:a;;;H1;;;m
+it;1;sn;nv;m;i;;;;it;n;n;;0;0;0;;0;0;0;;0;0;0;;after -mi: to be in;;;;;;;;
+it;2;sn;nv;m;i;;;;it;n-i(ng);n;i(ng);it it;i(a) i(i);i(a) i(i);;it;s-i(ng);s;i(ng);it it;s-i(ng) s-s(ia);s s;i(ng) ssi(i$,a);to have no s.t.;;;;;;;;
+it;1;sv;vv;m;i;;;;it;n;n;;it;s;s;;it;s;s;;it;s-s(a);s;s(a);to be the contrary of;être le contraire de;type:v,nature:a;;;;;;m
+jaq;1;sv;vn;t;;;;;jaq;n;n;;taq;n;n;;taq;n;n;;taq;n;n;;he/that on whom/which the action is done (passive);personne ou chose sur laquelle l'action est accomplie (passif);;t;;H1;;;m
+jaq;1;sv;vv;m;i;;;;jaq jaaq;n n;n;;0;0;0;;0;0;0;;0;0;0;;to seem, to be, to look, to act like being s.t. or s.o.;sembler, être, avoir l'air, agir comme qqch. ou qqn;id:u/1nv;;;H1 A1;;;m
+jaq;2;sv;vv;m;n;freq;;;jaq;n;n;;jaq;s;s;;jaq;s;s;;jaq;s;s;;multiple action, or action on multiple objects;action multiple, ou action sur objets multiples;;;;S1;;;m
+jaq;3;sv;vn;t;;;;;jaq;n;n;;0;0;0;;0;0;0;;0;0;0;;like, similar to;qui ressemble à, qui est similaire à;id:u/1nv;;;H1;;;m
+jaqtuq;1;sv;vv;m;t;;;i/1vv;jaqtuq jaaqtuq;n n;n;;saqtuq;s;s;;giaqtuq;s;s;;riaqtuq;s;s;;go to, go off to, go on to, etc. for a long time;aller faire quelque chose longtemps;;;;H1;;;m
+jariaksaq;2;sv;vn;t;;;;;jariaksaq;n;n;;tariaksaq;n;n;;giaksaq;s;s;;riaksaq;s;s;;gives the verbal root a gerundive (nominal) meaning;;;;;;;;
+jariaq;1;sv;vn;m;;;;;jariaq giaq;n n;n;;tariaq;n;n;;giaq;s;s;;riaq;s;s;;the obligation to perform an action;l'obligation d'accomplir une action;;;id:qaq/1nv id:lik/1nn;H1;;;m
+jariiq;1;sv;vv;m;n;;;;jariiq;n;n;;tariiq;n;n;;giiq;s;s;;riiq;s;s;;action already completed: 'already';action déjà accomplie: 'déjà';;;;H1 A1;;;m
+jariuq;1;sv;vv;m;n;;;;jariuq;n;n;;tariuq;n;n;;giuq;s;s;;riuq;s;s;;for the first time';pour la première fois';;;;H1 A1;;;m
+jarniq;1;sv;vv;m;t;;;;jarniq;n;n;;garniq;s;s;;garniq;s;s;;niq;s;s;;to be pleasant to...;être plaisant à ...;;t;;A1;;;m
+ji;1;sv;vn;t;;;;;ji;n;n;;ti;n;n;;ti;n;n;;ti;n;n;;one whose job is;;;;;;;;
+ji;1;sv;vv;m;i;;;;ji;if(id:uti/1vv,s,n);if(id:uti/1vv,s,n);;0;0;0;;0;0;0;;0;0;0;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:ji/1vv;t;;H1;;;m
+jjaa;1;sv;vv;m;n;;;;jjaa;n;n;;jjaa;s;s;;jjaa;s;s;;jjaa;s;s;;emphatic future: 'definitely' (always combined with a negative suffix: -nngit-, -junniiq-);futur emphatique: 'définitivement' (toujours combiné à un suffixe négatif: -nngit-, -junniiq-);;;id:junniiq/1vv id:nngit/1vv;H1 A1;;;m
+jjaikkut;1;sv;vn;t;;;;;jjaikkut;n;n;;jjaikkut;s;s;;jjaikkut;s;s;;jjaikkut;s;s;;instrument of prevention;instrument de prévention, pour empêcher;;;;H1;;;m
+jjaq;1;sn;nv;m;i;;;;jjaq;n;n;;jjaq;s;s;;jjaq;s;s;;jjaq;s;s;;to break;;;;;;;;
+jjiq;2;sn;nv;m;i;;;;jjiq;n;n;;jjiq;s;s;;jjiq;s;s;;jjiq;s;s;;to receive s.t.;recevoir qqch.;;;;S1;;;m
+jjiq;1;sn;nv;m;t;;;i/1vv;jjiq;n;n;;jjiq;s;s;;jjiq;s;s;;jjiq;s;s;;to put s.t. on s.t. or s.o.;mettre qqch. sur qqch. ou qqn;;;;S1;;;m
+jjut;1;sv;vn;t;;;;;jjut jjuti;n n;n;;jjut jjuti;s s;s;;jjut jjuti;s s;s;;rut ruti;s s;s;;reason, cause, motive for doing s.t.;raison, cause, motif pour faire qqchose;;;;;;;m
+juaq;1;sn;nn;t;;;;;juaq;i(r);i(r);;juaq;i(ir);i(ir);;juaq;son;son;;juaq;son;son;;large;;;;;;;;
+juaq;2;sv;vv;m;n;;;;juaq;i(r);i(r);;juaq;i(ir);i(ir);;jusq;son;son;;juaq;son;son;;over-sized, exaggerated action;action exagérée;;;;A1;;;m
+juit;1;sv;vv;m;n;;;;juit suit;n n;n;;juit tuit;s n;s n;;juit;s;s;;juit;s;s;;rarity of the action: 'rarely', 'seldom';rareté de l'action: 'rarement', 'peu souvent';;;;H1;;;m
+juksaq;1;sv;vn;t;;;;;juksaq;n;n;;tuksaq;n;n;;tuksaq;n;n;;tuksaq;n;n;;someone or something who should (is supposed to) perform an action;quelqu'un ou quelque chose qui est supposé accomplir l'action;;;;H1;juq/1vn+ksaq/1nn;;m
+juma;1;sv;vv;m;n;;;;juma guma;n n;n;;tuma guma;n s;n s;;guma;s;s;;ruma;s;s;;desire;désir;;;;H1;;;m
+jumaaq;1;sv;vv;m;n;;;;jumaaq gumaaq;n n;n;;tumaaq gumaaq;n s;n s;;gumaaq;s;s;;rumaaq;s;s;;very distant future;futur très éloigné;;;;H1 A1;;;m
+juminaq;1;sv;vv;m;i;;;;juminaq guminaq juminak guminak;n n n n;n;;tuminaq guminaq tuminak guminak;n s n s;n s n s;;guminaq guminak;s s;s;;ruminaq ruminak;s s;s;;causation of a desire to;cause le désir de;;;;H1;;;m
+junnanngit;1;sv;vv;m;n;;;;junnanngit junanngit gunnanngit gunanngit;n n n n;n;;tunnanngit tunanngit gunnanngit gunanngit;n n s s;n n s s;;gunnanngit gunanngit;s s;s;;runnanngit runanngit;s s;s;;to not be able to;;;;;;;;
+junnaq;1;sv;vv;m;n;;;;junnaq junaq gunnaq gunaq;n n n n;n;;tunnaq tunaq gunnaq gunaq;n n s s;n n s s;;gunnaq gunaq;s s;s;;runnaq runaq;s s;s;;capability: 'can', 'be able to';capacité: 'pouvoir', 'être capable de';;;;H1;;;m
+junniiq;1;sv;vv;m;n;;;;junniiq juniiq juniq gunniiq guniiq guniq;n n n n n n;n;;tunniiq tuniiq tuniq gunniiq guniiq guniq;n n n s s s;n n n s s s;;gunniiq guniiq guniq;s s s;s;;runniiq runiiq runiq;s s s;s;;cessation of action: 'not any longer', 'not any more';cessation d'une action: 'ne ... plus';;;;H1;;;m
+juq;1;sv;vn;t;;;;;juq;n;n;;tuq;n;n;;tuq;n;n;;tuq;n;n;;one who/something that does the action;quelqu'un/quelque chose qui accomplit l'action;;;;M1;;;m
+juu;1;sv;vv;m;n;;;;juu;n;n;;juu;s;s;;juu;s;s;;juu;s;s;;distant past and historical past;passé lointain et passé historique;;;;H1;;;m
+juummi;1;sv;vv;m;n;;;;juummi jumi;i(j) i(j);i(j);;juummi jumi;a a;a;;juummi  jumi;son son;son;;juummi jumi;son son;son;;to a small degree, a little;un peu;;;;H1;;;m
+k&i;1;sn;nv;m;i;t;;;k&i;n;n;;?;?;?;?;r&i;s;s;;r&i;s;s;;there to be less of X;;;;;;;;
+kaallaq;1;sv;vv;m;n;;;;kaallaq kaallak;n n;n;;kaallaq kaallak;s s;s;;kaallaq kaallak;s s;s;;kaallaq kaallak;s s;s;;suddenly;soudainement;;;;H1 A1;;;m
+kainnaq;1;sv;vv;m;n;;;;kainnaq;n;n;;kainnaq;s;s;;kainnaq;s;s;;kainnaq;s;s;;brief action: 'for a brief time', 'for a short time';action brève: 'pour un court laps de temps';;;;H1;;Cumberland;m
+kammiq;1;sv;vv;m;n;;;;kammiq;n;n;;kammiq;s;s;;kammiq;s;s;;kammiq;s;s;;recently;récemment;;;;H1;;;m
+kasaak;1;sn;nn;t;;;;;kasaak;n;n;;kasaak;s;s;;kasaak;s;s;;kasaak;s;s;;incompleteness: 'almost';état incomplet: 'presque';;;;A1;;;m
+kasak;1;sv;vv;m;n;;;;kasak kasaaq kasaak;n n n;n;;kasak kasaaq kasaak;s s s;s;;kasak kasaaq kasaak;s s s;s;;kasak kasaaq kasaak;s s s;s;;incompleteness: 'almost';;;;;;;;
+kautigi;1;sv;vv;m;n;;;;kautigi tsautigi;n n;n;;kautigi tsautigi;s s;s;;kautigi tsautigi;s s;s;;kautigi tsautigi;s s;s;;(Harper) hastily;;;;;;;;
+kia;1;q;q;;;;;;kia kiaq;n n;n;;kia kiaq;s s;s;;kia kiaq;s s;s;;kia kiaq;s s;s;;uncertainty: 'I wonder', 'I don't know';incertitude: 'Je me demande';;;;;;;
+kisauti;1;sv;vv;m;i;;;;kisauti;n;n;;kisauti;s;s;;kisauti;s;s;;kisauti;s;s;;competition in the action of the verb;compétition dans l'action du verbe;;;number:d number:p;H1;;;m
+kit;1;sn;nv;m;i;;;;kit;n;n;;kit;s;s;;kit;s;s;;kit;s;s;;to have small ...;avoir un petit, de petits ...;;;mode:ger;H1;;;m
+kkaaluk;1;sv;vn;t;;;;;kkaaluk;n;n;;kkaaluk;s;s;;kkaaluk;s;s;;kkaaluk;s;s;;a person who performs very well the action of the verb;;;;;;;;
+kkanniq;1;sv;vv;m;n;;;;kkanniq kanniq;n n;n;;kkanniq kanniq;s s;s;;kkanniq kanniq;s s;s;;kkanniq kanniq;s s;s;;repetition: 'once again';répétition: 'encore une fois';;;;H1;;;m
+kkanniq;1;sn;nn;t;;;;;kkanniq kanniq;n n;n;;kkanniq kanniq;s s;s;;kkanniq kanniq;s s;s;;kkanniq kanniq;s s;s;;additionnal, more;additionnel, plus;;;;;;;m
+kkaq;2;sv;vv;m;t;;;i/1vv;kkaq;n;n;;kkaq;s;s;;kkaq;s;s;;kkaq;s;s;;to make s.o. do s.t. intentionally;faire intentionnellement faire qqch. à qqn;;;;S1;;;m
+kkaq;1;sv;vn;t;;;;;kkaq;n;n;;kkaq;s;s;;kkaq;s;s;;kkaq;s;s;;a person who performs well the action of the verb;une personne qui accomplit bien l'action du verbe;;;;H1;;;m
+kkiq;1;sn;nn;t;;;;;kkiq;n;n;;kkiq;s;s;;kkiq;s;s;;kkiq;s;s;;a person with large body parts;une personne avec de grosses/grandes parties corporelles;;;;H1;;;m
+kkut;1;sn;nn;t;;;;;kkut;n;n;;kkut;s;s;;kkut;s;s;;kkut;s;s;;group, family, people related to;groupe, famille, personnes reliées à;;;;H1 A1;;;m
+ksaq;1;sn;nn;t;;;t;;ksaq;n;n;;ksaq;s;s;;ksaq;s;s;;ksaq;s;s;;material, something which will become or be made into something else;;;;;;;;
+ksaq;1;sn;nv;m;i;;;;ksaq;n;n;;ksaq;s;s;;ksaq;s;s;;ksaq;s;s;;to gather s.t. to make an object;rassembler ce qu'il faut pour fabriquer un objet;;;;H1 A1;;;m
+ksaq;1;sv;vv;m;i;;;;ksaq;n;n;;ksaq;s;s;;ksaq;s;s;;ksaq;s;s;;added to gi-verbs to make them intransitive;ajouté aux verbes 'gi' pour les rendre intransitifs;type:v,intransinfix:ksaq/1vv;i;;H1;;;m
+ksaq;2;sv;vv;m;i;;;;ksaq;n;n;;ksaq;s;s;;ksaq;s;s;;ksaq;s;s;;to find, consider s.t. or s.o. ...;trouver, considérer qqn ou qqch. ...;type:v,nature:a;;;H1;;;m
+ksi;1;sv;vv;m;i;;;;ksi;n;n;;0;0;0;;0;0;0;;0;0;0;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:ksi/1vv;t;;;;;m
+kulu;1;sn;nn;t;;;;;kulu kuluk;n n;n;;kulu kuluk;s s;s;;kulu kuluk;s s;s;;kulu kuluk;s s;s;;reinforcement of the smallness;;;;;;;;
+kutaaq;1;sn;nn;t;;;;;kutaaq;n;n;;kutaaq;s;s;;kutaaq;s;s;;kutaaq;s;s;;tall, long;grand, long;;;;H1;;;m
+kutaaq;1;sv;vv;m;n;;;;kutaaq;n;n;;kutaaq;s;s;;kutaaq;s;s;;kutaaq;s;s;;to be, to do for a long time;être, faire pendant longtemps;;;;S1;;;m
+kuvik;1;sn;nn;t;;;;;kuvik;n;n;;kuvik;s;s;;kuvik;s;s;;kuvik;s;s;;a place to keep;;;;;;;;
+laaq;3;sv;vn;t;;;;;laaq;n;n;;laaq;s;s;;laaq;s;s;;laaq;s;s;;superlativeness: 'the one that ... the most';superlativité: 'celui qui ... le plus';;;;H1;;;m
+laaq;1;sn;nn;t;;;;;laaq;n;n;;laaq;s;s;;laaq;s;s;;laaq;s;s;;diminutiveness: 'small';diminutif: 'petit';;;;H1;;;m
+laaq;2;sv;vv;m;n;;;;laaq;n;n;;laaq;s;s;;laaq;s;s;;laaq;s;s;;far futur;futur éloigné;;;;H1;;;m
+lak;1;sv;vv;m;n;;;;lak;i(r);i(r);;lak;n;n;;lak;n;n;;lak;n;n;;a little;un peu;;;;A1;;;m
+langa;1;sv;vv;m;n;;;;langa;n;n;;langa;s;s;;langa;s;s;;langa;s;s;;immediately, right now (today);immédiatement, tout de suite (aujourd'hui);;;;S1;;;m
+lataaq;1;sn;nn;t;;;;;lataaq;n;n;;lataaq;s;s;;lataaq;s;s;;lataaq;s;s;;genuineness: 'real';véritable, vrai;;;;H1;;;m
+lataaq;2;sv;vv;m;n;;;;lataaq;n;n;;lataaq;s;s;;lataaq;s;s;;lataaq;s;s;;certainty of the action: 'really', 'certainly';certitude de l'action: 'réellement', 'certainement';;;;H1;;;m
+laukak;1;sv;vv;m;n;;;;laukak;n;n;;laukak;s;s;;laukak;s;s;;laukak;s;s;;brief action: 'for a brief time', 'for a short time';action brève: 'pour un court laps de temps';;;;H1;;North Baffin;m
+lauq;1;sv;vv;m;n;;;;lauq;n;n;;lauq;s;s;;lauq;s;s;;lauq;s;s;;general perceived past;;;;;;;;
+lauq;2;sv;vv;m;n;;;;lauq;n;n;;lauq;s;s;;lauq;s;s;;lauq;s;s;;priority of the command;priorité de l'ordre;;;mode:imp;H1 A1;;;m
+lauqsima;1;sv;vv;m;n;;;;lauqsima;n;n;;lauqsima;s;s;;lauqsima;s;s;;lauqsima;s;s;;past indefinite tense;passé indéfini;;;;H1;lauq/1vv+sima/1vv;;m
+lauqsimajunniiq;1;sv;vv;m;n;;;;lauqsimajunniiq;n;n;;lauqsimajunniiq;s;s;;lauqsimajunniiq;s;s;;lauqsimajunniiq;s;s;;the action ceased ages ago, a long time ago = to not  have done for a long time;l'action a cessé il y a très longtemps = ne pas avoir fait depuis longtemps;;;;A1;lauq/1vv+sima/1vv+junniiq/1vv;;m
+li;4;sv;vv;m;i;;;;0;;0;;li li;s son;s son;;0;0;0;;0;0;0;;to do s.t. in this way;faire qqch. de cette manière;id:it/3nv;;;S1;;;m
+li;2;sv;vv;m;t;;;ksi/1vv i/1vv;li;n;n;;li;s;s;;li;s;s;;li;s;s;;to make that s.t. or s.o. ... (refl.: to become);;;;;;;;
+li;1;q;q;;;;;;li;n;n;;li;son;son;;li;son;son;;li;son;son;;but;mais;;;;H1;;;m
+li;3;sn;nv;m;i;t;;;li;n;n;;li;s;s;;li;s;s;;li;s;s;;to build, make something (trans.: for s.o.);;;;;;;;
+liaq;1;sn;nn;t;;;;;liaq;n;n;;liaq;s;s;;liaq;s;s;;liaq;s;s;;something constructed;quelque chose qui a été construit;;;;H1;;;m
+liaq;2;sn;nv;m;i;;;;liaq;n;n;;siaq liaq;s i(i);s i(i);;liaq;s;s;;liaq;s;s;;motion towards: 'to go to';;;;;;;;
+ligaa;1;sv;vv;m;n;;;;ligaa;n;n;;ligaa;s;s;;ligaa;s;s;;ligaa;s;s;;imminent action: 'to be about to';action imminente: 'être sur le point de';;;;H1;;;m
+lijaq;1;sn;nv;m;i;;;;lijaq;n;n;;sijaq lijaq;s i(i);s i(i);;lijaq;s;s;;lijaq;s;s;;to bring along;apporter avec soi;;;;A1;liq/2nv+jaq/2vv;;m
+lik;1;sn;nn;t;;;;;lik;n;n;;lik;s;s;;lik;s;s;;lik;s;s;;possession: 'one with' (at the end of the word, it may have a verbal meaning in the 3rd person);possession: 'quelqu'un avec' (en position finale, il peut prendre un sens verbal à la 3ème personne);;;;H1;;;m
+lik;3;sn;nv;m;t;;;si/1vv;lik;n;n;;lik;s;s;;lik;s;s;;lik;s;s;;to give, to provide, to offer, to fetch s.t. (trans.: to s.o.);donner, fournir, offrir, aller chercher qqch. (trans.: à qqn);;;;;;;m
+lik;2;sn;nv;m;i;;;;lik;n;n;;lik;s;s;;lik;s;s;;lik;s;s;;to go to;;;;;;;;
+limaaq;1;sn;nn;t;;;;;limaaq;n;n;;limaaq;s;s;;limaaq;s;s;;limaaq;s;s;;inclusiveness: 'all of', 'the whole of';;;;;;;;
+limaaq;2;sv;vv;m;n;;;;limaaq;n;n;;limaaq;s;s;;limaaq;s;s;;limaaq;s;s;;ceaselessly;sans cesse;;;;S1;;;m
+liq;3;sn;nv;m;i;;;;liq;n;n;;liq;s;s;;liq;s;s;;liq;s;s;;to go to, toward;aller à, vers;;;;;;;m
+liq;1;sv;vv;m;n;;;;liq;n;n;;liq;s;s;;liq;s;s;;liq;s;s;;on-going action;;;;;;;;
+liq;2;sn;nv;m;t;;;i/1vv;liq;n;n;;siq;s;s;;liq;s;s;;liq;s;s;;to provide, supply;;;;;;;;
+liqi;1;sn;nv;m;i;;;;liqi;n;n;;liqi;?;?;;liqi;s;s;;liqi;s;s;;to chase, hunt;poursuivre, chasser;;;;A1;;;m
+lirai;1;sv;vv;m;n;;;;lirai;n;n;;lirai;s;s;;lirai;s;s;;lirai;s;s;;no meaning;aucune signification;;;;H1;liq/1vv+gai/1vv;;m
+liri;1;sn;nv;m;i;;;;liri;n;n;;liri siri;i(i) s;i(i) s;;liri;s;s;;liri;s;s;;manipulation: 'to work with, on';manipulation: 'travailler avec, sur';;;;H1 A1;;;m
+lisaaq;1;sv;vv;m;n;;;;lisaaq;n;n;;lisaaq;s;s;;lisaaq;s;s;;lisaaq;s;s;;just beginning, in the first stage of, for the fist time;;;;;;;;
+lisaq;1;sn;nn;t;;;;;lisaq;n;n;;lisaq;s;s;;lisaq;s;s;;lisaq;s;s;;container or holder for body parts;contenant ou soutien pour des parties du corps;;;;H1;;;m
+litainnaq;1;sv;vv;m;n;;;;litainnaq;n;n;;litainnaq;s;s;;litainnaq;s;s;;litainnaq;s;s;;at last;;;;;;;;
+liuq;1;sn;nv;m;t;;;ri/1vv;liuq;n;n;;liuq tiuq siuq;s n n;s n n;;liuq;s;s;;liuq jjiuq;s s;s s;;construction in progress: 'to be building s.t.' (trans.: for s.o.);construction en cours: 'être en train de construire qqch.' (trans.: pour qqn);;;;H1;li/2vv+uq/3vv;;m
+llaaluk;1;sv;vn;t;;;;;llaaluk;n;n;;llaaluk;s;s;;llaaluk;s;s;;llaaluk;s;s;;exaggeration, largeness, impressiveness of the action;exagération de l'action;;;;H1;;;m
+llaq;1;sv;vv;m;n;;;;llaq;n;n;;llaq;s;s;;llaq;s;s;;llaq;s;s;;heavily;;;;;;;;
+llarik;1;sv;vv;m;n;;;;llarik larik;n n;n;;llarik larik;s s;s;;llarik larik;s s;s;;llarik larik;s s;s;;certainty of the action: 'really', 'certainly';certitude de l'action: 'réellement', 'certainement';;;;H1;;;m
+llarik;2;sn;nn;t;;;;;llarik larik;n n;n;;llarik larik;s s;s;;llarik larik;s s;s;;llarik larik;s s;s;;genuineness: 'real';véritable, vrai;;;;H1;;;m
+lu;1;q;q;;;;;;lu;n;n;;lu;son;son;;lu;son;son;;lu;son;son;;and;et;;;;H1;;;m
+luaq;2;sn;nn;t;;;;;luaq;n;n;;luaq;s;s;;luaq;s;s;;luaq;s;s;;exact;exact;;;;H1;;;m
+luaq;1;sv;vv;m;n;;;;luaq lluaq;n n;n;;luaq lluaq;s s;s;;luaq lluaq;s s;s;;luaq lluaq;s s;s;;excessive action: 'too much';;;;;;;;
+luk;1;sn;nv;m;i;;;;luk;n;n;;luk;s;s;;luk;s;s;;luk;s;s;;to have something bad or poor;avoir quelque chose qui est mauvais ou de pauvre qualité;;;;H1;;;m
+luk;3;sv;vv;m;n;;;;luk;n;n;;luk;s;s;;luk;s;s;;luk;s;s;;to perform an action in a poor or bad manner;accomplir une action d'une mauvaise ou d'une piètre façon;;;;H1;;;m
+luk;2;sn;nn;t;;;;;luk;n;n;;luk;s;s;;luk;s;s;;luk;s;s;;something bad or poor;quelque chose de mauvais ou de pauvre qualité;;;;H1;;;m
+luktaaq;1;sn;nn;t;;;;;luktaaq;n;n;;luktaaq;s;s;;luktaaq;s;s;;luktaaq;s;s;;inclusiveness: 'all of', 'the whole of';inclusion: 'tout le', 'l'ensemble de';;;;A1;;;m
+luktaat;1;sn;nn;t;;;;;luktaat;n;n;;luktaat;s;s;;luktaat;s;s;;luktaat;s;s;;inclusiveness: 'every';inclusion: 'tous les';;;;A1;;;m
+luunniit;1;q;q;;;;;;luunniit lunniit;n n;n;;luunniit lunniit;son son;son;;luunniit lunniit;son son;son;;luunniit lunniit;son son;son;;or;;;;;;;;
+ma;1;sv;vv;m;n;;;;ma uma;n n;n;;ma uma;s s;s;;ma uma;s s;s;;ma uma;s s;s s;;to be in a state of;être dans un état de;;;;H1 A1;;;m
+mi;1;sv;vv;m;n;;;;mi;i(ng);i(ng);;mi;a;a;;mi;son;son;;mi;son;son;;again;encore;;;;;;;
+miik;1;sv;vn;t;;;;;miik mii mi;n n n;n;;miik mii mi;nas nas nas;nas;;miik mii mi;nas nas nas;nas;;miik mii mi miik mii mi;nas nas nas s s s;nas nas nas s s s;;"exclamation: ""Oh! how ...!""";"exclamation: ""Oh! comme c'est ...!""";;;;;;;m
+miniq;1;sn;nn;t;;;;;miniq;n;n;;miniq;s;s;;miniq;s;s;;miniq;s;s;;denotes a former state;;;;;;;;
+miuq;1;sn;nn;t;;;;;miuq;n;n;;miuq;nas;nas;;miuq;nas;nas;;niuq;nas;nas;;resident of a place name;résidant d'un nom d'endroit;;;;H1;;;m
+miutaq;1;sn;nn;t;;;;;miutaq miut;n n;n;;miutaq miut;a i(i);a i(i);;miutaq miut;nas nas;nas;;miutaq miut;nas nas;nas;;resident of;;;;;;;;
+mmarik;1;sn;nn;t;;;;;mmarik;n;n;;mmarik;s;s;;mmarik;s;s;;mmarik;s;s;;genuineness;véritable;;;;H1;;;m
+mmarik;2;sv;vv;m;n;;;;mmarik;n;n;;mmarik;s;s;;mmarik;s;s;;mmarik;s;s;;certainty: 'really', 'certainly';certitude: 'réellement', 'certainement';;;;H1;;;m
+mmiaq;1;sv;vv;m;n;;;;mmiaq miaq;n n;n;;mmiaq miaq;s s;s;;mmiaq miaq;s s;s;;mmiaq miaq;s s;s;;contituity in the action;;;;;;;;
+najaq;1;sv;vv;m;n;;;;najaq gajaq;n n;n;;najaq;a;a;;gajaq;s;s;;rajaq;s;s;;action dependent on a condition: 'would';action dépendante d'une condition;;;;H1 A1;;;m
+nanngit;1;sv;vv;m;n;;;;nanngit;n;n;;nanngit;nas;nas;;naangit;nas;nas;;nanngit;nas;nas;;to prevent;empêcher;;;;H1;naq/1vv+nngit/1vv;;m
+naq;2;sv;vn;t;;;;;naq naq nak nak;n i(n) n i(n);n i(n) n i(n);;naq nak;nas nas;nas;;naq nak;nas nas;nas;;naq nak;nas nas;nas;;1) exclamation: how...it is! 2) that which causes...;1) exclamation: comme c'est...! 2) qqch. qui cause...;;;;H1;;;nm
+naq;1;sv;vv;m;n;;;;naq naq nak nak;n i(n) n i(n);n i(n) n i(n);;naq nak;nas nas;nas;;naq nak;nas nas;nas;;naq nak;nas nas;nas;;causation: 'to cause';;;;;;;;
+nasaaq;1;sv;vv;m;n;;;;nasaaq;n;n;;nasaaq;son;son;;nasaaq;son;son;;nasaaq;son;son;;late;tard;;;;H1;;;m
+nasugi;1;sv;vv;m;t;;;ksi/1vv;nasugi;n;n;;nasugi;a;a;;nasugi gasugi;a s;a s;;rasugi;s;s;;to think, to be of the the opinion that s.o. (refl.: oneself) ...;penser, avoir l'opnion que qqn (réfl.: soi-même) ...;;;;H1;;;m
+nasuk;1;sv;vv;m;n;;;;nasuk gasuk gasuaq;n n n;n;;nasuk nasuaq;a a;a;;gasuk gasuaq;s s;s;;rasuk rasuaq;s s;s;;endeavouring, striving: 'to be trying';essayer;;;;H1 A1;;;m
+nga;1;sv;vv;m;n;;;;nga;n;n;;nga;s;s;;nga;s;s;;nga;s;s;;to be in a state of;être dans un état de;;;;;;;m
+ngaaq;3;sn;nn;t;;;;;ngaaq;n;n;;ngaaq;nas;nas;;ngaaq;nas;nas;;ngaaq;nas;nas;;rather, instead;plutôt, au lieu;;;;H1;;;m
+ngaaq;2;sv;vv;m;n;;;;ngaaq;n;n;;ngaaq;nas;nas;;ngaaq;nas;nas;;ngaaq;nas;nas;;to do one action as opposed to an alternative: 'instead';;;;;;;;
+ngaaq;1;sn;nv;m;i;;;;0;;0;;ngaaq;nas;nas;;0;0;0;;0;0;0;;to come from;venir de;case:abl;;;H1;;;m
+ngau;1;sn;nv;m;i;;;;0;;0;;ngau;nas;nas;;0;0;0;;0;0;0;;motion towards;;;;;;;;
+ngu;1;sn;nv;m;i;;;;ngu;n;n;;ngu;s;s;;ngu;s;s;;ngu;s;s;;with body parts: illness, soreness: 'to have sore ...';;;;;;;;
+nguq;1;sn;nv;m;t;;;i/1vv;nguq nnguq;n n;n;;nguq nnguq;i(i) i(i);i(i);;nguq nnguq;nas nas;nas;;ruq nguq nnguq;s s s;s s s;;change of state: 'to become' (trans.: to make s.o. become);;;;;;;;
+nialauq;1;sv;vv;m;n;;;;nialauq;n;n;;nialauq;nas;nas;;nialauq;nas;nas;;nialauq;nas;nas;;was/were going to';;;;;;;;
+niaq;2;sv;vv;m;n;;;;niaq;n;n;;niaq;nas;nas;;niaq;nas;nas;;niaq;nas;nas;;future, today;futur, aujourd'hui;;;;H1;;;m
+niaq;1;sn;nv;m;i;t;;;niaq niaq;n i(n);n i(n);;niaq;nas;nas;;niaq;nas;nas;;niaq;nas;nas;;to study;;;;;;;;
+niaqqau;1;sv;vv;m;t;;;;niaqqau;n;n;;niaqqau;nas;nas;;niaqqau;nas;nas;;niaqqau;nas;nas;;was/were just going to';;;;;;;;
+niaqtaksari;1;sv;vv;m;t;;;;niaqtaksari;n;n;;niaqtaksari;nas;nas;;niaqtaksari;nas;nas;;niaqtaksari;nas;nas;;future likelihood or probability: 'will more than likely... ;;;;;;;;
+niq;2;sv;vn;t;;;;;niq;n;n;;niq niq;nas s;nas s;;niq;nas;nas;;niq;nas;nas;;noun abstraction of the verb's action;nom abstrait de l'action du verbe;;;;H1 A1;;;m
+niq;1;sv;vv;m;n;;;;niq;i(n);i(n);;niq;nas;nas;;niq;nas;nas;;niq;nas;nas;;unperceived past with pure verbal forms;passé non perçu avec formes verbales pures;;;;H1;;;m
+niqpaq;1;sv;vn;t;;;;;niqpaq niqpaaq;n n;n;;niqpaq niqpaaq;nas nas;nas;;niqpaq niqpaaq;nas nas;nas;;niqpaq niqpaaq;nas nas;nas;;superlative;superlatif;;;;H1;;;m
+niqsaq;1;sv;vn;t;;;;;niqsaq;n;n;;niqsaq;nas;nas;;niqsaq;nas;nas;;niqsaq;nas;nas;;comparaison;comparaison;;;;H1;;;m
+niraq;1;sv;vv;m;t;;;i/1vv;niraq;n;n;;niraq;nas;nas;;niraq;nas;nas;;niraq;nas;nas;;reporting action;;;;;;;;
+nitaq;1;sn;nn;t;;;;;nitaq;n;n;;nitaq nitaq;s n;s n;;nitaq nitaq;s n;s n;;nitaq nitaq;s n;s n;;from a certain time;d'il y a longtemps;;;;;;;m
+niujaq;1;sv;vv;m;n;;;;niujaq niujaaq;n n;n;;niujaq niujaaq;s a;s a;;niujaq niujaaq;s s;s;;niujaq niujaaq;s s;s;;imminent action: 'to be about to...';;;;;;;;
+niusau;1;sv;vv;m;n;;;;niusau;n;n;;niusau;s;s;;niusau;s;s;;niusau;s;s;;imminent action: 'to be about to...';action imminente: 'être sur le point de';;;;H1;;Cumberland;m
+niut;1;sv;vn;t;;;;;niut;n;n;;niut;nas;nas;;niut;nas;nas;;niut;nas;nas;;something to be used in doing ...;quelque chose à utiliser en faisant ...;;;;H1;;;m
+nnajuk;2;sv;vv;m;n;;;;nnajuk;n;n;;nnajuk;s;s;;nnajuk;s;s;;nnajuk;s;s;;expresses deprecation or derogation, mild surprise that a person would act or have the nerve to act in a particular manner;;;;;;;;
+nnajuk;1;sn;nn;t;;;;;nnajuk;n;n;;nnajuk;s;s;;nnajuk;s;s;;nnajuk;s;s;;deprecation or derogation;;;;;;;;
+nngai;1;q;q;;;;;;nngai;n;n;;nngai;s;s;;nngai;s;s;;nngai;s;s;;coaxing, inoffensive questioning;;;;;;;;
+nngaq;1;sn;nv;m;t;;;;0;;0;;nngaq;nas;nas;;0;0;0;;0;0;0;;movement from: 'to come from';mouvement originant de: 'venir de';case:abl;;;A1;;;m
+nngiq;1;sn;nn;t;;;;;nngiq;n;n;;nngiq;s;s;;nngiq;s;s;;nngiq;s;s;;promiscuous;très libre;;;;;;;
+nngit;1;sv;vv;m;n;;;;nngit;n;n;;nngit;s;s;;nngit;s;s;;nngit;s;s;;general negation;;;;;;;;
+nnguaq;1;sn;nn;t;;;;;nnguaq;n;n;;nnguaq;s;s;;nnguaq;s;s;;nnguaq;s;s;;resemblance, likeness: 'which looks like';ressemblance: 'qui ressemble à';;;;H1;;;m
+nnguaq;2;sv;vv;m;n;;;;nnguaq;n;n;;nnguaq;s;s;;nnguaq;s;s;;nnguaq;s;s;;to simulate;;;;;;;;
+nnguk;1;sv;vv;m;n;;;;nnguk nnguq;n n;n;;nnguk nnguq;s s;s;;nnguk nnguq;s s;s;;nnguk nnguq;s s;s;;to be tired of, bored with;être fatigué de, lassé de;;;;H1;;;m
+nngusuk;1;sv;vv;m;n;;;;nngusuk;n;n;;nngusuk;s;s;;nngusuk;s;s;;nngusuk;s;s;;to be inclined to, to feel like doing ...;être enclin à, se sentir porté à faire quelque chose;;;;H1;;;m
+nnik;1;sv;vv;m;i;;;;nnik;n;n;;nnik;s;s;;nnik;s;s;;nnik;s;s;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:nnik/1vv;t;;;;;m
+paaluk;1;sv;vn;t;;;;;0;;0;;0;0;0;;0;0;0;;paaluk;n;n;;exaggeration, aggrandizement of the action: 'very much', 'a lot';exagération de l'action: 'beaucoup';id:juq/1vn;;;H1;;Cumberland;m
+paaq;1;sv;vv;f;;;;;paaq;n;n;;paaq;n;n;;paaq;n;n;;paaq;n;n;;exclamation: 'Oh, how ...!';exclamation: 'Oh, que ...!';;;;H1;;;m
+paaq;1;sn;nn;t;;;;;paaq;n;n;;paaq;n;n;;paaq;n;n;;paaq;n;n;;1) the most of all;;;;;;;;
+paluk;2;sv;vv;m;n;;;;paluk;n;n;;paluk;n;n;;paluk;n;n;;paluk;n;n;;a little, to a certain degree;un peu;;;;;;;
+paluk;1;sv;vn;t;;;;;paluk;n;n;;paluk;nas;nas;;paluk;n;n;;paluk;n;n;;a little, to a certain degree;un peu;;;;;;;
+pasaaq;1;sv;vv;m;n;;;;pasaaq;n;n;;pasaaq;n;n;;pasaaq;n;n;;pasaaq;n;n;;unexpected surprise: 'unexpectedly', 'surprisingly';surprise inattendue;;;;H1;;;m
+patsiuk;1;sn;nn;t;;;;;patsiuk;n;n;;patsiuk;n;n;;patsiuk;n;n;;patsiuk;n;n;;strong derogation;désapprobation forte;;;;H1;;Cumberland;m
+pillaq;1;sv;vv;m;n;;;;pillaq pillak;n n;n;;pillaq pillak;s s;s;;pillaq pillak;s s;s;;pillaq pillak;s s;s;;briefly;;;;;;;;
+qai;1;q;q;;;;;;qai;n;n;;qai;s;s;;qai;s;s;;qai;s;s;;perhaps, maybe;peut-être;;;;H1;;;m
+qajaa;1;sn;nn;f;;;;;qajaa;n;n;;qajaa;s;s;;qajaa;s;s;;qajaa;s;s;;negation;;;;;;;;
+qajaanngit;1;sn;nv;m;i;;;;qajaanngit qajaangit;n n;n;;qajaanngit qajaangit;s s;s;;qajaanngit qajaangit;s s;s;;qajaanngit qajaangit;s s;s;;to have no ...;ne pas avoir de ...;;;;H1;;;m
+qalauq;1;sv;vv;m;n;;;;qalauq;n;n;;qalauq;s;s;;qalauq;s;s;;qalauq;s;s;;brief action: 'for a few minutes', 'for a little while';action brève: 'quelques minutes';;;mode:imp;H1;;;m
+qallaq;1;sn;nn;t;;;;;qallaq;n;n;;qallaq;s;s;;qallaq;s;s;;qallaq;s;s;;squatness: 'short, fat';courtaud;;;;H1;;Cumberland;m
+qaminngit;1;sv;vv;m;n;;;;qaminngit;n;n;;qaminngit;s;s;;qaminngit;s;s;;qaminngit;s;s;;has not just done the action, but did it some time ago;ne vient pas de faire qqchose, mais l'a fait il y a quelque temps;;;;A1;;;m
+qammaq;1;sn;nn;t;;;;;qammaq;n;n;;qammaq;s;s;;qammaq;s;s;;qammaq;s;s;;poor, bad, worthless;pauvre, de mauvaise qualité, sans valeur;;;;H1;;;m
+qammaq;2;sv;vv;m;n;;;;qammaq;n;n;;qammaq;s;s;;qammaq;s;s;;qammaq;s;s;;poorly, in a bad way;pauvrement, mal (qualité);;;;H1;;;m
+qaq;1;sn;nv;m;i;;;;qaq;n;n;;qaq;s;s;;qaq;s;s;;qaq;s;s;;to have, to possess;avoir, posséder;;;;H1;;;m
+qarvik;1;sn;nn;t;;;;;qarvik;n;n;;qarvik;s;s;;qarvik;s;s;;qarvik;s;s;;a place for, a place to keep;un endroit pour, ou pour garder;;;;H1;qaq/1nv+vik/3vn;;m
+qatau;1;sv;vv;m;i;;;;qatau;n;n;;qatau;s;s;;qatau;s;s;;qatau;s;s;;to be accompanying in action: 'to go along';accompagner dans l'action;;;;H1;;;m
+qatauti;1;sv;vv;m;i;;;;qatauti;n;n;;qatauti;s;s;;qatauti;s;s;;qatauti;s;s;;mutual action: 'each other';action mutuelle: 'l'un l'autre';;;;H1;;;m
+qati;1;sv;vn;t;;;;;qati qatik;n n;n;;qati qatik;s s;s;;qati qatik;s s;s;;qati qatik;s s;s;;partner for;partenaire pour;;;;H1;;;m
+qati;1;sn;nn;t;;;;;qati rqati;n n;n;;qati rqati;s s;s;;qati rqati;s s;s;;qati rqati;s s;s;;s.o. who has the same, who is the same;qquun qui a le même ..., qui est le même;;;;S1;;;m
+qattaq;1;sv;vv;m;n;;;;qattaq;n;n;;qattaq;s;s;;qattaq;s;s;;qattaq;s;s;;regular or habitual action;;;;;;;;
+qauq;1;sn;nv;m;i;;;;qauq;n;n;;qauq;s;s;;qauq;s;s;;qauq;s;s;;to possess many ...;posséder plusieurs ...;;;;H1;qaq/1nv+uq/3vv;;m
+qauti;1;sn;nn;t;;;;;qauti;n;n;;qauti;s;s;;qauti;s;s;;qauti;s;s;;container for ...;contenant pour ...;;;;H1;qaq/1nv+ut/1vn;;m
+qi;1;sv;vv;m;n;;;;qi;n;n;;qi;s;s;;qi;s;s;;qi;s;s;;to do s.t. by oneself;faire qqchose par soi-même;;;;S1;;;m
+qqaaq;1;sv;vv;m;n;;;;qqaaq;n;n;;qqaaq;s;s;;qqaaq;s;s;;qqaaq;s;s;;first (before doing anything else);;;;;;;;
+qqau;1;sv;vv;m;n;;;;qqau;n;n;;qqau;s;s;;qqau;s;s;;qqau;s;s;;recent perceived past;passé récent perçu;;;;H1;;;m
+qqautau;1;sv;vv;m;n;;;;qqautau;n;n;;qqautau;s;s;;qqautau;s;s;;qqautau;s;s;;to be the first one(s) to do s.t.;être le(s) premier(s) à faire qqchose;;;;A1;;;m
+qquqtu;1;sn;nv;m;i;;;;qquqtu quqtu;n n;n;;qquqtu quqtu;s i(i);s i(i);;qquqtu quqtu;s s;s;;qquqtu quqtu;s s;s;;to have large (specified) body parts;avoir de grands ... (parties du corps);;;;A1;;;m
+qquuq;1;sv;vv;m;n;;;;qquuq;n;n;;qquuq;s;s;;qquuq;s;s;;qquuq;s;s;;probably;probablement;;;;H1;;;m
+qu;2;sv;vv;m;t;;;ji/1vv;qu;n;n;;qu;s;s;;qu;s;s;;qu;s;s;;to desire, to wish something to be done;désirer, souhaiter que quelque chose soit fait;;;;H1 A1;;;m
+qu;1;sv;vv;m;n;;;;qu;n;n;;qu;s;s;;qu;s;s;;qu;s;s;;so that' when used with participal verb endings;de sorte que' lorsqu'utilisé avec des terminaisons verbales au participe;;;mode:part;H1 A1;;;m
+quti;1;sn;nn;t;;;;;quti;n;n;;quti;s;s;;quti;s;s;;quti;s;s;;own;;;;;;;;
+quuji;1;sv;vv;m;i;;;;quuji;n;n;;quuji;s;s;;quuji;s;s;;quuji;s;s;;ressemblance;;;;;;;;
+rajaaq;1;sv;vv;m;n;;;;rajaaq;n;n;;rajaaq;s;s;;rajaaq;s;s;;rajaaq;s;s;;to be slow, to take a long time to;être lent, prendre longtemps à faire qqchose;;;;A1;;;m
+ralaaq;1;sn;nn;t;;;;;ralaaq;n;n;;ralaaq;s;s;;ralaaq;s;s;;ralaaq;s;s;;small;petit;;;;H1;;;m
+raq;1;sv;vv;m;n;;;;raq;n;n;;raq;s;s;;raq;s;s;;raq;s;s;;prolonged action, or action occurring in distinct stages, one part after another;action prolongée, ou action survenant par étapes distinctes successives;;;;H1;;;m
+rataaq;1;sv;vv;m;n;;;;rataaq;n;n;;rataaq;s;s;;rataaq;s;s;;rataaq;s;s;;immediate perceived past;passé immédiat perçu: 'venir juste de';;;;H1;;;m
+ri;1;sv;vv;m;i;;;;0;;0;;0;0;0;;0;0;0;;ri;s;s;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:ri/1vv;t;;H1;;;m
+rngaq;1;sv;vv;m;n;;;;rngaq;n;n;;rngaq;s;s;;rngaq;s;s;;rngaq;s;s;;for the first time;pour la première fois;;;;;;;m
+rujuk;1;sv;vv;m;n;;;;rujuk;n;n;;rujuk;s;s;;rujuk;s;s;;rujuk;s;s;;to a small degree, slight amount;un peu;;;;H1;;;m
+rujuq;1;sn;nn;m;;;;;rujuq;n;n;;rujuq;s;s;;rujuq;s;s;;rujuq;s;s;;collectiveness;;;;;;;;
+rujuq;2;sn;nn;t;;;;;rujuq;n;n;;rujuq;s;s;;jujuq;s;s;;rujuq;s;s;;used on place names to indicate the place and the surrounding area, or following numerals to indicate approximate time;utilisé avec des noms d'endroit pour indiquer l'endroit et ses environs, ou après des nombres pour indiquer le temps approximatif;;;;H1;;;m
+rulu;1;sn;nn;t;;;;;rulu ruluk;n n;n;;rulu ruluk;s s;s;;rulu ruluk;s s;s;;rulu ruluk;s s;s;;severe derogation (when this suffix is in final position, the word may be interpreted as a verb in the 3rp person);;;;;;;;
+rulu;2;sv;vv;m;n;;;;rulu;n;n;;rulu;s;s;;rulu;s;s;;rulu;s;s;;severe derogation;;;;;;;;
+rusiq;2;sn;nn;t;;;;;rusiq;n;n;;rusiq;s;s;;rusiq;s;s;;rusiq;s;s;;a unit of, a section or part of;une unité de, une section ou partie de;;;;H1;;;m
+rusiq;1;sv;vn;t;;;;;rusiq;n;n;;rusiq;s;s;;rusiq;s;s;;rusiq;s;s;;a unit of, a section or part of;une unité de, une section ou partie de;;;;H1;;;m
+saali;1;sv;vv;m;n;;;;saali;n;n;;saali;n;n;;saali;n;n;;saali;n;n;;early;tôt;;;;H1;;;m
+saaq;1;sv;vv;m;n;;;;saaq;n;n;;saaq;s;s;;saaq;s;s;;saaq;s;s;;just;;;;;;;;
+saaq;1;sv;vn;m;;;;;saaq;n;n;;saaq;s;s;;saaq;s;s;;saaq;s;s;;one who has just done the action;qui vient juste de faire l'action;;;;S1;;;m
+saq;1;sv;vv;m;t;;;i/1vv;saq;n;n;;saq;s;s;;saq;n;n;;saq;n;n;;working at something to achieve a desired state, usually through prolonged action;en train de travailler à quelque chose pour obtenir un résultat désiré, d'habitude par une action prolongée;;;;H1;;;m
+sarait;1;sv;vv;m;n;;;;sarait;n;n;;sarait;s;s;;sarait;n;n;;sarait;n;n;;easiness or speed of action: 'quickly';;;;;;;;
+saritu;1;sv;vv;m;n;;;;saritu;n;n;;saritu;s;s;;saritu;n;n;;saritu;n;n;;to be slow;être lent;;;;A1;;;m
+si;2;sv;vv;m;n;;;;si;n;n;;si;s;s;;si;s;s;;si si;s n;s n;;the action is being done now, where it was not the case before;;;;;;;;
+si;4;sn;nv;m;t;;;i/1vv;si;n;n;;si;n;n;;si;n;n;;si;n;n;;to sight an animal;;;;;;;;
+si;1;sv;vv;m;i;;;;si;n;n;;si;n;n;;si;n;n;;si;n;n;;added to transitive verb stems such that they retain their transitive sense when followed by intransitive infixes or endings, to avoid their otherwise reflexive or passive senses;ajouté à des radicaux verbaux transitifs afin qu'ils conservent leur sens transitif lorsqu'ils sont suivis d'infixes ou de terminaisons intransitives, pour empêcher qu'ils prennent autrement leurs sens réfléchis ou passifs;antipassive:si/1vv;t;;H1;;;m
+si;3;sv;vv;m;i;;;;si;n;n;;si;n;n;;si;n;n;;si;n;n;;added to gi-verbs to make them intransitive;ajouté aux verbes 'gi' pour les rendre intransitifs;type:v,intransinfix:si/3vv;i;;H1;;;m
+siaq;1;sn;nn;t;;;;;siaq;n;n;;siaq;n;n;;siaq;n;n;;siaq;n;n;;something found;qqch qui a été trouvé;;;;A1;;;m
+siaq;1;sv;vn;t;;;;;siaq;n;n;;siaq;n;n;;siaq;n;n;;siaq;n;n;;an action that is waited for completion;une action dont on attend la complétion;;;;H1;;;m
+siaq;1;sn;nv;m;i;;;;siaq;n;n;;siaq;n;n;;siaq;n;n;;siaq;n;n;;to come across;;;;;;;;
+sima;1;sv;vv;m;n;;;;sima;n;n;;sima sima;s n;s n;;sima;n;n;;sima;n;n;;to be in a state acquired through a completed action (the word can be active, or passive);être dans un état atteint à la suite d'une action complétée (le mot peut être actif, ou passif);;;;H1 A1;;;m
+siq;1;sv;vv;m;t;;;i/1vv;siq;n;n;;siq;n;n;;siq;n;n;;siq;n;n;;to put or bring out, to be put or brought up for some natural process;;;;;;;;
+siq;2;sv;vn;t;;;;;siq;n;n;;siq;s;s;;siq;s;s;;siq;s;s;;custom;;;;;;;;
+siri;1;sn;nv;m;i;;;;siri;n;n;;siri;s;s;;siri;?;?;;siri;?;?;;to have ache or pain at;avoir mal à;;;;A1;;;m
+siuq;1;sn;nv;m;t;;;ri/1vv;siuq;n;n;;siuq;n;n;;siuq;n;n;;siuq;n;n;;searching, looking for s.t. (trans.: of, for, about s.o.);;;;;;;;
+siut;1;sn;nn;t;;;;;siut;n;n;;siut siut;n i(i);n i(i);;siut;n;n;;siut;n;n;;something for, for use with s.t. or on some occasion;quelque chose pour, pour être utilisé avec qqch ou à une certaine occasion;;;;H1;;;m
+suk;1;sv;vv;m;i;;;;suk;n;n;;suk;s;s;;suk;s;s;;0;0;0;;added to gi-verbs to use them intransitively;ajouté aux verbes 'gi' pour les utiliser intransitivement;type:v,intransinfix:suk/1vv;i;;H1;;;m
+sungaaq;1;sv;vv;m;n;;;;sungaaq;n;n;;sungaaq;s;s;;sungaaq;s;s;;sungaaq;s;s;;if at least';si au moins';;;mode:cond;A1;;;m
+sungnik;1;sn;nv;m;n;;;;sungnik;n;n;;sungnik;n;n;;sungnik;n;n;;sungnik;n;n;;to smell or taste like something;sentir ou goûter comme quelque chose;;;;H1;;;m
+sungnik;2;sn;nn;t;;;;;sungnik;n;n;;sungnik;n;n;;sungnik;n;n;;sungnik;n;n;;something with the odour or the taste of (when the suffix is in final position, the word can be interpreted verbally in the 3rd person);quelque chose avec la senteur ou le goût de (lorsque le suffixe est en position finale, le mot peut être interprété verbalement à la 3ème personne);;;;H1;;;m
+suq;1;sv;vv;m;t;;;i/1vv;suq;n;n;;suq;s;s;;suq;n;n;;suq;n;n;;prolonged action: 'for a long time';action prolongée: 'pendant longtemps';;;;A1;;;m
+suujaq;1;sv;vv;m;n;;;;suujaq;n;n;;suujaq;s;s;;suujaq;s;s;;suujaq;s;s;;prolonged action: 'for a long time';action prolongée: 'pendant longtemps';;;;H1;suuq/1vn+u/1nv+jaq/2vv;;m
+suuq;1;sv;vn;t;;;;;suuq juuq;n n;n;;suuq;s;s;;suuq;s;s;;suuq;s;s;;one who habitually performs an action (when the suffix is in final position, the word can be interpreted verbally in the 3rd person);quelqu'un qui accomplit habituellement une action (sque le suffixe est en position finale, le mot peut être interprété verbalement à la 3ème personne);;;;H1;;;m
+suuq;2;sn;nn;t;;;;;suuq;n;n;;suuq;s;s;;suuq;s;s;;suuq;s;s;;similiraty;;;;;;;;
+t;1;sv;vv;m;t;;;si/1vv;t;n;n;;0;0;0;;0;0;0;;0;0;0;;the action is done for, to, because of, instead of s.o. or s.t. (depending on the action);l'action est faite, exercée, appliquée sur lui, à lui, par égard à lui, à cause de lui, au lieu de lui;type:v;;;S1;;;nm
+taaq;1;sn;nv;m;i;;;;taaq;n;n;;taaq;n;n;;taaq;n;n;;taaq;n;n;;acquisition: 'to get';acquisition: 'obtenir', 'acquérir';;;;H1;;;m
+taaq;2;sn;nn;t;;;;;taaq;n;n;;taaq;n;n;;taaq;n;n;;taaq;n;n;;newly-acquired thing;quelque chose nouvellement acquise;;;;H1;;;m
+taasaaq;1;sn;nn;t;;;;;taasaaq;n;n;;taasaaq;n;n;;taasaaq;n;n;;taasaaq;n;n;;newly-acquired thing;quelque chose nouvellement acquise;;;;H1;;;m
+tainnaq;1;sv;vv;m;n;;;;tainnaq;n;n;;tainnaq;s;s;;tainnaq;s;s;;tainnaq;s;s;;at last;;;;;;;;
+talik;1;sn;nn;t;;;;;talik;n;n;;talik;s;s;;talik;s;s;;talik;s;s;;possession, when referring to an antecedent;possession de quelque chose déjà mentionné;;;;H1;;;m
+tamaat;1;sn;nn;t;;;;;tamaat;n;n;;tamaat;n;n;;tamaat;n;n;;tamaat;n;n;;every;chaque;;;;A1;;;m
+tannaq;1;sn;nn;t;;;;;tannaq;n;n;;tannaq;s;s;;tannaq;s;s;;tannaq;s;s;;squatness: 'short, fat';courtaud;;;;H1;;North Baffin;m
+tappiaq;1;sv;vv;m;n;;;;tappiaq;n;n;;tappiaq;n;n;;tappiaq;n;n;;tappiaq;n;n;;possibility of something undesirable: 'might';possibilité de quelque chose d'indésirable: 'pourrait';;;mode:caus;H1;;;m
+taq;2;sn;nv;m;i;;;;taq;n;n;;taq;n;n;;taq;n;n;;taq;n;n;;to gather;;;;;;;;
+taq;1;sv;vv;m;t;;;si/1vv ri/1vv;taq;n;n;;taq;n;n;;taq;n;n;;taq;n;n;;repetitive action: 'back and forth';;;;;;;;
+taqaq;1;sn;nv;m;i;;;;taqaq;n;n;;taqaq;s;s;;taqaq;s;s;;taqaq;s;s;;possession, when referring to an antecedent;possession de quelque chose déjà mentionné;;;;H1;;;m
+tigi;1;sv;vv;m;i;;;;tigi;n;n;;tigi;n;n;;tigi;n;n;;tigi;n;n;;to be as ... as;être aussi ... que;;;;H1;;;m
+tiq;1;sv;vn;t;;;;;tiq;n;n;;tiq;n;n;;tiq;n;n;;tiq;n;n;;young precocious person who performs an action well;jeune personne précoce qui accomplit une action bien;;;;H1;;;m
+tit;1;sv;vv;m;t;;;si/1vv;tit;n;n;;tit tit;n s;n s;;tit;n;n;;tit;n;n;;to cause s.o. (refl.: oneself) to do s.t.;causer;;;;;;;
+tsaliq;1;sv;vv;m;n;;;;tsaliq;n;n;;tsaliq;s;s;;tsaliq;s;s;;tsaliq;s;s;;really;réellement;;;;;;;m
+tsiaq;2;sn;nn;t;;;;;tsiaq;n;n;;tsiaq;s;s;;tsiaq;s;s;;tsiaq;s;s;;fine;;;;;;;;
+tsiaq;1;sv;vv;m;n;;;;tsiaq;n;n;;tsiaq;s;s;;tsiaq;s;s;;tsiaq;s;s;;to do something well, in a good manner;faire quelque chose bien, correctement;;;;H1;;;m
+tsiavak;1;sn;nn;t;;;;;tsiavak;n;n;;tsiavak;s;s;;tsiavak;s;s;;tsiavak;s;s;;very fine, very good, excellent;très bon, excellent;;;;H1;;;m
+tsiriaq;1;sv;vv;m;i;;;;tsiriaq;n;n;;tsiriaq;s;s;;tsiriaq;s;s;;tsiriaq;s;s;;to be easily ...;être facilement ...;;;;A1;;;m
+ttaili;1;sv;vv;m;n;;;;ttaili;n;n;;taili;n;n;;taili;n;n;;taili;n;n;;refusal, refraining from: 'to refuse to';refuser de;;;;H1;;;m
+ttauq;1;q;q;;;;;;ttauq;n;n;;tauq;n;n;;tauq;n;n;;tauq;n;n;;and, also;et, aussi;;;;H1;;;m
+ttuq;1;sn;nv;m;i;;;;ttuq;n;n;;ttuq;s;s;;ttuq;s;s;;ttuq;s;s;;to start to have a large ...;;;;;;;;
+tu;1;sn;nv;m;i;t;;;tu tuu;n n;n;;tu tuu;s s;s;;tu tuu;s s;s;;tu tuu;s s;s;;largeness, to have a large ...;;;;;;;;
+tu;1;sv;vv;m;n;;;;tu;n;n;;tu;s;s;;tu;s;s;;tu;s;s;;profoundly;;;;;;;;
+tuaq;2;sn;nn;t;;;;;tuaq;n;n;;tuaq;s;s;;tuaq;s;s;;tuaq;s;s;;exclusiveness: 'only one';;;;;;;;
+tuaq;1;sv;vv;m;n;;;;tuaq;n;n;;tuaq;s;s;;tuaq;s;s;;tuaq;s;s;;immediacy of action: 'as soon as...';;;;;;;;
+tuinnaq;2;sn;nn;t;;;;;tuinnaq;n;n;;tuinnaq;s;s;;tuinnaq;s;s;;tuinnaq;s;s;;ordinaryness, lack of special qualities;;;;;;;;
+tuinnaq;1;sv;vv;m;n;;;;tuinnaq;n;n;;tuinnaq;s;s;;tuinnaq;s;s;;tuinnaq;s;s;;merely;;;;;;;;
+tuinnariaqaq;1;sv;vv;m;n;;;;tuinnariaqaq;n;n;;tuinnariaqaq;s;s;;tuinnariaqaq;s;s;;tuinnariaqaq;s;s;;only action remaining to be done: 'to have nothing more to do but...';seule action qui reste: 'n'avoir rien d'autre à faire que...';;;;H1;tuinnaq/1vv+jariaq/1vn+qaq/1nv;;m
+tuinnau;1;sv;vv;m;n;;;;tuinnau;n;n;;tuinnau;n;n;;tuinnau;n;n;;tuinnau;n;n;;action done by all;l'action est accomplie par tous;;;;S1;;;m
+tukaq;1;sn;nn;t;;;;;tukaq;n;n;;tukaq;i(i);i(i);;tukaq;s;s;;tukaq;s;s;;old;vieux;;;;H1;;;m
+tuq;1;sv;vv;m;t;;;i/1vv;tuq;n;n;;tuq;s;s;;tuq;n;n;;tuq;n;n;;prolonged action: 'for a long time';action prolongée: 'pendant longtemps';;;;A1;;;m
+tuq;1;sn;nv;m;i;t;;;tuq;n;n;;tuq;n;n;;tuq;n;n;;tuq;n;n;;to use an object in the manner in which it was intended to be used;;;;;;;;
+tuqaq;1;sn;nn;t;;;;;tuqaq;n;n;;tuqaq;i(i);i(i);;tuqaq tuqaq;n s;n s;;tuqaq tuqaq;n s;n s;;old, acquired long time ago;vieux, acquis il y a longtemps;;;;A1;;;m
+tuuq;2;sn;nv;f;;;;;tuuq;n;n;;tuuq;s;s;;tuuq;s;s;;tuuq;s;s;;longing: 'I wish I ...';Que j'aimerais donc...';;;;H1;;;m
+tuuq;1;sn;nn;t;;;;;tuuq;n;n;;tuuq;n;n;;tuuq;n;n;;tuuq;n;n;;attached to animal names to mean 'a place abounding in...';attaché à des noms d'animaux pour signifier 'un endroit abondant en...';;;;H1;;;m
+u;1;sn;nv;m;n;;;;u;n-i(ng);n;i(ng);u u;s-i(ng) i(i);s i(i);i(ng) -;u;s-i(ng);s;i(ng);u;s-i(ng);s;i(ng);existence;;;;;;;;
+ujjaq;1;sv;vn;t;;;;;ujjaq;i(jj);i(jj);;ujjaq;si(jj);si(jj);;ujjaq;son;son;;ujjaq ujjaq;son s-?;son s;;s.o. for, to, with whom the action is done;;;;;;;;
+ujjuaq;1;sv;vv;m;i;;;;ujjuaq;n;n;?;ujjuaq;s;s;?;ujjuaq;s-?;s;?;ujjuaq;s-?;s;?;competition in the action of the verb;compétition dans l'action du verbe;;;number:d number:p;A1;;;m
+uq;2;sn;nv;m;i;;;;0;n;0;;uq;s;s;;0;0;0;;0;0;0;;to imitate, to do like;imiter, faire comme;case:sim;;;;;;m
+uq;1;sn;nv;m;i;;;;0;n;0;;uq;s;s;;0;0;0;;0;0;0;;to go through;aller, passer à travers;case:via;;;S1;;;m
+uq;3;sv;vv;m;t;;;ri/1vv;uq;n;n;;uq;s;s;;uq;s;s;;uq;s-?;s;;frequentative: many subjects;;;;;;;;
+uqqaq;1;sv;vv;m;t;;;i/1vv;uqqaq;n-decap;n;decap;uqqaq;i(i);i(i);;uqqaq;s-decap;s;decap;uqqaq;s-decap;s;decap;"to do an action upon something repeatedly: ""one after another""";"faire une action de manière répétée sur quelque chose: ""l'un après l'autre""";;;;;;;m
+usiq;1;sv;vn;t;;;;;usiq usiq;n-i(jj) i(jj);n i(jj);i(jj) -;usiq usiq;s-i(jj) si(jj);s si(jj);i(jj) -;usiq usiq;s-i(jj) si(jj);s si(jj);i(jj) -;usiq usiq qusiq;s -i(jj)son n;s son n;i(jj) - -;custom;;;;;;;;
+ut;2;sn;nn;t;;;;;ut uti;n n;n;;ut uti;s s;s;;ut uti;s s;s;;ut uti;s-? s-?;s;;bag, container for;;;;;;;;
+ut;1;sv;vn;t;;;;;ut uti utik utaq gut guti gutik gutaq ut uti utik utaq;n-i(jj) n-i(jj) n-i(jj) n-i(jj) n n n n i(jj) i(jj) i(jj) i(jj);n n n n n n n n i(jj) i(jj) i(jj) i(jj);i(jj) i(jj) i(jj) i(jj) - - - - - - - -;ut uti utik utaq guti;s-i(jj) s-i(jj) s-i(jj) s-i(jj) s;s s s s s;i(jj) i(jj) i(jj) i(jj) -;ut uti utik utaq guti;s-i(jj) s-i(jj) s-i(jj) s-i(jj) s;s s s s s;i(jj) i(jj) i(jj) i(jj) -;rut ruti rutik rutaq ut uti utik utaq qut quti qutik qutaq;s s s s s-s(a) s-s(a) s-s(a) s-s(a) n n n n;s s s s s s s s n n n n;- - - - s(a) s(a) s(a) s(a) - - - -;object, instrument, tool for doing s.t.;;;;;;;;
+uti;3;sn;nn;t;;;;;;;0;;;;0;;;;0;;uti;s-?;s;;indefinite pronoun 'one';pronom indéfini 'quelqu'un';id:juq/1vn;;;H1;;;m
+uti;1;sv;vv;m;t;;;ji/1vv;uti;i(jj);i(jj);;uti;si(jj);si(jj);;uti;son;son;;uti uti;son s-?;son s;;to do the action for, to, with him/her/it;;;;;;;;
+vaalliq;1;sv;vv;m;n;;;;vaaliq;n;n;;paalliq;n;n;;paalliq;n;n;;paalliq;n;n;;to do something that one didn't do before;faire quelque chose qu'on ne faisait pas auparavant;;;;H1;;;m
+vagiq;1;sv;vv;m;n;;;;vagiq vagiiq;n n;n;;pagiq pagiiq;n n;n;;pagiq pagiiq;n n;n;;pagiq pagiiq;n n;n;;to have already done something;avoir déjà accompli une action;;;;H1;;;m
+vai;1;sn;nv;m;i;;;;vai;n;n;;pai;n;n;;pai;n;n;;pai;n;n;;to go towards a location (used with traditional locations: side, back, front, ...);aller vers un endroit (utilisé avec les endroits traditionnels: côté, devant, derrière, ...);;;;A1;;;m
+vak;1;sv;vv;m;n;;;;vak;n;n;;pak;n;n;;pak;n;n;;pak;n;n;;common action: 'often';action commune: 'souvent';;;;H1;;;m
+valatsi;1;sv;vv;m;i;;;;valatsi;n;n;;palatsi;n;n;;palatsi;n;n;;palatsi;n;n;;to sound like;ressembler par le son à;;;;;;;
+vallai;1;sv;vv;m;n;;;;vallai;n;n;;pallai;n;n;;pallai;n;n;;pallai;n;n;;probably;probablement;;;;H1;;;m
+vallia;1;sv;vv;m;n;;;;vallia;n;n;;pallia;n;n;;pallia;n;n;;pallia;n;n;;progression;;;;;;;;
+vaq;1;sn;nv;m;i;;;;vaq;n;n;;paq;n;n;;paq;n;n;;paq;n;n;;to go towards a location (used with traditional locations: side, back, front, ...);aller vers un endroit (utilisé avec les endroits traditionnels: côté, devant, derrière, ...);;;;A1;;;m
+vasaaq;1;sv;vv;m;n;;;;vasaaq;n;n;;pasaaq;n;n;;pasaaq;n;n;;pasaaq;n;n;;to do what one never did before;faire ce qu'on n'a jamais fait auparavant;;;;A1;;;m
+vasik;1;sn;nv;m;i;;;;vasik;n;n;;pasik;n;n;;pasik;n;n;;pasik;n;n;;to be too close of a location (used with traditional locations: side, back, front, ...);être trop près d'un endroit (utilisé avec les endroits traditionnels: côté, devant, derrière, ...);;;;A1;;;m
+vigjuaraaluk;1;sv;vn;t;;;;;vigjuaraaluk;n;n;;vigjuaraaluk;s;s;;vigjuaraaluk;s;s;;vigjuaraaluk;s;s;;extreme: 'very, very' (when the suffix is in final position, the word can be interpreted as a verb in the 3rd person);extrême: 'très, très' (lorsque le suffixe est en position finale, le mot peut être interprété comme un verbe à la 3ème personne);;;;H1;;;m
+vik;3;sv;vn;t;;;;;vik vik;n i(p);i(p) n;;vik;a;a;;vik;son;son;;vik;son;son;;place where the action of the verb takes place;endroit où se passe l'action du verbe;;;;H1;;;m
+vik;1;sn;nn;t;;;;;vik;n;n;;vik;s;s;;vik;s;s;;vik;s;s;;enormous;;;;;;;;
+vik;2;sv;vv;m;n;;;;vik;n;n;;vik;s;s;;vik;s;s;;vik;s;s;;finality: 'for good';;;;;;;;
+viniq;1;sn;nn;t;;;;;viniq;n;n;;viniq;s;s;;viniq;s;s;;viniq;s;s;;denotes a former state;;;;;;;;
+vvaluk;1;sn;nv;m;i;;;;vvaluk;n;n;;vvaluk;s;s;;vvaluk;s;s;;vvaluk;s;s;;to sound like;ressembler par le son à;;;;;;;

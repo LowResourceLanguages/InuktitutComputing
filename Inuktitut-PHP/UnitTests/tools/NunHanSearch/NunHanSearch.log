@@ -1,0 +1,42 @@
+DEBUG> 2012-10-29 18:10:42-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:10:42-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= iu
+DEBUG> 2012-10-29 18:10:42-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:11:57-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:11:57-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= iu
+DEBUG> 2012-10-29 18:11:57-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:13:01-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:13:01-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= en
+DEBUG> 2012-10-29 18:13:01-05:00 [Alignment.highlight] - $text= inuits and their land
+DEBUG> 2012-10-29 18:13:47-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:13:47-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= en
+DEBUG> 2012-10-29 18:13:47-05:00 [Alignment.highlight] - $text= inuits and their land
+DEBUG> 2012-10-29 18:14:55-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:14:55-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= en
+DEBUG> 2012-10-29 18:14:55-05:00 [Alignment.highlight] - $text= Inuits and Their Land
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= en
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.highlight] - $text= Inuits and Their Land
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.to_html_string] - $this->language=iu
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.highlight] - $queryRE= nunanga ; $lang= iu
+DEBUG> 2012-10-29 18:16:41-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:30:20-05:00 [Alignment.highlight] - $queryRE= .*?nga ; $lang= iu
+DEBUG> 2012-10-29 18:30:20-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:30:50-05:00 [Alignment.highlight] - $queryRE= .*?nga ; $lang= iu
+DEBUG> 2012-10-29 18:30:50-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:33:51-05:00 [Alignment.highlight] - $queryRE= nga ; $lang= iu
+DEBUG> 2012-10-29 18:33:51-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:34:37-05:00 [Alignment.highlight] - $queryRE= .+nga ; $lang= iu
+DEBUG> 2012-10-29 18:34:37-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:35:11-05:00 [Alignment.highlight] - $queryRE= .+?nga ; $lang= iu
+DEBUG> 2012-10-29 18:35:11-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 18:35:44-05:00 [Alignment.highlight] - $queryRE= .*?nga ; $lang= iu
+DEBUG> 2012-10-29 18:35:44-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.to_html_string] - $this->language=en
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $queryRE= their land ; $lang= en
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $text= Inuits and Their Land
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.to_html_string] - $this->language=iu
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $queryRE= nunanga ; $lang= iu
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $queryRE= \S*?nga ; $lang= iu
+DEBUG> 2012-10-29 19:03:37-05:00 [Alignment.highlight] - $text= inuit amma nunanga
+DEBUG> 2012-10-30 18:23:24-05:00 [Grepper.escapeChars] - $grepQuery= 'ᐃᓄᐃᑦ'

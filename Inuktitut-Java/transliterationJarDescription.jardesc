@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Documents and Settings/farleyb/workspace/Inuktitut/transliteration.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Inuktitut/transliterationJarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Inuktitut/&lt;org.w3c.tidy"/>
+        <javaElement handleIdentifier="=Inuktitut/&lt;utilites1"/>
+        <javaElement handleIdentifier="=Inuktitut/&lt;html"/>
+        <javaElement handleIdentifier="=Inuktitut/&lt;polices"/>
+        <javaElement handleIdentifier="=Inuktitut/&lt;ecriture"/>
+    </selectedElements>
+</jardesc>

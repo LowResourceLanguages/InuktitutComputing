@@ -1,0 +1,19 @@
+morpheme;variant;key;type;nature;per;number;engMean;freMean;composition;condOnNext;END
+igvit;ipvit;1;pr;per;2;s;you;;;;
+ili;;1;rpr;per;2;;you;toi;;;
+ilipsi;;1;pr;per;2;p;you many;;;;
+iluunna;;1;pr;sem;;p;all of;tous;;type:tn,poss:true,number:p,possNumber:p;.
+iluunnatik;iluunnanik;1;pr;sem;;p;"all; all of them; every one";"tous; chacun d'eux";;;.
+kikkut;;1;pr;int;;p;who;qui;;;.
+kina;;1;pr;int;;s;who;qui;;;.
+kinakkut;;1;pr;int;;p;who;qui;kina/1p+kkut/1nn;;.
+kisu;;1;pr;int;;s;what;quoi;;;.
+kisut;;1;pr;int;;p;what;quoi;;;.
+kitut;;1;pr;int;;p;who;qui;;;.
+su;;1;pr;int;;s;what;quoi;;;.
+suna;;1;pr;int;;s;what;quoi;;;.
+tama;;1;pr;sem;;p;all of;tous;;type:tn,poss:true,number:p,possNumber:p;.
+uva;;1;rpr;per;1;;me;;;;
+uvaguk;;1;pr;per;1;d;we two;;;;
+uvagut;;1;pr;per;1;p;we many;;;;
+uvanga;;1;pr;per;1;s;I;;;;

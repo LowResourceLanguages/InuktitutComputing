@@ -1,0 +1,264 @@
+@aagga aagga------------------------
+>>>{aakka:aakka/1a}
+
+@iksivautaaq iksivautaaq------------------------
+>>>[decomposition:/iksiva(iksiva)/utaaq(ut)/]
+
+@imaimmat imaimmat------------------------
+>>>[decomposition:/imaimmat(imaimmat)/]
+
+
+
+@issivautaaq issivautaaq------------------------
+>>>[decomposition:/issiva(iksiva)/utaaq(ut)/]
+
+@itsivautaaq itsivautaaq------------------------
+>>>[decomposition:/itsiva(iksiva)/utaaq(ut)/]
+
+@katimajit katimajit------------------------
+>>>{kati:kati/1v}{ma:ma/1vv}{ji:ji/1vn}{t:it/tn-nom-p}
+
+@katimmajjutiksaq katimmajjutiksaq------------------------
+>>>{kati:kati/1v}{mma:ma/1v}{jjuti:jjut/1vn}{ksaq:ksaq/1nn}
+
+@kiinaujatigut kiinaujatigut------------------------
+>>>{kiinauja:kiinaujaq/1n}{tigut:tigut/tn-via-p}
+
+@maligaliuqtit maligaliuqtit------------------------
+>>>{maliga:maligaq/1n}{liuq:liuq/1nv}{ti:ji/1vn}{t:it/tn-nom-p}
+
+@maligatigut maligatigut------------------------
+>>>{maliga:maligaq/1n}{tigut:tigut/tn-via-p}
+
+@mamianaq mamianaq------------------------
+>>>{mamia:mamiak/1v}{naq:naq/1vn}
+
+
+
+
+@marrunnik marrunnik------------------------
+>>>{marrun:marruuk/1n}{nik:nik/tn-acc-p}
+
+
+
+
+
+@milianik milianik------------------------
+>>>{milia:milian/1n}{nik:nik/tn-acc-p}
+
+@milianit milianit------------------------
+>>>{milia:milian/1n}{nit:nit/tn-abl-p}
+
+@nakuqmi nakuqmi------------------------
+>>>{nakuq:nakuq/1v}{mi:miik/1vn}
+
+@nakuqmii nakuqmii------------------------
+>>>{nakuq:nakuq/1v}{mii:miik/1vn}
+
+@naliqqangit naliqqangit------------------------
+>>>{naliqqa:naliqqaq/1n}{ngit:ngit/tn-nom-p-4s}
+
+@nalliani nalliani------------------------
+>>>{nalli:nalliq/1pr}{ani:ngani/tn-loc-s-4s}
+
+
+
+@nigiani nigiani------------------------
+>>>{nigi:niggig/1n}{ani:ngani/tn-loc-s-4s}
+
+@niqsunaqtuq niqsunaqtuq------------------------
+>>>{niqsu:niqtuq/1v}{naq:naq/1vv}{tuq:juq/1vn}
+
+@nunnguani nunnguani------------------------
+>>>{nunngu:nunnguq/1n}{ani:ngani/tn-loc-s-4s}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@paktaqtuqtut paktaqtuqtut------------------------
+>>>{paktak:paktak/1v}{tuq:tuq/1vv}{tut:jut/tv-ger-3p}
+
+
+@pigiaqtitat pigiaqtitat------------------------
+>>>{pi:pi/1v}{giaq:giaq/1vv}{ti:tit/1vv}{ta:jaq/1vn}{t:it/tn-nom-p}
+
+@piliriaksat piliriaksat------------------------
+>>>{piliria:piliriaq/1n}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+
+
+
+
+
+
+
+
+@piqujaksat piqujaksat------------------------
+>>>{pi:pi/1v}{qu:qu/2vv}{ja:jaq/1vn}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+
+
+@qallunaatitut qallunaatitut------------------------
+>>>{qallunaaq:qaplunaaq/1n}{titut:titut/tn-sim-p}
+
+@qattinik qattinik------------------------
+>>>{qatti:qapsit/1n}{nit:nit/tn-acc-p}
+
+@taaksumunga taaksumunga------------------------
+>>>{taaksu:taapsu/rpd-sc-s}{munga:munga/tpd-dat-s}
+
+
+@taimannganit taimannganit------------------------
+>>>{taimanngat:taimanngat/1a}{nit:nit/tn-abl-p}
+
+
+@tamani tamani------------------------
+>>>{tam:tama/rad-ml}{ani:ani/tad-loc}
+
+
+
+
+@tanna tanna------------------------
+>>>{tanna:taamna/pd-sc-s}
+
+@titiqqak titiqqak------------------------
+>>>[decomposition:/titiqqak(titiqqaq)/]
+
+
+@titiqqakkut titiqqakkut------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/kkut(kkut)/]
+
+@titiqqakkuvik titiqqakkuvik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/kku(kkut)/vik(vik)/]
+
+@titiqqamik titiqqamik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/mik(mik)/]
+
+@titiqqanik titiqqanik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/nik(nik)/]
+
+@titiqqanit titiqqanit------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/nit(nit)/]
+
+@titiqqaq titiqqaq------------------------
+>>>[decomposition:/titiqqaq(titiqqaq)/]
+
+@titiqqat titiqqat------------------------
+>>>[decomposition:/titiqqat(titiqqat)/]
+
+
+@titiqqatigut titiqqatigut------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/tigut(tigut)/]
+
+@ukiuqtaqtumi ukiuqtaqtumi------------------------
+>>>{ukiuqtaqtu:ukiuqtaqtu/1n}{mi:mi/tn-loc-s}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@ukiurtartumi ukiurtartumi------------------------
+>>>{ukiurtartu:ukiuqtaqtu/1n}{mi:mi/tn-loc-s}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@uqausiksat uqausiksat------------------------
+>>>{uqausi:uqausiq/1n}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+
+
+
+
+

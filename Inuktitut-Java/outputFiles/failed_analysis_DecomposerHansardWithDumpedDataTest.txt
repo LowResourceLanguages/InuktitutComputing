@@ -1,0 +1,277 @@
+aagga aagga------------------------
+>>>{aakka:aakka/1a}
+
+iksivautaaq iksivautaaq------------------------
+>>>[decomposition:/iksiva(iksiva)/utaaq(ut)/]
+
+imaimmat imaimmat------------------------
+>>>[decomposition:/imaimmat(imaimmat)/]
+{ima:imaq/2n}{im:it/2nv}{mat:mat/tv-caus-4s}
+{ima:imaq/1n}{im:it/2nv}{mat:mat/tv-caus-4s}
+
+issivautaaq issivautaaq------------------------
+>>>[decomposition:/issiva(iksiva)/utaaq(ut)/]
+
+itsivautaaq itsivautaaq------------------------
+>>>[decomposition:/itsiva(iksiva)/utaaq(ut)/]
+
+katimajit katimajit------------------------
+>>>{kati:kati/1v}{ma:ma/1vv}{ji:ji/1vn}{t:it/tn-nom-p}
+
+katimmajjutiksaq katimmajjutiksaq------------------------
+>>>{kati:kati/1v}{mma:ma/1v}{jjuti:jjut/1vn}{ksaq:ksaq/1nn}
+
+kiinaujatigut kiinaujatigut------------------------
+>>>{kiinauja:kiinaujaq/1n}{tigut:tigut/tn-via-p}
+
+maligaliuqtit maligaliuqtit------------------------
+>>>{maliga:maligaq/1n}{liuq:liuq/1nv}{ti:ji/1vn}{t:it/tn-nom-p}
+
+maligatigut maligatigut------------------------
+>>>{maliga:maligaq/1n}{tigut:tigut/tn-via-p}
+
+mamianaq mamianaq------------------------
+>>>{mamia:mamiak/1v}{naq:naq/1vn}
+{mamia:mamiak/1v}{naq:naq/2vn}
+{mami:mamit/2v}{a:a/1vv}{naq:naq/2vn}
+{mami:mamik/1v}{a:a/1vv}{naq:naq/2vn}
+
+marrunnik marrunnik------------------------
+>>>{marrun:marruuk/1n}{nik:nik/tn-acc-p}
+{marru:marru/1n}{nnik:nnik/tn-acc-s-1s}
+{marru:marru/1n}{nnik:nnik/tn-acc-p-1s}
+{marru:marru/1n}{nnik:nnik/tn-acc-s-2s}
+{marru:marru/1n}{nnik:nnik/tn-acc-p-2s}
+
+milianik milianik------------------------
+>>>{milia:milian/1n}{nik:nik/tn-acc-p}
+
+milianit milianit------------------------
+>>>{milia:milian/1n}{nit:nit/tn-abl-p}
+
+nakuqmi nakuqmi------------------------
+>>>{nakuq:nakuq/1v}{mi:miik/1vn}
+
+nakuqmii nakuqmii------------------------
+>>>{nakuq:nakuq/1v}{mii:miik/1vn}
+
+naliqqangit naliqqangit------------------------
+>>>{naliqqa:naliqqaq/1n}{ngit:ngit/tn-nom-p-4s}
+
+nalliani nalliani------------------------
+>>>{nalli:nalliq/1pr}{ani:ngani/tn-loc-s-4s}
+{nalli:naglik/1v}{a:a/1vv}{ni:niq/2vn}
+{nalli:nalliq/1v}{a:a/1vv}{ni:niq/2vn}
+
+nigiani nigiani------------------------
+>>>{nigi:niggig/1n}{ani:ngani/tn-loc-s-4s}
+
+niqsunaqtuq niqsunaqtuq------------------------
+>>>{niqsu:niqtuq/1v}{naq:naq/1vv}{tuq:juq/1vn}
+
+nunnguani nunnguani------------------------
+>>>{nunngu:nunnguq/1n}{ani:ngani/tn-loc-s-4s}
+{nu:nut/1v}{nngua:nnguaq/2vv}{ni:niq/2vn}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ni/tn-loc-p}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-s-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ni/tn-nom-s-3s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ni/tn-nom-p-3s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-s-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-d-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-p-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-d-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-loc-p-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nni/tn-nom-d-3s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ngni/tn-loc-d}
+{nu:niu/1n}{nngu:nnguaq/1nn}{ani:ngani/tn-loc-s-4s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nik/tn-acc-p}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-s-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nit/tn-abl-p}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-s-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ngnik/tn-acc-d}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-s-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-d-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-p-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-d-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnik/tn-acc-p-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:ngnit/tn-abl-d}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-s-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-d-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-p-1s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-d-2s}
+{nu:niu/1n}{nngua:nnguaq/1nn}{ni:nnit/tn-abl-p-2s}
+{nu:niu/1n}{nngu:nnguaq/1nn}{ani:nganik/tn-acc-s-4s}
+{nu:niu/1n}{nngu:nnguaq/1nn}{ani:nganit/tn-abl-s-4s}
+
+paktaqtuqtut paktaqtuqtut------------------------
+>>>{paktak:paktak/1v}{tuq:tuq/1vv}{tut:jut/tv-ger-3p}
+{pakta:paktak/1n}{qtuq:ttuq/1nv}{tut:jut/tv-ger-3p}
+
+pigiaqtitat pigiaqtitat------------------------
+>>>{pi:pi/1v}{giaq:giaq/1vv}{ti:tit/1vv}{ta:jaq/1vn}{t:it/tn-nom-p}
+
+piliriaksat piliriaksat------------------------
+>>>{piliria:piliriaq/1n}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+{piliria:piliriaq/1n}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1n}{li:liq/3nv}{ria:giaq/2vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1v}{li:liq/1vv}{ria:giaq/2vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1n}{li:liq/2nv}{ria:giaq/2vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1n}{li:liq/3nv}{ria:giaq/3vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1v}{li:liq/1vv}{ria:giaq/3vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{pi:pi/1n}{li:liq/2nv}{ria:giaq/3vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+
+piqujaksat piqujaksat------------------------
+>>>{pi:pi/1v}{qu:qu/2vv}{ja:jaq/1vn}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+{pi:pi/1v}{qu:qu/2vv}{ja:jaq/1vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+
+qallunaatitut qallunaatitut------------------------
+>>>{qallunaaq:qaplunaaq/1n}{titut:titut/tn-sim-p}
+
+qattinik qattinik------------------------
+>>>{qatti:qapsit/1n}{nit:nit/tn-acc-p}
+
+taaksumunga taaksumunga------------------------
+>>>{taaksu:taapsu/rpd-sc-s}{munga:munga/tpd-dat-s}
+{taaksu:taaksu/rpd-ml-s}{munga:munga/tpd-dat-s}
+
+taanna taanna------------------------
+>>>[decomposition:/taanna(taamna)/]
+{taanna:taangna/pd-ml-s}
+{taanna:taamna/pd-sc-s}
+{taan:taak/1v}{na:naq/2vn}
+{taan:taak/1v}{na:nak/tv-part-2s}
+{taan:taak/1v}{na:nak/tv-part-1s-2s}
+{taan:taak/1v}{na:nak/tv-part-4s-2s}
+{taan:taak/1v}{na:nak/tv-part-1d-2s}
+{taan:taak/1v}{na:nak/tv-part-4d-2s}
+{taan:taak/1v}{na:nak/tv-part-1p-2s}
+{taan:taak/1v}{na:nak/tv-part-4p-2s}
+
+taimannganit taimannganit------------------------
+>>>{taimanngat:taimanngat/1a}{nit:nit/tn-abl-p}
+{taimannganit:taimannganit/1a}
+
+tamani tamani------------------------
+>>>{tam:tama/rad-ml}{ani:ani/tad-loc}
+{tama:tama/1pr}{ni:ni/tn-loc-p}
+{tama:tama/1pr}{ni:nik/tn-acc-p}
+{tama:tama/1pr}{ni:nit/tn-abl-p}
+
+tanna tanna------------------------
+>>>{tanna:taamna/pd-sc-s}
+
+titiqqak titiqqak------------------------
+>>>[decomposition:/titiqqak(titiqqaq)/]
+{titiq:titiq/1v}{qak:vak/tv-int-3d}
+
+titiqqakkut titiqqakkut------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/kkut(kkut)/]
+
+titiqqakkuvik titiqqakkuvik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/kku(kkut)/vik(vik)/]
+
+titiqqamik titiqqamik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/mik(mik)/]
+
+titiqqanik titiqqanik------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/nik(nik)/]
+
+titiqqanit titiqqanit------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/nit(nit)/]
+
+titiqqaq titiqqaq------------------------
+>>>[decomposition:/titiqqaq(titiqqaq)/]
+
+titiqqat titiqqat------------------------
+>>>[decomposition:/titiqqat(titiqqat)/]
+{titiq:titiq/1v}{qat:vat/tv-int-3p}
+
+titiqqatigut titiqqatigut------------------------
+>>>[decomposition:/titiqqa(titiqqaq)/tigut(tigut)/]
+
+ukiuqtaqtumi ukiuqtaqtumi------------------------
+>>>{ukiuqtaqtu:ukiuqtaqtu/1n}{mi:mi/tn-loc-s}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mi/tn-loc-s}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mi/tn-gen-s-3s}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mi/tn-gen-p-3s}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mik/tn-acc-s}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-s-3d}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-p-3d}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-s-3p}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-p-3p}
+{ukiuqtaqtu:ukiuqtaqtuq/1n}{mi:mit/tn-abl-s}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:tuq/1vv}{mi:miik/1vn}
+{ukiuq:ukiuq/1v}{taq:taq/1vv}{tu:tuq/1vv}{mi:miik/1vn}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-loc-s}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-s-3s}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-p-3s}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-acc-s}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3d}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3d}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3p}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3p}
+{ukiuq:ukiuq/1n}{taq:taq/2nv}{tu:juq/1vn}{mi:mit/tn-abl-s}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:tuq/1vv}{mi:miik/1vn}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:tuq/1vv}{mi:miik/1vn}
+{uki:ukit/1v}{uq:uq/3vv}{taq:jaq/1vn}{tu:tuq/1nv}{mi:miik/1vn}
+{uki:ukit/1v}{uq:uq/3vv}{ta:jaq/1vn}{qtu:ttuq/1nv}{mi:miik/1vn}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-loc-s}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mi/tn-loc-s}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-s-3s}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mi/tn-gen-s-3s}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-p-3s}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mi/tn-gen-p-3s}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-acc-s}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mik/tn-acc-s}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3d}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-s-3d}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3d}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-p-3d}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3p}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-s-3p}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3p}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-p-3p}
+{uki:ukit/1v}{uq:ut/1vn}{taq:taq/2nv}{tu:juq/1vn}{mi:mit/tn-abl-s}
+{uki:ukit/1v}{uq:uq/3vv}{taq:taq/1vv}{tu:juq/1vn}{mi:mit/tn-abl-s}
+
+ukiurtartumi ukiurtartumi------------------------
+>>>{ukiurtartu:ukiuqtaqtu/1n}{mi:mi/tn-loc-s}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mi/tn-loc-s}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mi/tn-gen-s-3s}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mi/tn-gen-p-3s}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mik/tn-acc-s}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-s-3d}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-p-3d}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-s-3p}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mik/tn-gen-p-3p}
+{ukiurtartu:ukiuqtaqtuq/1n}{mi:mit/tn-abl-s}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:tuq/1vv}{mi:miik/1vn}
+{ukiur:ukiuq/1v}{tar:taq/1vv}{tu:tuq/1vv}{mi:miik/1vn}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mi/tn-loc-s}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-s-3s}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mi/tn-gen-p-3s}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mik/tn-acc-s}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3d}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3d}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-s-3p}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mik/tn-gen-p-3p}
+{ukiur:ukiuq/1n}{tar:taq/2nv}{tu:juq/1vn}{mi:mit/tn-abl-s}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:tuq/1vv}{mi:miik/1vn}
+{uki:ukit/1v}{ur:uq/3vv}{tar:jaq/1vn}{tu:tuq/1nv}{mi:miik/1vn}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mi/tn-loc-s}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mi/tn-gen-s-3s}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mi/tn-gen-p-3s}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mik/tn-acc-s}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-s-3d}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-p-3d}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-s-3p}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mik/tn-gen-p-3p}
+{uki:ukit/1v}{ur:uq/3vv}{tar:taq/1vv}{tu:juq/1vn}{mi:mit/tn-abl-s}
+
+uqausiksat uqausiksat------------------------
+>>>{uqausi:uqausiq/1n}{ksa:ksaq/1nn}{t:it/tn-nom-p}
+{uqausi:uqausiq/1n}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{uqa:uqaq/1v}{usi:usiq/1vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{uqa:uqaq/1n}{u:u/1nv}{si:siq/2vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+{uqa:uqaq/1v}{u:uq/3vv}{si:siq/2vn}{ksa:ksaq/1nn}{t:t/tn-nom-p}
+

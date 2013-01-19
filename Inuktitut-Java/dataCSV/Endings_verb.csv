@@ -1,0 +1,731 @@
+morpheme,type,mode,specificity,perSubject,numbSubject,perObject,numbObject,V-form,V-action1,V-action2,t-form,t-action1,t-action2,k-form,k-action1,k-action2,q-form,q-action1,q-action2,condPrecSpecific,sources
+junga,tv,ger,nsp,1,s,,,,n,,tunga,n,,tunga,n,,tunga,n,,,?
+jutit,tv,ger,nsp,2,s,,,,n,,tutit,n,,tutit,n,,tutit,n,,,?
+juq,tv,ger,nsp,3,s,,,,n,,tuq,n,,tuq,n,,tuq,n,,,?
+juguk,tv,ger,nsp,1,d,,,,n,,tuguk,n,,tuguk,n,,tuguk,n,,,?
+jusik,tv,ger,nsp,2,d,,,jutik,n,,tusik tutik,n,,tusik tutik,n,,tusik tutik,n,,,?
+juuk,tv,ger,nsp,3,d,,,juk,n,,tuuk tuk,n,,tuuk tuk,n,,tuuk tuk,n,,,?
+jugut,tv,ger,nsp,1,p,,,,n,,tugut,n,,tugut,n,,tugut,n,,,?
+jusi,tv,ger,nsp,2,p,,,,n,,tusi,n,,tusi,n,,tusi,n,,,?
+jut,tv,ger,nsp,3,p,,,,n,,tut,n,,tut,n,,tut,n,,,?
+vunga,tv,dec,nsp,1,s,,,,n,,punga,a,,punga,n,,punga qunga,n son,,,?
+vutit,tv,dec,nsp,2,s,,,,n,,putit,a,,putit,n,,putit qutit,n son,,,?
+vuq,tv,dec,nsp,3,s,,,,n,,puq,a,,puq,n,,puq quq,n son,,,?
+vuguk,tv,dec,nsp,1,d,,,,n,,puguk,a,,puguk,n,,puguk quguk,n son,,,?
+vusik,tv,dec,nsp,2,d,,,vutik,n,,pusik putik,a,,pusik putik,n,,pusik qusik putik qutik,n son n son,,,?
+vuuk,tv,dec,nsp,3,d,,,vuk,n,,puuk puk,a,,puuk puk,n,,puuk quuk puk quk,n son n son,,,?
+vugut,tv,dec,nsp,1,p,,,,n,,pugut,a,,pugut,n,,pugut qugut,n son,,,?
+vusi,tv,dec,nsp,2,p,,,,n,,pusi,a,,pusi,n,,pusi qusi,n son,,,?
+vut,tv,dec,nsp,3,p,,,,n,,put,a,,put,n,,put qut,n son,,,?
+langa,tv,dec,nsp,1,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+latit,tv,dec,nsp,2,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laq,tv,dec,nsp,3,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laguk,tv,dec,nsp,1,d,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lasik,tv,dec,nsp,2,d,,,latik,n,,* latik,s,,* latik,s,,* latik,s,,id:nngit/1vv,?
+lak,tv,dec,nsp,3,d,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lagut,tv,dec,nsp,1,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lasi,tv,dec,nsp,2,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lat,tv,dec,nsp,3,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+vunga,tv,int,nsp,1,s,,,,n,,punga,a,,punga,n,,punga qunga,n son,,,?
+vit,tv,int,nsp,2,s,,,,n,,pit,a,,pit,n,,pit qit,n son,,,?
+va,tv,int,nsp,3,s,,,,n,,pa,a,,pa,n,,pa qa,n son,,,?
+vinuk,tv,int,nsp,1,d,,,,n,,pinuk,a,,pinuk,n,,pinuk qinuk,n son,,,?
+visik,tv,int,nsp,2,d,,,vitik,n,,pisik pitik,a,,pisik pitik,n,,pisik qisik pitik qitik,n son n son,,,?
+vak,tv,int,nsp,3,d,,,,n,,pak,a,,pak,n,,pak qak,n son,,,?
+vita,tv,int,nsp,1,p,,,,n,,pita,a,,pita,n,,pita qita,n son,,,?
+visi,tv,int,nsp,2,p,,,,n,,pisi,a,,pisi,n,,pisi qisi,n son,,,?
+vat,tv,int,nsp,3,p,,,,n,,pat,a,,pat,n,,pat qat,n son,,,?
+langa,tv,int,nsp,1,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+latit,tv,int,nsp,2,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laq,tv,int,nsp,3,s,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laguk,tv,int,nsp,1,d,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lasik,tv,int,nsp,2,d,,,latik,n,,* latik,s,,* latik,s,,* latik,s,,id:nngit/1vv,?
+lak,tv,int,nsp,3,d,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lagut,tv,int,nsp,1,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lasi,tv,int,nsp,2,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lat,tv,int,nsp,3,p,,,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+vinga,tv,int,sp,2,s,1,s,,n,,pinga,a,,pinga,n,,pinga,n,,,?
+vaanga,tv,int,sp,3,s,1,s,,n,,paanga,a,,paanga,n,,paanga,n,,,?
+vagit,tv,int,sp,1,s,2,s,,n,,pagit,a,,pagit,n,,pagit,n,,,?
+vaatit,tv,int,sp,3,s,2,s,,n,,paatit,a,,paatit,n,,paatit,n,,,?
+vigu,tv,int,sp,1,s,3,s,,n,,pigu,a,,pigu,n,,pigu,n,,,?
+viuk,tv,int,sp,2,s,3,s,,n,,piuk,a,,piuk,n,,piuk,n,,,?
+vauk,tv,int,sp,3,s,3,s,,n,,pauk,a,,pauk,n,,pauk,n,,,?
+langa,tv,int,sp,2,s,1,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laanga,tv,int,sp,3,s,1,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lagit,tv,int,sp,1,s,2,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+laatit,tv,int,sp,3,s,2,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lagu,tv,int,sp,1,s,3,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+liuk,tv,int,sp,2,s,3,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+lauk,tv,int,sp,3,s,3,s,,n,,,s,,,s,,,s,,id:nngit/1vv,?
+langa,tv,imp,nsp,1,s,,,,n,,,son,,,son,,,son,,,?
+git,tv,imp,nsp,2,s,,,,n,,tit *,n s,,,fus,,rit,fus,,,?
+li,tv,imp,nsp,3,s,,,,n,,,son,,,son,,,son,,,?
+luk,tv,imp,nsp,1,d,,,,n,,,son,,,son,,,son,,,?
+gissik,tv,imp,nsp,2,d,,,gittik,n,,tissik * tittik gittik,n s n s,,* gittik,fus,,rissik rittik,fus,,,?
+lik,tv,imp,nsp,3,d,,,,n,,,son,,,son,,,son,,,?
+ta,tv,imp,nsp,1,p,,,,n i(p) i(t),,,n,,,n a,,,n,,,?
+gipsi,tv,imp,nsp,2,p,,,gitsi,n,,tipsi titsi gipsi gitsi,n n s s,,* gitsi,fus,,ripsi ritsi,fus,,,?
+lit,tv,imp,nsp,3,p,,,,n,,,son,,,son,,,son,,,?
+vungaa,tv,int,nsp,1,s,,,,n,,pungaa,a,,pungaa,n,,pungaa qungaa,n son,,,?
+viit,tv,int,nsp,2,s,,,,n,,piit,a,,piit,n,,piit qiit,n son,,,?
+vaa,tv,int,nsp,3,s,,,,n,,paa,a,,paa,n,,paa qaa,n son,,,?
+vinuuk,tv,int,nsp,1,d,,,,n,,pinuuk,a,,pinuuk,n,,pinuuk qinuuk,n son,,,?
+visiik,tv,int,nsp,2,d,,,vitiik,n,,pisiik pitiik,a,,pisiik pitiik,n,,pisiik qisiik pitiik qitiik,n son n son,,,?
+vaak,tv,int,nsp,3,d,,,,n,,paak,a,,paak,n,,paak qaak,n son,,,?
+vitaa,tv,int,nsp,1,p,,,,n,,pitaa,a,,pitaa,n,,pitaa qitaa,n son,,,?
+visii,tv,int,nsp,2,p,,,,n,,pisii,a,,pisii,n,,pisii qisii,n son,,,?
+vaat,tv,int,nsp,3,p,,,,n,,paat,a,,paat,n,,paat qaat,n son,,,?
+varma,tv,dec,sp,2,s,1,s,,n,,parma,a,,parma,n,,parma qarma,n son,,,?
+vaanga,tv,dec,sp,3,s,1,s,,n,,paanga,a,,paanga,n,,paanga qaanga,n son,,,?
+vagit,tv,dec,sp,1,s,2,s,,n,,pagit,a,,pagit,n,,pagit qagit,n son,,,?
+vaatit,tv,dec,sp,3,s,2,s,,n,,paatit,a,,paatit,n,,paatit qaatit,n son,,,?
+vara,tv,dec,sp,1,s,3,s,,n,,para,a,,para,n,,para qara,n son,,,?
+vait,tv,dec,sp,2,s,3,s,,n,,pait,a,,pait,n,,pait qait,n son,,,?
+vanga,tv,dec,sp,3,s,3,s,vaa,n,,panga paa,a,,panga paa,n,,panga paa qanga qaa,n n son son,,,?
+vattiguk,tv,dec,sp,2,s,1,d,vattikkuk,n,,pattiguk pattikkuk,a,,pattiguk pattikkuk,n,,pattiguk pattikkuk qattiguk qattikkuk,n n son son,,,?
+vaatiguk,tv,dec,sp,3,s,1,d,vaatikkuk,n,,paatiguk paatikkuk,a,,paatiguk paatikkuk,n,,paatiguk paatikkuk qaatiguk qaatikkuk,n n son son,,,?
+vassik,tv,dec,sp,1,s,2,d,,n,,passik,a,,passik,n,,passik qassik,n son,,,?
+vaasik,tv,dec,sp,3,s,2,d,vaatik,n,,paasik paatik,a,,paasik paatik,n,,paasik paatik qaasik qaatik,n n son son,,,?
+vaakka,tv,dec,sp,1,s,3,d,,n,,paakka,a,,paakka,n,,paakka qaakka,n son,,,?
+vaakkik,tv,dec,sp,2,s,3,d,,n,,paakkik,a,,paakkik,n,,paakkik qaakkik,n son,,,?
+vaangik,tv,dec,sp,3,s,3,d,,n,,paangik,a,,paangik,n,,paangik qaangik,n son,,,?
+vattigut,tv,dec,sp,2,s,1,p,vaptigut,n,,pattigut paptigut,a,,pattigut paptigut,n,,pattigut paptigut qattigut qaptigut,n n son son,,,?
+vaatigut,tv,dec,sp,3,s,1,p,,n,,paatigut,a,,paatigut,n,,paatigut qaatigut,n son,,,?
+vassi,tv,dec,sp,1,s,2,p,vatsi,n,,passi patsi,a,,passi patsi,n,,passi qassi patsi qatsi,n son n son,,,?
+vaasi,tv,dec,sp,3,s,2,p,,n,,paasi,a,,paasi,n,,paasi qaasi,n son,,,?
+vakka,tv,dec,sp,1,s,3,p,,n,,pakka,a,,pakka,n,,pakka qakka,n son,,,?
+vatit,tv,dec,sp,2,s,3,p,,n,,patit,a,,patit,n,,patit qatit,n son,,,?
+vangit,tv,dec,sp,3,s,3,p,vait,n,,pangit pait,a,,pangit pait,n,,pangit pait qangit qait,n n son son,,,?
+gama,tv,caus,nsp,1,s,,,,n,,nama,a,,kama,n,,rama,fus,,,?
+gavit,tv,caus,nsp,2,s,,,,n,,navit,a,,kavit,n,,ravit,fus,,,?
+gami,tv,caus,nsp,3,s,,,,n,,nami,a,,kami,n,,rami,fus,,,?
+mat,tv,caus,nsp,4,s,,,,i(ng) i(m),,,a,,,nas,,,nas,,,?
+gannuk,tv,caus,nsp,1,d,,,,n,,nannuk,a,,kannuk,n,,rannuk,fus,,,?
+gassik,tv,caus,nsp,2,d,,,gapsik gatsik,n,,nassik napsik natsik,a,,kassik kapsik katsik,n,,rassik rapsik ratsik,fus,,,?
+gamik,tv,caus,nsp,3,d,,,,n,,namik,a,,kamik,n,,ramik,fus,,,?
+matik,tv,caus,nsp,4,d,,,,i(ng) i(m),,,a,,,nas,,,nas,,,?
+gatta,tv,caus,nsp,1,p,,,gapta,n,,natta napta,a,,katta kapta,n,,ratta rapta,fus,,,?
+gassi,tv,caus,nsp,2,p,,,gapsi gatsi,n,,nassi napsi natsi,a,,kassi kapsi katsi,n,,rassi rapsi ratsi,fus,,,?
+gamik,tv,caus,nsp,3,p,,,,n,,namik,a,,kamik,n,,ramik,fus,,,?
+mata,tv,caus,nsp,4,p,,,,i(ng) i(m),,,a,,,nas,,,nas,,,?
+guma,tv,cond,nsp,1,s,,,,n,,kuma,a,,kuma,n,,ruma,fus,,,?
+guvit,tv,cond,nsp,2,s,,,,n,,kuvit,a,,kuvit,n,,ruvit,fus,,,?
+guni,tv,cond,nsp,3,s,,,,n,,kuni,a,,kuni,n,,runi,fus,,,?
+pat,tv,cond,nsp,4,s,,,,i(k) i(p),,,a a(k),,,n,,,n,,,?
+gunnuk,tv,cond,nsp,1,d,,,,n,,kunnuk,a,,kunnuk,n,,runnuk,fus,,,?
+gussik,tv,cond,nsp,2,d,,,gupsik gutsik,n,,kussik kupsik kutsik,a,,kussik kupsik kutsik,n,,russik rupsik rutsik,fus,,,?
+gunik,tv,cond,nsp,3,d,,,,n,,kunik,a,,kunik,n,,runik,fus,,,?
+patik,tv,cond,nsp,4,d,,,,i(k) i(p),,,a a(k),,,n,,,n,,,?
+gutta,tv,cond,nsp,1,p,,,gupta,n,,kutta kupta,a,,kutta kupta,n,,rutta rupta,fus,,,?
+gussi,tv,cond,nsp,2,p,,,gupsi gutsi,n,,kussi kupsi kutsi,a,,kussi kupsi kutsi,n,,russi rupsi rutsi,fus,,,?
+gunik,tv,cond,nsp,3,p,,,,n,,kunik,a,,kunik,n,,runik,fus,,,?
+pata,tv,cond,nsp,4,p,,,,i(k) i(p),,,a a(k),,,n,,,n,,,?
+vaattinga,tv,dec,sp,2,d,1,s,,n,,paattinga,a,,paattinga,n,,paattinga qaattinga,n son,,,?
+vaanga,tv,dec,sp,3,d,1,s,,n,,paanga,a,,paanga,n,,paanga qaanga,n son,,,?
+vattigik,tv,dec,sp,1,d,2,s,,n,,pattigik,a,,pattigik,n,,pattigik qattigik,n son,,,?
+vaatit,tv,dec,sp,3,d,2,s,,n,,paatit,a,,paatit,n,,paatit qaatit,n son,,,?
+vavuk,tv,dec,sp,1,d,3,s,,n,,pavuk,a,,pavuk,n,,pavuk qavuk,n son,,,?
+vasik,tv,dec,sp,2,d,3,s,vatik,n,,pasik patik,a,,pasik patik,n,,pasik patik qasik qatik,n n son son,,,?
+vangak,tv,dec,sp,3,d,3,s,,n,,pangak,a,,pangak,n,,pangak qangak,n son,,,?
+vaattiguk,tv,dec,sp,2,d,1,d,,n,,paattiguk,a,,paattiguk,n,,paattiguk qaattiguk,n son,,,?
+vaatiguk,tv,dec,sp,3,d,1,d,,n,,paatiguk,a,,paatiguk,n,,paatiguk qaatiguk,n son,,,?
+vassik,tv,dec,sp,1,d,2,d,,n,,passik,a,,passik,n,,passik qassik,n son,,,?
+vaatik,tv,dec,sp,3,d,2,d,,n,,paatik,a,,paatik,n,,paatik qaatik,n son,,,?
+vaavuk,tv,dec,sp,1,d,3,d,,n,,paavuk,a,,paavuk,n,,paavuk qaavuk,n son,,,?
+vaassik,tv,dec,sp,2,d,3,d,vaattik,n,,paassik paattik,a,,paassik paattik,n,,paassik paattik qaassik qaattik,n n son son,,,?
+vaangik,tv,dec,sp,3,d,3,d,,n,,paangik,a,,paangik,n,,paangik qaangik,n son,,,?
+vaattigut,tv,dec,sp,2,d,1,p,,n,,paattigut,a,,paattigut,n,,paattigut qaattigut,n son,,,?
+vaatigut,tv,dec,sp,3,d,1,p,,n,,paatigut,a,,paatigut,n,,paatigut qaatigut,n son,,,?
+vassi,tv,dec,sp,1,d,2,p,,n,,passi,a,,passi,n,,passi qassi,n son,,,?
+vaasi,tv,dec,sp,3,d,2,p,,n,,paasi,a,,paasi,n,,paasi qaasi,n son,,,?
+vavuk,tv,dec,sp,1,d,3,p,,n,,pavuk,a,,pavuk,n,,pavuk qavuk,n son,,,?
+vasik,tv,dec,sp,2,d,3,p,vatik,n,,pasik patik,a,,pasik patik,n,,pasik patik qasik qatik,n n son son,,,?
+vangik,tv,dec,sp,3,d,3,p,,n,,pangik,a,,pangik,n,,pangik qangik,n son,,,?
+vassinga,tv,dec,sp,2,p,1,s,vapsinga vatsinga,n,,passinga papsinga patsinga,a,,passinga papsinga patsinga,n,,passinga papsinga patsinga qassinga qapsinga qatsinga,n n n son son son,,,?
+vaanga,tv,dec,sp,3,p,1,s,,n,,paanga,a,,paanga,n,,paanga qaanga,n son,,,?
+vattigit,tv,dec,sp,1,p,2,s,vaptigit,n,,pattigit paptigit,a,,pattigit paptigit,n,,pattigit paptigit qattigit qaptigit,n n son son,,,?
+vaatit,tv,dec,sp,3,p,2,s,,n,,paatit,a,,paatit,n,,paatit qaatit,n son,,,?
+vavut,tv,dec,sp,1,p,3,s,,n,,pavut,a,,pavut,n,,pavut qavut,n son,,,?
+vasi,tv,dec,sp,2,p,3,s,,n,,pasi,a,,pasi,n,,pasi qasi,n son,,,?
+vangat,tv,dec,sp,3,p,3,s,vaat,n,,pangat paat,a,,pangat paat,n,,pangat paat qangat qaat,n n son son,,,?
+vattiguk,tv,dec,sp,2,p,1,d,,n,,pattiguk,a,,pattiguk,n,,pattiguk qattiguk,n son,,,?
+vaatiguk,tv,dec,sp,3,p,1,d,,n,,paatiguk,a,,paatiguk,n,,paatiguk qaatiguk,n son,,,?
+vassik,tv,dec,sp,1,p,2,d,,n,,passik,a,,passik,n,,passik qassik,n son,,,?
+vaasik,tv,dec,sp,3,p,2,d,vaatik,n,,paasik paatik,a,,paasik paatik,n,,paasik paatik qaasik qaatik,n n son son,,,?
+vaavut,tv,dec,sp,1,p,3,d,,n,,paavut,a,,paavut,n,,paavut qaavut,n son,,,?
+vaassi,tv,dec,sp,2,p,3,d,,n,,paassi,a,,paassi,n,,paassi qaassi,n son,,,?
+vaangik,tv,dec,sp,3,p,3,d,,n,,paangik,a,,paangik,n,,paangik qaangik,n son,,,?
+vattigut,tv,dec,sp,2,p,1,p,vaptigut,n,,pattigut paptigut,a,,pattigut paptigut,n,,pattigut paptigut qattigut qaptigut,n n son son,,,?
+vaatigut,tv,dec,sp,3,p,1,p,,n,,paatigut,a,,paatigut,n,,paatigut qaatigut,n son,,,?
+vassi,tv,dec,sp,1,p,2,p,vapsi,n,,passi papsi,a,,passi papsi,n,,passi papsi qassi qapsi,n n son son,,,?
+vaasi,tv,dec,sp,3,p,2,p,,n,,paasi,a,,paasi,n,,paasi qaasi,n son,,,?
+vavut,tv,dec,sp,1,p,3,p,,n,,pavut,a,,pavut,n,,pavut qavut,n son,,,?
+vasi,tv,dec,sp,2,p,3,p,,n,,pasi,a,,pasi,n,,pasi qasi,n son,,,?
+vangit,tv,dec,sp,3,p,3,p,vait,n,,pangit pait,a,,pangit pait,n,,pangit pait qangit qait,n n son son,,,?
+vittiguk,tv,int,sp,2,s,1,d,vittikkuk,n,,pittiguk pittikkuk,n,,pittiguk pittikkuk,n,,pittiguk pittikkuk qittiguk qittikkuk,n n son son,,,?
+vaatiguk,tv,int,sp,3,s,1,d,,n,,paatiguk,n,,paatiguk,n,,paatiguk qaatiguk,n son,,,?
+vassik,tv,int,sp,1,s,2,d,,n,,passik,n,,passik,n,,passik qassik,n son,,,?
+vaatik,tv,int,sp,3,s,2,d,,n,,paatik,n,,paatik,n,,paatik qaatik,n son,,,?
+vaakka,tv,int,sp,1,s,3,d,,n,,paakka,n,,paakka,n,,paakka qaakka,n son,,,?
+vigik,tv,int,sp,2,s,3,d,,n,,pigik,n,,pigik,n,,pigik qigik,n son,,,?
+vagik,tv,int,sp,3,s,3,d,vakkik,n,,pagik pakkik,n,,pagik pakkik,n,,pagik pakkik qagik qakkik,n n son son,,,?
+vittigut,tv,int,sp,2,s,1,p,,n,,pittigut,n,,pittigut,n,,pittigut qittigut,n son,,,?
+vaatigut,tv,int,sp,3,s,1,p,,n,,paatigut,n,,paatigut,n,,paatigut qaatigut,n son,,,?
+vassi,tv,int,sp,1,s,2,p,,n,,passi,n,,passi,n,,passi qassi,n son,,,?
+vaasi,tv,int,sp,3,s,2,p,,n,,paasi,n,,paasi,n,,paasi qaasi,n son,,,?
+vakka,tv,int,sp,1,s,3,p,,n,,pakka,n,,pakka,n,,pakka qakka,n son,,,?
+vigit,tv,int,sp,2,s,3,p,,n,,pigit,n,,pigit,n,,pigit qigit,n son,,,?
+vagit,tv,int,sp,3,s,3,p,,n,,pagit,n,,pagit,n,,pagit qagit,n son,,,?
+vittinga,tv,int,sp,2,d,1,s,,n,,pittinga,n,,pittinga,n,,pittinga qittinga,n son,,,?
+vaanga,tv,int,sp,3,d,1,s,,n,,paanga,n,,paanga,n,,paanga qaanga,n son,,,?
+vittigit,tv,int,sp,1,d,2,s,,n,,pittigit,n,,pittigit,n,,pittigit qittigit,n son,,,?
+vaatit,tv,int,sp,3,d,2,s,,n,,paatit,n,,paatit,n,,paatit qaatit,n son,,,?
+vittigu,tv,int,sp,1,d,3,s,,n,,pittigu,n,,pittigu,n,,pittigu qittigu,n son,,,?
+vittikku,tv,int,sp,2,d,3,s,,n,,pittikku,n,,pittikku,n,,pittikku qittikku,n son,,,?
+vaak,tv,int,sp,3,d,3,s,,n,,paak,n,,paak,n,,paak qaak,n son,,,?
+vittiguk,tv,int,sp,2,d,1,d,,n,,pittiguk,n,,pittiguk,n,,pittiguk qittiguk,n son,,,?
+vittiguk,tv,int,sp,3,d,1,d,vaatiguk,n,,pittiguk paatiguk,n,,pittiguk paatiguk,n,,pittiguk paatiguk qittiguk qaatiguk,n n son son,,,?
+vassik,tv,int,sp,1,d,2,d,,n,,passik,n,,passik,n,,passik qassik,n son,,,?
+vaatik,tv,int,sp,3,d,2,d,,n,,paatik,n,,paatik,n,,paatik qaatik,n son,,,?
+vittigik,tv,int,sp,1,d,3,d,,n,,pittigik,n,,pittigik,n,,pittigik qittigik,n son,,,?
+vittikkik,tv,int,sp,2,d,3,d,,n,,pittikkik,n,,pittikkik,n,,pittikkik qittikkik,n son,,,?
+vakkik,tv,int,sp,3,d,3,d,,n,,pakkik,n,,pakkik,n,,pakkik qakkik,n son,,,?
+vittigut,tv,int,sp,2,d,1,p,,n,,pittigut,n,,pittigut,n,,pittigut qittigut,n son,,,?
+vittigut,tv,int,sp,3,d,1,p,vaatigut,n,,pittigut paatigut,n,,pittigut paatigut,n,,pittigut paatigut qittigut qaatigut,n n son son,,,?
+vassi,tv,int,sp,1,d,2,p,,n,,passi,n,,passi,n,,passi qassi,n son,,,?
+vaasi,tv,int,sp,3,d,2,p,,n,,paasi,n,,paasi,n,,paasi qaasi,n son,,,?
+vittigit,tv,int,sp,1,d,3,p,,n,,pittigit,n,,pittigit,n,,pittigit qittigit,n son,,,?
+vittikkit,tv,int,sp,2,d,3,p,,n,,pittikkit,n,,pittikkit,n,,pittikkit qittikkit,n son,,,?
+vittigit,tv,int,sp,3,d,3,p,vakkit,n,,pittigit pakkit,n,,pittigit pakkit,n,,pittigit pakkit qittigit qakkit,n n son son,,,?
+visinga,tv,int,sp,2,p,1,s,,n,,pisinga,n,,pisinga,n,,pisinga qisinga,n son,,,?
+vaanga,tv,int,sp,3,p,1,s,,n,,paanga,n,,paanga,n,,paanga qaanga,n son,,,?
+vitigit,tv,int,sp,1,p,2,s,,n,,pitigit,n,,pitigit,n,,pitigit qitigit,n son,,,?
+vaatit,tv,int,sp,3,p,2,s,,n,,paatit,n,,paatit,n,,paatit qaatit,n son,,,?
+vitigu,tv,int,sp,1,p,3,s,,n,,pitigu,n,,pitigu,n,,pitigu qitigu,n son,,,?
+visiuk,tv,int,sp,2,p,3,s,,n,,pisiuk,n,,pisiuk,n,,pisiuk qisiuk,n son,,,?
+vajjuk,tv,int,sp,3,p,3,s,,n,,pajjuk,n,,pajjuk,n,,pajjuk qajjuk,n son,,,?
+vittiguk,tv,int,sp,2,p,1,d,,n,,pittiguk,n,,pittiguk,n,,pittiguk qittiguk,n son,,,?
+vittiguk,tv,int,sp,3,p,1,d,vaatiguk,n,,pittiguk paatiguk,n,,pittiguk paatiguk,n,,pittiguk paatiguk qittiguk qaatiguk,n n son son,,,?
+vassik,tv,int,sp,1,p,2,d,,n,,passik,n,,passik,n,,passik qassik,n son,,,?
+vaatik,tv,int,sp,3,p,2,d,,n,,paatik,n,,paatik,n,,paatik qaatik,n son,,,?
+vitigik,tv,int,sp,1,p,3,d,,n,,pitigik,n,,pitigik,n,,pitigik qitigik,n son,,,?
+visigik,tv,int,sp,2,p,3,d,,n,,pisigik,n,,pisigik,n,,pisigik qisigik,n son,,,?
+vagik,tv,int,sp,3,p,3,d,,n,,pagik,n,,pagik,n,,pagik qagik,n son,,,?
+vitigut,tv,int,sp,2,p,1,p,,n,,pitigut,n,,pitigut,n,,pitigut qitigut,n son,,,?
+vaatigut,tv,int,sp,3,p,1,p,,n,,paatigut,n,,paatigut,n,,paatigut qaatigut,n son,,,?
+vassi,tv,int,sp,1,p,2,p,,n,,passi,n,,passi,n,,passi qassi,n son,,,?
+vaasi,tv,int,sp,3,p,2,p,,n,,paasi,n,,paasi,n,,paasi qaasi,n son,,,?
+vitigit,tv,int,sp,1,p,3,p,,n,,pitigit,n,,pitigit,n,,pitigit qitigit,n son,,,?
+visigit,tv,int,sp,2,p,3,p,,n,,pisigit,n,,pisigit,n,,pisigit qisigit,n son,,,?
+vagit,tv,int,sp,3,p,3,p,,n,,pagit,n,,pagit,n,,pagit qagit,n son,,,?
+nnga,tv,imp,sp,2,s,1,s,,n,,,s,,,s,,,s,,,?
+linga,tv,imp,sp,3,s,1,s,,n,,,son,,,son,,,son,,,?
+lagit,tv,imp,sp,1,s,2,s,,n,,,son,,,son,,,son,,,?
+litit,tv,imp,sp,3,s,2,s,,n,,,son,,,son,,,son,,,?
+lagu,tv,imp,sp,1,s,3,s,,n,,,son,,,son,,,son,,,?
+guk,tv,imp,sp,2,s,3,s,,n,,juk,a,,,fus,,ruk,fus,,,?
+liuk,tv,imp,sp,3,s,3,s,,n,,,son,,,son,,,son,,,?
+tiguk,tv,imp,sp,2,s,1,d,,n,,,n,,,n,,,n,,,?
+litiguk,tv,imp,sp,3,s,1,d,,n,,,son,,,son,,,son,,,?
+lassik,tv,imp,sp,1,s,2,d,,n,,,son,,,son,,,son,,,?
+litik,tv,imp,sp,3,s,2,d,,n,,,son,,,son,,,son,,,?
+laakka,tv,imp,sp,1,s,3,d,,n,,,son,,,son,,,son,,,?
+kkik,tv,imp,sp,2,s,3,d,,n,,,s,,,s,,,s,,,?
+likkik,tv,imp,sp,3,s,3,d,,n,,,son,,,son,,,son,,,?
+tigut,tv,imp,sp,2,s,1,p,,n,,,n,,,n,,,n,,,?
+litigut,tv,imp,sp,3,s,1,p,,n,,,son,,,son,,,son,,,?
+lassi,tv,imp,sp,1,s,2,p,,n,,,son,,,son,,,son,,,?
+lisi,tv,imp,sp,3,s,2,p,,n,,,son,,,son,,,son,,,?
+lakka,tv,imp,sp,1,s,3,p,,n,,,son,,,son,,,son,,,?
+kkit,tv,imp,sp,2,s,3,p,,n,,,s,,,s,,,s,,,?
+ligit,tv,imp,sp,3,s,3,p,,n,,,son,,,son,,,son,,,?
+ttinga,tv,imp,sp,2,d,1,s,,n,,,s,,,s,,,s,,,?
+linga,tv,imp,sp,3,d,1,s,,n,,,son,,,son,,,son,,,?
+lattigit,tv,imp,sp,1,d,2,s,,n,,,son,,,son,,,son,,,?
+litit,tv,imp,sp,3,d,2,s,,n,,,son,,,son,,,son,,,?
+lavuk,tv,imp,sp,1,d,3,s,,n,,,son,,,son,,,son,,,?
+tikku,tv,imp,sp,2,d,3,s,,n,,,n,,,n,,,n,,,?
+likku,tv,imp,sp,3,d,3,s,,n,,,son,,,son,,,son,,,?
+tiguk,tv,imp,sp,2,d,1,d,,n,,,n,,,n,,,n,,,?
+litiguk,tv,imp,sp,3,d,1,d,,n,,,son,,,son,,,son,,,?
+lassik,tv,imp,sp,1,d,2,d,,n,,,son,,,son,,,son,,,?
+litik,tv,imp,sp,3,d,2,d,,n,,,son,,,son,,,son,,,?
+laavuk,tv,imp,sp,1,d,3,d,,n,,,son,,,son,,,son,,,?
+tikkik,tv,imp,sp,2,d,3,d,,n,,,n,,,n,,,n,,,?
+likkik,tv,imp,sp,3,d,3,d,,n,,,son,,,son,,,son,,,?
+tigut,tv,imp,sp,2,d,1,p,,n,,,n,,,n,,,n,,,?
+litigut,tv,imp,sp,3,d,1,p,,n,,,son,,,son,,,son,,,?
+lassi,tv,imp,sp,1,d,2,p,,n,,,son,,,son,,,son,,,?
+lisi,tv,imp,sp,3,d,2,p,,n,,,son,,,son,,,son,,,?
+lavuk,tv,imp,sp,1,d,3,p,,n,,,son,,,son,,,son,,,?
+tikkit,tv,imp,sp,2,d,3,p,,n,,,n,,,n,,,n,,,?
+likkit,tv,imp,sp,3,d,3,p,,n,,,son,,,son,,,son,,,?
+singa,tv,imp,sp,2,p,1,s,,n,,,n,,,n,,,n,,,?
+linga,tv,imp,sp,3,p,1,s,,n,,,son,,,son,,,son,,,?
+lattigit,tv,imp,sp,1,p,2,s,,n,,,son,,,son,,,son,,,?
+litit,tv,imp,sp,3,p,2,s,,n,,,son,,,son,,,son,,,?
+lavut,tv,imp,sp,1,p,3,s,,n,,,son,,,son,,,son,,,?
+siuk,tv,imp,sp,2,p,3,s,,n,,,n,,,n,,,n,,,?
+lijjuk,tv,imp,sp,3,p,3,s,,n,,,son,,,son,,,son,,,?
+tiguk,tv,imp,sp,2,p,1,d,,n,,,n,,,n,,,n,,,?
+litiguk,tv,imp,sp,3,p,1,d,,n,,,son,,,son,,,son,,,?
+lassik,tv,imp,sp,1,p,2,d,,n,,,son,,,son,,,son,,,?
+litik,tv,imp,sp,3,p,2,d,,n,,,son,,,son,,,son,,,?
+laavut,tv,imp,sp,1,p,3,d,,n,,,son,,,son,,,son,,,?
+sikkik,tv,imp,sp,2,p,3,d,,n,,,n,,,n,,,n,,,?
+likkik,tv,imp,sp,3,p,3,d,,n,,,son,,,son,,,son,,,?
+tigut,tv,imp,sp,2,p,1,p,,n,,,n,,,n,,,n,,,?
+litigut,tv,imp,sp,3,p,1,p,,n,,,son,,,son,,,son,,,?
+lassi,tv,imp,sp,1,p,2,p,,n,,,son,,,son,,,son,,,?
+lisi,tv,imp,sp,3,p,2,p,,n,,,son,,,son,,,son,,,?
+lavut,tv,imp,sp,1,p,3,p,,n,,,son,,,son,,,son,,,?
+sigit,tv,imp,sp,2,p,3,p,,n,,,n,,,n,,,n,,,?
+ligit,tv,imp,sp,3,p,3,p,,n,,,son,,,son,,,son,,,?
+gavinga,tv,caus,sp,2,s,1,s,gangma,n,,navinga nangma,a,,kavinga kangma,n,,ravinga rangma,fus,,,?
+gaminga,tv,caus,sp,3,s,1,s,,n,,naminga,a,,kaminga,n,,raminga,fus,,,?
+maanga,tv,caus,sp,4,s,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+gakkit,tv,caus,sp,1,s,2,s,gapkit gikkit,n,,nakkit napkit nikkit,a,,kakkit kapkit kikkit,n,,rakkit rapkit rikkit,fus,,,?
+gamitit,tv,caus,sp,3,s,2,s,,n,,namitit,a,,kamitit,n,,ramitit,fus,,,?
+maatit,tv,caus,sp,4,s,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+gakku,tv,caus,sp,1,s,3,s,gapku,n,,nakku,a,,kakku kapku,n,,rakku rapku,fus,,,?
+gaviuk,tv,caus,sp,2,s,3,s,gangni,n,,naviuk nangni,a,,kaviuk kangni,n,,raviuk rangni,fus,,,?
+gamiuk,tv,caus,sp,3,s,3,s,,n,,namiuk,a,,kamiuk,n,,ramiuk,fus,,,?
+magu,tv,caus,sp,4,s,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattiguk,tv,caus,sp,2,s,1,d,gaptiguk,n,,nattiguk naptiguk,a,,kattiguk kaptiguk,n,,rattiguk raptiguk,fus,,,?
+gamitiguk,tv,caus,sp,3,s,1,d,,n,,namitiguk,a,,kamitiguk,n,,ramitiguk,fus,,,?
+maatiguk,tv,caus,sp,4,s,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+gassik,tv,caus,sp,1,s,2,d,gattik,n,,nassik nattik,a,,kassik kattik,n,,rassik rattik,fus,,,?
+gamitik,tv,caus,sp,3,s,2,d,,n,,namitik,a,,kamitik,n,,ramitik,fus,,,?
+maatik,tv,caus,sp,4,s,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+gakkik,tv,caus,sp,1,s,3,d,,n,,nakkik,a,,kakkik,n,,rakkik,fus,,,?
+gavigik,tv,caus,sp,2,s,3,d,gangni,n,,navigik nangni,a,,kavigik kangni,n,,ravigik rangni,fus,,,?
+gamigik,tv,caus,sp,3,s,3,d,,n,,namigik,a,,kamigik,n,,ramigik,fus,,,?
+magik,tv,caus,sp,4,s,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+gattigut,tv,caus,sp,2,s,1,p,gaptigut,n,,nattigut naptigut,a,,kattigut kaptigut,n,,rattigut raptigut,fus,,,?
+gamitigut,tv,caus,sp,3,s,1,p,,n,,namitigut,a,,kamitigut,n,,ramitigut,fus,,,?
+maatigut,tv,caus,sp,4,s,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+gassi,tv,caus,sp,1,s,2,p,gapsi gatsi,n,,nassi napsi natsi,a,,kassi kapsi katsi,n,,rassi rapsi ratsi,fus,,,?
+gamisi,tv,caus,sp,3,s,2,p,,n,,namisi,a,,kamisi,n,,ramisi,fus,,,?
+maasi,tv,caus,sp,4,s,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+gakkit,tv,caus,sp,1,s,3,p,gapkit,n,,nakkit napkit,a,,kakkit kapkit,n,,rakkit rapkit,fus,,,?
+gavigit,tv,caus,sp,2,s,3,p,gangni,n,,navigit nangni,a,,kavigit kangni,n,,ravigit rangni,fus,,,?
+gamigit,tv,caus,sp,3,s,3,p,,n,,namigit,a,,kamigit,n,,ramigit,fus,,,?
+magit,tv,caus,sp,4,s,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+gattinga,tv,caus,sp,2,d,1,s,,n,,nattinga,a,,kattinga,n,,rattinga,fus,,,?
+gaminga,tv,caus,sp,3,d,1,s,,n,,naminga,a,,kaminga,n,,raminga,fus,,,?
+maanga,tv,caus,sp,4,d,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattigit,tv,caus,sp,1,d,2,s,gaptigit,n,,nattigit naptigit,a,,kattigit kaptigit,n,,rattigit raptigit,fus,,,?
+gamitit,tv,caus,sp,3,d,2,s,,n,,namitit,a,,kamitit,n,,ramitit,fus,,,?
+maatit,tv,caus,sp,4,d,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattigu,tv,caus,sp,1,d,3,s,gaptigu,n,,nattigu naptigu,a,,kattigu kaptigu,n,,rattigu raptigu,fus,,,?
+gattiku,tv,caus,sp,2,d,3,s,,n,,nattiku,a,,kattiku,n,,rattiku,fus,,,?
+gamikku,tv,caus,sp,3,d,3,s,,n,,namikku,a,,kamikku,n,,ramikku,fus,,,?
+makku,tv,caus,sp,4,d,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattiguk,tv,caus,sp,2,d,1,d,,n,,nattiguk,a,,kattiguk,n,,rattiguk,fus,,,?
+gamitiguk,tv,caus,sp,3,d,1,d,,n,,namitiguk,a,,kamitiguk,n,,ramitiguk,fus,,,?
+maatiguk,tv,caus,sp,4,d,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+gassik,tv,caus,sp,1,d,2,d,gattik,n,,nassik nattik,a,,kassik kattik,n,,rassik rattik,fus,,,?
+gamitik,tv,caus,sp,3,d,2,d,,n,,namitik,a,,kamitik,n,,ramitik,fus,,,?
+maatik,tv,caus,sp,4,d,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+gattigik,tv,caus,sp,1,d,3,d,gaptigik,n,,nattigik naptigik,a,,kattigik kaptigik,n,,rattigik raptigik,fus,,,?
+gattikik,tv,caus,sp,2,d,3,d,,n,,nattikik,a,,kattikik,n,,rattikik,fus,,,?
+gamikkik,tv,caus,sp,3,d,3,d,,n,,namikkik,a,,kamikkik,n,,ramikkik,fus,,,?
+makkik,tv,caus,sp,4,d,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+gattigut,tv,caus,sp,2,d,1,p,,n,,nattigut,a,,kattigut,n,,rattigut,fus,,,?
+gamitigut,tv,caus,sp,3,d,1,p,,n,,namitigut,a,,kamitigut,n,,ramitigut,fus,,,?
+maatigut,tv,caus,sp,4,d,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+gassi,tv,caus,sp,1,d,2,p,gapsi gatsi,n,,nassi napsi natsi,a,,kassi kapsi katsi,n,,rassi rapsi ratsi,fus,,,?
+gamisi,tv,caus,sp,3,d,2,p,,n,,namisi,a,,kamisi,n,,ramisi,fus,,,?
+maasi,tv,caus,sp,4,d,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+gattigit,tv,caus,sp,1,d,3,p,gaptigit,n,,nattigit naptigit,a,,kattigit kaptigit,n,,rattigit raptigit,fus,,,?
+gattikit,tv,caus,sp,2,d,3,p,,n,,nattikit,a,,kattikit,n,,rattikit,fus,,,?
+gamikkit,tv,caus,sp,3,d,3,p,,n,,namikkit,a,,kamikkit,n,,ramikkit,fus,,,?
+makkit,tv,caus,sp,4,d,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+gassinga,tv,caus,sp,2,p,1,s,gapsinga gatsinga,n,,nassinga napsinga natsinga,a,,kassinga kapsinga katsinga,n,,rassinga rapsinga ratsinga,fus,,,?
+gaminga,tv,caus,sp,3,p,1,s,,n,,naminga,a,,kaminga,n,,raminga,fus,,,?
+maanga,tv,caus,sp,4,p,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattigit,tv,caus,sp,1,p,2,s,gaptigit,n,,nattigit naptigit,a,,kattigit kaptigit,n,,rattigit raptigit,fus,,,?
+gamitit,tv,caus,sp,3,p,2,s,,n,,namitit,a,,kamitit,n,,ramitit,fus,,,?
+maatit,tv,caus,sp,4,p,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+gattigu,tv,caus,sp,1,p,3,s,gaptigu,n,,nattigu naptigu,a,,kattigu kaptigu,n,,rattigu raptigu,fus,,,?
+gassiuk,tv,caus,sp,2,p,3,s,gapsiuk gatsiuk,n,,nassiuk napsiuk natsiuk,a,,kassiuk kapsiuk katsiuk,n,,rassiuk rapsiuk ratsiuk,fus,,,?
+gamijjuk,tv,caus,sp,3,p,3,s,gamiku,n,,namijjuk namiku,a,,kamijjuk kamiku,n,,ramijjuk ramiku,fus,,,?
+majjuk,tv,caus,sp,4,p,3,s,magjuk,i(ng),,* magjuk,a,,* magjuk,nas,,* magjuk,nas,,,?
+gattiguk,tv,caus,sp,2,p,1,d,gaptiguk,n,,nattiguk naptiguk,a,,kattiguk kaptiguk,n,,rattiguk raptiguk,fus,,,?
+gamitiguk,tv,caus,sp,3,p,1,d,,n,,namitiguk,a,,kamitiguk,n,,ramitiguk,fus,,,?
+maatiguk,tv,caus,sp,4,p,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+gassik,tv,caus,sp,1,p,2,d,gattik,n,,nassik nattik,a,,kassik kattik,n,,rassik rattik,fus,,,?
+gamitik,tv,caus,sp,3,p,2,d,,n,,namitik,a,,kamitik,n,,ramitik,fus,,,?
+maatik,tv,caus,sp,4,p,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+gattigik,tv,caus,sp,1,p,3,d,gaptigik,n,,nattigik naptigik,a,,kattigik kaptigik,n,,rattigik raptigik,fus,,,?
+gassigik,tv,caus,sp,2,p,3,d,gapsigik gatsigik,n,,nassigik napsigik natsigik,a,,kassigik kapsigik katsigik,n,,rassigik rapsigik ratsigik,fus,,,?
+gamigik,tv,caus,sp,3,p,3,d,,n,,namigik,a,,kamigik,n,,ramigik,fus,,,?
+magik,tv,caus,sp,4,p,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+gattigut,tv,caus,sp,2,p,1,p,gaptigut,n,,nattigut naptigut,a,,kattigut kaptigut,n,,rattigut raptigut,fus,,,?
+gamitigut,tv,caus,sp,3,p,1,p,,n,,namitigut,a,,kamitigut,n,,ramitigut,fus,,,?
+maatigut,tv,caus,sp,4,p,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+gassi,tv,caus,sp,1,p,2,p,gapsi gatsi,n,,nassi napsi natsi,a,,kassi kapsi katsi,n,,rassi rapsi ratsi,fus,,,?
+gamisi,tv,caus,sp,3,p,2,p,,n,,namisi,a,,kamisi,n,,ramisi,fus,,,?
+maasi,tv,caus,sp,4,p,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+gattigit,tv,caus,sp,1,p,3,p,gaptigit,n,,nattigit naptigit,a,,kattigit kaptigit,n,,rattigit raptigit,fus,,,?
+gassigit,tv,caus,sp,2,p,3,p,gapsigit,n,,nassigit napsigit,a,,kassigit kapsigit,n,,rassigit rapsigit,fus,,,?
+gamigit,tv,caus,sp,3,p,3,p,,n,,namigit,a,,kamigit,n,,ramigit,fus,,,?
+magit,tv,caus,sp,4,p,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+guvinga,tv,cond,sp,2,s,1,s,gungma,n,,kuvinga kungma,a,,kuvinga kungma,n,,ruvinga rungma,fus,,,?
+guninga,tv,cond,sp,3,s,1,s,,n,,kuninga,a,,kuninga,n,,runinga,fus,,,?
+paanga,tv,cond,sp,4,s,1,s,,i(k),,,a,,,n,,,n,,,?
+gukkit,tv,cond,sp,1,s,2,s,gupkit,n,,kukkit kupkit,a,,kukkit kupkit,n,,rukkit rupkit,fus,,,?
+gunitit,tv,cond,sp,3,s,2,s,,n,,kunitit,a,,kunitit,n,,runitit,fus,,,?
+paatit,tv,cond,sp,4,s,2,s,,i(k),,,a,,,n,,,n,,,?
+gukku,tv,cond,sp,1,s,3,s,gupku,n,,kukku kupku,a,,kukku kupku,n,,rukku rupku,fus,,,?
+guviuk,tv,cond,sp,2,s,3,s,gungni,n,,kuviuk kungni,a,,kuviuk kungni,n,,ruviuk rungni,fus,,,?
+guniuk,tv,cond,sp,3,s,3,s,,n,,kuniuk,a,,kuniuk,n,,runiuk,fus,,,?
+pagu,tv,cond,sp,4,s,3,s,,i(k),,,a,,,n,,,n,,,?
+guttiguk,tv,cond,sp,2,s,1,d,guptiguk,n,,kuttiguk kuptiguk,a,,kuttiguk kuptiguk,n,,ruttiguk ruptiguk,fus,,,?
+gunitiguk,tv,cond,sp,3,s,1,d,,n,,kunitiguk,a,,kunitiguk,n,,runitiguk,fus,,,?
+paatiguk,tv,cond,sp,4,s,1,d,,i(k),,,a,,,n,,,n,,,?
+gussik,tv,cond,sp,1,s,2,d,guttik,n,,kussik kuttik,a,,kussik kuttik,n,,russik ruttik,fus,,,?
+gunitik,tv,cond,sp,3,s,2,d,,n,,kunitik,a,,kunitik,n,,runitik,fus,,,?
+paatik,tv,cond,sp,4,s,2,d,,i(k),,,a,,,n,,,n,,,?
+gukkik,tv,cond,sp,1,s,3,d,,n,,kukkik,a,,kukkik,n,,rukkik,fus,,,?
+guvigik,tv,cond,sp,2,s,3,d,gungni,n,,kuvigik kungni,a,,kuvigik kungni,n,,ruvigik rungni,fus,,,?
+gunigik,tv,cond,sp,3,s,3,d,,n,,kunigik,a,,kunigik,n,,runigik,fus,,,?
+pagik,tv,cond,sp,4,s,3,d,,i(k),,,a,,,n,,,n,,,?
+guttigut,tv,cond,sp,2,s,1,p,,n,,kuttigut,a,,kuttigut,n,,ruttigut,fus,,,?
+gunitigut,tv,cond,sp,3,s,1,p,,n,,kunitigut,a,,kunitigut,n,,runitigut,fus,,,?
+paatigut,tv,cond,sp,4,s,1,p,,i(k),,,a,,,n,,,n,,,?
+gussi,tv,cond,sp,1,s,2,p,gupsi gutsi,n,,kussi kupsi kutsi,a,,kussi kupsi kutsi,n,,russi rupsi rutsi,fus,,,?
+gunisi,tv,cond,sp,3,s,2,p,,n,,kunisi,a,,kunisi,n,,runisi,fus,,,?
+paasi,tv,cond,sp,4,s,2,p,,i(k),,,a,,,n,,,n,,,?
+gukkit,tv,cond,sp,1,s,3,p,gupkit,n,,kukkit kupkit,a,,kukkit kupkit,n,,rukkit rupkit,fus,,,?
+guvigit,tv,cond,sp,2,s,3,p,gungni,n,,kuvigit kungni,a,,kuvigit kungni,n,,ruvigit rungni,fus,,,?
+gunigit,tv,cond,sp,3,s,3,p,,n,,kunigit,a,,kunigit,n,,runigit,fus,,,?
+pagit,tv,cond,sp,4,s,3,p,,i(k),,,a,,,n,,,n,,,?
+guttinga,tv,cond,sp,2,d,1,s,,n,,kuttinga,a,,kuttinga,n,,ruttinga,fus,,,?
+guninga,tv,cond,sp,3,d,1,s,,n,,kuninga,a,,kuninga,n,,runinga,fus,,,?
+paanga,tv,cond,sp,4,d,1,s,,i(k),,,a,,,n,,,n,,,?
+guttigit,tv,cond,sp,1,d,2,s,guptigit,n,,kuttigit kuptigit,a,,kuttigit kuptigit,n,,ruttigit ruptigit,fus,,,?
+gunitit,tv,cond,sp,3,d,2,s,,n,,kunitit,a,,kunitit,n,,runitit,fus,,,?
+paatit,tv,cond,sp,4,d,2,s,,i(k),,,a,,,n,,,n,,,?
+guttigu,tv,cond,sp,1,d,3,s,guptigu,n,,kuttigu kuptigu,a,,kuttigu kuptigu,n,,ruttigu ruptigu,fus,,,?
+guttiku,tv,cond,sp,2,d,3,s,,n,,kuttiku,a,,kuttiku,n,,ruttiku,fus,,,?
+gunikku,tv,cond,sp,3,d,3,s,,n,,kunikku,a,,kunikku,n,,runikku,fus,,,?
+pakku,tv,cond,sp,4,d,3,s,,i(k),,,a,,,n,,,n,,,?
+guttiguk,tv,cond,sp,2,d,1,d,,n,,kuttiguk,a,,kuttiguk,n,,ruttiguk,fus,,,?
+gunitiguk,tv,cond,sp,3,d,1,d,,n,,kunitiguk,a,,kunitiguk,n,,runitiguk,fus,,,?
+paatiguk,tv,cond,sp,4,d,1,d,,i(k),,,a,,,n,,,n,,,?
+gussik,tv,cond,sp,1,d,2,d,guttik,n,,kussik kuttik,a,,kussik kuttik,n,,russik ruttik,fus,,,?
+gunitik,tv,cond,sp,3,d,2,d,,n,,kunitik,a,,kunitik,n,,runitik,fus,,,?
+paatik,tv,cond,sp,4,d,2,d,,i(k),,,a,,,n,,,n,,,?
+guttigik,tv,cond,sp,1,d,3,d,guptigik,n,,kuttigik kuptigik,a,,kuttigik kuptigik,n,,ruttigik ruptigik,fus,,,?
+guttikik,tv,cond,sp,2,d,3,d,,n,,kuttikik,a,,kuttikik,n,,ruttikik,fus,,,?
+gunikkik,tv,cond,sp,3,d,3,d,,n,,kunikkik,a,,kunikkik,n,,runikkik,fus,,,?
+pakkik,tv,cond,sp,4,d,3,d,,i(k),,,a,,,n,,,n,,,?
+guttigut,tv,cond,sp,2,d,1,p,,n,,kuttigut,a,,kuttigut,n,,ruttigut,fus,,,?
+gunitigut,tv,cond,sp,3,d,1,p,,n,,kunitigut,a,,kunitigut,n,,runitigut,fus,,,?
+paatigut,tv,cond,sp,4,d,1,p,,i(k),,,a,,,n,,,n,,,?
+gussi,tv,cond,sp,1,d,2,p,gupsi gutsi,n,,kussi kupsi kutsi,a,,kussi kupsi kutsi,n,,russi rupsi rutsi,fus,,,?
+gunisi,tv,cond,sp,3,d,2,p,,n,,kunisi,a,,kunisi,n,,runisi,fus,,,?
+paasi,tv,cond,sp,4,d,2,p,,i(k),,,a,,,n,,,n,,,?
+guttigit,tv,cond,sp,1,d,3,p,guptigit,n,,kuttigit kuptigit,a,,kuttigit kuptigit,n,,ruttigit ruptigit,fus,,,?
+guttikit,tv,cond,sp,2,d,3,p,,n,,kuttikit,a,,kuttikit,n,,ruttikit,fus,,,?
+gunikkit,tv,cond,sp,3,d,3,p,,n,,kunikkit,a,,kunikkit,n,,runikkit,fus,,,?
+pakkit,tv,cond,sp,4,d,3,p,,i(k),,,a,,,n,,,n,,,?
+gussinga,tv,cond,sp,2,p,1,s,gupsinga,n,,kussinga kupsinga,a,,kussinga kupsinga,n,,russinga rupsinga,fus,,,?
+guninga,tv,cond,sp,3,p,1,s,,n,,kuninga,a,,kuninga,n,,runinga,fus,,,?
+paanga,tv,cond,sp,4,p,1,s,,i(k),,,a,,,n,,,n,,,?
+guttigit,tv,cond,sp,1,p,2,s,guptigit,n,,kuttigit kuptigit,a,,kuttigit kuptigit,n,,ruttigit ruptigit,fus,,,?
+gunitit,tv,cond,sp,3,p,2,s,,n,,kunitit,a,,kunitit,n,,runitit,fus,,,?
+paatit,tv,cond,sp,4,p,2,s,,i(k),,,a,,,n,,,n,,,?
+guttigu,tv,cond,sp,1,p,3,s,guptigu,n,,kuttigu kuptigu,a,,kuttigu kuptigu,n,,ruttigu ruptigu,fus,,,?
+gussiuk,tv,cond,sp,2,p,3,s,gupsiuk,n,,kussiuk kupsiuk,a,,kussiuk kupsiuk,n,,russiuk rupsiuk,fus,,,?
+gunijjuk,tv,cond,sp,3,p,3,s,guniku,n,,kunijjuk kuniku,a,,kunijjuk kuniku,n,,runijjuk runiku,fus,,,?
+pajjuk,tv,cond,sp,4,p,3,s,,i(k),,,a,,,n,,,n,,,?
+guttiguk,tv,cond,sp,2,p,1,d,guptiguk,n,,kuttiguk kuptiguk,a,,kuttiguk kuptiguk,n,,ruttiguk ruptiguk,fus,,,?
+gunitiguk,tv,cond,sp,3,p,1,d,,n,,kunitiguk,a,,kunitiguk,n,,runitiguk,fus,,,?
+paatiguk,tv,cond,sp,4,p,1,d,,i(k),,,a,,,n,,,n,,,?
+gussik,tv,cond,sp,1,p,2,d,guttik,n,,kussik kuttik,a,,kussik kuttik,n,,russik ruttik,fus,,,?
+gunitik,tv,cond,sp,3,p,2,d,,n,,kunitik,a,,kunitik,n,,runitik,fus,,,?
+paatik,tv,cond,sp,4,p,2,d,,i(k),,,a,,,n,,,n,,,?
+guttigik,tv,cond,sp,1,p,3,d,guptigik,n,,kuttigik kuptigik,a,,kuttigik kuptigik,n,,ruttigik ruptigik,fus,,,?
+gussigik,tv,cond,sp,2,p,3,d,gupsigik,n,,kussigik kupsigik,a,,kussigik kupsigik,n,,russigik rupsigik,fus,,,?
+gunigik,tv,cond,sp,3,p,3,d,,n,,kunigik,a,,kunigik,n,,runigik,fus,,,?
+pagik,tv,cond,sp,4,p,3,d,,i(k),,,a,,,n,,,n,,,?
+guttigut,tv,cond,sp,2,p,1,p,guptigut gupsigut,n,,kuttigut kuptigut kupsigut,a,,kuttigut kuptigut kupsigut,n,,ruttigut ruptigut rupsigut,fus,,,?
+gunitigut,tv,cond,sp,3,p,1,p,,n,,kunitigut,a,,kunitigut,n,,runitigut,fus,,,?
+paatigut,tv,cond,sp,4,p,1,p,,i(k),,,a,,,n,,,n,,,?
+gussi,tv,cond,sp,1,p,2,p,gupsi gutsi,n,,kussi kupsi kutsi,a,,kussi kupsi kutsi,n,,russi rupsi rutsi,fus,,,?
+gunisi,tv,cond,sp,3,p,2,p,,n,,kunisi,a,,kunisi,n,,runisi,fus,,,?
+paasi,tv,cond,sp,4,p,2,p,,i(k),,,a,,,n,,,n,,,?
+guttigit,tv,cond,sp,1,p,3,p,guptigit,n,,kuttigit kuptigit,a,,kuttigit kuptigit,n,,ruttigit ruptigit,fus,,,?
+gussigit,tv,cond,sp,2,p,3,p,gupsigit,n,,kussigit kupsigit,a,,kussigit kupsigit,n,,russigit rupsigit,fus,,,?
+gunigit,tv,cond,sp,3,p,3,p,,n,,kunigit,a,,kunigit,n,,runigit,fus,,,?
+pagit,tv,cond,sp,4,p,3,p,,i(k),,,a,,,n,,,n,,,?
+jarma,tv,ger,sp,2,s,1,s,,n,,tarma,n,,tarma,n,,tarma,n,,,?
+jaanga,tv,ger,sp,3,s,1,s,,n,,taanga,n,,taanga,n,,taanga,n,,,?
+jagit,tv,ger,sp,1,s,2,s,,n,,tagit,n,,tagit,n,,tagit,n,,,?
+jaatit,tv,ger,sp,3,s,2,s,,n,,taatit,n,,taatit,n,,taatit,n,,,?
+jara,tv,ger,sp,1,s,3,s,,n,,tara,n,,tara,n,,tara,n,,,?
+jait,tv,ger,sp,2,s,3,s,,n,,tait,n,,tait,n,,tait,n,,,?
+janga,tv,ger,sp,3,s,3,s,jaa,n,,tanga taa,n,,tanga taa,n,,tanga taa,n,,,?
+jattiguk,tv,ger,sp,2,s,1,d,jattikkuk,n,,tattiguk tattikkuk,n,,tattiguk tattikkuk,n,,tattiguk tattikkuk,n,,,?
+jaatiguk,tv,ger,sp,3,s,1,d,jaatikkuk,n,,taatiguk taatikkuk,n,,taatiguk taatikkuk,n,,taatiguk taatikkuk,n,,,?
+jassik,tv,ger,sp,1,s,2,d,,n,,tassik,n,,tassik,n,,tassik,n,,,?
+jaasik,tv,ger,sp,3,s,2,d,jaatik,n,,taasik taatik,n,,taasik taatik,n,,taasik taatik,n,,,?
+jaakka,tv,ger,sp,1,s,3,d,,n,,taakka,n,,taakka,n,,taakka,n,,,?
+jaakkik,tv,ger,sp,2,s,3,d,,n,,taakkik,n,,taakkik,n,,taakkik,n,,,?
+jaangik,tv,ger,sp,3,s,3,d,,n,,taangik,n,,taangik,n,,taangik,n,,,?
+jattigut,tv,ger,sp,2,s,1,p,japtigut,n,,tattigut taptigut,n,,tattigut taptigut,n,,tattigut taptigut,n,,,?
+jaatigut,tv,ger,sp,3,s,1,p,,n,,taatigut,n,,taatigut,n,,taatigut,n,,,?
+jassi,tv,ger,sp,1,s,2,p,,n,,tassi,n,,tassi,n,,tassi,n,,,?
+jaasi,tv,ger,sp,3,s,2,p,,n,,taasi,n,,taasi,n,,taasi,n,,,?
+jakka,tv,ger,sp,1,s,3,p,,n,,takka,n,,takka,n,,takka,n,,,?
+jatit,tv,ger,sp,2,s,3,p,,n,,tatit,n,,tatit,n,,tatit,n,,,?
+jangit,tv,ger,sp,3,s,3,p,jait,n,,tangit pait,n,,tangit tait,n,,tangit tait,n,,,?
+jaattinga,tv,ger,sp,2,d,1,s,,n,,taattinga,n,,taattinga,n,,taattinga,n,,,?
+jaanga,tv,ger,sp,3,d,1,s,,n,,taanga,n,,taanga,n,,taanga,n,,,?
+jattigik,tv,ger,sp,1,d,2,s,,n,,tattigik,n,,tattigik,n,,tattigik,n,,,?
+jaatit,tv,ger,sp,3,d,2,s,,n,,taatit,n,,taatit,n,,taatit,n,,,?
+javuk,tv,ger,sp,1,d,3,s,,n,,tavuk,n,,tavuk,n,,tavuk,n,,,?
+jasik,tv,ger,sp,2,d,3,s,jatik,n,,tasik tatik,n,,tasik tatik,n,,tasik tatik,n,,,?
+jangak,tv,ger,sp,3,d,3,s,,n,,tangak,n,,tangak,n,,tangak,n,,,?
+jaattiguk,tv,ger,sp,2,d,1,d,,n,,taattiguk,n,,taattiguk,n,,taattiguk,n,,,?
+jaatiguk,tv,ger,sp,3,d,1,d,,n,,taatiguk,n,,taatiguk,n,,taatiguk,n,,,?
+jassik,tv,ger,sp,1,d,2,d,,n,,tassik,n,,tassik,n,,tassik,n,,,?
+jaatik,tv,ger,sp,3,d,2,d,,n,,taatik,n,,taatik,n,,taatik,n,,,?
+jaavuk,tv,ger,sp,1,d,3,d,,n,,taavuk,n,,taavuk,n,,taavuk,n,,,?
+jaassik,tv,ger,sp,2,d,3,d,jaattik,n,,taassik taattik,n,,taassik taattik,n,,taassik taattik,n,,,?
+jaangik,tv,ger,sp,3,d,3,d,,n,,taangik,n,,taangik,n,,paangik,n,,,?
+jaattigut,tv,ger,sp,2,d,1,p,,n,,taattigut,n,,taattigut,n,,taattigut,n,,,?
+jaatigut,tv,ger,sp,3,d,1,p,,n,,taatigut,n,,taatigut,n,,taatigut,n,,,?
+jassi,tv,ger,sp,1,d,2,p,,n,,tassi,n,,tassi,n,,tassi,n,,,?
+jaasi,tv,ger,sp,3,d,2,p,,n,,taasi,n,,taasi,n,,taasi,n,,,?
+javuk,tv,ger,sp,1,d,3,p,,n,,tavuk,n,,tavuk,n,,tavuk,n,,,?
+jasik,tv,ger,sp,2,d,3,p,jatik,n,,tasik tatik,n,,tasik tatik,n,,tasik tatik,n,,,?
+jangik,tv,ger,sp,3,d,3,p,,n,,tangik,n,,tangik,n,,tangik,n,,,?
+jassinga,tv,ger,sp,2,p,1,s,japsinga jatsinga,n,,tassinga tapsinga tatsinga,n,,tassinga tapsinga tatsinga,n,,tassinga tapsinga tatsinga,n,,,?
+jaanga,tv,ger,sp,3,p,1,s,,n,,taanga,n,,taanga,n,,taanga,n,,,?
+jattigit,tv,ger,sp,1,p,2,s,japtigit,n,,tattigit taptigit,n,,tattigit taptigit,n,,tattigit taptigit,n,,,?
+jaatit,tv,ger,sp,3,p,2,s,,n,,taatit,n,,taatit,n,,taatit,n,,,?
+javut,tv,ger,sp,1,p,3,s,,n,,tavut,n,,tavut,n,,tavut,n,,,?
+jasi,tv,ger,sp,2,p,3,s,,n,,tasi,n,,tasi,n,,tasi,n,,,?
+jangat,tv,ger,sp,3,p,3,s,jaat,n,,tangat taat,n,,tangat taat,n,,tangat taat,n,,,?
+jattiguk,tv,ger,sp,2,p,1,d,,n,,tattiguk,n,,tattiguk,n,,tattiguk,n,,,?
+jaatiguk,tv,ger,sp,3,p,1,d,,n,,taatiguk,n,,taatiguk,n,,taatiguk,n,,,?
+jassik,tv,ger,sp,1,p,2,d,,n,,tassik,n,,tassik,n,,tassik,n,,,?
+jaasik,tv,ger,sp,3,p,2,d,jaatik,n,,taasik taatik,n,,taasik taatik,n,,taasik taatik,n,,,?
+jaavut,tv,ger,sp,1,p,3,d,,n,,taavut,n,,taavut,n,,taavut,n,,,?
+jaassi,tv,ger,sp,2,p,3,d,,n,,taassi,n,,taassi,n,,taassi,n,,,?
+jaangik,tv,ger,sp,3,p,3,d,,n,,taangik,n,,taangik,n,,taangik,n,,,?
+jattigut,tv,ger,sp,2,p,1,p,japtigut,n,,tattigut taptigut,n,,tattigut taptigut,n,,tattigut taptigut,n,,,?
+jaatigut,tv,ger,sp,3,p,1,p,,n,,taatigut,n,,taatigut,n,,taatigut,n,,,?
+jassi,tv,ger,sp,1,p,2,p,japsi,n,,tassi tapsi,n,,tassi tapsi,n,,tassi tapsi,n,,,?
+jaasi,tv,ger,sp,3,p,2,p,,n,,taasi,n,,taasi,n,,taasi,n,,,?
+javut,tv,ger,sp,1,p,3,p,,n,,tavut,n,,tavut,n,,tavut,n,,,?
+jasi,tv,ger,sp,2,p,3,p,,n,,tasi,n,,tasi,n,,tasi,n,,,?
+jangit,tv,ger,sp,3,p,3,p,jait,n,,tangit tait,n,,tangit tait,n,,tangit tait,n,,,?
+jaraangama,tv,freq,nsp,1,s,,,,n,,taraangama saarangama,n,,kaangama gaangama,n,,raangama,fus,,,?
+jaraangavit,tv,freq,nsp,2,s,,,,n,,taraangavit saraangavit,n,,kaangavit gaangavit,n,,raangavit,fus,,,?
+jaraangami,tv,freq,nsp,3,s,,,,n,,taraangami saraangami,n,,kaangami gaangami,n,,raangami,fus,,,?
+jaraangat,tv,freq,nsp,4,s,,,,n,,taraangat saraangat,n,,kaangat gaangat,n,,raangat,fus,,,?
+jaraangannuk,tv,freq,nsp,1,d,,,,n,,taraangannuk saraangannuk,n,,kaangannuk gaangannuk,n,,raangannuk,fus,,,?
+jaraangassik,tv,freq,nsp,2,d,,,,n,,taraangassik saraangassik,n,,kaangassik gaangassik,n,,raangassik,fus,,,?
+jaraangamik,tv,freq,nsp,3,d,,,,n,,taraangamik,n,,kaangamik gaangamik,n,,raangamik,fus,,,?
+jaraangatik,tv,freq,nsp,4,d,,,,n,,taraangatik saraangatik,n,,kaangatik gaangatik,n,,raangatik,fus,,,?
+jaraangatta,tv,freq,nsp,1,p,,,,n,,taraangatta saraangatta,n,,kaangatta gaangatta,n,,raangatta,fus,,,?
+jaraangassi,tv,freq,nsp,2,p,,,,n,,taraangassi sarrangassi,n,,kaangassi gaangassi,n,,raangassi,fus,,,?
+jaraangamik,tv,freq,nsp,3,p,,,,n,,taraangamik sarrangamik,n,,kaangamik gaangamik,n,,raangamik,fus,,,?
+jaraangata,tv,freq,nsp,4,p,,,,n,,taraangata saraangata,n,,kaangata gaangata,n,,raangata,fus,,,?
+jaraangavinga,tv,freq,sp,2,s,1,s,jaraangangma,n,,taraangavinga taraangangma saraangavinga saraangangma,n,,kaangavinga kaangangma gaangavinga gaangangma,n,,raangavinga raangangma,fus,,,?
+jaraangaminga,tv,freq,sp,3,s,1,s,,n,,taraangaminga saraangaminga,n,,kaangaminga gaangaminga,n,,raangaminga,fus,,,?
+jaraangaanga,tv,freq,sp,4,s,1,s,,n,,taraangaanga saraangaanga,n,,kaangaanga,n,,raangaanga,fus,,,?
+jaraangakkit,tv,freq,sp,1,s,2,s,jaraangapkit,n,,taraangakkit saraangakkit taraangapkit saraangapkit,n,,kaangakkit gaangakkit kaangapkit gaangapkit,n,,raangakkit raangapkit,fus,,,?
+jaraangamitit,tv,freq,sp,3,s,2,s,,n,,taraangamitit saraangamitit,n,,kaangamitit gaangamitit,n,,raangamitit,fus,,,?
+jaraangaatit,tv,freq,sp,4,s,2,s,,n,,taraangaatit saraangaatit,n,,kaangaatit gaangaatit,n,,raangaatit,fus,,,?
+jaraangakku,tv,freq,sp,1,s,3,s,jaraangapku,n,,taraangakku saraangakku taraangapku saraangapku,n,,kaangakku gaangakku kaangapku gaangapku,n,,raangakku raangapku,fus,,,?
+jaraangaviuk,tv,freq,sp,2,s,3,s,jaraangangni,n,,taraangaviuk saraangaviuk taraangangni saraangangni,n,,kaangaviuk gaangaviuk kaangangni gaangangni,n,,raangaviuk raangangni,fus,,,?
+jaraangamiuk,tv,freq,sp,3,s,3,s,,n,,taraangamiuk saraangamiuk,n,,kaangamiuk gaangamiuk,n,,raangamiuk,fus,,,?
+jaraangagu,tv,freq,sp,4,s,3,s,,n,,taraangagu saraangagu,n,,kaangagu gaangagu,n,,raangagu,fus,,,?
+jaraangattiguk,tv,freq,sp,2,s,1,d,jaraangaptiguk,n,,taraangattiguk saraangattiguk taraangaptiguk saraangaptiguk,n,,kaangattiguk gaangattiguk kaangaptiguk gaangaptiguk,n,,raangattiguk raangaptiguk,fus,,,?
+jaraangamitiguk,tv,freq,sp,3,s,1,d,,n,,taraangamitiguk saraangamitiguk,n,,kaangamitiguk gaangamitiguk,n,,raangamitiguk,fus,,,?
+jaraangaatiguk,tv,freq,sp,4,s,1,d,,n,,taraangaatiguk saraangaatiguk,n,,kaangaatiguk gaangaatiguk,n,,raangaatiguk,fus,,,?
+jaraangassik,tv,freq,sp,1,s,2,d,jaraangattik,n,,taraangassik saraangassik taraangattik saraangattik,n,,kaangassik gaangassik kaangattik gaangattik,n,,raangassik raangattik,fus,,,?
+jaraangamitik,tv,freq,sp,3,s,2,d,,n,,taraangamitik saraangamitik,n,,kaangamitik gaangamitik,n,,raangamitik,fus,,,?
+jaraangaatik,tv,freq,sp,4,s,2,d,,n,,taraangaatik saraangaatik,n,,kaangaatik gaangaatik,n,,raangaatik,fus,,,?
+jaraangakkik,tv,freq,sp,1,s,3,d,,n,,taraangakkik saraangakkik,n,,kaangakkik gaangakkik,n,,raangakkik,fus,,,?
+jaraangavigik,tv,freq,sp,2,s,3,d,jaraangangni,n,,taraangavigik saraangavigik taraangangni saraangangni,n,,kaangavigik gaangavigik gaangangni gaangangni,n,,raangavigik raangangni,fus,,,?
+jaraangamigik,tv,freq,sp,3,s,3,d,,n,,taraangamigik saraangamigik,n,,kaangamigik gaangamigik,n,,raangamigik,fus,,,?
+jaraangagik,tv,freq,sp,4,s,3,d,,n,,taraangagik saraangagik,n,,kaangagik gaangagik,n,,raangagik,fus,,,?
+jaraangattigut,tv,freq,sp,2,s,1,p,jaraangaptigut,n,,taraangattigut saraangattigut taraangaptigut saraangaptigut,n,,kaangattigut gaangattigut kaangaptigut gaangaptigut,n,,raangattigut raangaptigut,fus,,,?
+jaraangamitigut,tv,freq,sp,3,s,1,p,,n,,taraangamitigut saraangamitigut,n,,kaangamitigut gaangamitigut,n,,raangamitigut,fus,,,?
+jaraangaatigut,tv,freq,sp,4,s,1,p,,n,,taraangaatigut saraangaatigut,n,,kaangaatigut gaangaatigut,n,,raangaatigut,fus,,,?
+jaraangassi,tv,freq,sp,1,s,2,p,jaraangapsi jaraangatsi,n,,taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi,n,,kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi,n,,raangassi raangapsi raangatsi,fus,,,?
+jaraangamisi,tv,freq,sp,3,s,2,p,,n,,taraangamisi saraangamisi,n,,kaangamisi gaangamisi,n,,raangamisi,fus,,,?
+jaraangaasi,tv,freq,sp,4,s,2,p,,n,,taraangaasi saraangaasi,n,,kaangaasi gaangaasi,n,,raangaasi,fus,,,?
+jaraangakkit,tv,freq,sp,1,s,3,p,jaraangapkit,n,,taraangakkit saraangakkit taraangapkit saraangapkit,n,,kaangakkit gaangakkit kaangapkit gaangapkit,n,,raangakkit raangapkit,fus,,,?
+jaraangavigit,tv,freq,sp,2,s,3,p,jaraangangni,n,,taraangavigit saraangavigit taraangangni saraangangni,n,,kaangavigit gaangavigit kaangangni gaangangni,n,,raangavigit raangangni,fus,,,?
+jaraangamigit,tv,freq,sp,3,s,3,p,,n,,taraangamigit saraangamigit,n,,kaangamigit gaangamigit,n,,raangamigit,fus,,,?
+jaraangagit,tv,freq,sp,4,s,3,p,,n,,taraangagit saraangagit,n,,kaangagit gaangagit,n,,raangagit,fus,,,?
+jaraangattinga,tv,freq,sp,2,d,1,s,,n,,taraangattinga saraangattinga,n,,kaangattinga gaangattinga,n,,raangattinga,fus,,,?
+jaraangaminga,tv,freq,sp,3,d,1,s,,n,,taraangaminga saraangaminga,n,,kaangaminga gaangaminga,n,,raangaminga,fus,,,?
+jaraangaanga,tv,freq,sp,4,d,1,s,,n,,taraangaanga saraangaanga,n,,kaangaanga gaangaanga,n,,raangaanga,fus,,,?
+jaraangattigit,tv,freq,sp,1,d,2,s,jaraangaptigit,n,,taraangattigit saraangattigit taraangaptigit saraangaptigit,n,,kaangattigit gaangattigit kaangaptigit gaangaptigit,n,,raangattigit raangaptigit,fus,,,?
+jaraangamitit,tv,freq,sp,3,d,2,s,,n,,taraangamitit saraangamitit,n,,kaangamitit gaangamitit,n,,raangamitit,fus,,,?
+jaraangaatit,tv,freq,sp,4,d,2,s,,n,,taraangaatit saraangaatit,n,,kaangaatit gaangaatit,n,,raangaatit,fus,,,?
+jaraangattigu,tv,freq,sp,1,d,3,s,jaraangaptigu,n,,taraangattigu saraangattigu taraangaptigu saraangaptigu,n,,kaangattigu gaangattigu kaangaptigu gaangaptigu,n,,raangattigu raangaptigu,fus,,,?
+jaraangattiku,tv,freq,sp,2,d,3,s,,n,,taraangattiku saraangattiku,n,,kaangattiku gaangattiku,n,,raangattiku,fus,,,?
+jaraangamikku,tv,freq,sp,3,d,3,s,,n,,taraangamikku saraangamikku,n,,kaangamikku gaangamikku,n,,raangamikku,fus,,,?
+jaraangakku,tv,freq,sp,4,d,3,s,,n,,taraangakku saraangakku,n,,kaangakku gaangakku,n,,raangakku,fus,,,?
+jaraangattiguk,tv,freq,sp,2,d,1,d,,n,,taraangattiguk saraangattiguk,n,,kaangattiguk gaangattiguk,n,,raangattiguk,fus,,,?
+jaraangamitiguk,tv,freq,sp,3,d,1,d,,n,,taraangamitiguk saraangamitiguk,n,,kaangamitiguk gaangamitiguk,n,,raangamitiguk,fus,,,?
+jaraangaatiguk,tv,freq,sp,4,d,1,d,,n,,taraangaatiguk saraangaatiguk,n,,kaangaatiguk gaangaatiguk,n,,raangaatiguk,fus,,,?
+jaraangassik,tv,freq,sp,1,d,2,d,jaraangattik,n,,taraangassik saraangassik taraangattik saraangattik,n,,kaangasiik gaangassik kaangattik gaangattik,n,,raangassik raangattik,fus,,,?
+jaraangamitik,tv,freq,sp,3,d,2,d,,n,,taraangamitik saraangamitik,n,,kaangamitik gaangamitik,n,,raangamitik,fus,,,?
+jaraangaatik,tv,freq,sp,4,d,2,d,,n,,taraangaatik saraangaatik,n,,kaangaatik gaangaatik,n,,raangaatik,fus,,,?
+jaraangattigik,tv,freq,sp,1,d,3,d,jaraangaptigik,n,,taraangattigik saraangattigik taraangaptigik saraangaptigik,n,,kaangattigik gaangattigik kaangaptigik gaangaptigik,n,,raangattigik raangaptigik,fus,,,?
+jaraangattikik,tv,freq,sp,2,d,3,d,,n,,taraangattikik saraangattikik,n,,kaangattikik gaangattikik,n,,raangattikik,fus,,,?
+jaraangamikkik,tv,freq,sp,3,d,3,d,,n,,taraangamikkik saraangamikkik,n,,kaangamikkik gaangamikkik,n,,raangamikkik,fus,,,?
+jaraangakkik,tv,freq,sp,4,d,3,d,,n,,taraangakkik saraangakkik,n,,kaangakkik gaangakkik,n,,raangakkik,fus,,,?
+jaraangattigut,tv,freq,sp,2,d,1,p,,n,,taraangattigut saraangattigut,n,,kaangattigut gaangattigut,n,,raangattigut,fus,,,?
+jaraangamitigut,tv,freq,sp,3,d,1,p,,n,,taraangamitigut saraangamitigut,n,,kaangamitigut gaangamitigut,n,,raangamitigut,fus,,,?
+jaraangaatigut,tv,freq,sp,4,d,1,p,,n,,taraangaatigut saraangaatigut,n,,kaangaatigut gaangaatigut,n,,raangaatigut,fus,,,?
+jaraangassi,tv,freq,sp,1,d,2,p,jaraangapsi jaraangatsi,n,,taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi,n,,kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi,n,,raangassi raangapsi raangatsi,fus,,,?
+jaraangamisi,tv,freq,sp,3,d,2,p,,n,,taraangamisi saraangamisi,n,,kaangamisi gaangamisi,n,,raangamisi,fus,,,?
+jaraangaasi,tv,freq,sp,4,d,2,p,,n,,taraangaasi saraangaasi,n,,kaangaasi gaangaasi,n,,raangaasi,fus,,,?
+jaraangattigit,tv,freq,sp,1,d,3,p,jaraangaptigit,n,,taraangattigit saraangattigit taraangaptigit saraangaptigit,n,,kaangattigit gaangattigit kaangaptigit gaangaptigit,n,,raangattigit raangaptigit,fus,,,?
+jaraangattikit,tv,freq,sp,2,d,3,p,,n,,taraangattikit saraangattikit,n,,kaangattikit gaangattikit,n,,raangattikit,fus,,,?
+jaraangamikkit,tv,freq,sp,3,d,3,p,,n,,taraangamikkit saraangamikkit,n,,kaangamikkit gaangamikkit,n,,raangamikkit,fus,,,?
+jaraangakkit,tv,freq,sp,4,d,3,p,,n,,taraangakkit saraangakkit,n,,kaangakkit gaangakkit,n,,raangakkit,fus,,,?
+jaraangassinga,tv,freq,sp,2,p,1,s,jaraangapsinga jaraangatsinga,n,,taraangassinga saraangassinga taraangapsinga saraangapsinga taraangatsinga saraangatsinga,n,,kaangassinga gaangassinga kaangapsinga gaangapsinga kaangatsinga gaangatsinga,n,,raangassinga raangapsinga raangatsinga,fus,,,?
+jaraangaminga,tv,freq,sp,3,p,1,s,,n,,taraangaminga saraangaminga,n,,kaangaminga gaangaminga,n,,raangaminga,fus,,,?
+jaraangaanga,tv,freq,sp,4,p,1,s,,n,,taraangaanga saraangaanga,n,,kaangaanga gaangaanga,n,,raangaanga,fus,,,?
+jaraangattigit,tv,freq,sp,1,p,2,s,jaraangaptigit,n,,taraangattigit saraangattigit taraangaptigit saraangaptigit,n,,kaangattigit gaangattigit kaangaptigit gaangaptigit,n,,raangattigit raangaptigit,fus,,,?
+jaraangamitit,tv,freq,sp,3,p,2,s,,n,,taraangamitit saraangamitit,n,,kaangamitit gaangamitit,n,,raangamitit,fus,,,?
+jaraangaatit,tv,freq,sp,4,p,2,s,,n,,taraangaatit saraangaatit,n,,kaangaatit gaangaatit,n,,raangaatit,fus,,,?
+jaraangattigu,tv,freq,sp,1,p,3,s,jaraangaptigu,n,,taraangattigu saraangattigu taraangaptigu saraangaptigu,n,,kaangattigu gaangattigu kaangaptigu gaangaptigu,n,,raangattigu raangaptigu,fus,,,?
+jaraangassiuk,tv,freq,sp,2,p,3,s,jaraangapsiuk jaraangatsiuk,n,,taraangassiuk saraangassiuk taraangapsiuk saraangapsiuk taraangatsiuk saraangatsiuk,n,,kaangassiuk gaangassiuk kaangapsiuk gaangapsiuk kaangatsiuk gaangatsiuk,n,,raangassiuk raangapsiuk raangatsiuk,fus,,,?
+jaraangamijjuk,tv,freq,sp,3,p,3,s,jaraangamiku,n,,taraangamijjuk saraangamijjuk taraangamiku saraangamiku,n,,kaangamijjuk gaangamijjuk kaangamiku gaangamiku,n,,raangamijjuk raangamiku,fus,,,?
+jaraangajjuk,tv,freq,sp,4,p,3,s,,n,,taraangajjuk saraangajjuk,n,,kaangajjuk gaangajjuk,n,,raangajjuk,fus,,,?
+jaraangattiguk,tv,freq,sp,2,p,1,d,jaraangaptiguk,n,,taraangattiguk saraangattiguk taraangaptiguk saraangaptiguk,n,,kaangattiguk gaangattiguk kaangaptiguk gaangaptiguk,n,,raangattiguk raangaptiguk,fus,,,?
+jaraangamitiguk,tv,freq,sp,3,p,1,d,,n,,taraangamitiguk saraangamitiguk,n,,kaangamitiguk gaangamitiguk,n,,raangamitiguk,fus,,,?
+jaraangaatiguk,tv,freq,sp,4,p,1,d,,n,,taraangaatiguk saraangaatiguk,n,,kaangaatiguk gaangaatiguk,n,,raangaatiguk,fus,,,?
+jaraangassik,tv,freq,sp,1,p,2,d,jaraangattik,n,,taraangassik saraangassik taraangattik saraangattik,n,,kaangassik gaangassik kaangattik gaangattik,n,,raangassik raangattik,fus,,,?
+jaraangamitik,tv,freq,sp,3,p,2,d,,n,,taraangamitik saraangamitik,n,,kaangamitik gaangamitik,n,,raangamitik,fus,,,?
+jaraangaatik,tv,freq,sp,4,p,2,d,,n,,taraangaatik saraangaatik,n,,kaangaatik gaangaatik,n,,raangaatik,fus,,,?
+jaraangattigik,tv,freq,sp,1,p,3,d,jaraangaptigik,n,,taraangattigik saraangattigik taraangaptigik saraangaptigik,n,,kaangattigik gaangattigik kaangaptigik gaangaptigik,n,,raangattigik raangaptigik,fus,,,?
+jaraangassigik,tv,freq,sp,2,p,3,d,jaraangapsigik jaraangatsigik,n,,taraangassigik saraangassigik taraangapsigik saraangapsigik taraangatsigik saraangatsigik,n,,kaangassigik gaangassigik kaangapsigik gaangapsigik taraangatsigik gaangatsigik,n,,raangassigik raangapsigik raangatsigik,fus,,,?
+jaraangamigik,tv,freq,sp,3,p,3,d,,n,,taraangamigik saraangamigik,n,,kaangamigik gaangamigik,n,,raangamigik,fus,,,?
+jaraangagik,tv,freq,sp,4,p,3,d,,n,,taraangagik saraangagik,n,,kaangagik gaangagik,n,,raangagik,fus,,,?
+jaraangattigut,tv,freq,sp,2,p,1,p,jaraangaptigut,n,,taraangattigut saraangattigut taraangaptigut saraangaptigut,n,,kaangattigut gaangattigut kaangaptigut gaangaptigut,n,,raangattigut raangaptigut,fus,,,?
+jaraangamitigut,tv,freq,sp,3,p,1,p,,n,,taraangamitigut saraangamitigut,n,,kaangamitigut gaangamitigut,n,,raangamitigut,fus,,,?
+jaraangaatigut,tv,freq,sp,4,p,1,p,,n,,taraangaatigut saraangaatigut,n,,kaangaatigut gaangaatigut,n,,raangaatigut,fus,,,?
+jaraangassi,tv,freq,sp,1,p,2,p,jaraangapsi jaraangatsi,n,,taraangassi saraangassi taraangapsi saraangapsi taraangatsi saraangatsi,n,,kaangassi gaangassi kaangapsi gaangapsi kaangatsi gaangatsi,n,,raangassi raangapsi raangatsi,fus,,,?
+jaraangamisi,tv,freq,sp,3,p,2,p,,n,,taraangamisi saraangamisi,n,,kaangamisi gaangamisi,n,,raangamisi,fus,,,?
+jaraangaasi,tv,freq,sp,4,p,2,p,,n,,taraangaasi saraangaasi,n,,kaangaasi gaangaasi,n,,raangaasi,fus,,,?
+jaraangattigit,tv,freq,sp,1,p,3,p,jaraangaptigit,n,,taraangattigit saraangattigit taraangaptigit saraangaptigit,n,,kaangattigit gaangattigit kaangaptigit gaangaptigit,n,,raangattigit raangaptigit,fus,,,?
+jaraangassigit,tv,freq,sp,2,p,3,p,jaraangapsigit,n,,taraangassigit saraangassigit taraangapsigit saraangapsigit,n,,kaangassigit gaangassigit kaangapsigit gaangapsigit,n,,raangassigit raangapsigit,fus,,,?
+jaraangamigit,tv,freq,sp,3,p,3,p,,n,,taraangamigit saraangamigit,n,,kaangamigit gaangamigit,n,,raangamigit,fus,,,?
+jaraangagit,tv,freq,sp,4,p,3,p,,n,,taraangagit saraangagit,n,,kaangagit gaangagit,n,,raangagit,fus,,,?
+mangaarma,tv,dub,nsp,1,s,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaaqpit,tv,dub,nsp,2,s,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmi,tv,dub,nsp,3,s,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaat,tv,dub,nsp,4,s,,,mangaaq,i(ng),,* mangaaq,a,,* mangaaq,nas,,* mangaaq,nas,,,?
+mangaannuk,tv,dub,nsp,1,d,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassik,tv,dub,nsp,2,d,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmik,tv,dub,nsp,3,d,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatik,tv,dub,nsp,4,d,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatta,tv,dub,nsp,1,p,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassi,tv,dub,nsp,2,p,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmik,tv,dub,nsp,3,p,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaata,tv,dub,nsp,4,p,,,,i(ng),,,a,,,nas,,,nas,,,?
+mangaaqpinga,tv,dub,sp,2,s,1,s,mangaarma,i(ng),,* mangaarma,a,,* mangaarma,nas,,* mangaarma,nas,,,?
+mangaarminga,tv,dub,sp,3,s,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaanga,tv,dub,sp,4,s,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakkit,tv,dub,sp,1,s,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitit,tv,dub,sp,3,s,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatit,tv,dub,sp,4,s,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakku,tv,dub,sp,1,s,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaaqpiuk,tv,dub,sp,2,s,3,s,mangaarni,i(ng),,* mangaarni,a,,* mangaarni,nas,,* mangaarni,nas,,,?
+mangaarmiuk,tv,dub,sp,3,s,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaagu,tv,dub,sp,4,s,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattiguk,tv,dub,sp,2,s,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitiguk,tv,dub,sp,3,s,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatiguk,tv,dub,sp,4,s,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassik,tv,dub,sp,1,s,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitik,tv,dub,sp,3,s,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatik,tv,dub,sp,4,s,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakkik,tv,dub,sp,1,s,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaaqpigik,tv,dub,sp,2,s,3,d,mangaarni,i(ng),,* mangaarni,a,,* mangaarni,nas,,* mangaarni,nas,,,?
+mangaarmigik,tv,dub,sp,3,s,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaagik,tv,dub,sp,4,s,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigut,tv,dub,sp,2,s,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitigut,tv,dub,sp,3,s,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatigut,tv,dub,sp,4,s,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassi,tv,dub,sp,1,s,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmisi,tv,dub,sp,3,s,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaasi,tv,dub,sp,4,s,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakkit,tv,dub,sp,1,s,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaaqpigit,tv,dub,sp,2,s,3,p,mangaarni,i(ng),,* mangaarni,a,,* mangaarni,nas,,* mangaarni,nas,,,?
+mangaarmigit,tv,dub,sp,3,s,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaagit,tv,dub,sp,4,s,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattinga,tv,dub,sp,2,d,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarminga,tv,dub,sp,3,d,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaanga,tv,dub,sp,4,d,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigit,tv,dub,sp,1,d,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitit,tv,dub,sp,3,d,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatit,tv,dub,sp,4,d,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigu,tv,dub,sp,1,d,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattiku,tv,dub,sp,2,d,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmikku,tv,dub,sp,3,d,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakku,tv,dub,sp,4,d,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattiguk,tv,dub,sp,2,d,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitiguk,tv,dub,sp,3,d,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatiguk,tv,dub,sp,4,d,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassik,tv,dub,sp,1,d,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitik,tv,dub,sp,3,d,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatik,tv,dub,sp,4,d,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigik,tv,dub,sp,1,d,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattikik,tv,dub,sp,2,d,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmikkik,tv,dub,sp,3,d,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakkik,tv,dub,sp,4,d,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigut,tv,dub,sp,2,d,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitigut,tv,dub,sp,3,d,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatigut,tv,dub,sp,4,d,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassi,tv,dub,sp,1,d,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmisi,tv,dub,sp,3,d,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaasi,tv,dub,sp,4,d,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigit,tv,dub,sp,1,d,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattikit,tv,dub,sp,2,d,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmikkit,tv,dub,sp,3,d,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaakkit,tv,dub,sp,4,d,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassinga,tv,dub,sp,2,p,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarminga,tv,dub,sp,3,p,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaanga,tv,dub,sp,4,p,1,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigit,tv,dub,sp,1,p,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitit,tv,dub,sp,3,p,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatit,tv,dub,sp,4,p,2,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigu,tv,dub,sp,1,p,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassiuk,tv,dub,sp,2,p,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmijjuk,tv,dub,sp,3,p,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaajjuk,tv,dub,sp,4,p,3,s,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattiguk,tv,dub,sp,2,p,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitiguk,tv,dub,sp,3,p,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatiguk,tv,dub,sp,4,p,1,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassik,tv,dub,sp,1,p,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitik,tv,dub,sp,3,p,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatik,tv,dub,sp,4,p,2,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigik,tv,dub,sp,1,p,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassigik,tv,dub,sp,2,p,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmigik,tv,dub,sp,3,p,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaagik,tv,dub,sp,4,p,3,d,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigut,tv,dub,sp,2,p,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmitigut,tv,dub,sp,3,p,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaatigut,tv,dub,sp,4,p,1,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassi,tv,dub,sp,1,p,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmisi,tv,dub,sp,3,p,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaasi,tv,dub,sp,4,p,2,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaattigit,tv,dub,sp,1,p,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaassigit,tv,dub,sp,2,p,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaarmigit,tv,dub,sp,3,p,3,p,,i(ng),,,a,,,nas,,,nas,,,?
+mangaagit,tv,dub,sp,4,p,3,p,,i(ng),,,a,,,nas,,,nas,,,?

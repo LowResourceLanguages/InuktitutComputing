@@ -1,0 +1,313 @@
+morpheme;type;case;number;perPoss;numbPoss;V-form;V-actions;V-action1;V-action2;t-form;t-actions;t-action1;t-action2;k-form;k-actions;k-action1;k-action2;q-form;q-actions;q-action1;q-action2;condPrec;sources
+t;tn;nom;p;;;t;n;n;;-;-;-;;t;s;s;;t;s;s;;pl:t;H2
+k;tn;nom;d;;;k;n-n-allV;allV;x;k;i(ii);iallV(i);;k;s-n-allV;sallV;x;k;s-n-allV;sallV;x;;H2
+it;tn;nom;p;;;it;n-decap;n;decap;it;n;n;;it;s-decap;s;decap;it;s-decap;s;decap;;H2
+up;tn;gen;s;;;up;n-decap;n;decap;up up;s-decap i(i);s i(i);decap -;up;s-decap;s;decap;up;s-decap;s;decap;;H2
+k;tn;gen;d;;;k;n-n-allV;allV;x;k;i(ii);iallV(i);;k;s-n-allV;sallV;x;k;s-n-allV;sallV;x;;H2
+it;tn;gen;p;;;it;n-decap;n;decap;it;n;n;;it;s-decap;s;decap;it;s-decap;s;decap;;H2
+mik;tn;acc;s;;;mik;n;n;;mik mik;a i(i);a i(i);;mik;if(id:giik/1nn,s,nas);nas a if(id:giik/1nn,s);;mik mik;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+ngnik;tn;acc;d;;;ngnik;n-n-allV;allV;x;ngnik;i(ii);iallV(i);;ngnik;s-n-allV;sallV;x;ngnik;s-n-allV;sallV;x;;H2
+nik;tn;acc;p;;;nik;n;n;;nik nik;a i(i);a i(i);;nik;nas;nas a;;nik nik;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+mut;tn;dat;s;;;mut;n;n;;mut mut mut;a i(i) n-s;a i(i) n;"""- - s""";nut nut;nas n-s;nas n;"""- s""";nut nut;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn|id:jaq/1vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn|id:jaq/1vn,s,nas) n; - s;;H2
+ngnut;tn;dat;d;;;ngnut;n-n-allV;allV;x;ngnut;i(ii);iallV(i);;ngnut;s-n-allV;sallV;x;ngnut;s-n-allV;sallV;x;;H2
+nut;tn;dat;p;;;nut;n;n;;nut nut nut;a i(i) n-s;a i(i) n;"""- - s""";nut nut;nas n-s;nas n;"""- s""";nut nut;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+mit;tn;abl;s;;;mit;n;n;;mit mit;a i(i);a i(i);;mit;nas;nas;;mit mit;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+ngnit;tn;abl;d;;;ngnit;n-n-allV;allV;x;ngnit;i(ii);iallV(i);;ngnit;s-n-allV;sallV;x;ngnit;s-n-allV;sallV;x;;H2
+nit;tn;abl;p;;;nit;n;n;;nit nit;a i(i);a i(i);;nit;nas;nas;;nit nit;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+mi;tn;loc;s;;;mi;n;n;;mi mi;a i(i);a i(i);;mi;nas;nas;;mi mi;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+ngni;tn;loc;d;;;ngni;n-n-allV;allV;x;ngni;i(ii);iallV(i);;ngni;s-n-allV;sallV;x;ngni;s-n-allV;sallV;x;;H2
+ni;tn;loc;p;;;ni;n;n;;ni ni;a i(i);a i(i);;ni;nas;nas;;ni ni;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n;if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n; - s;;H2
+tut;tn;sim;s;;;tut;n;n;;tut;i(i);i(i);;tut;n;n;;tut;if(id:juq/1vn,s,n);n if(id:juq/1vn,s);;;H2
+ktut;tn;sim;d;;;ktut ktitut;n-n-allV n-n-allV;allV;x;ktut ktitut;i(ii) i(ii);iallV(i);;ktut ktitut;s-n-allV s-n-allV;sallV;x;ktut ktitut;s-n-allV s-n-allV;sallV;x;;H2
+titut;tn;sim;p;;;titut;n;n;;titut;i(i);i(i);;titut;n;n;;titut;if(id:juq/1vn,s,n);n if(id:juq/1vn,s);;;H2
+kkut;tn;via;s;;;kkut;n;n;;kkut;i(i);i(i);;kkut;s;s;;kkut;s;s;;;H2
+kkut;tn;via;d;;;kkut;n-n-allV;allV;x;kkut;i(ii);iallV(i);;kkut;s-n-allV;sallV;x;kkut;s-n-allV;sallV;x;;H2
+tigut;tn;via;p;;;tigut;n;n;;tigut;i(i);i(i);;tigut;n;n;;tigut;if(id:juq/1vn,s,n);n if(id:juq/1vn,s);;;H2
+ga;tn;nom;s;1;s;ga;n;n;;ga;i(i);i(i);;ga;s;s;;ra;s;fus;;;H2
+kka;tn;nom;d;1;s;kka;n-n-allV;allV;x;kka;i(ii);iallV(i);;kka;s-n-allV;sallV;x;kka;s-n-allV;sallV;x;;H2
+kka;tn;nom;p;1;s;kka;n;n;;kka;i(i);i(i);;kka;s;s;;kka;s;s;;;H2
+ma;tn;gen;s;1;s;ma;n;n;;ma ma;i(i) i(im);i(i) i(im);;ma ma;s nas;s a;;ma ma;nas s;nas s;;;H2
+kka;tn;gen;d;1;s;kka ngma;n-n-allV n-n-allV;allV;x;kka ngma;i(ii) i(ii);iallV(i);;kka ngma;s-n-allV s-n-allV;sallV;x;kka ngma;s-n-allV s-n-allV;sallV;x;;H2
+kka;tn;gen;p;1;s;kka;n;n;;kka;i(i);i(i);;kka;s;s;;kka;s;s;;;H2
+mnik;tn;acc;s;1;s;mnik;n;n;;mnik;i(i);i(i);;mnik;s;s;;mnik;s;s;;;H2
+mnik;tn;acc;d;1;s;mnik;n-n-allV;allV;x;mnik;i(ii);iallV(i);;mnik;s-n-allV;sallV;x;mnik;s-n-allV;sallV;x;;H2
+mnik;tn;acc;p;1;s;mnik;n;n;;mnik;i(i);i(i);;mnik;s;s;;mnik;s;s;;;H2
+mnut;tn;dat;s;1;s;mnut;n;n;;mnut;i(i);i(i);;mnut;s;s;;mnut;s;s;;;H2
+mnut;tn;dat;d;1;s;mnut;n-n-allV;allV;x;mnut;i(ii);iallV(i);;mnut;s-n-allV;sallV;x;mnut;s-n-allV;sallV;x;;H2
+mnut;tn;dat;p;1;s;mnut;n;n;;mnut;i(i);i(i);;mnut;s;s;;mnut;s;s;;;H2
+mnit;tn;abl;s;1;s;mnit;n;n;;mnit;i(i);i(i);;mnit;s;s;;mnit;s;s;;;H2
+mnit;tn;abl;d;1;s;mnit;n-n-allV;allV;x;mnit;i(ii);iallV(i);;mnit;s-n-allV;sallV;x;mnit;s-n-allV;sallV;x;;H2
+mnit;tn;abl;p;1;s;mnit;n;n;;mnit;i(i);i(i);;mnit;s;s;;mnit;s;s;;;H2
+mni;tn;loc;s;1;s;mni;n;n;;mni;i(i);i(i);;mni;s;s;;mni;s;s;;;H2
+mni;tn;loc;d;1;s;mni;n-n-allV;allV;x;mni;i(ii);iallV(i);;mni;s-n-allV;sallV;x;mni;s-n-allV;sallV;x;;H2
+mni;tn;loc;p;1;s;mni;n;n;;mni;i(i);i(i);;mni;s;s;;mni;s;s;;;H2
+ptut;tn;sim;s;1;s;ptut;n;n;;ptut;i(i);i(i);;ptut;s;s;;ptut;s;s;;;H2
+ptut;tn;sim;d;1;s;ptut;n-n-allV;allV;x;ptut;i(ii);iallV(i);;ptut;s-n-allV;sallV;x;ptut;s-n-allV;sallV;x;;H2
+ptut;tn;sim;p;1;s;ptut ptitut;n n;n;;ptut ptitut;i(i) i(i);i(i);;ptut ptitut;s s;s;;ptut ptitut;s s;s;;;H2
+pkut;tn;via;s;1;s;pkut;n;n;;pkut;i(i);i(i);;pkut;s;s;;pkut;s;s;;;H2
+pkut;tn;via;d;1;s;pkut;n-n-allV;allV;x;pkut;i(ii);iallV(i);;pkut;s-n-allV;sallV;x;pkut;s-n-allV;sallV;x;;H2
+pkut;tn;via;p;1;s;pkut ptigut;n n;n;;pkut ptigut;i(i) i(i);i(i);;pkut ptigut;s s;s;;pkut ptigut;s s;s;;;H2
+vuk;tn;nom;s;1;d;vuk kpuk kput;n n n;n;;vuk kpuk kput;i(i) i(i) i(i);i(i);;vuk kpuk kput;s s s;s;;vuk puk put;s n n;s n n;;;H2
+kpuk;tn;nom;d;1;d;kpuk;n-n-allV;allV;x;kpuk;i(ii);iallV(i);;kpuk;s-n-allV;sallV;x;kpuk;s-n-allV;sallV;x;;H2
+vuk;tn;nom;p;1;d;vuk kpuk kput;n n n;n;;vuk kpuk kput;i(i) i(i) i(i);i(i);;vuk kpuk kput;s s s;s;;vuk puk put;s n n;s n n;;;H2
+mnuk;tn;gen;s;1;d;mnuk;n;n;;mnuk;i(i);i(i);;mnuk;s;s;;mnuk;s;s;;;H2
+ngnuk;tn;gen;d;1;d;ngnuk;n-n-allV;allV;x;ngnuk;i(ii);iallV(i);;ngnuk;s-n-allV;sallV;x;ngnuk;s-n-allV;sallV;x;;H2
+mnuk;tn;gen;p;1;d;mnuk;n;n;;mnuk;i(i);i(i);;mnuk;s;s;;mnuk;s;s;;;H2
+ptingnik;tn;acc;s;1;d;ptingnik;n;n;;ptingnik;i(i);i(i);;ptingnik;s;s;;ptingnik;s;s;;;H2
+ptingnik;tn;acc;d;1;d;ptingnik;n-n-allV;allV;x;ptingnik;i(ii);iallV(i);;ptingnik;s-n-allV;sallV;x;ptingnik;s-n-allV;sallV;x;;H2
+ptingnik;tn;acc;p;1;d;ptingnik;n;n;;ptingnik;i(i);i(i);;ptingnik;s;s;;ptingnik;s;s;;;H2
+ptingnut;tn;dat;s;1;d;ptingnut;n;n;;ptingnut;i(i);i(i);;ptingnut;s;s;;ptingnut;s;s;;;H2
+ptingnut;tn;dat;d;1;d;ptingnut;n-n-allV;allV;x;ptingnut;i(ii);iallV(i);;ptingnut;s-n-allV;sallV;x;ptingnut;s-n-allV;sallV;x;;H2
+ptingnut;tn;dat;p;1;d;ptingnut;n;n;;ptingnut;i(i);i(i);;ptingnut;s;s;;ptingnut;s;s;;;H2
+ptingnit;tn;abl;s;1;d;ptingnit;n;n;;ptingnit;i(i);i(i);;ptingnit;s;s;;ptingnit;s;s;;;H2
+ptingnit;tn;abl;d;1;d;ptingnit;n-n-allV;allV;x;ptingnit;i(ii);iallV(i);;ptingnit;s-n-allV;sallV;x;ptingnit;s-n-allV;sallV;x;;H2
+ptingnit;tn;abl;p;1;d;ptingnit;n;n;;ptingnit;i(i);i(i);;ptingnit;s;s;;ptingnit;s;s;;;H2
+ptingni;tn;loc;s;1;d;ptingni;n;n;;ptingni;i(i);i(i);;ptingni;s;s;;ptingni;s;s;;;H2
+ptingni;tn;loc;d;1;d;ptingni;n-n-allV;allV;x;ptingni;i(ii);iallV(i);;ptingni;s-n-allV;sallV;x;ptingni;s-n-allV;sallV;x;;H2
+ptingni;tn;loc;p;1;d;ptingni;n;n;;ptingni;i(i);i(i);;ptingni;s;s;;ptingni;s;s;;;H2
+ptitut;tn;sim;s;1;d;ptitut;n;n;;ptitut;i(i);i(i);;ptitut;s;s;;ptitut;s;s;;;H2
+ptitut;tn;sim;d;1;d;ptitut;n-n-allV;allV;x;ptitut;i(ii);iallV(i);;ptitut;s-n-allV;sallV;x;ptitut;s-n-allV;sallV;x;;H2
+ptitut;tn;sim;p;1;d;ptitut;n;n;;ptitut;i(i);i(i);;ptitut;s;s;;ptitut;s;s;;;H2
+ptigut;tn;via;s;1;d;ptigut;n;n;;ptigut;i(i);i(i);;ptigut;s;s;;ptigut;s;s;;;H2
+ptigut;tn;via;d;1;d;ptigut;n-n-allV;allV;x;ptigut;i(ii);iallV(i);;ptigut;s-n-allV;sallV;x;ptigut;s-n-allV;sallV;x;;H2
+ptigut;tn;via;p;1;d;ptigut;n;n;;ptigut;i(i);i(i);;ptigut;s;s;;ptigut;s;s;;;H2
+vut;tn;nom;s;1;p;vut kput;n n;n;;vut kput;i(i) i(i);i(i);;vut kput;s s;s;;vut put;s n;s n;;;H2
+vut;tn;nom;d;1;p;vut kput;n-n-allV n-n-allV;allV;x;vut kput;i(ii) i(ii);iallV(i);;vut kput;s-n-allV s-n-allV;sallV;x;vut put;s-n-allV n-n-allV;sallV allV;x x;;H2
+vut;tn;nom;p;1;p;vut kput;n n;n;;vut kput;i(i) i(i);i(i);;vut kput;s s;s;;vut put;s n;s n;;;H2
+pta;tn;gen;s;1;p;pta;n;n;;pta;i(i);i(i);;pta;s;s;;pta;s;s;;;H2
+pta;tn;gen;d;1;p;pta kta;n-n-allV n-n-allV;allV;x;pta kta;i(ii) i(ii);iallV(i);;pta kta;s-n-allV s-n-allV;sallV;x;pta kta;s-n-allV s-n-allV;sallV;x;;H2
+pta;tn;gen;p;1;p;pta;n;n;;pta;i(i);i(i);;pta;s;s;;pta;s;s;;;H2
+ptingnik;tn;acc;s;1;p;ptingnik;n;n;;ptingnik;i(i);i(i);;ptingnik;s;s;;ptingnik;s;s;;;H2
+ptingnik;tn;acc;d;1;p;ptingnik;n-n-allV;allV;x;ptingnik;i(ii);iallV(i);;ptingnik;s-n-allV;sallV;x;ptingnik;s-n-allV;sallV;x;;H2
+ptingnik;tn;acc;p;1;p;ptingnik;n;n;;ptingnik;i(i);i(i);;ptingnik;s;s;;ptingnik;s;s;;;H2
+ptingnut;tn;dat;s;1;p;ptingnut;n;n;;ptingnut;i(i);i(i);;ptingnut;s;s;;ptingnut;s;s;;;H2
+ptingnut;tn;dat;d;1;p;ptingnut;n-n-allV;allV;x;ptingnut;i(ii);iallV(i);;ptingnut;s-n-allV;sallV;x;ptingnut;s-n-allV;sallV;x;;H2
+ptingnut;tn;dat;p;1;p;ptingnut;n;n;;ptingnut;i(i);i(i);;ptingnut;s;s;;ptingnut;s;s;;;H2
+ptingnit;tn;abl;s;1;p;ptingnit;n;n;;ptingnit;i(i);i(i);;ptingnit;s;s;;ptingnit;s;s;;;H2
+ptingnit;tn;abl;d;1;p;ptingnit;n-n-allV;allV;x;ptingnit;i(ii);iallV(i);;ptingnit;s-n-allV;sallV;x;ptingnit;s-n-allV;sallV;x;;H2
+ptingnit;tn;abl;p;1;p;ptingnit;n;n;;ptingnit;i(i);i(i);;ptingnit;s;s;;ptingnit;s;s;;;H2
+ptingni;tn;loc;s;1;p;ptingni;n;n;;ptingni;i(i);i(i);;ptingni;s;s;;ptingni;s;s;;;H2
+ptingni;tn;loc;d;1;p;ptingni;n-n-allV;allV;x;ptingni;i(ii);iallV(i);;ptingni;s-n-allV;sallV;x;ptingni;s-n-allV;sallV;x;;H2
+ptingni;tn;loc;p;1;p;ptingni;n;n;;ptingni;i(i);i(i);;ptingni;s;s;;ptingni;s;s;;;H2
+ptitut;tn;sim;s;1;p;ptitut;n;n;;ptitut;i(i);i(i);;ptitut;s;s;;ptitut;s;s;;;H2
+ptitut;tn;sim;d;1;p;ptitut;n-n-allV;allV;x;ptitut;i(ii);iallV(i);;ptitut;s-n-allV;sallV;x;ptitut;s-n-allV;sallV;x;;H2
+ptitut;tn;sim;p;1;p;ptitut;n;n;;ptitut;i(i);i(i);;ptitut;s;s;;ptitut;s;s;;;H2
+ptigut;tn;via;s;1;p;ptigut;n;n;;ptigut;i(i);i(i);;ptigut;s;s;;ptigut;s;s;;;H2
+ptigut;tn;via;d;1;p;ptigut;n-n-allV;allV;x;ptigut;i(ii);iallV(i);;ptigut;s-n-allV;sallV;x;ptigut;s-n-allV;sallV;x;;H2
+ptigut;tn;via;p;1;p;ptigut;n;n;;ptigut;i(i);i(i);;ptigut;s;s;;ptigut;s;s;;;H2
+it;tn;nom;s;2;s;it;n-decap;n;decap;it;i(i);i(i);;it;s;s;decap;it;s-decap;s;decap;;H2
+kkik;tn;nom;d;2;s;kkik;n-n-allV;allV;x;kkik;i(ii);iallV(i);;kkik;s-n-allV;sallV;x;kkik;s-n-allV;sallV;x;;H2
+tit;tn;nom;p;2;s;tit;n;n;;tit;i(i);i(i);;tit;s;s;;tit;s;s;;;H2
+vit;tn;gen;s;2;s;vit kpit;n n;n;;vit kpit;i(i) s;i(i) s;;vit kpit;s s;s;;vit pit;s n;s n;;;H2
+kpik;tn;gen;d;2;s;kpik kkik vit kpit;n-n-allV n-n-allV n-n-allV n-n-allV;allV;x;kpik kkik vit kpit;i(ii) i(ii) i(ii) i(ii);iallV(i);;kpik kkik vit kpit;s-n-allV s-n-allV s-n-allV s-n-allV;sallV;x;kpik kkik vit kpit;s-n-allV s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+tit;tn;gen;p;2;s;tit vit kpit;n n n;n;;tit vit kpit;i(i) i(i) i(i);i(i);;tit vit kpit;s s s;s;;tit vit kpit;s s s;s;;;H2
+ngnik;tn;acc;s;2;s;ngnik;n;n;;ngnik;i(i);i(i);;ngnik;s;s;;ngnik nik;s nas;s nas;;;H2
+ngnik;tn;acc;d;2;s;ngnik;n-n-allV;allV;x;ngnik;i(ii);iallV(i);;ngnik;s-n-allV;sallV;x;ngnik;s-n-allV;sallV;x;;H2
+ngnik;tn;acc;p;2;s;ngnik;n;n;;ngnik;i(i);i(i);;ngnik;s;s;;ngnik;s;s;;;H2
+ngnut;tn;dat;s;2;s;ngnut;n;n;;ngnut;i(i);i(i);;ngnut;s;s;;ngnut nut;s nas;s nas;;;H2
+ngnut;tn;dat;d;2;s;ngnut;n-n-allV;allV;x;ngnut;i(ii);iallV(i);;ngnut;s-n-allV;sallV;x;ngnut;s-n-allV;sallV;x;;H2
+ngnut;tn;dat;p;2;s;ngnut;n;n;;ngnut;i(i);i(i);;ngnut;s;s;;ngnut;s;s;;;H2
+ngnit;tn;abl;s;2;s;ngnit;n;n;;ngnit;i(i);i(i);;ngnit;s;s;;ngnit nit;s nas;s nas;;;H2
+ngnit;tn;abl;d;2;s;ngnit;n-n-allV;allV;x;ngnit;i(ii);iallV(i);;ngnit;s-n-allV;sallV;x;ngnit;s-n-allV;sallV;x;;H2
+ngnit;tn;abl;p;2;s;ngnit;n;n;;ngnit;i(i);i(i);;ngnit;s;s;;ngnit;s;s;;;H2
+ngni;tn;loc;s;2;s;ngni;n;n;;ngni;i(i);i(i);;ngni;s;s;;ngni ni;s nas;s nas;;;H2
+ngni;tn;loc;d;2;s;ngni;n-n-allV;allV;x;ngni;i(ii);iallV(i);;ngni;s-n-allV;sallV;x;ngni;s-n-allV;sallV;x;;H2
+ngni;tn;loc;p;2;s;ngni;n;n;;ngni;i(i);i(i);;ngni;s;s;;ngni;s;s;;;H2
+ktut;tn;sim;s;2;s;ktut;n;n;;ktut;i(i);i(i);;ktut;s;s;;ktut;s;s;;;H2
+ktut;tn;sim;d;2;s;ktut;n-n-allV;allV;x;ktut;i(ii);iallV(i);;ktut;s-n-allV;sallV;x;ktut;s-n-allV;sallV;x;;H2
+ktut;tn;sim;p;2;s;ktut ktitut;n n;n;;ktut ktitut;i(i) i(i);i(i);;ktut ktitut;s s;s;;ktut ktitut;s s;s;;;H2
+kkut;tn;via;s;2;s;kkut;n;n;;kkut;i(i);i(i);;kkut;s;s;;kkut;s;s;;;H2
+kkut;tn;via;d;2;s;kkut;n-n-allV;allV;x;kkut;i(ii);iallV(i);;kkut;s-n-allV;sallV;x;kkut;s-n-allV;sallV;x;;H2
+ktigut;tn;via;p;2;s;ktigut;n;n;;ktigut;i(i);i(i);;ktigut;s;s;;ktigut;s;s;;;H2
+tik;tn;nom;s;2;d;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+ktik;tn;nom;d;2;d;ktik ksik;n-n-allV n-n-allV;allV;x;ktik ksik;i(ii) i(ii);iallV(i);;ktik ksik;s-n-allV s-n-allV;sallV;x;ktik ksik;s-n-allV s-n-allV;sallV;x;;H2
+tik;tn;nom;p;2;d;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+ttik;tn;gen;s;2;d;ttik ssik tsik;n n n;n;;ttik ssik tsik;i(i) i(i) i(i);i(i);;ttik ssik tsik;s s s;s;;ttik ssik tsik;s s s;s;;;H2
+ttik;tn;gen;d;2;d;ktik ksik tsik;n-n-allV n-n-allV n-n-allV;allV;x;ktik ksik tsik;i(ii) i(ii) i(ii);iallV(i);;ktik ksik tsik;s-n-allV s-n-allV s-n-allV;sallV;x;ktik ksik tsik;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ttik;tn;gen;p;2;d;ttik tsik;n n;n;;ttik tsik;i(i) i(i);i(i);;ttik tsik;s s;s;;ttik tsik;s s;s;;;H2
+ptingnik;tn;acc;s;2;d;ptingnik ssingnik tsingnik;n n n;n;;ptingnik ssingnik tsingnik;i(i) i(i) i(i);i(i);;ptingnik ssingnik tsingnik;s s s;s;;ptingnik ssingnik tsingnik;s s s;s;;;H2
+ptingnik;tn;acc;d;2;d;ptingnik ksingnik ktingnik;n-n-allV n-n-allV n-n-allV;allV;x;ptingnik ksingnik ktingnik;i(ii) i(ii) i(ii);iallV(i);;ptingnik ksingnik ktingnik;s-n-allV s-n-allV s-n-allV;sallV;x;ptingnik ksingnik ktingnik;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptingnik;tn;acc;p;2;d;ptingnik ssingnik tsingnik;n n n;n;;ptingnik ssingnik tsingnik;i(i) i(i) i(i);i(i);;ptingnik ssingnik tsingnik;s s s;s;;ptingnik ssingnik tsingnik;s s s;s;;;H2
+ptingnut;tn;dat;s;2;d;ptingnut ssingnut tsingnut;n n n;n;;ptingnut ssingnut tsingnut;i(i) i(i) i(i);i(i);;ptingnut ssingnut tsingnut;s s s;s;;ptingnut ssingnut tsingnut;s s s;s;;;H2
+ptingnut;tn;dat;d;2;d;ptingnut ksingnut ktingnut;n-n-allV n-n-allV n-n-allV;allV;x;ptingnut ksingnut ktingnut;i(ii) i(ii) i(ii);iallV(i);;ptingnut ksingnut ktingnut;s-n-allV s-n-allV s-n-allV;sallV;x;ptingnut ksingnut ktingnut;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptingnut;tn;dat;p;2;d;ptingnut ssingnut tsingnut;n n n;n;;ptingnut ssingnut tsingnut;i(i) i(i) i(i);i(i);;ptingnut ssingnut tsingnut;s s s;s;;ptingnut ssingnut tsingnut;s s s;s;;;H2
+ptingnit;tn;abl;s;2;d;ptingnit ssingnit tsingnit;n n n;n;;ptingnit ssingnit tsingnit;i(i) i(i) i(i);i(i);;ptingnit ssingnit tsingnit;s s s;s;;ptingnit ssingnit tsingnit;s s s;s;;;H2
+ptingnit;tn;abl;d;2;d;ptingnit ksingnit ktingnit;n-n-allV n-n-allV n-n-allV;allV;x;ptingnit ksingnit ktingnit;i(ii) i(ii) i(ii);iallV(i);;ptingnit ksingnit ktingnit;s-n-allV s-n-allV s-n-allV;sallV;x;ptingnit ksingnit ktingnit;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptingnit;tn;abl;p;2;d;ptingnit ssingnit tsingnit;n n n;n;;ptingnit ssingnit tsingnit;i(i) i(i) i(i);i(i);;ptingnit ssingnit tsingnit;s s s;s;;ptingnit ssingnit tsingnit;s s s;s;;;H2
+ptingni;tn;loc;s;2;d;ptingni ssingni tsingni;n n n;n;;ptingni ssingni tsingni;i(i) i(i) i(i);i(i);;ptingni ssingni tsingni;s s s;s;;ptingni ssingni tsingni;s s s;s;;;H2
+ptingni;tn;loc;d;2;d;ptingni ksingni ktingni;n-n-allV n-n-allV n-n-allV;allV;x;ptingni ksingni ktingni;i(ii) i(ii) i(ii);iallV(i);;ptingni ksingni ktingni;s-n-allV s-n-allV s-n-allV;sallV;x;ptingni ksingni ktingni;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptingni;tn;loc;p;2;d;ptingni ssingni tsingni;n n n;n;;ptingni ssingni tsingni;i(i) i(i) i(i);i(i);;ptingni ssingni tsingni;s s s;s;;ptingni ssingni tsingni;s s s;s;;;H2
+ptiktut ;tn;sim;s;2;d;ptiktut ssiktut tsiktut;n n n;n;;ssiktut ptiktut tsiktut;i(i) i(i) i(i);i(i);;ssiktut ptiktut tsiktut;s s s;s;;ssiktut ptiktut tsiktut;s s s;s;;;H2
+ptiktut ;tn;sim;d;2;d;ptiktut ksiktut ktiktut;n-n-allV n-n-allV n-n-allV;allV;x;ptiktut ksiktut ktiktut;i(ii) i(ii) i(ii);iallV(i);;ptiktut ksiktut ktiktut;s-n-allV s-n-allV s-n-allV;sallV;x;ptiktut ksiktut ktiktut;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptiktut ;tn;sim;p;2;d;ssiktut ptiktut tsiktut;n n n;n;;ssiktut ptiktut tsiktut;i(i) i(i) i(i);i(i);;ssiktut ptiktut tsiktut;s s s;s;;ssiktut ptiktut tsiktut;s s s;s;;;H2
+ptikkut;tn;via;s;2;d;ssikkut ptikkut tsikkut;n n n;n;;ssikkut ptikkut tsikkut;i(i) i(i) i(i);i(i);;ssikkut ptikkut tsikkut;s s s;s;;ssikkut ptikkut tsikkut;s s s;s;;;H2
+ptikkut;tn;via;d;2;d;ptikkut ksikkut ktikkut;n-n-allV n-n-allV n-n-allV;allV;x;ptikkut ksikkut ktikkut;i(ii) i(ii) i(ii);iallV(i);;ptikkut ksikkut ktikkut;s-n-allV s-n-allV s-n-allV;sallV;x;ptikkut ksikkut ktikkut;s-n-allV s-n-allV s-n-allV;sallV;x;;H2
+ptikkut;tn;via;p;2;d;ssikkut ptikkut tsikkut;n n n;n;;ssikkut ptikkut tsikkut;i(i) i(i) i(i);i(i);;ssikkut ptikkut tsikkut;s s s;s;;ssikkut ptikkut tsikkut;s s s;s;;;H2
+si;tn;nom;s;2;p;si;n;n;;si;i(i);i(i);;si;s;s;;si;s;s;;;H2
+ksi;tn;nom;d;2;p;ksi si;n-n-allV n-n-allV;allV;x;ksi si;i(ii) i(ii);iallV(i);;ksi si;s-n-allV s-n-allV;sallV;x;ksi si;s-n-allV s-n-allV;sallV;x;;H2
+si;tn;nom;p;2;p;si;n;n;;si;i(i);i(i);;si;s;s;;si;s;s;;;H2
+psi;tn;gen;s;2;p;psi tsi; n n;n;;psi tsi;i(i) i(i);i(i);;psi tsi;s s;s;;psi tsi;s s;s;;;H2
+ksi;tn;gen;d;2;p;ksi;n-n-allV;allV;x;ksi;i(ii);iallV(i);;ksi;s-n-allV;sallV;x;ksi;s-n-allV;sallV;x;;H2
+psi;tn;gen;p;2;p;psi tsi;n n;n;;psi tsi;i(i) i(i);i(i);;psi tsi;s s;s;;psi tsi;s s;s;;;H2
+psingnik;tn;acc;s;2;p;psingnik tsingnik;n n;n;;psingnik tsingnik;i(i) i(i);i(i);;psingnik tsingnik;s s;s;;psingnik tsingnik;s s;s;;;H2
+psingnik;tn;acc;d;2;p;psingnik tsingnik;n-n-allV n-n-allV;allV;x;psingnik tsingnik;i(ii) i(ii);iallV(i);;psingnik tsingnik;s-n-allV s-n-allV;sallV;x;psingnik tsingnik;s-n-allV s-n-allV;sallV;x;;H2
+psingnik;tn;acc;p;2;p;psingnik tsingnik;n n;n;;psingnik ptingnik tsingnik;i(i) i(i) i(i);i(i);;psingnik tsingnik;s s;s;;psingnik tsingnik;s s;s;;;H2
+psingnut;tn;dat;s;2;p;psingnut tsingnut; n n;n;;psingnut tsingnut;i(i) i(i);i(i);;psingnut tsingnut;s s;s;;psingnut tsingnut;s s;s;;;H2
+psingnut;tn;dat;d;2;p;psingnut tsingnut;n-n-allV n-n-allV;allV;x;psingnut tsingnut;i(ii) i(ii);iallV(i);;psingnut tsingnut;s-n-allV s-n-allV;sallV;x;psingnut tsingnut;s-n-allV s-n-allV;sallV;x;;H2
+psingnut;tn;dat;p;2;p;psingnut tsingnut;n n;n;;psingnut tsingnut;i(i) i(i);i(i);;psingnut tsingnut;s s;s;;psingnut tsingnut;s s;s;;;H2
+psingnit;tn;abl;s;2;p;psingnit tsingnit;n n;n;;psingnit tsingnit;i(i) i(i);i(i);;psingnit tsingnit;s s;s;;psingnit tsingnit;s s;s;;;H2
+psingnit;tn;abl;d;2;p;psingnit tsingnit;n-n-allV n-n-allV;allV;x;psingnit tsingnit;i(ii) i(ii);iallV(i);;psingnit tsingnit;s-n-allV s-n-allV;sallV;x;psingnit tsingnit;s-n-allV s-n-allV;sallV;x;;H2
+psingnit;tn;abl;p;2;p;psingnit tsingnit;n n;n;;psingnit tsingnit;i(i) i(i);i(i);;psingnit tsingnit;s s;s;;psingnit tsingnit;s s;s;;;H2
+psingni;tn;loc;s;2;p;psingni tsingni;n n;n;;psingni tsingni;i(i) i(i);i(i);;psingni tsingni;s s;s;;psingni tsingni;s s;s;;;H2
+psingni;tn;loc;d;2;p;psingni tsingni;n-n-allV n-n-allV;allV;x;psingni tsingni;i(ii) i(ii);iallV(i);;psingni tsingni;s-n-allV s-n-allV;sallV;x;psingni tsingni;s-n-allV s-n-allV;sallV;x;;H2
+psingni;tn;loc;p;2;p;psingni tsingni;n n;n;;psingni tsingni;i(i) i(i);i(i);;psingni tsingni;s s;s;;psingni tsingni;s s;s;;;H2
+psitut;tn;sim;s;2;p;psitut tsitut;n n;n;;psitut tsitut;i(i) i(i);i(i);;psitut tsitut;s s;s;;psitut tsitut;s s;s;;;H2
+psitut;tn;sim;d;2;p;psitut tsitut;n-n-allV n-n-allV;allV;x;psitut tsitut;i(ii) i(ii);iallV(i);;psitut tsitut;s-n-allV s-n-allV;sallV;x;psitut tsitut;s-n-allV s-n-allV;sallV;x;;H2
+psitut;tn;sim;p;2;p;psitut tsitut;n n;n;;psitut tsitut;i(i) i(i);i(i);;psitut tsitut;s s;s;;psitut tsitut;s s;s;;;H2
+psigut;tn;via;s;2;p;psigut tsigut;n n;n;;psigut tsigut;i(i) i(i);i(i);;psigut tsigut;s s;s;;psigut tsigut;s s;s;;;H2
+psigut;tn;via;d;2;p;psigut tsigut;n-n-allV n-n-allV;allV;x;psigut tsigut;i(ii) i(ii);iallV(i);;psigut tsigut;s-n-allV s-n-allV;sallV;x;psigut tsigut;s-n-allV s-n-allV;sallV;x;;H2
+psigut;tn;via;p;2;p;psigut tsigut;n n;n;;psigut tsigut;i(i) i(i);i(i);;psigut tsigut;s s;s;;psigut tsigut;s s;s;;;H2
+ni;tn;nom;s;3;s;ni;n;n;;ni;i(i);i(i);;ni;s;s;;ni;s;s;;;H2
+ngni;tn;nom;d;3;s;ngni;n-n-allV;allV;x;ngni;i(ii);iallV(i);;ngni;s-n-allV;sallV;x;ngni;s-n-allV;sallV;x;;H2
+ni;tn;nom;p;3;s;ni;n;n;;ni;i(i);i(i);;ni;s;s;;ni;s;s;;;H2
+mi;tn;gen;s;3;s;mi;n;n;;mi;i(i);i(i);;mi mmi;s s;s;;mi;nas;nas;;;H2
+ngmi;tn;gen;d;3;s;ngmi;n-n-allV;allV;x;ngmi;i(ii);iallV(i);;ngmi;s-n-allV;sallV;x;ngmi;s-n-allV;sallV;x;;H2
+mi;tn;gen;p;3;s;mi;n;n;;mi;i(i);i(i);;mi mmi;s s;s;;mi;nas;nas;;;H2
+minik;tn;acc;s;3;s;minik;n;n;;minik;i(i);i(i);;minik;s;s;;minik;nas;nas;;;H2
+ngminik;tn;acc;d;3;s;ngminik;n-n-allV;allV;x;ngminik;i(ii);iallV(i);;ngminik;s-n-allV;sallV;x;ngminik;s-n-allV;sallV;x;;H2
+minik;tn;acc;p;3;s;minik;n;n;;minik;i(i);i(i);;minik;s;s;;minik;nas;nas;;;H2
+minut;tn;dat;s;3;s;minut;n;n;;minut;i(i);i(i);;minut;s;s;;minut;nas;nas;;;H2
+ngminut;tn;dat;d;3;s;ngminut;n-n-allV;allV;x;ngminut;i(ii);iallV(i);;ngminut;s-n-allV;sallV;x;ngminut;s-n-allV;sallV;x;;H2
+minut;tn;dat;p;3;s;minut;n;n;;minut;i(i);i(i);;minut;s;s;;minut;nas;nas;;;H2
+minit;tn;abl;s;3;s;minit;n;n;;minit;i(i);i(i);;minit;s;s;;minit;nas;nas;;;H2
+ngminit;tn;abl;d;3;s;ngminit;n-n-allV;allV;x;ngminit;i(ii);iallV(i);;ngminit;s-n-allV;sallV;x;ngminit;s-n-allV;sallV;x;;H2
+minit;tn;abl;p;3;s;minit;n;n;;minit;i(i);i(i);;minit;s;s;;minit;nas;nas;;;H2
+mini;tn;loc;s;3;s;mini;n;n;;mini;i(i);i(i);;mini;s;s;;mini;nas;nas;;;H2
+ngmini;tn;loc;d;3;s;ngmini;n-n-allV;allV;x;ngmini;i(ii);iallV(i);;ngmini;s-n-allV;sallV;x;ngmini;s-n-allV;sallV;x;;H2
+mini;tn;loc;p;3;s;mini;n;n;;mini;i(i);i(i);;mini;s;s;;mini;nas;nas;;;H2
+mitut;tn;sim;s;3;s;mitut;n;n;;mitut;i(i);i(i);;mitut;s;s;;mitut;nas;nas;;;H2
+ngmitut;tn;sim;d;3;s;ngmitut;n-n-allV;allV;x;ngmitut;i(ii);iallV(i);;ngmitut;s-n-allV;sallV;x;ngmitut;s-n-allV;sallV;x;;H2
+mititut;tn;sim;p;3;s;mititut;n;n;;mititut;i(i);i(i);;mititut;s;s;;mititut;nas;nas;;;H2
+migut;tn;via;s;3;s;migut;n;n;;migut;i(i);i(i);;migut;s;s;;migut;nas;nas;;;H2
+ngmigut;tn;via;d;3;s;ngmigut;n-n-allV;allV;x;ngmigut;i(ii);iallV(i);;ngmigut;s-n-allV;sallV;x;ngmigut;s-n-allV;sallV;x;;H2
+mitigut;tn;via;p;3;s;mitigut;n;n;;mitigut;i(i);i(i);;mitigut;s;s;;mitigut;nas;nas;;;H2
+tik;tn;nom;s;3;d;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+ktik;tn;nom;d;3;d;ktik ksik;n-n-allV n-n-allV;allV;x;ktik ksik;i(ii) i(ii);iallV(i);;ktik ksik;s-n-allV s-n-allV;sallV;x;ktik ksik;s-n-allV s-n-allV;sallV;x;;H2
+tik;tn;nom;p;3;d;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+mik;tn;gen;s;3;d;mik;n;n;;mik;i(i);i(i);;mik mmik;s s;s;;mik;nas;nas;;;H2
+ngmik;tn;gen;d;3;d;ngmik;n-n-allV;allV;x;ngmik;i(ii);iallV(i);;ngmik;s-n-allV;sallV;x;ngmik;s-n-allV;sallV;x;;H2
+mik;tn;gen;p;3;d;mik;n;n;;mik;i(i);i(i);;mik mmik;s s;s;;mik;nas;nas;;;H2
+mingnik;tn;acc;s;3;d;mingnik;n;n;;mingnik;i(i);i(i);;mingnik;s;s;;mingnik;nas;nas;;;H2
+ngmingnik;tn;acc;d;3;d;ngmingnik;n-n-allV;allV;x;ngmingnik;i(ii);iallV(i);;ngmingnik;s-n-allV;sallV;x;ngmingnik;s-n-allV;sallV;x;;H2
+mingnik;tn;acc;p;3;d;mingnik;n;n;;mingnik;i(i);i(i);;mingnik;s;s;;mingnik;nas;nas;;;H2
+mingnut;tn;dat;s;3;d;mingnut;n;n;;mingnut;i(i);i(i);;mingnut;s;s;;mingnut;nas;nas;;;H2
+ngmingnut;tn;dat;d;3;d;ngmingnut;n-n-allV;allV;x;ngmingnut;i(ii);iallV(i);;ngmingnut;s-n-allV;sallV;x;ngmingnut;s-n-allV;sallV;x;;H2
+mingnut;tn;dat;p;3;d;mingnut;n;n;;mingnut;i(i);i(i);;mingnut;s;s;;mingnut;nas;nas;;;H2
+mingnit;tn;abl;s;3;d;mingnit;n;n;;mingnit;i(i);i(i);;mingnit;s;s;;mingnit;nas;nas;;;H2
+ngmingnit;tn;abl;d;3;d;ngmingnit;n-n-allV;allV;x;ngmingnit;i(ii);iallV(i);;ngmingnit;s-n-allV;sallV;x;ngmingnit;s-n-allV;sallV;x;;H2
+mingnit;tn;abl;p;3;d;mingnit;n;n;;mingnit;i(i);i(i);;mingnit;s;s;;mingnit;nas;nas;;;H2
+mingni;tn;loc;s;3;d;mingni;n;n;;mingni;i(i);i(i);;mingni;s;s;;mingni;nas;nas;;;H2
+ngmingni;tn;loc;d;3;d;ngmingni;n-n-allV;allV;x;ngmingni;i(ii);iallV(i);;ngmingni;s-n-allV;sallV;x;ngmingni;s-n-allV;sallV;x;;H2
+mingni;tn;loc;p;3;d;mingni;n;n;;mingni;i(i);i(i);;mingni;s;s;;mingni;nas;nas;;;H2
+miktut;tn;sim;s;3;d;miktut;n;n;;miktut;i(i);i(i);;miktut;s;s;;miktut;nas;nas;;;H2
+ngmiktut;tn;sim;d;3;d;ngmiktut;n-n-allV;allV;x;ngmiktut;i(ii);iallV(i);;ngmiktut;s-n-allV;sallV;x;ngmiktut;s-n-allV;sallV;x;;H2
+miktitut;tn;sim;p;3;d;miktitut;n;n;;miktitut;i(i);i(i);;miktitut;s;s;;miktitut;nas;nas;;;H2
+mikkut;tn;via;s;3;d;mikkut;n;n;;mikkut;i(i);i(i);;mikkut;s;s;;mikkut;nas;nas;;;H2
+ngmikkut;tn;via;d;3;d;ngmikkut;n-n-allV;allV;x;ngmikkut;i(ii);iallV(i);;ngmikkut;s-n-allV;sallV;x;ngmikkut;s-n-allV;sallV;x;;H2
+miktigut;tn;via;p;3;d;miktigut;n;n;;miktigut;i(i);i(i);;miktigut;s;s;;miktigut;nas;nas;;;H2
+tik;tn;nom;s;3;p;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+ktik;tn;nom;d;3;p;ktik ksik;n-n-allV n-n-allV;allV;x;ktik ksik;i(ii) i(ii);iallV(i);;ktik ksik;s-n-allV s-n-allV;sallV;x;ktik ksik;s-n-allV s-n-allV;sallV;x;;H2
+tik;tn;nom;p;3;p;tik sik;n n;n;;tik sik;i(i) i(i);i(i);;tik sik;s s;s;;tik sik;s s;s;;;H2
+mik;tn;gen;s;3;p;mik;n;n;;mik;i(i);i(i);;mik mmik;s s;s;;mik;nas;nas;;;H2
+ngmik;tn;gen;d;3;p;ngmik;n-n-allV;allV;x;ngmik;i(ii);iallV(i);;ngmik;s-n-allV;sallV;x;ngmik;s-n-allV;sallV;x;;H2
+mik;tn;gen;p;3;p;mik;n;n;;mik;i(i);i(i);;mik mmik;s s;s;;mik;nas;nas;;;H2
+mingnik;tn;acc;s;3;p;mingnik;n;n;;mingnik;i(i);i(i);;mingnik;s;s;;mingnik;nas;nas;;;H2
+ngmingnik;tn;acc;d;3;p;ngmingnik;n-n-allV;allV;x;ngmingnik;i(ii);iallV(i);;ngmingnik;s-n-allV;sallV;x;ngmingnik;s-n-allV;sallV;x;;H2
+mingnik;tn;acc;p;3;p;mingnik;n;n;;mingnik;i(i);i(i);;mingnik;s;s;;mingnik;nas;nas;;;H2
+mingnut;tn;dat;s;3;p;mingnut;n;n;;mingnut;i(i);i(i);;mingnut;s;s;;mingnut;nas;nas;;;H2
+ngmingnut;tn;dat;d;3;p;ngmingnut;n-n-allV;allV;x;ngmingnut;i(ii);iallV(i);;ngmingnut;s-n-allV;sallV;x;ngmingnut;s-n-allV;sallV;x;;H2
+mingnut;tn;dat;p;3;p;mingnut;n;n;;mingnut;i(i);i(i);;mingnut;s;s;;mingnut;nas;nas;;;H2
+mingnit;tn;abl;s;3;p;mingnit;n;n;;mingnit;i(i);i(i);;mingnit;s;s;;mingnit;nas;nas;;;H2
+ngmingnit;tn;abl;d;3;p;ngmingnit;n-n-allV;allV;x;ngmingnit;i(ii);iallV(i);;ngmingnit;s-n-allV;sallV;x;ngmingnit;s-n-allV;sallV;x;;H2
+mingnit;tn;abl;p;3;p;mingnit;n;n;;mingnit;i(i);i(i);;mingnit;s;s;;mingnit;nas;nas;;;H2
+mingni;tn;loc;s;3;p;mingni;n;n;;mingni;i(i);i(i);;mingni;s;s;;mingni;nas;nas;;;H2
+ngmingni;tn;loc;d;3;p;ngmingni;n-n-allV;allV;x;ngmingni;i(ii);iallV(i);;ngmingni;s-n-allV;sallV;x;ngmingni;s-n-allV;sallV;x;;H2
+mingni;tn;loc;p;3;p;mingni;n;n;;mingni;i(i);i(i);;mingni;s;s;;mingni;nas;nas;;;H2
+miktut;tn;sim;s;3;p;miktut;n;n;;miktut;i(i);i(i);;miktut;s;s;;miktut;nas;nas;;;H2
+ngmiktut;tn;sim;d;3;p;ngmiktut;n-n-allV;allV;x;ngmiktut;i(ii);iallV(i);;ngmiktut;s-n-allV;sallV;x;ngmiktut;s-n-allV;sallV;x;;H2
+miktitut;tn;sim;p;3;p;miktitut;n;n;;miktitut;i(i);i(i);;miktitut;s;s;;miktitut;nas;nas;;;H2
+mikkut;tn;via;s;3;p;mikkut;n;n;;mikkut;i(i);i(i);;mikkut;s;s;;mikkut;nas;nas;;;H2
+ngmikkut;tn;via;d;3;p;ngmikkut;n-n-allV;allV;x;ngmikkut;i(ii);iallV(i);;ngmikkut;s-n-allV;sallV;x;ngmikkut;s-n-allV;sallV;x;;H2
+miktigut;tn;via;p;3;p;miktigut;n;n;;miktigut;i(i);i(i);;miktigut;s;s;;miktigut;nas;nas;;;H2
+nga;tn;nom;s;4;s;nga a;n n-s;n n;#NOM?;nga a;i(i) s;i(i) s;;nga a;s s-s;s s;"""- s""";nga a;s s-s;s s; - s;;H2
+ngik;tn;nom;d;4;s;ngik;n-n-allV;allV;x;ngik ngik;i(ii) n;iallV(i) n;;ngik;s-n-allV;sallV;x;ngik;s-n-allV;sallV;x;;H2
+ngit;tn;nom;p;4;s;ngit;n;n;;ngit ngit;i(i) s;i(i) s;;ngit;s;s;;ngit;s;s;;;H2
+ngata;tn;gen;s;4;s;ngata;n;n;;ngata ngata;i(i) s;i(i) s;;ngata;s;s;;ngata;s;s;;;H2
+ngita;tn;gen;d;4;s;ngita ngikta;n-n-allV n-n-allV;allV;x;ngita ngikta;i(ii) i(ii);iallV(i);;ngita ngikta;s-n-allV s-n-allV;sallV;x;ngita ngikta;s-n-allV s-n-allV;sallV;x;;H2
+ngita;tn;gen;p;4;s;ngita;n;n;;ngita ngita;i(i) s;i(i) s;;ngita;s;s;;ngita;s;s;;;H2
+nganik;tn;acc;s;4;s;nganik anik;n n-s;n n;#NOM?;nganik anik;i(i) s;i(i) s;;nganik anik;s s-s;s s;"""- s""";nganik anik;s s-s;s s; - s;;H2
+ngingnik;tn;acc;d;4;s;ngingnik;n-n-allV;allV;x;ngingnik;i(ii);iallV(i);;ngingnik;s-n-allV;sallV;x;ngingnik;s-n-allV;sallV;x;;H2
+ngingnik;tn;acc;p;4;s;ngingnik;n;n;;ngingnik ngingnik;i(i) s;i(i) s;;ngingnik;s;s;;ngingnik;s;s;;;H2
+nganut;tn;dat;s;4;s;nganut anut;n n-s;n n;#NOM?;nganut anut;i(i) s;i(i) s;;nganut anut;s s-s;s s;"""- s""";nganut anut;s s-s;s s; - s;;H2
+ngingnut;tn;dat;d;4;s;ngingnut;n-n-allV;allV;x;ngingnut;i(ii);iallV(i);;ngingnut;s-n-allV;sallV;x;ngingnut;s-n-allV;sallV;x;;H2
+ngingnut;tn;dat;p;4;s;ngingnut;n;n;;ngingnut ngingnut;i(i) s;i(i) s;;ngingnut;s;s;;ngingnut;s;s;;;H2
+nganit;tn;abl;s;4;s;nganit anit;n n-s;n n;#NOM?;nganit anit;i(i) s;i(i) s;;nganit anit;s s-s;s s;"""- s""";nganit anit;s s-s;s s; - s;;H2
+ngingnit;tn;abl;d;4;s;ngingnit;n-n-allV;allV;x;ngingnit;i(ii);iallV(i);;ngingnit;s-n-allV;sallV;x;ngingnit;s-n-allV;sallV;x;;H2
+ngingnit;tn;abl;p;4;s;ngingnit;n;n;;ngingnit ngingnit;i(i) s;i(i) s;;ngingnit;s;s;;ngingnit;s;s;;;H2
+ngani;tn;loc;s;4;s;ngani ani;n n-s;n n;#NOM?;ngani ani;i(i) s;i(i) s;;ngani ani;s s-s;s s;"""- s""";ngani ani;s s-s;s s; - s;;H2
+ngingni;tn;loc;d;4;s;ngingni;n-n-allV;allV;x;ngingni;i(ii);iallV(i);;ngingni;s-n-allV;sallV;x;ngingni;s-n-allV;sallV;x;;H2
+ngingni;tn;loc;p;4;s;ngingni;n;n;;ngingni ngingni;i(i) s;i(i) s;;ngingni;s;s;;ngingni;s;s;;;H2
+ngatut;tn;sim;s;4;s;ngatut;n;n;;ngatut atut;i(i) s;i(i) s;;ngatut;s;s;;ngatut;s;s;;;H2
+ngiktitut;tn;sim;d;4;s;ngiktitut ngiktut;n-n-allV n-n-allV;allV;x;ngiktitut ngiktut;i(ii) i(ii);iallV(i);;ngiktitut ngiktut;s-n-allV s-n-allV;sallV;x;ngiktitut ngiktut;s-n-allV s-n-allV;sallV;x;;H2
+ngititut;tn;sim;p;4;s;ngititut;n;n;;ngititut ngititu;i(i) s;i(i) s;;ngititut;s;s;;ngititut;s;s;;;H2
+ngagut;tn;via;s;4;s;ngagut agut;n n-s;n n;#NOM?;ngagut agut;i(i) s;i(i) s;;ngagut agut;s s-s;s s;"""- s""";ngagut agut;s s-s;s s; - s;;H2
+ngiktigut;tn;via;d;4;s;ngiktigut ngikkut;n-n-allV n-n-allV;allV;x;ngiktigut ngikkut;i(ii) i(ii);iallV(i);;ngiktigut ngikkut;s-n-allV s-n-allV;sallV;x;ngiktigut ngikkut;s-n-allV s-n-allV;sallV;x;;H2
+ngitigut;tn;via;p;4;s;ngitigut;n;n;;ngitigut ngitigut;i(i) s;i(i) s;;ngitigut;s;s;;ngitigut;s;s;;;H2
+ngak;tn;nom;s;4;d;ngak;n;n;;ngak;i(i);i(i);;ngak;s;s;;ngak;s;s;;;H2
+ngik;tn;nom;d;4;d;ngik;n-n-allV;allV;x;ngik;i(ii);iallV(i);;ngik;s-n-allV;sallV;x;ngik;s-n-allV;sallV;x;;H2
+ngik;tn;nom;p;4;d;ngik ngit;n n;n;;ngik ngit;i(i) i(i);i(i);;ngik ngit;s s;s;;ngik ngit;s s;s;;;H2
+ngata;tn;gen;s;4;d;ngata ngakta;n n;n;;ngata ngakta;i(i) i(i);i(i);;ngata ngakta;s s;s;;ngata ngakta;nas nas;nas;;;H2
+ngita;tn;gen;d;4;d;ngita ngikta;n-n-allV n-n-allV;allV;x;ngita ngikta;i(ii) i(ii);iallV(i);;ngita ngikta;s-n-allV s-n-allV;sallV;x;ngita ngikta;s-n-allV s-n-allV;sallV;x;;H2
+ngita;tn;gen;p;4;d;ngita;n;n;;ngita;i(i);i(i);;ngita;s;s;;ngita;s;s;;;H2
+ngangnik;tn;acc;s;4;d;ngangnik;n;n;;ngangnik;i(i);i(i);;ngangnik;s;s;;ngangnik;s;s;;;H2
+ngingnik;tn;acc;d;4;d;ngingnik;n-n-allV;allV;x;ngingnik;i(ii);iallV(i);;ngingnik;s-n-allV;sallV;x;ngingnik;s-n-allV;sallV;x;;H2
+ngingnik;tn;acc;p;4;d;ngingnik;n;n;;ngingnik;i(i);i(i);;ngingnik;s;s;;ngingnik;s;s;;;H2
+ngangnut;tn;dat;s;4;d;ngangnut;n;n;;ngangnut;i(i);i(i);;ngangnut;s;s;;ngangnut;s;s;;;H2
+ngingnut;tn;dat;d;4;d;ngingnut;n-n-allV;allV;x;ngingnut;i(ii);iallV(i);;ngingnut;s-n-allV;sallV;x;ngingnut;s-n-allV;sallV;x;;H2
+ngingnut;tn;dat;p;4;d;ngingnut;n;n;;ngingnut;i(i);i(i);;ngingnut;s;s;;ngingnut;s;s;;;H2
+ngangnit;tn;abl;s;4;d;ngangnit;n;n;;ngangnit;i(i);i(i);;ngangnit;s;s;;ngangnit;s;s;;;H2
+ngingnit;tn;abl;d;4;d;ngingnit;n-n-allV;allV;x;ngingnit;i(ii);iallV(i);;ngingnit;s-n-allV;sallV;x;ngingnit;s-n-allV;sallV;x;;H2
+ngingnit;tn;abl;p;4;d;ngingnit;n;n;;ngingnit;i(i);i(i);;ngingnit;s;s;;ngingnit;s;s;;;H2
+ngangni;tn;loc;s;4;d;ngangni;n;n;;ngangni;i(i);i(i);;ngangni;s;s;;ngangni;s;s;;;H2
+ngingni;tn;loc;d;4;d;ngingni;n-n-allV;allV;x;ngingni;i(ii);iallV(i);;ngingni;s-n-allV;sallV;x;ngingni;s-n-allV;sallV;x;;H2
+ngingni;tn;loc;p;4;d;ngingni;n;n;;ngingni;i(i);i(i);;ngingni;s;s;;ngingni;s;s;;;H2
+ngaktut;tn;sim;s;4;d;ngaktut;n;n;;ngaktut;i(i);i(i);;ngaktut;s;s;;ngaktut;s;s;;;H2
+ngiktitut;tn;sim;d;4;d;ngiktitut;n-n-allV;allV;x;ngiktitut;i(ii);iallV(i);;ngiktitut;s-n-allV;sallV;x;ngiktitut;s-n-allV;sallV;x;;H2
+ngititut;tn;sim;p;4;d;ngititut;n;n;;ngititut;i(i);i(i);;ngititut;s;s;;ngititut;s;s;;;H2
+ngakkut;tn;via;s;4;d;ngakkut;n;n;;ngakkut;i(i);i(i);;ngakkut;s;s;;ngakkut;s;s;;;H2
+ngiktigut;tn;via;d;4;d;ngiktigut;n-n-allV;allV;x;ngiktigut;i(ii);iallV(i);;ngiktigut;s-n-allV;sallV;x;ngiktigut;s-n-allV;sallV;x;;H2
+ngitigut;tn;via;p;4;d;ngitigut;n;n;;ngitigut;i(i);i(i);;ngitigut;s;s;;ngitigut;s;s;;;H2
+ngat;tn;nom;s;4;p;ngat;n;n;;ngat ngat;i(i) s;i(i) s;;ngat;s;s;;ngat;s;s;;;H2
+ngik;tn;nom;d;4;p;ngik;n-n-allV;allV;x;ngik;i(ii);iallV(i);;ngik;s-n-allV;sallV;x;ngik;s-n-allV;sallV;x;;H2
+ngit;tn;nom;p;4;p;ngit;n;n;;ngit ngit;i(i) s;i(i) s;;ngit;s;s;;ngit;s;s;;;H2
+ngata;tn;gen;s;4;p;ngata;n;n;;ngata ngata;i(i) s;i(i) s;;ngata;s;s;;ngata;nas;nas;;;H2
+ngita;tn;gen;d;4;p;ngita ngikta;n-n-allV n-n-allV;allV;x;ngita ngikta;i(ii) i(ii);iallV(i);;ngita ngikta;s-n-allV s-n-allV;sallV;x;ngita ngikta;s-n-allV s-n-allV;sallV;x;;H2
+ngita;tn;gen;p;4;p;ngita;n;n;;ngita ngita;i(i) s;i(i) s;;ngita;s;s;;ngita;s;s;;;H2
+ngangnik;tn;acc;s;4;p;ngangnik;n;n;;ngangnik ngangnik;i(i) s;i(i) s;;ngangnik;s;s;;ngangnik;s;s;;;H2
+ngingnik;tn;acc;d;4;p;ngingnik;n-n-allV;allV;x;ngingnik;i(ii);iallV(i);;ngingnik;s-n-allV;sallV;x;ngingnik;s-n-allV;sallV;x;;H2
+ngingnik;tn;acc;p;4;p;ngingnik ingnik;n n;n;;ngingnik ngingnik;i(i) s;i(i) s;;ngingnik;s;s;;ngingnik;s;s;;;H2
+ngangnut;tn;dat;s;4;p;ngangnut;n;n;;ngangnut ngangnut;i(i) s;i(i) s;;ngangnut;s;s;;ngangnut;s;s;;;H2
+ngingnut;tn;dat;d;4;p;ngingnut;n-n-allV;allV;x;ngingnut;i(ii);iallV(i);;ngingnut;s-n-allV;sallV;x;ngingnut;s-n-allV;sallV;x;;H2
+ngingnut;tn;dat;p;4;p;ngingnut;n;n;;ngingnut ngingnut;i(i) s;i(i) s;;ngingnut;s;s;;ngingnut;s;s;;;H2
+ngangnit;tn;abl;s;4;p;ngangnit;n;n;;ngangnit ngangnit;i(i) s;i(i) s;;ngangnit;s;s;;ngangnit;s;s;;;H2
+ngingnit;tn;abl;d;4;p;ngingnit;n-n-allV;allV;x;ngingnit;i(ii);iallV(i);;ngingnit;s-n-allV;sallV;x;ngingnit;s-n-allV;sallV;x;;H2
+ngingnit;tn;abl;p;4;p;ngingnit;n;n;;ngingnit ngingnit;i(i) s;i(i) s;;ngingnit;s;s;;ngingnit;s;s;;;H2
+ngangni;tn;loc;s;4;p;ngangni;n;n;;ngangni ngangni;i(i) s;i(i) s;;ngangni;s;s;;ngangni;s;s;;;H2
+ngingni;tn;loc;d;4;p;ngingni;n-n-allV;allV;x;ngingni;i(ii);iallV(i);;ngingni;s-n-allV;sallV;x;ngingni;s-n-allV;sallV;x;;H2
+ngingni;tn;loc;p;4;p;ngingni;n;n;;ngingni ngingni;i(i) s;i(i) s;;ngingni;s;s;;ngingni;s;s;;;H2
+ngatitut;tn;sim;s;4;p;ngatitut ngatut;n n;n;;ngatitut ngatut;i(i) s;i(i) s;;ngatitut ngatut;s s;s;;ngatitut ngatut;s s;s;;;H2
+ngiktitut;tn;sim;d;4;p;ngiktitut;n-n-allV;allV;x;ngiktitut;i(ii);iallV(i);;ngiktitut;s-n-allV;sallV;x;ngiktitut;s-n-allV;sallV;x;;H2
+ngititut;tn;sim;p;4;p;ngititut;n;n;;ngititut ngititut;i(i) s;i(i) s;;ngititut;s;s;;ngititut;s;s;;;H2
+ngatigut;tn;via;s;4;p;ngatigut ngagut;n n;n;;ngatigut ngagut;i(i) s;i(i) s;;ngatigut ngagut;s s;s;;ngatigut ngagut;s s;s;;;H2
+ngiktigut;tn;via;d;4;p;ngiktigut;n-n-allV;allV;x;ngiktigut;i(ii);iallV(i);;ngiktigut;s-n-allV;sallV;x;ngiktigut;s-n-allV;sallV;x;;H2
+ngitigut;tn;via;p;4;p;ngitigut;n;n;;ngitigut ngitigut;i(i) s;i(i) s;;ngitigut;s;s;;ngitigut;s;s;;;H2

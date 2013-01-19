@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Documents and Settings/farleyb/workspace/InuktitutNew/uqailaut.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/InuktitutNew/uqailautJarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=InuktitutNew/&lt;searchEngine"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DefinitionDeMot.java"/>
+        <file path="/InuktitutNew/.cvsignore"/>
+        <file path="/InuktitutNew/applications/log4j.properties"/>
+        <file path="/InuktitutNew/applications/webitext.log"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donneesCSV"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{TranslitTextFile.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DefinitionDeSuffixe.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;morph"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;phonologie"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{TranslitInuk.java"/>
+        <file path="/InuktitutNew/.project"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{TranslitText.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;lib"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents.pdfboxAddition"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donneesDompees"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{TranslitKalaallisut.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites"/>
+        <file path="/InuktitutNew/applications/debug1.log"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DefinitionDeRacine.java"/>
+        <file path="/InuktitutNew/.classpath"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DefinitionDeItem.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;test"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{Decomposer.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{InfoSurFichier.java"/>
+    </selectedElements>
+</jardesc>

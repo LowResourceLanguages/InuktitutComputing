@@ -1,0 +1,595 @@
+morpheme;type;mode;sameSubject;posneg;tense;dialect;specificity;perSubject;numbSubject;perObject;numbObject;V-form;V-actions;V-action1;V-action2;t-form;t-actions;t-action1;t-action2;k-form;k-actions;k-action1;k-action2;q-form;q-actions;q-action1;q-action2;SpecificCondOnPrecMorph;sources
+lunga;tv;part;oui;pos;prespas;North Baffin;nsp;1;s;;;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;M1 H2
+lutit;tv;part;oui;pos;prespas;North Baffin;nsp;2;s;;;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;M1 H2
+luni;tv;part;oui;pos;prespas;North Baffin;nsp;3;s;;;luni;i(l);i(l);;&uni;n;n;;&uni;n;n;;&uni;n;n;;;M1 H2
+lunuk;tv;part;oui;pos;prespas;North Baffin;nsp;1;d;;;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;M1 H2
+lusik;tv;part;oui;pos;prespas;North Baffin;nsp;2;d;;;lusik;i(l);i(l);;&usik;n;n;;&usik;n;n;;&usik;n;n;;;M1 H2
+lutik;tv;part;oui;pos;prespas;North Baffin;nsp;3;d;;;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;M1 H2
+luta;tv;part;oui;pos;prespas;North Baffin;nsp;1;p;;;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;M1 H2
+lusi;tv;part;oui;pos;prespas;North Baffin;nsp;2;p;;;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;M1 H2
+lutik;tv;part;oui;pos;prespas;North Baffin;nsp;3;p;;;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;M1 H2
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;1;s;;;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;M1 H2
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;2;s;;;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;M1 H2
+luni;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;3;s;;;luni;n;n;;luni;son;son;;luni;son;son;;luni;son;son;;;M1 H2
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;1;d;;;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;M1 H2
+lusik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;2;d;;;lusik;n;n;;lusik;son;son;;lusik;son;son;;lusik;son;son;;;M1 H2
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;3;d;;;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;M1 H2
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;1;p;;;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;M1 H2
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;2;p;;;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;M1 H2
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;nsp;3;p;;;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;M1 H2
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;1;s;;;tillunga;n;n;;tillunga tillunga;s n;s n;;tillunga;n;n;;tillunga;n;n;;;M1 H2
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;2;s;;;tillutit;n;n;;tillutit tillutit;s n;s n;;tillutit;n;n;;tillutit;n;n;;;M1 H2
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;3;s;;;tillugu;n;n;;tillugu tillugu;s n;s n;;tillugu;n;n;;tillugu;n;n;;;M1 H2
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;1;d;;;tillunuk;n;n;;tillunuk tillunuk;s n;s n;;tillunuk;n;n;;tillunuk;n;n;;;M1 H2
+tillusik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;2;d;;;tillusik;n;n;;tillusik tillusik;s n;s n;;tillusik;n;n;;tillusik;n;n;;;M1 H2
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;3;d;;;tillugik;n;n;;tillugik tillugik;s n;s n;;tillugik;n;n;;tillugik;n;n;;;M1 H2
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;1;p;;;tilluta;n;n;;tilluta tilluta;s n;s n;;tilluta;n;n;;tilluta;n;n;;;M1 H2
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;2;p;;;tillusi;n;n;;tillusi tillusi;s n;s n;;tillusi;n;n;;tillusi;n;n;;;M1 H2
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;nsp;3;p;;;tillugit;n;n;;tillugit tillugit;s n;s n;;tillugit;n;n;;tillugit;n;n;;;M1 H2
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;1;s;;;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;M1 H2
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;2;s;;;nak natit;n n;n;;nak natit;nas nas;nas nas;;nak natit;nas nas;nas nas;;nak rak natit ratit;nas s nas s;nas s nas s nas s;;;M1 H2
+nani;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;3;s;;;nani;n;n;;nani;nas;nas;;nani;nas;nas;;nani rani;nas s;nas s;;;M1 H2
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;1;d;;;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;M1 H2
+nasik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;2;d;;;nasik natik;n n;n;;nasik natik;nas nas;nas nas;;nasik natik;nas nas;nas nas;;nasik rasik natik ratik;nas s nas s;nas s nas s nas s;;;M1 H2
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;3;d;;;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;M1 H2
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;1;p;;;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;M1 H2
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;2;p;;;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;M1 H2
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;nsp;3;p;;;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;M1 H2
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;1;s;;;tinnanga;n;n;;tinnanga tinnanga;s n;s n;;tinnanga;n;n;;tinnanga;n;n;;;M1 H2
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;2;s;;;tinnak tinnatit;n n;n;;tinnak tinnak tinnatit tinnatit;s n s n;s n s n;;tinnak tinnatit;n n;n n;;tinnak tinnatit;n n;n n;;;M1 H2
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;3;s;;;tinnagu;n;n;;tinnagu tinnagu;s n;s n;;tinnagu;n;n;;tinnagu;n;n;;;M1 H2
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;1;d;;;tinnanuk;n;n;;tinnanuk tinnanuk;s n;s n;;tinnanuk;n;n;;tinnanuk;n;n;;;M1 H2
+tinnasik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;2;d;;;tinnasik tinnatik;n n;n;;tinnasik tinnatik tinnasik tinnatik;s n s n;s n s n;;tinnasik tinnatik;n n;n n;;tinnasik tinnatik;n n;n n;;;M1 H2
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;3;d;;;tinnagik;n;n;;tinnagik tinnagik;s n;s n;;tinnagik;n;n;;tinnagik;n;n;;;M1 H2
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;1;p;;;tinnata;n;n;;tinnata tinnata;s n;s n;;tinnata;n;n;;tinnata;n;n;;;M1 H2
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;2;p;;;tinnasi;n;n;;tinnasi tinnasi;s n;s n;;tinnasi;n;n;;tinnasi;n;n;;;M1 H2
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;nsp;3;p;;;tinnagit;n;n;;tinnagit tinnagit;s n;s n;;tinnagit;n;n;;tinnagit;n;n;;;M1 H2
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;1;s;;;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;H2
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;2;s;;;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;H2
+luni;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;3;s;;;luni;i(l);i(l);;tuni;n;n;;tuni;n;n;;tuni;n;n;;;H2
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;1;d;;;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;H2
+lusik;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;2;d;;;lusik;i(l);i(l);;tusik;n;n;;tusik;n;n;;tusik;n;n;;;H2
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;3;d;;;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;H2
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;1;p;;;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;H2
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;2;p;;;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;H2
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;nsp;3;p;;;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;H2
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;2;s;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;North Baffin;sp;3;s;1;s;luninga;i(l);i(l);;&uninga;n;n;;&uninga;n;n;;&uninga;n;n;;;?
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;4;s;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;1;s;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;North Baffin;sp;3;s;2;s;lunitit;i(l);i(l);;&unitit;n;n;;&unitit;n;n;;&unitit;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;4;s;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;1;s;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;2;s;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+luniuk;tv;part;oui;pos;prespas;North Baffin;sp;3;s;3;s;luniuk;i(l);i(l);;&uniuk;n;n;;&uniuk;n;n;;&uniuk;n;n;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;1;s;luninga;i(l);i(l);;tuninga;n;n;;tuninga;n;n;;tuninga;n;n;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;4;s;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;2;s;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;North Baffin;sp;3;s;1;d;lunitiguk;i(l);i(l);;&unitiguk;n;n;;&unitiguk;n;n;;&unitiguk;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;4;s;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;1;s;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;North Baffin;sp;3;s;2;d;lunitik;i(l);i(l);;&unitik;n;n;;&unitik;n;n;;&unitik;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;4;s;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;1;s;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;2;s;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lunigik;tv;part;oui;pos;prespas;North Baffin;sp;3;s;3;d;lunigik;i(l);i(l);;&unigik;n;n;;&unigik;n;n;;&unigik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;4;s;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;2;s;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lunitigut;tv;part;oui;pos;prespas;North Baffin;sp;3;s;1;p;lunitigut;i(l);i(l);;&unitigut;n;n;;&unitigut;n;n;;&unitigut;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;4;s;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;1;s;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;North Baffin;sp;3;s;2;p;lunisi;i(l);i(l);;&unisi;n;n;;&unisi;n;n;;&unisi;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;2;s;lunitit;i(l);i(l);;tunitit;n;n;;tunitit;n;n;;tunitit;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;4;s;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;1;s;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;2;s;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lunigit;tv;part;oui;pos;prespas;North Baffin;sp;3;s;3;p;lunigit;i(l);i(l);;&unigit;n;n;;&unigit;n;n;;&unigit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;4;s;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+luniuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;3;s;luniuk;i(l);i(l);;tuniuk;n;n;;tuniuk;n;n;;tuniuk;n;n;;;?
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;2;d;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;North Baffin;sp;3;d;1;s;luninga;i(l);i(l);;&uninga;n;n;;&uninga;n;n;;&uninga;n;n;;;?
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;4;d;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;1;d;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;North Baffin;sp;3;d;2;s;lunitit;i(l);i(l);;&unitit;n;n;;&unitit;n;n;;&unitit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;4;d;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;1;d;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;2;d;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lunikku;tv;part;oui;pos;prespas;North Baffin;sp;3;d;3;s;lunikku;i(l);i(l);;&unikku;n;n;;&unikku;n;n;;&unikku;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;4;d;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;2;d;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;North Baffin;sp;3;d;1;d;lunitiguk;i(l);i(l);;&unitiguk;n;n;;&unitiguk;n;n;;&unitiguk;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;4;d;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;1;d;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;North Baffin;sp;3;d;2;d;lunitik;i(l);i(l);;&unitik;n;n;;&unitik;n;n;;&unitik;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;4;d;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;1;d;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;2;d;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lunikkik;tv;part;oui;pos;prespas;North Baffin;sp;3;d;3;d;lunikkik;i(l);i(l);;&unikkik;n;n;;&unikkik;n;n;;&unikkik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;4;d;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;1;d;lunitiguk;i(l);i(l);;tunitiguk;n;n;;tunitiguk;n;n;;tunitiguk;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;2;d;lunitik;i(l);i(l);;tunitik;n;n;;tunitik;n;n;;tunitik;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;2;d;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lunitigut;tv;part;oui;pos;prespas;North Baffin;sp;3;d;1;p;lunitigut;i(l);i(l);;&unitigut;n;n;;&unitigut;n;n;;&unitigut;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;4;d;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;1;d;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;North Baffin;sp;3;d;2;p;lunisi;i(l);i(l);;&unisi;n;n;;&unisi;n;n;;&unisi;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;4;d;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;1;d;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;2;d;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lunikkit;tv;part;oui;pos;prespas;North Baffin;sp;3;d;3;p;lunikkit;i(l);i(l);;&unikkit;n;n;;&unikkit;n;n;;&unikkit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;4;d;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;2;p;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;North Baffin;sp;3;p;1;s;luninga;i(l);i(l);;&uninga;n;n;;&uninga;n;n;;&uninga;n;n;;;?
+lunga;tv;part;oui;pos;prespas;North Baffin;sp;4;p;1;s;lunga;i(l);i(l);;&unga;n;n;;&unga;n;n;;&unga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;1;p;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;North Baffin;sp;3;p;2;s;lunitit;i(l);i(l);;&unitit;n;n;;&unitit;n;n;;&unitit;n;n;;;?
+lutit;tv;part;oui;pos;prespas;North Baffin;sp;4;p;2;s;lutit;i(l);i(l);;&utit;n;n;;&utit;n;n;;&utit;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+lunigik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;3;d;lunigik;i(l);i(l);;tunigik;n;n;;tunigik;n;n;;tunigik;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;1;p;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;2;p;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lunijjuk;tv;part;oui;pos;prespas;North Baffin;sp;3;p;3;s;lunijjuk;i(l);i(l);;&unijjuk;n;n;;&unijjuk;n;n;;&unijjuk;n;n;;;?
+lugu;tv;part;oui;pos;prespas;North Baffin;sp;4;p;3;s;lugu;i(l);i(l);;&ugu;n;n;;&ugu;n;n;;&ugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;2;p;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;North Baffin;sp;3;p;1;d;lunitiguk;i(l);i(l);;&unitiguk;n;n;;&unitiguk;n;n;;&unitiguk;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;North Baffin;sp;4;p;1;d;lunuk;i(l);i(l);;&unuk;n;n;;&unuk;n;n;;&unuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;1;p;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;North Baffin;sp;3;p;2;d;lunitik;i(l);i(l);;&unitik;n;n;;&unitik;n;n;;&unitik;n;n;;;?
+lutik;tv;part;oui;pos;prespas;North Baffin;sp;4;p;2;d;lutik;i(l);i(l);;&utik;n;n;;&utik;n;n;;&utik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;1;p;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;2;p;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+lunigik;tv;part;oui;pos;prespas;North Baffin;sp;3;p;3;d;lunigik;i(l);i(l);;&unigik;n;n;;&unigik;n;n;;&unigik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;North Baffin;sp;4;p;3;d;lugik;i(l);i(l);;&ugik;n;n;;&ugik;n;n;;&ugik;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;2;p;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lunitigut;tv;part;oui;pos;prespas;North Baffin;sp;3;p;1;p;lunitigut;i(l);i(l);;&unitigut;n;n;;&unitigut;n;n;;&unitigut;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+lunitigut;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;1;p;lunitigut;i(l);i(l);;tunitigut;n;n;;tunitigut;n;n;;tunitigut;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+luta;tv;part;oui;pos;prespas;North Baffin;sp;4;p;1;p;luta;i(l);i(l);;&uta;n;n;;&uta;n;n;;&uta;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;1;p;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;North Baffin;sp;3;p;2;p;lunisi;i(l);i(l);;&unisi;n;n;;&unisi;n;n;;&unisi;n;n;;;?
+lusi;tv;part;oui;pos;prespas;North Baffin;sp;4;p;2;p;lusi;i(l);i(l);;&usi;n;n;;&usi;n;n;;&usi;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;1;p;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;2;p;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lunigit;tv;part;oui;pos;prespas;North Baffin;sp;3;p;3;p;lunigit;i(l);i(l);;&unigit;n;n;;&unigit;n;n;;&unigit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;North Baffin;sp;4;p;3;p;lugit;i(l);i(l);;&ugit;n;n;;&ugit;n;n;;&ugit;n;n;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+luninga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;1;s;luninga;n;n;;luninga;son;son;;luninga;son;son;;luninga;son;son;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lunitit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;2;s;lunitit;n;n;;lunitit;son;son;;lunitit;son;son;;lunitit;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;2;p;lunisi;i(l);i(l);;tunisi;n;n;;tunisi;n;n;;tunisi;n;n;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;s;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+luniuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;3;s;luniuk;n;n;;luniuk;son;son;;luniuk;son;son;;luniuk;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lunitiguk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;1;d;lunitiguk;n;n;;lunitiguk;son;son;;lunitiguk;son;son;;lunitiguk;son;son;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lunitik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;2;d;lunitik;n;n;;lunitik;son;son;;lunitik;son;son;;lunitik;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lunigik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;3;d;lunigik;n;n;;lunigik;son;son;;lunigik;son;son;;lunigik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lunitigut;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;1;p;lunitigut;n;n;;lunitigut;son;son;;lunitigut;son;son;;lunitigut;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;s;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+lunigit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;s;3;p;lunigit;i(l);i(l);;tunigit;n;n;;tunigit;n;n;;tunigit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;s;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;1;s;luninga;i(l);i(l);;tuninga;n;n;;tuninga;n;n;;tuninga;n;n;;;?
+lunisi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;2;p;lunisi;n;n;;lunisi;son;son;;lunisi;son;son;;lunisi;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;s;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;s;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lunigit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;s;3;p;lunigit;n;n;;lunigit;son;son;;lunigit;son;son;;lunigit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;s;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+luninga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;1;s;luninga;n;n;;luninga;son;son;;luninga;son;son;;luninga;son;son;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lunitit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;2;s;lunitit;n;n;;lunitit;son;son;;lunitit;son;son;;lunitit;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lunikku;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;3;s;lunikku;n;n;;lunikku;son;son;;lunikku;son;son;;lunikku;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;2;s;lunitit;i(l);i(l);;tunitit;n;n;;tunitit;n;n;;tunitit;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lunitiguk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;1;d;lunitiguk;n;n;;lunitiguk;son;son;;lunitiguk;son;son;;lunitiguk;son;son;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lunitik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;2;d;lunitik;n;n;;lunitik;son;son;;lunitik;son;son;;lunitik;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lunikkik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;3;d;lunikkik;n;n;;lunikkik;son;son;;lunikkik;son;son;;lunikkik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lunitigut;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;1;p;lunitigut;n;n;;lunitigut;son;son;;lunitigut;son;son;;lunitigut;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lunisi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;2;p;lunisi;n;n;;lunisi;son;son;;lunisi;son;son;;lunisi;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lunikku;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;3;s;lunikku;i(l);i(l);;tunikku;n;n;;tunikku;n;n;;tunikku;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;1;d;lunitiguk;i(l);i(l);;tunitiguk;n;n;;tunitiguk;n;n;;tunitiguk;n;n;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;d;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;d;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lunikkit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;d;3;p;lunikkit;n;n;;lunikkit;son;son;;lunikkit;son;son;;lunikkit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;d;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+luninga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;1;s;luninga;n;n;;luninga;son;son;;luninga;son;son;;luninga;son;son;;;?
+lunga;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;1;s;lunga;n;n;;lunga;son;son;;lunga;son;son;;lunga;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lunitit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;2;s;lunitit;n;n;;lunitit;son;son;;lunitit;son;son;;lunitit;son;son;;;?
+lutit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;2;s;lutit;n;n;;lutit;son;son;;lutit;son;son;;lutit;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lunijjuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;3;s;lunijjuk;n;n;;lunijjuk;son;son;;lunijjuk;son;son;;lunijjuk;son;son;;;?
+lugu;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;3;s;lugu;n;n;;lugu;son;son;;lugu;son;son;;lugu;son;son;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lunitiguk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;1;d;lunitiguk;n;n;;lunitiguk;son;son;;lunitiguk;son;son;;lunitiguk;son;son;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;2;d;lunitik;i(l);i(l);;tunitik;n;n;;tunitik;n;n;;tunitik;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+lunuk;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;1;d;lunuk;n;n;;lunuk;son;son;;lunuk;son;son;;lunuk;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lunitik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;2;d;lunitik;n;n;;lunitik;son;son;;lunitik;son;son;;lunitik;son;son;;;?
+lutik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;2;d;lutik;n;n;;lutik;son;son;;lutik;son;son;;lutik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+lunigik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;3;d;lunigik;n;n;;lunigik;son;son;;lunigik;son;son;;lunigik;son;son;;;?
+lugik;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;3;d;lugik;n;n;;lugik;son;son;;lugik;son;son;;lugik;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lunitigut;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;1;p;lunitigut;n;n;;lunitigut;son;son;;lunitigut;son;son;;lunitigut;son;son;;;?
+luta;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;1;p;luta;n;n;;luta;son;son;;luta;son;son;;luta;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lunisi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;2;p;lunisi;n;n;;lunisi;son;son;;lunisi;son;son;;lunisi;son;son;;;?
+lusi;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;2;p;lusi;n;n;;lusi;son;son;;lusi;son;son;;lusi;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;1;p;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;2;p;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+lunikkik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;3;d;lunikkik;i(l);i(l);;tunikkik;n;n;;tunikkik;n;n;;tunikkik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+lunigit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;3;p;3;p;lunigit;n;n;;lunigit;son;son;;lunigit;son;son;;lunigit;son;son;;;?
+lugit;tv;part;oui;pos;fut;North Baffin, Cumberland Peninsula;sp;4;p;3;p;lugit;n;n;;lugit;son;son;;lugit;son;son;;lugit;son;son;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+tilluninga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;1;s;tilluninga;n;n;;tilluninga tilluninga;n s;n s;;tilluninga;n;n;;tilluninga;n;n;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillunitit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;2;s;tillunitit;n;n;;tillunitit tillunitit;n s;n s;;tillunitit;n;n;;tillunitit;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tilluniuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;3;s;tilluniuk;n;n;;tilluniuk tilluniuk;n s;n s;;tilluniuk;n;n;;tilluniuk;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillunitiguk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;1;d;tillunitiguk;n;n;;tillunitiguk tillunitiguk;n s;n s;;tillunitiguk;n;n;;tillunitiguk;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillunitik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;2;d;tillunitik;n;n;;tillunitik tillunitik;n s;n s;;tillunitik;n;n;;tillunitik;n;n;;;?
+lunitigut;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;1;p;lunitigut;i(l);i(l);;tunitigut;n;n;;tunitigut;n;n;;tunitigut;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillunigik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;3;d;tillunigik;n;n;;tillunigik tillunigik;n s;n s;;tillunigik;n;n;;tillunigik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+tillunitigut;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;1;p;tillunitigut;n;n;;tillunitigut tillunitigut;n s;n s;;tillunitigut;n;n;;tillunitigut;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillunisi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;2;p;tillunisi;n;n;;tillunisi tillunisi;n s;n s;;tillunisi;n;n;;tillunisi;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;s;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;s;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillunigit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;s;3;p;tillunigit;n;n;;tillunigit tillunigit;n s;n s;;tillunigit;n;n;;tillunigit;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;s;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+tilluninga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;1;s;tilluninga;n;n;;tilluninga tilluninga;n s;n s;;tilluninga;n;n;;tilluninga;n;n;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;2;p;lunisi;i(l);i(l);;tunisi;n;n;;tunisi;n;n;;tunisi;n;n;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillunitit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;2;s;tillunitit;n;n;;tillunitit tillunitit;n s;n s;;tillunitit;n;n;;tillunitit;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillunikku;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;3;s;tillunikku;n;n;;tillunikku tillunikku;n s;n s;;tillunikku;n;n;;tillunikku;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillunitiguk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;1;d;tillunitiguk;n;n;;tillunitiguk tillunitiguk;n s;n s;;tillunitiguk;n;n;;tillunitiguk;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillunitik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;2;d;tillunitik;n;n;;tillunitik tillunitik;n s;n s;;tillunitik;n;n;;tillunitik;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillunikkik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;3;d;tillunikkik;n;n;;tillunikkik tillunikkik;n s;n s;;tillunikkik;n;n;;tillunikkik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;d;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;d;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+tillunitigut;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;1;p;tillunitigut;n;n;;tillunitigut tillunitigut;n s;n s;;tillunitigut;n;n;;tillunitigut;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillunisi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;2;p;tillunisi;n;n;;tillunisi tillunisi;n s;n s;;tillunisi;n;n;;tillunisi;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;d;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;d;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillunikkit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;d;3;p;tillunikkit;n;n;;tillunikkit tillunikkit;n s;n s;;tillunikkit;n;n;;tillunikkit;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;d;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+tilluninga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;1;s;tilluninga;n;n;;tilluninga tilluninga;n s;n s;;tilluninga;n;n;;tilluninga;n;n;;;?
+tillunga;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;1;s;tillunga;n;n;;tillunga tillunga;n s;n s;;tillunga;n;n;;tillunga;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillunitit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;2;s;tillunitit;n;n;;tillunitit tillunitit;n s;n s;;tillunitit;n;n;;tillunitit;n;n;;;?
+tillutit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;2;s;tillutit;n;n;;tillutit tillutit;n s;n s;;tillutit;n;n;;tillutit;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillunijjuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;3;s;tillunijjuk;n;n;;tillunijjuk tillunijjuk;n s;n s;;tillunijjuk;n;n;;tillunijjuk;n;n;;;?
+lunikkit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;d;3;p;lunikkit;i(l);i(l);;tunikkit;n;n;;tunikkit;n;n;;tunikkit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;d;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+tillugu;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;3;s;tillugu;n;n;;tillugu tillugu;n s;n s;;tillugu;n;n;;tillugu;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillunitiguk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;1;d;tillunitiguk;n;n;;tillunitiguk tillunitiguk;n s;n s;;tillunitiguk;n;n;;tillunitiguk;n;n;;;?
+tillunuk;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;1;d;tillunuk;n;n;;tillunuk tillunuk;n s;n s;;tillunuk;n;n;;tillunuk;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillunitik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;2;d;tillunitik;n;n;;tillunitik tillunitik;n s;n s;;tillunitik;n;n;;tillunitik;n;n;;;?
+tillutik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;2;d;tillutik;n;n;;tillutik tillutik;n s;n s;;tillutik;n;n;;tillutik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tillunigik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;3;d;tillunigik;n;n;;tillunigik tillunigik;n s;n s;;tillunigik;n;n;;tillunigik;n;n;;;?
+tillugik;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;3;d;tillugik;n;n;;tillugik tillugik;n s;n s;;tillugik;n;n;;tillugik;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+tillunitigut;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;1;p;tillunitigut;n;n;;tillunitigut tillunitigut;n s;n s;;tillunitigut;n;n;;tillunitigut;n;n;;;?
+tilluta;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;1;p;tilluta;n;n;;tilluta tilluta;n s;n s;;tilluta;n;n;;tilluta;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillunisi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;2;p;tillunisi;n;n;;tillunisi tillunisi;n s;n s;;tillunisi;n;n;;tillunisi;n;n;;;?
+tillusi;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;2;p;tillusi;n;n;;tillusi tillusi;n s;n s;;tillusi;n;n;;tillusi;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;1;p;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+luninga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;1;s;luninga;i(l);i(l);;tuninga;n;n;;tuninga;n;n;;tuninga;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;2;p;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tillunigit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;3;p;3;p;tillunigit;n;n;;tillunigit tillunigit;n s;n s;;tillunigit;n;n;;tillunigit;n;n;;;?
+tillugit;tv;part;non;pos;;North Baffin, Cumberland Peninsula;sp;4;p;3;p;tillugit;n;n;;tillugit tillugit;n s;n s;;tillugit;n;n;;tillugit;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+tinnaninga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;s;tinnaninga;n;n;;tinnaninga tinnaninga;n s;n s;;tinnaninga;n;n;;tinnaninga;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+tinnanitit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;s;tinnanitit;n;n;;tinnanitit tinnanitit;n s;n s;;tinnanitit;n;n;;tinnanitit;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;s;tinnagu;n;n;;tinnagu tinnatu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnaniuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;s;tinnaniuk;n;n;;tinnaniuk tinnaniuk;n s;n s;;tinnaniuk;n;n;;tinnaniuk;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnanitiguk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;d;tinnanitiguk;n;n;;tinnanitiguk tinnanitiguk;n s;n s;;tinnanitiguk;n;n;;tinnanitiguk;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+lunga;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;1;s;lunga;i(l);i(l);;tunga;n;n;;tunga;n;n;;tunga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lunitit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;2;s;lunitit;i(l);i(l);;tunitit;n;n;;tunitit;n;n;;tunitit;n;n;;;?
+tinnanitik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;d;tinnanitik;n;n;;tinnanitik tinnanitik;n s;n s;;tinnanitik;n;n;;tinnanitik;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnanigik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;d;tinnanigik;n;n;;tinnanigik tinnanigik;n s;n s;;tinnanigik;n;n;;tinnanigik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+tinnanitigut;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;p;tinnanitigut;n;n;;tinnanitigut tinnanitigut;n s;n s;;tinnanitigut;n;n;;tinnanitigut;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnanisi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;p;tinnanisi;n;n;;tinnanisi tinnanisi;n s;n s;;tinnanisi;n;n;;tinnanisi;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnanigit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;p;tinnanigit;n;n;;tinnanigit tinnanigit;n s;n s;;tinnanigit;n;n;;tinnanigit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+lutit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;2;s;lutit;i(l);i(l);;tutit;n;n;;tutit;n;n;;tutit;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+tinnaninga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;s;tinnaninga;n;n;;tinnaninga tinnaninga;n s;n s;;tinnaninga;n;n;;tinnaninga;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+tinnanitit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;s;tinnanitit;n;n;;tinnanitit tinnanitit;n s;n s;;tinnanitit;n;n;;tinnanitit;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnanikku;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;s;tinnanikku;n;n;;tinnanikku tinnanikku;n s;n s;;tinnanikku;n;n;;tinnanikku;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnanitiguk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;d;tinnanitiguk;n;n;;tinnanitiguk tinnanitiguk;n s;n s;;tinnanitiguk;n;n;;tinnanitiguk;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+tinnanitik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;d;tinnanitik;n;n;;tinnanitik tinnanitik;n s;n s;;tinnanitik;n;n;;tinnanitik;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+lunijjuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;3;s;lunijjuk;i(l);i(l);;tunijjuk;n;n;;tunijjuk;n;n;;tunijjuk;n;n;;;?
+lugu;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;3;s;lugu;i(l);i(l);;tugu;n;n;;tugu;n;n;;tugu;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnanikkik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;d;tinnanikkik;n;n;;tinnanikkik tinnanikkik;n s;n s;;tinnanikkik;n;n;;tinnanikkik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+tinnanitigut;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;p;tinnanitigut;n;n;;tinnanitigut tinnanitigut;n s;n s;;tinnanitigut;n;n;;tinnanitigut;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnanisi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;p;tinnanisi;n;n;;tinnanisi tinnanisi;n s;n s;;tinnanisi;n;n;;tinnanisi;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnanikkit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;p;tinnanikkit;n;n;;tinnanikkit tinnanikkit;n s;n s;;tinnanikkit;n;n;;tinnanikkit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+tinnaninga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;s;tinnaninga;n;n;;tinnaninga tinnaninga;n s;n s;;tinnaninga;n;n;;tinnaninga;n;n;;;?
+tinnanga;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;s;tinnanga;n;n;;tinnanga tinnanga;n s;n s;;tinnanga;n;n;;tinnanga;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+lunitiguk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;1;d;lunitiguk;i(l);i(l);;tunitiguk;n;n;;tunitiguk;n;n;;tunitiguk;n;n;;;?
+lunuk;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;1;d;lunuk;i(l);i(l);;tunuk;n;n;;tunuk;n;n;;tunuk;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+tinnanitit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;s;tinnanitit;n;n;;tinnanitit tinnanitit;n s;n s;;tinnanitit;n;n;;tinnanitit;n;n;;;?
+tinnak;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;s;tinnak;n;n;;tinnak tinnak;n s;n s;;tinnak;n;n;;tinnak;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnanijjuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;s;tinnanijjuk;n;n;;tinnanijjuk tinnanijjuk;n s;n s;;tinnanijjuk;n;n;;tinnanijjuk;n;n;;;?
+tinnagu;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;s;tinnagu;n;n;;tinnagu tinnagu;n s;n s;;tinnagu;n;n;;tinnagu;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnanitiguk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;d;tinnanitiguk;n;n;;tinnanitiguk tinnanitiguk;n s;n s;;tinnanitiguk;n;n;;tinnanitiguk;n;n;;;?
+tinnanuk;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;d;tinnanuk;n;n;;tinnanuk tinnanuk;n s;n s;;tinnanuk;n;n;;tinnanuk;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+tinnanitik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;d;tinnanitik;n;n;;tinnanitik tinnanitik;n s;n s;;tinnanitik;n;n;;tinnanitik;n;n;;;?
+tinnatik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;d;tinnatik;n;n;;tinnatik tinnatik;n s;n s;;tinnatik;n;n;;tinnatik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnanigik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;d;tinnanigik;n;n;;tinnanigik tinnanigik;n s;n s;;tinnanigik;n;n;;tinnanigik;n;n;;;?
+tinnagik;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;d;tinnagik;n;n;;tinnagik tinnagik;n s;n s;;tinnagik;n;n;;tinnagik;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+lunitik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;2;d;lunitik;i(l);i(l);;tunitik;n;n;;tunitik;n;n;;tunitik;n;n;;;?
+lutik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;2;d;lutik;i(l);i(l);;tutik;n;n;;tutik;n;n;;tutik;n;n;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+tinnanitigut;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;p;tinnanitigut;n;n;;tinnanitigut tinnanitigut;n s;n s;;tinnanitigut;n;n;;tinnanitigut;n;n;;;?
+tinnata;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;p;tinnata;n;n;;tinnata tinnata;n s;n s;;tinnata;n;n;;tinnata;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnanisi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;p;tinnanisi;n;n;;tinnanisi tinnanisi;n s;n s;;tinnanisi;n;n;;tinnanisi;n;n;;;?
+tinnasi;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;p;tinnasi;n;n;;tinnasi tinnasi;n s;n s;;tinnasi;n;n;;tinnasi;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+tinnanigit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;p;tinnanigit;n;n;;tinnanigit tinnanigit;n s;n s;;tinnanigit;n;n;;tinnanigit;n;n;;;?
+tinnagit;tv;part;non;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;p;tinnagit;n;n;;tinnagit tinnagit;n s;n s;;tinnagit;n;n;;tinnagit;n;n;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+naninga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;s;naninga;n;n;;naninga;nas;nas;;naninga;nas;nas;;naninga raninga;nas s;nas s;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nanitit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;s;nanitit;n;n;;nanitit;nas;nas;;nanitit;nas;nas;;nanitit ranitit;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+lunigik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;3;d;lunigik;i(l);i(l);;tunigik;n;n;;tunigik;n;n;;tunigik;n;n;;;?
+naniuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;s;naniuk;n;n;;naniuk;nas;nas;;naniuk;nas;nas;;naniuk raniuk;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+nanitiguk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;d;nanitiguk;n;n;;nanitiguk;nas;nas;;nanitiguk;nas;nas;;nanitiguk ranitiguk;nas s;nas s;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+nanitik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;d;nanitik;n;n;;nanitik;nas;nas;;nanitik;nas;nas;;nanitik ranitik;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nanigik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;d;nanigik;n;n;;nanigik;nas;nas;;nanigik;nas;nas;;nanigik ranigik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nanitigut;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;1;p;nanitigut;n;n;;nanitigut;nas;nas;;nanitigut;nas;nas;;nanitigut ranitigut;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;2;p;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;?
+nanisi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;2;p;nanisi;n;n;;nanisi;nas;nas;;nanisi;nas;nas;;nanisi ranisi;nas s;nas s;;;?
+lugik;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;3;d;lugik;i(l);i(l);;tugik;n;n;;tugik;n;n;;tugik;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;2;p;nasi ;n;n;;nasi ;nas;nas;;nasi ;nas;nas;;nasi rasi;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;s;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;s;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nanigit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;s;3;p;nanigit;n;n;;nanigit;nas;nas;;nanigit;nas;nas;;nanigit ranigit;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;s;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+naninga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;s;naninga;n;n;;naninga;nas;nas;;naninga;nas;nas;;naninga raninga;nas s;nas s;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nanitit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;s;nanitit;n;n;;nanitit;nas;nas;;nanitit;nas;nas;;nanitit ranitit;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nanikku;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;s;nanikku;n;n;;nanikku;nas;nas;;nanikku;nas;nas;;nanikku ranikku;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+nanitiguk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;d;nanitiguk;n;n;;nanitiguk;nas;nas;;nanitiguk;nas;nas;;nanitiguk ranitiguk;nas s;nas s;;;?
+lunitigut;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;1;p;lunitigut;i(l);i(l);;tunitigut;n;n;;tunitigut;n;n;;tunitigut;n;n;;;?
+luta;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;1;p;luta;i(l);i(l);;tuta;n;n;;tuta;n;n;;tuta;n;n;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+nanitik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;d;nanitik;n;n;;nanitik;nas;nas;;nanitik;nas;nas;;nanitik ranitik;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nanikkik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;d;nanikkik;n;n;;nanikkik;nas;nas;;nanikkik;nas;nas;;nanikkik ranikkik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nanitigut;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;1;p;nanitigut;n;n;;nanitigut;nas;nas;;nanitigut;nas;nas;;nanitigut ranitigut;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;2;p;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;?
+nanisi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;2;p;nanisi;n;n;;nanisi;nas;nas;;nanisi;nas;nas;;nanisi ranisi;nas s;nas s;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;2;p;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;d;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;d;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nanikkit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;d;3;p;nanikkit;n;n;;nanikkit;nas;nas;;nanikkit;nas;nas;;nanikkit ranikkit;nas s;nas s;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+lunisi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;2;p;lunisi;i(l);i(l);;tunisi;n;n;;tunisi;n;n;;tunisi;n;n;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;d;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+naninga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;s;naninga;n;n;;naninga;nas;nas;;naninga;nas;nas;;naninga raninga;nas s;nas s;;;?
+nanga;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;s;nanga;n;n;;nanga;nas;nas;;nanga;nas;nas;;nanga ranga;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nanitit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;s;nanitit;n;n;;nanitit;nas;nas;;nanitit;nas;nas;;nanitit ranitit;nas s;nas s;;;?
+nak;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;s;nak;n;n;;nak;nas;nas;;nak;nas;nas;;nak rak;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nanijjuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;s;nanijjuk;n;n;;nanijjuk;nas;nas;;nanijjuk;nas;nas;;nanijjuk ranijjuk;nas s;nas s;;;?
+nagu;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;s;nagu;n;n;;nagu;nas;nas;;nagu;nas;nas;;nagu ragu;nas s;nas s;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+nanitiguk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;d;nanitiguk;n;n;;nanitiguk;nas;nas;;nanitiguk;nas;nas;;nanitiguk ranitiguk;nas s;nas s;;;?
+nanuk;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;d;nanuk;n;n;;nanuk;nas;nas;;nanuk;nas;nas;;nanuk ranuk;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+nanitik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;d;nanitik;n;n;;nanitik;nas;nas;;nanitik;nas;nas;;nanitik ranitik;nas s;nas s;;;?
+natik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;d;natik;n;n;;natik;nas;nas;;natik;nas;nas;;natik ratik;nas s;nas s;;;?
+lusi;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;2;p;lusi;i(l);i(l);;tusi;n;n;;tusi;n;n;;tusi;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;1;p;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nanigik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;d;nanigik;n;n;;nanigik;nas;nas;;nanigik;nas;nas;;nanigik ranigik;nas s;nas s;;;?
+nagik;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;d;nagik;n;n;;nagik;nas;nas;;nagik;nas;nas;;nagik ragik;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nanitigut;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;1;p;nanitigut;n;n;;nanitigut;nas;nas;;nanitigut;nas;nas;;nanitigut ranitigut;nas s;nas s;;;?
+nata;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;1;p;nata;n;n;;nata;nas;nas;;nata;nas;nas;;nata rata;nas s;nas s;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;2;p;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;?
+nanisi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;2;p;nanisi;n;n;;nanisi;nas;nas;;nanisi;nas;nas;;nanisi ranisi;nas s;nas s;;;?
+nasi;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;2;p;nasi;n;n;;nasi;nas;nas;;nasi;nas;nas;;nasi rasi;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;1;p;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;2;p;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+nanigit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;3;p;3;p;nanigit;n;n;;nanigit;nas;nas;;nanigit;nas;nas;;nanigit ranigit;nas s;nas s;;;?
+nagit;tv;part;oui;neg;;North Baffin, Cumberland Peninsula;sp;4;p;3;p;nagit;n;n;;nagit;nas;nas;;nagit;nas;nas;;nagit ragit;nas s;nas s;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;2;p;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?
+lunigit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;3;p;3;p;lunigit;i(l);i(l);;tunigit;n;n;;tunigit;n;n;;tunigit;n;n;;;?
+lugit;tv;part;oui;pos;prespas;Cumberland Peninsula;sp;4;p;3;p;lugit;i(l);i(l);;tugit;n;n;;tugit;n;n;;tugit;n;n;;;?

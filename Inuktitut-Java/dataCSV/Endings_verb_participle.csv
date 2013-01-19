@@ -1,0 +1,595 @@
+morpheme,type,mode,sameSubject,posneg,tense,dialect,specificity,perSubject,numbSubject,perObject,numbObject,V-form,V-action1,V-action2,t-form,t-action1,t-action2,k-form,k-action1,k-action2,q-form,q-action1,q-action2,condPrecSpecific,sources
+lunga,tv,part,oui,pos,prespas,North Baffin,nsp,1,s,,,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,M1 H2
+lutit,tv,part,oui,pos,prespas,North Baffin,nsp,2,s,,,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,M1 H2
+luni,tv,part,oui,pos,prespas,North Baffin,nsp,3,s,,,,i(l),,&uni &uni,a n,,&uni,n,,&uni,n,,,M1 H2
+lunuk,tv,part,oui,pos,prespas,North Baffin,nsp,1,d,,,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,M1 H2
+lusik,tv,part,oui,pos,prespas,North Baffin,nsp,2,d,,,,i(l),,&usik &usik,a n,,&usik,n,,&usik,n,,,M1 H2
+lutik,tv,part,oui,pos,prespas,North Baffin,nsp,3,d,,,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,M1 H2
+luta,tv,part,oui,pos,prespas,North Baffin,nsp,1,p,,,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,M1 H2
+lusi,tv,part,oui,pos,prespas,North Baffin,nsp,2,p,,,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,M1 H2
+lutik,tv,part,oui,pos,prespas,North Baffin,nsp,3,p,,,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,M1 H2
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,1,s,,,,n,,,son,,,son,,,son,,,M1 H2
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,2,s,,,,n,,,son,,,son,,,son,,,M1 H2
+luni,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,3,s,,,,n,,,son,,,son,,,son,,,M1 H2
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,1,d,,,,n,,,son,,,son,,,son,,,M1 H2
+lusik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,2,d,,,,n,,,son,,,son,,,son,,,M1 H2
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,3,d,,,,n,,,son,,,son,,,son,,,M1 H2
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,1,p,,,,n,,,son,,,son,,,son,,,M1 H2
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,2,p,,,,n,,,son,,,son,,,son,,,M1 H2
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",nsp,3,p,,,,n,,,son,,,son,,,son,,,M1 H2
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,1,s,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,2,s,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,3,s,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,1,d,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillusik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,2,d,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,3,d,,,,n,,,s n,,,n,,,n,,,M1 H2
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,1,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,2,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",nsp,3,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,1,s,,,,n,,,nas,,,nas,,* ranga,nas fus,,,M1 H2
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,2,s,,,natit,n,,* natit,nas,,* natit,nas,,* rak natit ratit,nas fus nas fus,,,M1 H2
+nani,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,3,s,,,,n,,,nas,,,nas,,* rani,nas fus,,,M1 H2
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,1,d,,,,n,,,nas,,,nas,,* ranuk,nas fus,,,M1 H2
+nasik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,2,d,,,natik,n,,* natik,nas,,* natik,nas,,* rasik natik ratik,nas fus nas fus,,,M1 H2
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,3,d,,,,n,,,nas,,,nas,,* ratik,nas fus,,,M1 H2
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,1,p,,,,n,,,nas,,,nas,,* rata,nas fus,,,M1 H2
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,2,p,,,,n,,,nas,,,nas,,* rasi,nas fus,,,M1 H2
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",nsp,3,p,,,,n,,,nas,,,nas,,* ratik,nas fus,,,M1 H2
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,1,s,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,2,s,,,tinnatit,n,,* tinnatit,s n,,* tinnatit,n,,* tinnatit,n,,,M1 H2
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,3,s,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,1,d,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnasik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,2,d,,,tinnatik,n,,* tinnatik,s n,,* tinnatik,n,,* tinnatik,n,,,M1 H2
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,3,d,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,1,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,2,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",nsp,3,p,,,,n,,,s n,,,n,,,n,,,M1 H2
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,1,s,,,,i(l),,tunga,n,,tunga,n,,tunga,n,,,H2
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,2,s,,,,i(l),,tutit,n,,tutit,n,,tutit,n,,,H2
+luni,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,3,s,,,,i(l),,tuni,n,,tuni,n,,tuni,n,,,H2
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,1,d,,,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,H2
+lusik,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,2,d,,,,i(l),,tusik,n,,tusik,n,,tusik,n,,,H2
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,3,d,,,,i(l),,tutik,n,,tutik,n,,tutik,n,,,H2
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,1,p,,,,i(l),,tuta,n,,tuta,n,,tuta,n,,,H2
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,2,p,,,,i(l),,tusi,n,,tusi,n,,tusi,n,,,H2
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,nsp,3,p,,,,i(l),,tutik,n,,tutik,n,,tutik,n,,,H2
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,2,s,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+luninga,tv,part,oui,pos,prespas,North Baffin,sp,3,s,1,s,,i(l),,&uninga &uninga,a n,,&uninga,n,,&uninga,n,,,?
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,4,s,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,1,s,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lunitit,tv,part,oui,pos,prespas,North Baffin,sp,3,s,2,s,,i(l),,&unitit &unitit,a n,,&unitit,n,,&unitit,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,4,s,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,1,s,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,2,s,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+luniuk,tv,part,oui,pos,prespas,North Baffin,sp,3,s,3,s,,i(l),,&uniuk &uniuk,a n,,&uniuk,n,,&uniuk,n,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+luninga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,1,s,,i(l),,tuninga,n,,tuninga,n,,tuninga,n,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,4,s,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,2,s,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lunitiguk,tv,part,oui,pos,prespas,North Baffin,sp,3,s,1,d,,i(l),,&unitiguk &unitiguk,a n,,&unitiguk,n,,&unitiguk,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,4,s,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,1,s,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lunitik,tv,part,oui,pos,prespas,North Baffin,sp,3,s,2,d,,i(l),,&unitik &unitik,a n,,&unitik,n,,&unitik,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,4,s,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,1,s,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,2,s,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lunigik,tv,part,oui,pos,prespas,North Baffin,sp,3,s,3,d,,i(l),,&unigik &unigik,a n,,&unigik,n,,&unigik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,4,s,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,2,s,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lunitigut,tv,part,oui,pos,prespas,North Baffin,sp,3,s,1,p,,i(l),,&unitigut &unitigut,a n,,&unitigut,n,,&unitigut,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,4,s,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,1,s,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lunisi,tv,part,oui,pos,prespas,North Baffin,sp,3,s,2,p,,i(l),,&unisi &unisi,a n,,&unisi,n,,&unisi,n,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lunitit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,2,s,,i(l),,tunitit,n,,tunitit,n,,tunitit,n,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,4,s,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,1,s,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,2,s,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lunigit,tv,part,oui,pos,prespas,North Baffin,sp,3,s,3,p,,i(l),,&unigit &unigit,a n,,&unigit,n,,&unigit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,4,s,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+luniuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,3,s,,i(l),,tuniuk,n,,tuniuk,n,,tuniuk,n,,,?
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,2,d,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+luninga,tv,part,oui,pos,prespas,North Baffin,sp,3,d,1,s,,i(l),,&uninga &uninga,a n,,&uninga,n,,&uninga,n,,,?
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,4,d,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,1,d,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lunitit,tv,part,oui,pos,prespas,North Baffin,sp,3,d,2,s,,i(l),,&unitit &unitit,a n,,&unitit,n,,&unitit,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,4,d,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,1,d,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,2,d,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lunikku,tv,part,oui,pos,prespas,North Baffin,sp,3,d,3,s,,i(l),,&unikku &unikku,a n,,&unikku,n,,&unikku,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,4,d,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,2,d,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lunitiguk,tv,part,oui,pos,prespas,North Baffin,sp,3,d,1,d,,i(l),,&unitiguk &unitiguk,a n,,&unitiguk,n,,&unitiguk,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,4,d,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,1,d,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lunitik,tv,part,oui,pos,prespas,North Baffin,sp,3,d,2,d,,i(l),,&unitik &unitik,a n,,&unitik,n,,&unitik,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,4,d,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,1,d,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,2,d,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lunikkik,tv,part,oui,pos,prespas,North Baffin,sp,3,d,3,d,,i(l),,&unikkik &unikkik,a n,,&unikkik,n,,&unikkik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,4,d,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lunitiguk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,1,d,,i(l),,tunitiguk,n,,tunitiguk,n,,tunitiguk,n,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+lunitik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,2,d,,i(l),,tunitik,n,,tunitik,n,,tunitik,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,2,d,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lunitigut,tv,part,oui,pos,prespas,North Baffin,sp,3,d,1,p,,i(l),,&unitigut &unitigut,a n,,&unitigut,n,,&unitigut,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,4,d,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,1,d,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lunisi,tv,part,oui,pos,prespas,North Baffin,sp,3,d,2,p,,i(l),,&unisi &unisi,a n,,&unisi,n,,&unisi,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,4,d,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,1,d,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,2,d,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lunikkit,tv,part,oui,pos,prespas,North Baffin,sp,3,d,3,p,,i(l),,&unikkit &unikkit,a n,,&unikkit,n,,&unikkit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,4,d,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,2,p,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+luninga,tv,part,oui,pos,prespas,North Baffin,sp,3,p,1,s,,i(l),,&uninga &uninga,a n,,&uninga,n,,&uninga,n,,,?
+lunga,tv,part,oui,pos,prespas,North Baffin,sp,4,p,1,s,,i(l),,&unga &unga,a n,,&unga,n,,&unga,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,1,p,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lunitit,tv,part,oui,pos,prespas,North Baffin,sp,3,p,2,s,,i(l),,&unitit &unitit,a n,,&unitit,n,,&unitit,n,,,?
+lutit,tv,part,oui,pos,prespas,North Baffin,sp,4,p,2,s,,i(l),,&utit &utit,a n,,&utit,n,,&utit,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+lunigik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,3,d,,i(l),,tunigik,n,,tunigik,n,,tunigik,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,1,p,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,2,p,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lunijjuk,tv,part,oui,pos,prespas,North Baffin,sp,3,p,3,s,,i(l),,&unijjuk &unijjuk,a n,,&unijjuk,n,,&unijjuk,n,,,?
+lugu,tv,part,oui,pos,prespas,North Baffin,sp,4,p,3,s,,i(l),,&ugu &ugu,a n,,&ugu,n,,&ugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,2,p,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lunitiguk,tv,part,oui,pos,prespas,North Baffin,sp,3,p,1,d,,i(l),,&unitiguk &unitiguk,a n,,&unitiguk,n,,&unitiguk,n,,,?
+lunuk,tv,part,oui,pos,prespas,North Baffin,sp,4,p,1,d,,i(l),,&unuk &unuk,a n,,&unuk,n,,&unuk,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,1,p,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lunitik,tv,part,oui,pos,prespas,North Baffin,sp,3,p,2,d,,i(l),,&unitik &unitik,a n,,&unitik,n,,&unitik,n,,,?
+lutik,tv,part,oui,pos,prespas,North Baffin,sp,4,p,2,d,,i(l),,&utik &utik,a n,,&utik,n,,&utik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,1,p,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,2,p,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+lunigik,tv,part,oui,pos,prespas,North Baffin,sp,3,p,3,d,,i(l),,&unigik &unigik,a n,,&unigik,n,,&unigik,n,,,?
+lugik,tv,part,oui,pos,prespas,North Baffin,sp,4,p,3,d,,i(l),,&ugik &ugik,a n,,&ugik,n,,&ugik,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,2,p,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lunitigut,tv,part,oui,pos,prespas,North Baffin,sp,3,p,1,p,,i(l),,&unitigut &unitigut,a n,,&unitigut,n,,&unitigut,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+lunitigut,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,1,p,,i(l),,tunitigut,n,,tunitigut,n,,tunitigut,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+luta,tv,part,oui,pos,prespas,North Baffin,sp,4,p,1,p,,i(l),,&uta &uta,a n,,&uta,n,,&uta,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,1,p,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lunisi,tv,part,oui,pos,prespas,North Baffin,sp,3,p,2,p,,i(l),,&unisi &unisi,a n,,&unisi,n,,&unisi,n,,,?
+lusi,tv,part,oui,pos,prespas,North Baffin,sp,4,p,2,p,,i(l),,&usi &usi,a n,,&usi,n,,&usi,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,1,p,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,2,p,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lunigit,tv,part,oui,pos,prespas,North Baffin,sp,3,p,3,p,,i(l),,&unigit &unigit,a n,,&unigit,n,,&unigit,n,,,?
+lugit,tv,part,oui,pos,prespas,North Baffin,sp,4,p,3,p,,i(l),,&ugit &ugit,a n,,&ugit,n,,&ugit,n,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,1,s,,n,,,son,,,son,,,son,,,?
+luninga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,1,s,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,1,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,2,s,,n,,,son,,,son,,,son,,,?
+lunitit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,2,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,2,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,3,s,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+lunisi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,2,p,,i(l),,tunisi,n,,tunisi,n,,tunisi,n,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,s,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+luniuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,3,s,,n,,,son,,,son,,,son,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,1,d,,n,,,son,,,son,,,son,,,?
+lunitiguk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,1,d,,n,,,son,,,son,,,son,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,1,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,2,d,,n,,,son,,,son,,,son,,,?
+lunitik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,2,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,2,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,3,d,,n,,,son,,,son,,,son,,,?
+lunigik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,3,d,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,1,p,,n,,,son,,,son,,,son,,,?
+lunitigut,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,1,p,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,1,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,2,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,s,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+lunigit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,s,3,p,,i(l),,tunigit,n,,tunigit,n,,tunigit,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,s,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+luninga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,1,s,,i(l),,tuninga,n,,tuninga,n,,tuninga,n,,,?
+lunisi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,2,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,2,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,s,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,s,3,p,,n,,,son,,,son,,,son,,,?
+lunigit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,s,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,s,3,p,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,1,s,,n,,,son,,,son,,,son,,,?
+luninga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,1,s,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,1,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,2,s,,n,,,son,,,son,,,son,,,?
+lunitit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,2,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,2,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,3,s,,n,,,son,,,son,,,son,,,?
+lunikku,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,3,s,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lunitit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,2,s,,i(l),,tunitit,n,,tunitit,n,,tunitit,n,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,1,d,,n,,,son,,,son,,,son,,,?
+lunitiguk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,1,d,,n,,,son,,,son,,,son,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,1,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,2,d,,n,,,son,,,son,,,son,,,?
+lunitik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,2,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,2,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,3,d,,n,,,son,,,son,,,son,,,?
+lunikkik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,3,d,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,1,p,,n,,,son,,,son,,,son,,,?
+lunitigut,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,1,p,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,1,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,2,p,,n,,,son,,,son,,,son,,,?
+lunisi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,2,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,2,p,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lunikku,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,3,s,,i(l),,tunikku,n,,tunikku,n,,tunikku,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+lunitiguk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,1,d,,i(l),,tunitiguk,n,,tunitiguk,n,,tunitiguk,n,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,d,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,d,3,p,,n,,,son,,,son,,,son,,,?
+lunikkit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,d,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,d,3,p,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,1,s,,n,,,son,,,son,,,son,,,?
+luninga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,1,s,,n,,,son,,,son,,,son,,,?
+lunga,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,1,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,2,s,,n,,,son,,,son,,,son,,,?
+lunitit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,2,s,,n,,,son,,,son,,,son,,,?
+lutit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,2,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,3,s,,n,,,son,,,son,,,son,,,?
+lunijjuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,3,s,,n,,,son,,,son,,,son,,,?
+lugu,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,3,s,,n,,,son,,,son,,,son,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,1,d,,n,,,son,,,son,,,son,,,?
+lunitiguk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,1,d,,n,,,son,,,son,,,son,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+lunitik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,2,d,,i(l),,tunitik,n,,tunitik,n,,tunitik,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+lunuk,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,1,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,2,d,,n,,,son,,,son,,,son,,,?
+lunitik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,2,d,,n,,,son,,,son,,,son,,,?
+lutik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,2,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,3,d,,n,,,son,,,son,,,son,,,?
+lunigik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,3,d,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,3,d,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,1,p,,n,,,son,,,son,,,son,,,?
+lunitigut,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,1,p,,n,,,son,,,son,,,son,,,?
+luta,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,1,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,2,p,,n,,,son,,,son,,,son,,,?
+lunisi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,2,p,,n,,,son,,,son,,,son,,,?
+lusi,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,2,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,1,p,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,2,p,3,p,,n,,,son,,,son,,,son,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+lunikkik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,3,d,,i(l),,tunikkik,n,,tunikkik,n,,tunikkik,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+lunigit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,3,p,3,p,,n,,,son,,,son,,,son,,,?
+lugit,tv,part,oui,pos,fut,"North Baffin, Cumberland Peninsula",sp,4,p,3,p,,n,,,son,,,son,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,1,s,,n,,,n s,,,n,,,son,,,?
+tilluninga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,1,s,,n,,,n s,,,n,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,1,s,,n,,,n s,,,n,,,son,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,2,s,,n,,,n s,,,n,,,son,,,?
+tillunitit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,2,s,,n,,,n s,,,n,,,son,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,2,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,3,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,3,s,,n,,,n s,,,n,,,son,,,?
+tilluniuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,3,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,3,s,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,1,d,,n,,,n s,,,n,,,son,,,?
+tillunitiguk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,1,d,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,1,d,,n,,,n s,,,n,,,son,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,2,d,,n,,,n s,,,n,,,son,,,?
+tillunitik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,2,d,,n,,,n s,,,n,,,son,,,?
+lunitigut,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,1,p,,i(l),,tunitigut,n,,tunitigut,n,,tunitigut,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,2,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,3,d,,n,,,n s,,,n,,,son,,,?
+tillunigik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,3,d,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,1,p,,n,,,n s,,,n,,,son,,,?
+tillunitigut,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,1,p,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,1,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,2,p,,n,,,n s,,,n,,,son,,,?
+tillunisi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,2,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,2,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,s,3,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,s,3,p,,n,,,n s,,,n,,,son,,,?
+tillunigit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,s,3,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,s,3,p,,n,,,n s,,,n,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,1,s,,n,,,n s,,,n,,,son,,,?
+tilluninga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,1,s,,n,,,n s,,,n,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,1,s,,n,,,n s,,,n,,,son,,,?
+lunisi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,2,p,,i(l),,tunisi,n,,tunisi,n,,tunisi,n,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,2,s,,n,,,n s,,,n,,,son,,,?
+tillunitit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,2,s,,n,,,n s,,,n,,,son,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,2,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,3,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,3,s,,n,,,n s,,,n,,,son,,,?
+tillunikku,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,3,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,3,s,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,1,d,,n,,,n s,,,n,,,son,,,?
+tillunitiguk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,1,d,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,1,d,,n,,,n s,,,n,,,son,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,2,d,,n,,,n s,,,n,,,son,,,?
+tillunitik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,2,d,,n,,,n s,,,n,,,son,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,2,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,3,d,,n,,,n s,,,n,,,son,,,?
+tillunikkik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,3,d,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,1,p,,n,,,n s,,,n,,,son,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,d,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,d,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+tillunitigut,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,1,p,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,1,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,2,p,,n,,,n s,,,n,,,son,,,?
+tillunisi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,2,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,2,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,d,3,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,d,3,p,,n,,,n s,,,n,,,son,,,?
+tillunikkit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,d,3,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,d,3,p,,n,,,n s,,,n,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,1,s,,n,,,n s,,,n,,,son,,,?
+tilluninga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,1,s,,n,,,n s,,,n,,,son,,,?
+tillunga,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,1,s,,n,,,n s,,,n,,,son,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,2,s,,n,,,n s,,,n,,,son,,,?
+tillunitit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,2,s,,n,,,n s,,,n,,,son,,,?
+tillutit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,2,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,3,s,,n,,,n s,,,n,,,son,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,3,s,,n,,,n s,,,n,,,son,,,?
+tillunijjuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,3,s,,n,,,n s,,,n,,,son,,,?
+lunikkit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,d,3,p,,i(l),,tunikkit,n,,tunikkit,n,,tunikkit,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,d,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+tillugu,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,3,s,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,1,d,,n,,,n s,,,n,,,son,,,?
+tillunitiguk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,1,d,,n,,,n s,,,n,,,son,,,?
+tillunuk,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,1,d,,n,,,n s,,,n,,,son,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,2,d,,n,,,n s,,,n,,,son,,,?
+tillunitik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,2,d,,n,,,n s,,,n,,,son,,,?
+tillutik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,2,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,3,d,,n,,,n s,,,n,,,son,,,?
+tillunigik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,3,d,,n,,,n s,,,n,,,son,,,?
+tillugik,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,3,d,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,1,p,,n,,,n s,,,n,,,son,,,?
+tillunitigut,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,1,p,,n,,,n s,,,n,,,son,,,?
+tilluta,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,1,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,2,p,,n,,,n s,,,n,,,son,,,?
+tillunisi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,2,p,,n,,,n s,,,n,,,son,,,?
+tillusi,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,2,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,1,p,3,p,,n,,,n s,,,n,,,son,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+luninga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,1,s,,i(l),,tuninga,n,,tuninga,n,,tuninga,n,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,2,p,3,p,,n,,,n s,,,n,,,son,,,?
+tillunigit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,3,p,3,p,,n,,,n s,,,n,,,son,,,?
+tillugit,tv,part,non,pos,,"North Baffin, Cumberland Peninsula",sp,4,p,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,s,,n,,,n s,,,n,,,son,,,?
+tinnaninga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,s,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,s,,n,,,n s,,,n,,,son,,,?
+tinnanitit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,s,,n,,,n s,,,n,,,son,,,?
+tinnaniuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,s,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanitiguk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,d,,n,,,n s,,,n,,,son,,,?
+lunga,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,1,s,,i(l),,tunga,n,,tunga,n,,tunga,n,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lunitit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,2,s,,i(l),,tunitit,n,,tunitit,n,,tunitit,n,,,?
+tinnanitik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,d,,n,,,n s,,,n,,,son,,,?
+tinnanigik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,d,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,p,,n,,,n s,,,n,,,son,,,?
+tinnanitigut,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,p,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,p,,n,,,n s,,,n,,,son,,,?
+tinnanisi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanigit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,s,,n,,,n s,,,n,,,son,,,?
+lutit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,2,s,,i(l),,tutit,n,,tutit,n,,tutit,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+tinnaninga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,s,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,s,,n,,,n s,,,n,,,son,,,?
+tinnanitit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,s,,n,,,n s,,,n,,,son,,,?
+tinnanikku,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,s,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanitiguk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,d,,n,,,n s,,,n,,,son,,,?
+tinnanitik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,d,,n,,,n s,,,n,,,son,,,?
+lunijjuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,3,s,,i(l),,tunijjuk,n,,tunijjuk,n,,tunijjuk,n,,,?
+lugu,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,3,s,,i(l),,tugu,n,,tugu,n,,tugu,n,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,d,,n,,,n s,,,n,,,son,,,?
+tinnanikkik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,d,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,p,,n,,,n s,,,n,,,son,,,?
+tinnanitigut,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,p,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,p,,n,,,n s,,,n,,,son,,,?
+tinnanisi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanikkit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,s,,n,,,n s,,,n,,,son,,,?
+tinnaninga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,s,,n,,,n s,,,n,,,son,,,?
+tinnanga,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,s,,n,,,n s,,,n,,,son,,,?
+lunitiguk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,1,d,,i(l),,tunitiguk,n,,tunitiguk,n,,tunitiguk,n,,,?
+lunuk,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,1,d,,i(l),,tunuk,n,,tunuk,n,,tunuk,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+tinnanitit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,s,,n,,,n s,,,n,,,son,,,?
+tinnak,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,s,,n,,,n s,,,n,,,son,,,?
+tinnanijjuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,s,,n,,,n s,,,n,,,son,,,?
+tinnagu,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,s,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanitiguk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,d,,n,,,n s,,,n,,,son,,,?
+tinnanuk,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,d,,n,,,n s,,,n,,,son,,,?
+tinnanitik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,d,,n,,,n s,,,n,,,son,,,?
+tinnatik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,d,,n,,,n s,,,n,,,son,,,?
+tinnanigik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,d,,n,,,n s,,,n,,,son,,,?
+tinnagik,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,d,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,p,,n,,,n s,,,n,,,son,,,?
+lunitik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,2,d,,i(l),,tunitik,n,,tunitik,n,,tunitik,n,,,?
+lutik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,2,d,,i(l),,tutik,n,,tutik,n,,tutik,n,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+tinnanitigut,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,p,,n,,,n s,,,n,,,son,,,?
+tinnata,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,p,,n,,,n s,,,n,,,son,,,?
+tinnanisi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,p,,n,,,n s,,,n,,,son,,,?
+tinnasi,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,p,,n,,,n s,,,n,,,son,,,?
+tinnanigit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,p,,n,,,n s,,,n,,,son,,,?
+tinnagit,tv,part,non,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,p,,n,,,n s,,,n,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,s,,n,,,nas,,* ranga,nas fus,,,son,,,?
+naninga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,s,,n,,,nas,,* raninga,nas fus,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,s,,n,,,nas,,* nanga,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nanitit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,s,,n,,,nas,,* ranitit,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+lunigik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,3,d,,i(l),,tunigik,n,,tunigik,n,,tunigik,n,,,?
+naniuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,s,,n,,,nas,,* raniuk,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+nanitiguk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,d,,n,,,nas,,* ranitiguk,nas fus,,,son,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+nanitik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,d,,n,,,nas,,* ranitik,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nanigik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,d,,n,,,nas,,* ranigik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nanitigut,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,1,p,,n,,,nas,,* ranitigut,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nanisi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,2,p,,n,,,nas,,* ranisi,nas fus,,,son,,,?
+lugik,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,3,d,,i(l),,tugik,n,,tugik,n,,tugik,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,s,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,s,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nanigit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,s,3,p,,n,,,nas,,* ranigit,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,s,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,s,,n,,,nas,,* ranga,nas fus,,,son,,,?
+naninga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,s,,n,,,nas,,* raninga,nas fus,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,s,,n,,,nas,,* ranga,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nanitit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,s,,n,,,nas,,* ranitit,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nanikku,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,s,,n,,,nas,,* ranikku,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+nanitiguk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,d,,n,,,nas,,* ranitiguk,nas fus,,,son,,,?
+lunitigut,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,1,p,,i(l),,tunitigut,n,,tunitigut,n,,tunitigut,n,,,?
+luta,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,1,p,,i(l),,tuta,n,,tuta,n,,tuta,n,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+nanitik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,d,,n,,,nas,,* ranitik,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nanikkik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,d,,n,,,nas,,* ranikkik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nanitigut,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,1,p,,n,,,nas,,* ranitigut,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nanisi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,2,p,,n,,,nas,,* ranisi,nas fus,,,son,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,d,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,d,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nanikkit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,d,3,p,,n,,,nas,,* ranikkit,nas fus,,,son,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+lunisi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,2,p,,i(l),,tunisi,n,,tunisi,n,,tunisi,n,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,d,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,s,,n,,,nas,,* ranga,nas fus,,,son,,,?
+naninga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,s,,n,,,nas,,* raninga,nas fus,,,son,,,?
+nanga,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,s,,n,,,nas,,* ranga,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nanitit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,s,,n,,,nas,,* ranitit,nas fus,,,son,,,?
+nak,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,s,,n,,,nas,,* rak,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nanijjuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,s,,n,,,nas,,* ranijjuk,nas fus,,,son,,,?
+nagu,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,s,,n,,,nas,,* ragu,nas fus,,,son,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+nanitiguk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,d,,n,,,nas,,* ranitiguk,nas fus,,,son,,,?
+nanuk,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,d,,n,,,nas,,* ranuk,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+nanitik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,d,,n,,,nas,,* ranitik,nas fus,,,son,,,?
+natik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,d,,n,,,nas,,* ratik,nas fus,,,son,,,?
+lusi,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,2,p,,i(l),,tusi,n,,tusi,n,,tusi,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,1,p,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nanigik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,d,,n,,,nas,,* ranigik,nas fus,,,son,,,?
+nagik,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,d,,n,,,nas,,* ragik,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nanitigut,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,1,p,,n,,,nas,,* ranitigut,nas fus,,,son,,,?
+nata,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,1,p,,n,,,nas,,* rata,nas fus,,,son,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nanisi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,2,p,,n,,,nas,,* ranisi,nas fus,,,son,,,?
+nasi,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,2,p,,n,,,nas,,* rasi,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,1,p,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,2,p,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+nanigit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,3,p,3,p,,n,,,nas,,* ranigit,nas fus,,,son,,,?
+nagit,tv,part,oui,neg,,"North Baffin, Cumberland Peninsula",sp,4,p,3,p,,n,,,nas,,* ragit,nas fus,,,son,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,2,p,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?
+lunigit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,3,p,3,p,,i(l),,tunigit,n,,tunigit,n,,tunigit,n,,,?
+lugit,tv,part,oui,pos,prespas,Cumberland Peninsula,sp,4,p,3,p,,i(l),,tugit,n,,tugit,n,,tugit,n,,,?

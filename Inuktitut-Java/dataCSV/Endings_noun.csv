@@ -1,0 +1,313 @@
+morpheme,type,case,number,perPoss,numbPoss,V-form,V-action1,V-action2,t-form,t-action1,t-action2,k-form,k-action1,k-action2,q-form,q-action1,q-action2,condPrec,sources
+t,tn,nom,p,,,,n,,-,-,,,s,,,s,,pl:t,H2
+k,tn,nom,d,,,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+it,tn,nom,p,,,,n,decap,,n,,,s,decap,,s,decap,,H2
+up,tn,gen,s,,,,n,decap,,s i(i),decap -,,s,decap,,s,decap,,H2
+k,tn,gen,d,,,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+it,tn,gen,p,,,,n,decap,,n,,,s,decap,,s,decap,,H2
+mik,tn,acc,s,,,,n,,,a i(i),,,"nas a if(id:giik/1nn,s)",,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+ngnik,tn,acc,d,,,nnik,allV,x,* nnik,iallV(i),,* nnik,sallV,x,* nnik,sallV,x,,H2
+nik,tn,acc,p,,,,n,,,a i(i),,,nas a,,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+mut,tn,dat,s,,,,n,,,a i(i) n,- - s,,nas a n,- - s,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn|id:jaq/1vn,s,nas) n",- s,,H2
+ngnut,tn,dat,d,,,nnut,allV,x,* nnut,iallV(i),,* nnut,sallV,x,* nnut,sallV,x,,H2
+nut,tn,dat,p,,,,n,,,a i(i) n,- - s,,nas a n,- - s,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+mit,tn,abl,s,,,,n,,,a i(i),,,nas a,,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+ngnit,tn,abl,d,,,nnit,allV,x,* nnit,iallV(i),,* nnit,sallV,x,* nnit,sallV,x,,H2
+nit,tn,abl,p,,,,n,,,a i(i),,,nas a,,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+mi,tn,loc,s,,,,n,,,a i(i),,,nas a,,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+ngni,tn,loc,d,,,nni,allV,x,* nni,iallV(i),,,sallV,x,,sallV,x,,H2
+ni,tn,loc,p,,,,n,,,a i(i),,,nas a,,,"if(id:juq/1vn|id:ksaq/1nn|id:jaq/3vn,s,nas) n",- s,,H2
+tut,tn,sim,s,,,,n,,,i(i),,,n,,,"n if(id:juq/1vn,s)",,,H2
+ktut,tn,sim,d,,,ktitut,allV,x,* ktitut,iallV(i),,* ktitut,sallV,x,* ktitut,sallV,x,,H2
+titut,tn,sim,p,,,,n,,,i(i),,,n,,,"n if(id:juq/1vn,s)",,,H2
+kkut,tn,via,s,,,,n,,,i(i),,,s,,,s,,,H2
+kkut,tn,via,d,,,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+tigut,tn,via,p,,,,n,,,i(i),,,n,,,"n if(id:juq/1vn,s)",,,H2
+ga,tn,nom,s,1,s,,n,,,i(i),,,s,,ra,fus,,,H2
+kka,tn,nom,d,1,s,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+kka,tn,nom,p,1,s,,n,,,i(i),,,s,,,s,,,H2
+ma,tn,gen,s,1,s,,n,,,i(i) i(im),,,s a,,,nas s,,,H2
+kka,tn,gen,d,1,s,ngma,allV,x,* ngma,iallV(i),,* ngma,sallV,x,* ngma,sallV,x,,H2
+kka,tn,gen,p,1,s,,n,,,i(i),,,s,,,s,,,H2
+nnik,tn,acc,s,1,s,mnik,n,,* mnik,i(i),,* mnik,s,,* mnik,s,,,H2
+nnik,tn,acc,d,1,s,mnik,allV,x,* mnik,iallV(i),,* mnik,sallV,x,* mnik,sallV,x,,H2
+nnik,tn,acc,p,1,s,mnik,n,,* mnik,i(i),,* mnik,s,,* mnik,s,,,H2
+nnut,tn,dat,s,1,s,mnut,n,,* mnut,i(i),,* mnut,s,,* mnut,s,,,H2
+nnut,tn,dat,d,1,s,mnut,allV,x,* mnut,iallV(i),,* mnut,sallV,x,* mnut,sallV,x,,H2
+nnut,tn,dat,p,1,s,mnut,n,,* mnut,i(i),,* mnut,s,,* mnut,s,,,H2
+nnit,tn,abl,s,1,s,mnit,n,,* mnit,i(i),,* mnit,s,,* mnit,s,,,H2
+nnit,tn,abl,d,1,s,mnit,allV,x,* mnit,iallV(i),,* mnit,sallV,x,* mnit,sallV,x,,H2
+nnit,tn,abl,p,1,s,mnit,n,,* mnit,i(i),,* mnit,s,,* mnit,s,,,H2
+nni,tn,loc,s,1,s,mni,n,,* mni,i(i),,* mni,s,,* mni,s,,,H2
+nni,tn,loc,d,1,s,mni,allV,x,* mni,iallV(i),,* mni,sallV,x,* mni,sallV,x,,H2
+nni,tn,loc,p,1,s,mni,n,,* mni,i(i),,* mni,s,,* mni,s,,,H2
+ttut,tn,sim,s,1,s,ptut,n,,* ptut,i(i),,* ptut,s,,* ptut,s,,,H2
+ttut,tn,sim,d,1,s,ptut,allV,x,* ptut,iallV(i),,* ptut,sallV,x,* ptut,sallV,x,,H2
+ttut,tn,sim,p,1,s,ptut ttitut,n,,* ptut ttitut,i(i),,* ptut ttitut,s,,* ptut ttitut,s,,,H2
+kkut,tn,via,s,1,s,pkut,n,,* pkut,i(i),,* pkut,s,,* pkut,s,,,H2
+kkut,tn,via,d,1,s,pkut,allV,x,* pkut,iallV(i),,* pkut,sallV,x,* pkut,sallV,x,,H2
+kkut,tn,via,p,1,s,pkut ttigut,n,,* pkut ttigut,i(i),,* pkut ttigut,s,,* pkut ttigut,s,,,H2
+vuk,tn,nom,s,1,d,kpuk kput,n,,* kpuk kput,i(i),,* kpuk kput,s,,* puk put,s n n,,,H2
+kpuk,tn,nom,d,1,d,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+vuk,tn,nom,p,1,d,kpuk kput,n,,* kpuk kput,i(i),,* kpuk kput,s,,* puk put,s n n,,,H2
+nnuk,tn,gen,s,1,d,mnuk,n,,* mnuk,i(i),,* mnuk,s,,* mnuk,s,,,H2
+nnuk,tn,gen,d,1,d,ngnuk,allV,x,* ngnuk,iallV(i),,* ngnuk,sallV,x,* ngnuk,sallV,x,,H2
+nnuk,tn,gen,p,1,d,mnuk,n,,* mnuk,i(i),,* mnuk,s,,* mnuk,s,,,H2
+ttinnik,tn,acc,s,1,d,ptingnik ttingnik,n,,* ptingnik ttingnik,i(i),,* ptingnik ttingnik,s,,* ptingnik ttingnik,s,,,H2
+ttinnik,tn,acc,d,1,d,ptingnik ttingnik,allV,x,* ptingnik ttingnik,iallV(i),,* ptingnik ttingnik,sallV,x,* ptingnik ttingnik,sallV,x,,H2
+ttinnik,tn,acc,p,1,d,ptingnik ttingnik,n,,* ptingnik ttingnik,i(i),,* ptingnik ttingnik,s,,* ptingnik ttingnik,s,,,H2
+ttinnut,tn,dat,s,1,d,ptingnut ttingnut,n,,* ptingnut ttingnut,i(i),,* ptingnut ttingnut,s,,* ptingnut ttingnut,s,,,H2
+ttinnut,tn,dat,d,1,d,ptingnut ttingnut,allV,x,* ptingnut ttingnut,iallV(i),,* ptingnut ttingnut,sallV,x,* ptingnut ttingnut,sallV,x,,H2
+ttinnut,tn,dat,p,1,d,ptingnut ttingnut,n,,* ptingnut ttingnut,i(i),,* ptingnut ttingnut,s,,* ptingnut ttingnut,s,,,H2
+ttinnit,tn,abl,s,1,d,ptingnit ttingnit,n,,* ptingnit ttingnit,i(i),,* ptingnit ttingnit,s,,* ptingnit ttingnit,s,,,H2
+ttinnit,tn,abl,d,1,d,ptingnit ttingnit,allV,x,* ptingnit ttingnit,iallV(i),,* ptingnit ttingnit,sallV,x,* ptingnit ttingnit,sallV,x,,H2
+ttinnit,tn,abl,p,1,d,ptingnit ttingnit,n,,* ptingnit ttingnit,i(i),,* ptingnit ttingnit,s,,* ptingnit ttingnit,s,,,H2
+ttinni,tn,loc,s,1,d,ptingni ttingni,n,,* ptingni ttingni,i(i),,* ptingni ttingni,s,,* ptingni ttingni,s,,,H2
+ttinni,tn,loc,d,1,d,ptingni ttingni,allV,x,* ptingni ttingni,iallV(i),,* ptingni ttingni,sallV,x,* ptingni ttingni,sallV,x,,H2
+ttinni,tn,loc,p,1,d,ptingni ttingni,n,,* ptingni ttingni,i(i),,* ptingni ttingni,s,,* ptingni ttingni,s,,,H2
+ttitut,tn,sim,s,1,d,ptitut,n,,* ptitut,i(i),,* ptitut,s,,* ptitut,s,,,H2
+ttitut,tn,sim,d,1,d,ptitut,allV,x,* ptitut,iallV(i),,* ptitut,sallV,x,* ptitut,sallV,x,,H2
+ttitut,tn,sim,p,1,d,ptitut,n,,* ptitut,i(i),,* ptitut,s,,* ptitut,s,,,H2
+ttigut,tn,via,s,1,d,ptigut,n,,* ptigut,i(i),,* ptigut,s,,* ptigut,s,,,H2
+ttigut,tn,via,d,1,d,ptigut,allV,x,* ptigut,iallV(i),,* ptigut,sallV,x,* ptigut,sallV,x,,H2
+ttigut,tn,via,p,1,d,ptigut,n,,* ptigut,i(i),,* ptigut,s,,* ptigut,s,,,H2
+vut,tn,nom,s,1,p,kput,n,,* kput,i(i),,* kput,s,,* put,s n,,,H2
+vut,tn,nom,d,1,p,kput,allV,x,* kput,iallV(i),,* kput,sallV,x,* put,sallV allV,x x,,H2
+vut,tn,nom,p,1,p,kput,n,,* kput,i(i),,* kput,s,,* put,s n,,,H2
+tta,tn,gen,s,1,p,pta,n,,* pta,i(i),,* pta,s,,* pta,s,,,H2
+tta,tn,gen,d,1,p,pta kta,allV,x,* pta kta,iallV(i),,* pta kta,sallV,x,* pta kta,sallV,x,,H2
+tta,tn,gen,p,1,p,pta,n,,* pta,i(i),,* pta,s,,* pta,s,,,H2
+ttinnik,tn,acc,s,1,p,ptingnik ttingnik,n,,* ptingnik ttingnik,i(i),,* ptingnik ttingnik,s,,* ptingnik ttingnik,s,,,H2
+ttinnik,tn,acc,d,1,p,ptingnik ttingnik,allV,x,* ptingnik ttingnik,iallV(i),,* ptingnik ttingnik,sallV,x,* ptingnik ttingnik,sallV,x,,H2
+ttinnik,tn,acc,p,1,p,ptingnik ttingnik,n,,* ptingnik ttingnik,i(i),,* ptingnik ttingnik,s,,* ptingnik ttingnik,s,,,H2
+ttinnut,tn,dat,s,1,p,ptingnut ttingnut,n,,* ptingnut ttingnut,i(i),,* ptingnut ttingnut,s,,* ptingnut ttingnut,s,,,H2
+ttinnut,tn,dat,d,1,p,ptingnut ttingnut,allV,x,* ptingnut ttingnut,iallV(i),,* ptingnut ttingnut,sallV,x,* ptingnut ttingnut,sallV,x,,H2
+ttinnut,tn,dat,p,1,p,ptingnut ttingnut,n,,* ptingnut ttingnut,i(i),,* ptingnut ttingnut,s,,* ptingnut ttingnut,s,,,H2
+ttinnit,tn,abl,s,1,p,ptingnit ttingnit,n,,* ptingnit ttingnit,i(i),,* ptingnit ttingnit,s,,* ptingnit ttingnit,s,,,H2
+ttinnit,tn,abl,d,1,p,ptingnit ttingnit,allV,x,* ptingnit ttingnit,iallV(i),,* ptingnit ttingnit,sallV,x,* ptingnit ttingnit,sallV,x,,H2
+ttinnit,tn,abl,p,1,p,ptingnit ttingnit,n,,* ptingnit ttingnit,i(i),,* ptingnit ttingnit,s,,* ptingnit ttingnit,s,,,H2
+ttinni,tn,loc,s,1,p,ptingni ttingni,n,,* ptingni ttingni,i(i),,* ptingni ttingni,s,,* ptingni ttingni,s,,,H2
+ttinni,tn,loc,d,1,p,ptingni ttingni,allV,x,* ptingni ttingni,iallV(i),,* ptingni ttingni,sallV,x,* ptingni ttingni,sallV,x,,H2
+ttinni,tn,loc,p,1,p,ptingni ttingni,n,,* ptingni ttingni,i(i),,* ptingni ttingni,s,,* ptingni ttingni,s,,,H2
+ttitut,tn,sim,s,1,p,ptitut,n,,* ptitut,i(i),,* ptitut,s,,* ptitut,s,,,H2
+ttitut,tn,sim,d,1,p,ptitut,allV,x,* ptitut,iallV(i),,* ptitut,sallV,x,* ptitut,sallV,x,,H2
+ttitut,tn,sim,p,1,p,ptitut,n,,* ptitut,i(i),,* ptitut,s,,* ptitut,s,,,H2
+ttigut,tn,via,s,1,p,ptigut,n,,* ptigut,i(i),,* ptigut,s,,* ptigut,s,,,H2
+ttigut,tn,via,d,1,p,ptigut,allV,x,* ptigut,iallV(i),,* ptigut,sallV,x,* ptigut,sallV,x,,H2
+ttigut,tn,via,p,1,p,ptigut,n,,* ptigut,i(i),,* ptigut,s,,* ptigut,s,,,H2
+it,tn,nom,s,2,s,,n,decap,,i(i),,,s,decap,,s,decap,,H2
+kkik,tn,nom,d,2,s,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+tit,tn,nom,p,2,s,,n,,,i(i),,,s,,,s,,,H2
+vit,tn,gen,s,2,s,kpit,n,,* kpit,i(i) s,,* kpit,s,,* pit,s n,,,H2
+kpik,tn,gen,d,2,s,kkik vit kpit,allV,x,* kkik vit kpit,iallV(i),,* kkik vit kpit,sallV,x,* kkik vit kpit,sallV,x,,H2
+tit,tn,gen,p,2,s,vit kpit,n,,* vit kpit,i(i),,* vit kpit,s,,* vit kpit,s,,,H2
+nnik,tn,acc,s,2,s,ngnik,n,,* ngnik,i(i),,* ngnik,s,,* ngnik nik,s s nas,,,H2
+nnik,tn,acc,d,2,s,ngnik,allV,x,* ngnik,iallV(i),,* ngnik,sallV,x,* ngnik,sallV,x,,H2
+nnik,tn,acc,p,2,s,ngnik,n,,* ngnik,i(i),,* ngnik,s,,* ngnik,s,,,H2
+nnut,tn,dat,s,2,s,ngnut,n,,* ngnut,i(i),,* ngnut,s,,* ngnut nut,s s nas,,,H2
+nnut,tn,dat,d,2,s,ngnut,allV,x,* ngnut,iallV(i),,* ngnut,sallV,x,* ngnut,sallV,x,,H2
+nnut,tn,dat,p,2,s,ngnut,n,,* ngnut,i(i),,* ngnut,s,,* ngnut,s,,,H2
+nnit,tn,abl,s,2,s,ngnit,n,,* ngnit,i(i),,* ngnit,s,,* ngnit nit,s s nas,,,H2
+nnit,tn,abl,d,2,s,ngnit,allV,x,* ngnit,iallV(i),,* ngnit,sallV,x,* ngnit,sallV,x,,H2
+nnit,tn,abl,p,2,s,ngnit,n,,* ngnit,i(i),,* ngnit,s,,* ngnit,s,,,H2
+nni,tn,loc,s,2,s,ngni,n,,* ngni,i(i),,* ngni,s,,* ngni ni,s s nas,,,H2
+nni,tn,loc,d,2,s,ngni,allV,x,* ngni,iallV(i),,* ngni,sallV,x,* ngni,sallV,x,,H2
+nni,tn,loc,p,2,s,ngni,n,,* ngni,i(i),,* ngni,s,,* ngni,s,,,H2
+ttut,tn,sim,s,2,s,ktut,n,,* ktut,i(i),,* ktut,s,,* ktut,s,,,H2
+ttut,tn,sim,d,2,s,ktut,allV,x,* ktut,iallV(i),,* ktut,sallV,x,* ktut,sallV,x,,H2
+ttut,tn,sim,p,2,s,ktut ktitut,n,,* ktut ktitu,i(i),,* ktut ktitut,s,,* ktut ktitut,s,,,H2
+kkut,tn,via,s,2,s,,n,,,i(i),,,s,,,s,,,H2
+kkut,tn,via,d,2,s,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+ttigut,tn,via,p,2,s,ktigut,n,,* ktigut,i(i),,* ktigut,s,,* ktigut,s,,,H2
+tik,tn,nom,s,2,d,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+ttik,tn,nom,d,2,d,ssik ktik ksik,allV,x,* ssik ktik ksik,iallV(i),,* ssik ktik ksik,sallV,x,* ssik ktik ksik,sallV,x,,H2
+tik,tn,nom,p,2,d,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+ttik,tn,gen,s,2,d,ssik tsik,n,,* ssik tsik,i(i),,* ssik tsik,s,,* ssik tsik,s,,,H2
+ttik,tn,gen,d,2,d,ssik ktik ksik tsik,allV,x,* ssik ktik ksik tsik,iallV(i),,* ssik ktik ksik tsik,sallV,x,* ssik ktik ksik tsik,sallV,x,,H2
+ttik,tn,gen,p,2,d,ssik tsik,n,,* ssik tsik,i(i),,* ssik tsik,s,,* ssik tsik,s,,,H2
+ttinnik,tn,acc,s,2,d,ssinnik ptingnik ssingnik tsingnik,n,,* ssinnik ptingnik ssingnik tsingnik,i(i),,* ssinnik ptingnik ssingnik tsingnik,s,,* ssinnik ptingnik ssingnik tsingnik,s,,,H2
+ttinnik,tn,acc,d,2,d,ssinnik ptingnik ksingnik ktingnik,allV,x,* ssinnik ptingnik ksingnik ktingnik,iallV(i),,* ssinnik ptingnik ksingnik ktingnik,sallV,x,* ssinnik ptingnik ksingnik ktingnik,sallV,x,,H2
+ttinnik,tn,acc,p,2,d,ssinnik ptingnik ssingnik tsingnik,n,,* ssinnik ptingnik ssingnik tsingnik,i(i),,* ssinnik ptingnik ssingnik tsingnik,s,,* ssinnik ptingnik ssingnik tsingnik,s,,,H2
+ttinnut,tn,dat,s,2,d,ssinnut ptingnut ssingnut tsingnut,n,,* ssinnut ptingnut ssingnut tsingnut,i(i),,* ssinnut ptingnut ssingnut tsingnut,s,,* ssinnut ptingnut ssingnut tsingnut,s,,,H2
+ttinnut,tn,dat,d,2,d,ssinnut ptingnut ksingnut ktingnut,allV,x,* ssinnut ptingnut ksingnut ktingnut,iallV(i),,* ssinnut ptingnut ksingnut ktingnut,sallV,x,* ssinnut ptingnut ksingnut ktingnut,sallV,x,,H2
+ttinnut,tn,dat,p,2,d,ssinnut ptingnut ssingnut tsingnut,n,,* ssinnut ptingnut ssingnut tsingnut,i(i),,* ssinnut ptingnut ssingnut tsingnut,s,,* ssinnut ptingnut ssingnut tsingnut,s,,,H2
+ttinnit,tn,abl,s,2,d,ssinnit ptingnit ssingnit tsingnit,n,,* ssinnit ptingnit ssingnit tsingnit,i(i),,* ssinnit ptingnit ssingnit tsingnit,s,,* ssinnit ptingnit ssingnit tsingnit,s,,,H2
+ttinnit,tn,abl,d,2,d,ssinnit ptingnit ksingnit ktingnit,allV,x,* ssinnit ptingnit ksingnit ktingnit,iallV(i),,* ssinnit ptingnit ksingnit ktingnit,sallV,x,* ssinnit ptingnit ksingnit ktingnit,sallV,x,,H2
+ttinnit,tn,abl,p,2,d,ssinnit ptingnit ssingnit tsingnit,n,,* ssinnit ptingnit ssingnit tsingnit,i(i),,* ssinnit ptingnit ssingnit tsingnit,s,,* ssinnit ptingnit ssingnit tsingnit,s,,,H2
+ttinni,tn,loc,s,2,d,ssinni ptingni ssingni tsingni,n,,* ssinni ptingni ssingni tsingni,i(i),,* ssinni ptingni ssingni tsingni,s,,* ssinni ptingni ssingni tsingni,s,,,H2
+ttinni,tn,loc,d,2,d,ssinni ptingni ksingni ktingni,allV,x,* ssinni ptingni ksingni ktingni,iallV(i),,* ssinni ptingni ksingni ktingni,sallV,x,* ssinni ptingni ksingni ktingni,sallV,x,,H2
+ttinni,tn,loc,p,2,d,ssinni ptingni ssingni tsingni,n,,* ssinni ptingni ssingni tsingni,i(i),,* ssinni ptingni ssingni tsingni,s,,* ssinni ptingni ssingni tsingni,s,,,H2
+ttiktut,tn,sim,s,2,d,ssiktut ptiktut tsiktut,n,,* ssiktut ptiktut tsiktut,i(i),,* ssiktut ptiktut tsiktut,s,,* ssiktut ptiktut tsiktut,s,,,H2
+ttiktut,tn,sim,d,2,d,ssiktut ptiktut ksiktut ktiktut,allV,x,* ssiktut ptiktut ksiktut ktiktut,iallV(i),,* ssiktut ptiktut ksiktut ktiktut,sallV,x,* ssiktut ptiktut ksiktut ktiktut,sallV,x,,H2
+ttiktut,tn,sim,p,2,d,ssiktut ptiktut tsiktut,n,,* ssiktut ptiktut tsiktut,i(i),,* ssiktut ptiktut tsiktut,s,,* ssiktut ptiktut tsiktut,s,,,H2
+ttikkut,tn,via,s,2,d,ssikkut ptikkut tsikkut,n,,* ssikkut ptikkut tsikkut,i(i),,* ssikkut ptikkut tsikkut,s,,* ssikkut ptikkut tsikkut,s,,,H2
+ttikkut,tn,via,d,2,d,ssikkut ptikkut ksikkut ktikkut,allV,x,* ssikkut ptikkut ksikkut ktikkut,iallV(i),,* ssikkut ptikkut ksikkut ktikkut,sallV,x,* ssikkut ptikkut ksikkut ktikkut,sallV,x,,H2
+ttikkut,tn,via,p,2,d,ssikkut ptikkut tsikkut,n,,* ssikkut ptikkut tsikkut,i(i),,* ssikkut ptikkut tsikkut,s,,* ssikkut ptikkut tsikkut,s,,,H2
+si,tn,nom,s,2,p,,n,,,i(i),,,s,,,s,,,H2
+ssi,tn,nom,d,2,p,ksi si,allV,x,* ksi si,iallV(i),,* ksi si,sallV,x,* ksi si,sallV,x,,H2
+si,tn,nom,p,2,p,,n,,,i(i),,,s,,,s,,,H2
+ssi,tn,gen,s,2,p,psi tsi,n,,* psi tsi,i(i),,* psi tsi,s,,* psi tsi,s,,,H2
+ssi,tn,gen,d,2,p,ksi,allV,x,* ksi,iallV(i),,* ksi,sallV,x,* ksi,sallV,x,,H2
+ssi,tn,gen,p,2,p,psi tsi,n,,* psi tsi,i(i),,* psi tsi,s,,* psi tsi,s,,,H2
+ssinnik,tn,acc,s,2,p,psingnik tsingnik,n,,* psingnik tsingnik,i(i),,* psingnik tsingnik,s,,* psingnik tsingnik,s,,,H2
+ssinnik,tn,acc,d,2,p,psingnik tsingnik,allV,x,* psingnik tsingnik,iallV(i),,* psingnik tsingnik,sallV,x,* psingnik tsingnik,sallV,x,,H2
+ssinnik,tn,acc,p,2,p,psingnik tsingnik,n,,* psingnik ptingnik tsingnik,i(i),,* psingnik tsingnik,s,,* psingnik tsingnik,s,,,H2
+ssinnut,tn,dat,s,2,p,psingnut tsingnut,n,,* psingnut tsingnut,i(i),,* psingnut tsingnut,s,,* psingnut tsingnut,s,,,H2
+ssinnut,tn,dat,d,2,p,psingnut tsingnut,allV,x,* psingnut tsingnut,iallV(i),,* psingnut tsingnut,sallV,x,* psingnut tsingnut,sallV,x,,H2
+ssinnut,tn,dat,p,2,p,psingnut tsingnut,n,,* psingnut tsingnut,i(i),,* psingnut tsingnut,s,,* psingnut tsingnut,s,,,H2
+ssinnit,tn,abl,s,2,p,psingnit tsingnit,n,,* psingnit tsingnit,i(i),,* psingnit tsingnit,s,,* psingnit tsingnit,s,,,H2
+ssinnit,tn,abl,d,2,p,psingnit tsingnit,allV,x,* psingnit tsingnit,iallV(i),,* psingnit tsingnit,sallV,x,* psingnit tsingnit,sallV,x,,H2
+ssinnit,tn,abl,p,2,p,psingnit tsingnit,n,,* psingnit tsingnit,i(i),,* psingnit tsingnit,s,,* psingnit tsingnit,s,,,H2
+ssinni,tn,loc,s,2,p,psingni tsingni,n,,* psingni tsingni,i(i),,* psingni tsingni,s,,* psingni tsingni,s,,,H2
+ssinni,tn,loc,d,2,p,psingni tsingni,allV,x,* psingni tsingni,iallV(i),,* psingni tsingni,sallV,x,* psingni tsingni,sallV,x,,H2
+ssinni,tn,loc,p,2,p,psingni tsingni,n,,* psingni tsingni,i(i),,* psingni tsingni,s,,* psingni tsingni,s,,,H2
+ssitut,tn,sim,s,2,p,psitut tsitut,n,,* psitut tsitut,i(i),,* psitut tsitut,s,,* psitut tsitut,s,,,H2
+ssitut,tn,sim,d,2,p,psitut tsitut,allV,x,* psitut tsitut,iallV(i),,* psitut tsitut,sallV,x,* psitut tsitut,sallV,x,,H2
+ssitut,tn,sim,p,2,p,psitut tsitut,n,,* psitut tsitut,i(i),,* psitut tsitut,s,,* psitut tsitut,s,,,H2
+ssigut,tn,via,s,2,p,psigut tsigut,n,,* psigut tsigut,i(i),,* psigut tsigut,s,,* psigut tsigut,s,,,H2
+ssigut,tn,via,d,2,p,psigut tsigut,allV,x,* psigut tsigut,iallV(i),,* psigut tsigut,sallV,x,* psigut tsigut,sallV,x,,H2
+ssigut,tn,via,p,2,p,psigut tsigut,n,,* psigut tsigut,i(i),,* psigut tsigut,s,,* psigut tsigut,s,,,H2
+ni,tn,nom,s,3,s,,n,,,i(i),,,s,,,s,,,H2
+nni,tn,nom,d,3,s,ngni,allV,x,* ngni,iallV(i),,* ngni,sallV,x,* ngni,sallV,x,,H2
+ni,tn,nom,p,3,s,,n,,,i(i),,,s,,,s,,,H2
+mi,tn,gen,s,3,s,,n,,,i(i),,* mmi,s,,,nas,,,H2
+mmi,tn,gen,d,3,s,ngmi,allV,x,* ngmi,iallV(i),,* ngmi,sallV,x,* ngmi,sallV,x,,H2
+mi,tn,gen,p,3,s,,n,,,i(i),,* mmi,s,,,nas,,,H2
+minik,tn,acc,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mminik,tn,acc,d,3,s,ngminik,allV,x,* ngminik,iallV(i),,* ngminik,sallV,x,* ngminik,sallV,x,,H2
+minik,tn,acc,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+minut,tn,dat,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mminut,tn,dat,d,3,s,ngminut,allV,x,* ngminut,iallV(i),,* ngminut,sallV,x,* ngminut,sallV,x,,H2
+minut,tn,dat,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+minit,tn,abl,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mminit,tn,abl,d,3,s,ngminit,allV,x,* ngminit,iallV(i),,* ngminit,sallV,x,* ngminit,sallV,x,,H2
+minit,tn,abl,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mini,tn,loc,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mmini,tn,loc,d,3,s,ngmini,allV,x,* ngmini,iallV(i),,* ngmini,sallV,x,* ngmini,sallV,x,,H2
+mini,tn,loc,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mitut,tn,sim,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mmitut,tn,sim,d,3,s,ngmitut,allV,x,* ngmitut,iallV(i),,* ngmitut,sallV,x,* ngmitut,sallV,x,,H2
+mititut,tn,sim,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+migut,tn,via,s,3,s,,n,,,i(i),,,s,,,nas,,,H2
+mmigut,tn,via,d,3,s,ngmigut,allV,x,* ngmigut,iallV(i),,* ngmigut,sallV,x,* ngmigut,sallV,x,,H2
+mitigut,tn,via,p,3,s,,n,,,i(i),,,s,,,nas,,,H2
+tik,tn,nom,s,3,d,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+ktik,tn,nom,d,3,d,ksik,allV,x,* ksik,iallV(i),,* ksik,sallV,x,* ksik,sallV,x,,H2
+tik,tn,nom,p,3,d,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+mik,tn,gen,s,3,d,,n,,,i(i),,* mmik,s,,,nas,,,H2
+mmik,tn,gen,d,3,d,ngmik,allV,x,* ngmik,iallV(i),,* ngmik,sallV,x,* ngmik,sallV,x,,H2
+mik,tn,gen,p,3,d,,n,,,i(i),,* mmik,s,,,nas,,,H2
+minnik,tn,acc,s,3,d,mingnik,n,,* mingnik,i(i),,* mingnik,s,,* mingnik,nas,,,H2
+mminnik,tn,acc,d,3,d,ngmingnik,allV,x,* ngmingnik,iallV(i),,* ngmingnik,sallV,x,* ngmingnik,sallV,x,,H2
+minnik,tn,acc,p,3,d,mingnik,n,,* mingnik,i(i),,* mingnik,s,,* mingnik,nas,,,H2
+minnut,tn,dat,s,3,d,mingnut,n,,* mingnut,i(i),,* mingnut,s,,* mingnut,nas,,,H2
+mminnut,tn,dat,d,3,d,ngmingnut,allV,x,* ngmingnut,iallV(i),,* ngmingnut,sallV,x,* ngmingnut,sallV,x,,H2
+minnut,tn,dat,p,3,d,mingnut,n,,* mingnut,i(i),,* mingnut,s,,* mingnut,nas,,,H2
+minnit,tn,abl,s,3,d,mingnit,n,,* mingnit,i(i),,* mingnit,s,,* mingnit,nas,,,H2
+mminnit,tn,abl,d,3,d,ngmingnit,allV,x,* ngmingnit,iallV(i),,* ngmingnit,sallV,x,* ngmingnit,sallV,x,,H2
+minnit,tn,abl,p,3,d,mingnit,n,,* mingnit,i(i),,* mingnit,s,,* mingnit,nas,,,H2
+minni,tn,loc,s,3,d,mingni,n,,* mingni,i(i),,* mingni,s,,* mingni,nas,,,H2
+mminni,tn,loc,d,3,d,ngmingni,allV,x,* ngmingni,iallV(i),,* ngmingni,sallV,x,* ngmingni,sallV,x,,H2
+minni,tn,loc,p,3,d,mingni,n,,* mingni,i(i),,* mingni,s,,* mingni,nas,,,H2
+mittut,tn,sim,s,3,d,miktut,n,,* miktut,i(i),,* miktut,s,,* miktut,nas,,,H2
+mmittut,tn,sim,d,3,d,ngmiktut,allV,x,* ngmiktut,iallV(i),,* ngmkitut,sallV,x,* ngmiktut,sallV,x,,H2
+mittitut,tn,sim,p,3,d,miktitut,n,,* miktitut,i(i),,* miktitut,s,,* miktitut,nas,,,H2
+mikkut,tn,via,s,3,d,,n,,,i(i),,,s,,,nas,,,H2
+mmikkut,tn,via,d,3,d,ngmikkut,allV,x,* ngmikkut,iallV(i),,* ngmikkut,sallV,x,* ngmikkut,sallV,x,,H2
+mittigut,tn,via,p,3,d,miktigut,n,,* miktigut,i(i),,* miktigut,s,,* miktigut,nas,,,H2
+tik,tn,nom,s,3,p,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+ktik,tn,nom,d,3,p,ksik,allV,x,* ksik,iallV(i),,* ksik,sallV,x,* ksik,sallV,x,,H2
+tik,tn,nom,p,3,p,sik,n,,* sik,i(i),,* sik,s,,* sik,s,,,H2
+mik,tn,gen,s,3,p,,n,,,i(i),,* mmik,s,,,nas,,,H2
+mmik,tn,gen,d,3,p,ngmik,allV,x,* ngmik,iallV(i),,* ngmik,sallV,x,* ngmik,sallV,x,,H2
+mik,tn,gen,p,3,p,,n,,,i(i),,* mmik,s,,,nas,,,H2
+minnik,tn,acc,s,3,p,mingnik,n,,* mingnik,i(i),,* mingnik,s,,* mingnik,nas,,,H2
+mminnik,tn,acc,d,3,p,ngmingnik,allV,x,* ngmingnik,iallV(i),,* ngmingnik,sallV,x,* ngmingnik,sallV,x,,H2
+minnik,tn,acc,p,3,p,mingnik,n,,* mingnik,i(i),,* mingnik,s,,* mingnik,nas,,,H2
+minnut,tn,dat,s,3,p,mingnut,n,,* mingnut,i(i),,* mingnut,s,,* mingnut,nas,,,H2
+mminnut,tn,dat,d,3,p,ngmingnut,allV,x,* ngmingnut,iallV(i),,* ngmingnut,sallV,x,* ngmingnut,sallV,x,,H2
+minnut,tn,dat,p,3,p,mingnut,n,,* mingnut,i(i),,* mingnut,s,,* mingnut,nas,,,H2
+minnit,tn,abl,s,3,p,mingnit,n,,* mingnit,i(i),,* mingnit,s,,* mingnit,nas,,,H2
+mminnit,tn,abl,d,3,p,ngmingnit,allV,x,* ngmingnit,iallV(i),,* ngmingnit,sallV,x,* ngmingnit,sallV,x,,H2
+minnit,tn,abl,p,3,p,mingnit,n,,* mingnit,i(i),,* mingnit,s,,* mingnit,nas,,,H2
+minni,tn,loc,s,3,p,mingni,n,,* mingni,i(i),,* mingni,s,,* mingni,nas,,,H2
+mminni,tn,loc,d,3,p,ngmingni,allV,x,* ngmingni,iallV(i),,* ngmingni,sallV,x,* ngmingni,sallV,x,,H2
+minni,tn,loc,p,3,p,mingni,n,,* mingni,i(i),,* mingni,s,,* mingni,nas,,,H2
+mittut,tn,sim,s,3,p,miktut,n,,* miktut,i(i),,* miktut,s,,* miktut,nas,,,H2
+mmittut,tn,sim,d,3,p,ngmiktut,allV,x,* ngmiktut,iallV(i),,* ngmkitut,sallV,x,* ngmiktut,sallV,x,,H2
+mittitut,tn,sim,p,3,p,miktitut,n,,* miktitut,i(i),,* miktitut,s,,* miktitut,nas,,,H2
+mikkut,tn,via,s,3,p,,n,,,i(i),,,s,,,nas,,,H2
+mmikkut,tn,via,d,3,p,ngmikkut,allV,x,* ngmikkut,iallV(i),,* ngmikkut,sallV,x,* ngmikkut,sallV,x,,H2
+mittigut,tn,via,p,3,p,miktigut,n,,* miktigut,i(i),,* miktigut,s,,* miktigut,nas,,,H2
+nga,tn,nom,s,4,s,a,n n,- s,,i(i) s,,* a,s s,- s,* a,s s,- s,,H2
+ngik,tn,nom,d,4,s,,allV,x,,iallV(i) n,,,sallV,x,,sallV,x,,H2
+ngit,tn,nom,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngata,tn,gen,s,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngita,tn,gen,d,4,s,ngikta,allV,x,* ngikta,iallV(i),,* ngikta,sallV,x,* ngikta,sallV,x,,H2
+ngita,tn,gen,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+nganik,tn,acc,s,4,s,anik,n n,- s,,i(i) s,,* anik,s s,- s,* anik,s s,- s,,H2
+nginnik,tn,acc,d,4,s,ngingnik,allV,x,* ngingnik,iallV(i),,* ngingnik,sallV,x,* ngingnik,sallV,x,,H2
+nginnik,tn,acc,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+nganut,tn,dat,s,4,s,anut,n n,- s,,i(i) s,,* anut,s s,- s,* anut,s s,- s,,H2
+nginnut,tn,dat,d,4,s,ngingnut,allV,x,* ngingnut,iallV(i),,* ngingnut,sallV,x,* ngingnut,sallV,x,,H2
+nginnut,tn,dat,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+nganit,tn,abl,s,4,s,anit,n n,- s,,i(i) s,,* anit,s s,- s,* anit,s s,- s,,H2
+nginnit,tn,abl,d,4,s,ngingnit,allV,x,* ngingnit,iallV(i),,* ngingnit,sallV,x,* ngingnit,sallV,x,,H2
+nginnit,tn,abl,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngani,tn,loc,s,4,s,ani,n n,- s,,i(i) s,,* ani,s s,- s,* ani,s s,- s,,H2
+nginni,tn,loc,d,4,s,ngingni,allV,x,* ngingni,iallV(i),,* ngingni,sallV,x,* ngingni,sallV,x,,H2
+nginni,tn,loc,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngatut,tn,sim,s,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngittitut,tn,sim,d,4,s,ngiktitut ngittut ngiktut,allV,x,* ngiktitut ngittut ngiktut,iallV(i),,* ngiktitut ngittut ngiktut,sallV,x,* ngiktitut ngittut ngiktut,sallV,x,,H2
+ngititut,tn,sim,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngagut,tn,via,s,4,s,agut,n n,- s,,i(i) s,,* agut,s s,- s,* agut,s s,- s,,H2
+ngittigut,tn,via,d,4,s,ngiktigut ngikkut,allV,x,* ngiktigut ngikkut,iallV(i),,* ngiktigut ngikkut,sallV,x,* ngiktigut ngikkut,sallV,x,,H2
+ngitigut,tn,via,p,4,s,,n,,,i(i) s,,,s,,,s,,,H2
+ngak,tn,nom,s,4,d,,n,,,i(i),,,s,,,s,,,H2
+ngik,tn,nom,d,4,d,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+ngik,tn,nom,p,4,d,ngit,n,,* ngit,i(i),,* ngit,s,,* ngit,s,,,H2
+ngata,tn,gen,s,4,d,ngakta,n,,* ngakta,i(i),,* ngakta,s,,* ngakta,nas,,,H2
+ngita,tn,gen,d,4,d,ngikta,allV,x,* ngikta,iallV(i),,* ngikta,sallV,x,* ngikta,sallV,x,,H2
+ngita,tn,gen,p,4,d,,n,,,i(i),,,s,,,s,,,H2
+ngannik,tn,acc,s,4,d,ngangnik,n,,* ngangnik,i(i),,* ngangnik,s,,* ngangnik,s,,,H2
+nginnik,tn,acc,d,4,d,ngingnik,allV,x,* ngingnik,iallV(i),,* ngingnik,sallV,x,* ngingnik,sallV,x,,H2
+nginnik,tn,acc,p,4,d,ngingnik,n,,* ngingnik,i(i),,* ngingnik,s,,* ngingnik,s,,,H2
+ngannut,tn,dat,s,4,d,ngangnut,n,,* ngangnut,i(i),,* ngangnut,s,,* ngangnut,s,,,H2
+nginnut,tn,dat,d,4,d,ngingnut,allV,x,* ngingnut,iallV(i),,* ngingnut,sallV,x,* ngingnut,sallV,x,,H2
+nginnut,tn,dat,p,4,d,ngingnut,n,,* ngingnut,i(i),,* ngingnut,s,,* ngingnut,s,,,H2
+ngannit,tn,abl,s,4,d,ngangnit,n,,* ngangnit,i(i),,* ngangnit,s,,* ngangnit,s,,,H2
+nginnit,tn,abl,d,4,d,ngingnit,allV,x,* ngingnit,iallV(i),,* ngingnit,sallV,x,* ngingnit,sallV,x,,H2
+nginnit,tn,abl,p,4,d,ngingnit,n,,* ngingnit,i(i),,* ngingnit,s,,* ngingnit,s,,,H2
+nganni,tn,loc,s,4,d,ngangni,n,,* ngangni,i(i),,* ngangni,s,,* ngangni,s,,,H2
+nginni,tn,loc,d,4,d,ngingni,allV,x,* ngingni,iallV(i),,* ngingni,sallV,x,* ngingni,sallV,x,,H2
+nginni,tn,loc,p,4,d,ngingni,n,,* ngingni,i(i),,* ngingni,s,,* ngingni,s,,,H2
+ngattut,tn,sim,s,4,d,ngaktut,n,,* ngaktut,i(i),,* ngaktut,s,,* ngaktut,s,,,H2
+ngittitut,tn,sim,d,4,d,ngiktitut,allV,x,* ngiktitut,iallV(i),,* ngiktitut,sallV,x,* ngiktitut,sallV,x,,H2
+ngititut,tn,sim,p,4,d,,n,,,i(i),,,s,,,s,,,H2
+ngakkut,tn,via,s,4,d,,n,,,i(i),,,s,,,s,,,H2
+ngittigut,tn,via,d,4,d,ngiktigut,allV,x,* ngiktigut,iallV(i),,* ngiktigut,sallV,x,* ngiktigut,sallV,x,,H2
+ngitigut,tn,via,p,4,d,,n,,,i(i),,,s,,,s,,,H2
+ngat,tn,nom,s,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngik,tn,nom,d,4,p,,allV,x,,iallV(i),,,sallV,x,,sallV,x,,H2
+ngit,tn,nom,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngata,tn,gen,s,4,p,,n,,,i(i) s,,,s,,,nas,,,H2
+ngita,tn,gen,d,4,p,ngikta,allV,x,* ngikta,iallV(i),,* ngikta,sallV,x,* ngikta,sallV,x,,H2
+ngita,tn,gen,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngannik,tn,acc,s,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+nginnik,tn,acc,d,4,p,ngingnik,allV,x,* ngingnik,iallV(i),,* ngingnik,sallV,x,* ngingnik,sallV,x,,H2
+nginnik,tn,acc,p,4,p,innik,n,,,i(i) s,,,s,,,s,,,H2
+ngannut,tn,dat,s,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+nginnut,tn,dat,d,4,p,ngingnut,allV,x,* ngingnut,iallV(i),,* ngingnut,sallV,x,* ngingnut,sallV,x,,H2
+nginnut,tn,dat,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngannit,tn,abl,s,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+nginnit,tn,abl,d,4,p,ngingnit,allV,x,* ngingnit,iallV(i),,* ngingnit,sallV,x,* ngingnit,sallV,x,,H2
+nginnit,tn,abl,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+nganni,tn,loc,s,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+nginni,tn,loc,d,4,p,ngingni,allV,x,* ngingni,iallV(i),,* ngingni,sallV,x,* ngingni,sallV,x,,H2
+nginni,tn,loc,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngatitut,tn,sim,s,4,p,ngatut,n,,* ngatut,i(i) s,,* ngatut,s,,* ngatut,s,,,H2
+ngittitut,tn,sim,d,4,p,ngiktitut,allV,x,* ngiktitut,iallV(i),,* ngiktitut,sallV,x,* ngiktitut,sallV,x,,H2
+ngititut,tn,sim,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2
+ngatigut,tn,via,s,4,p,ngagut,n,,* ngagut,i(i) s,,* ngagut,s,,* ngagut,s,,,H2
+ngittigut,tn,via,d,4,p,ngiktigut,allV,x,* ngiktigut,iallV(i),,* ngiktigut,sallV,x,* ngiktigut,sallV,x,,H2
+ngitigut,tn,via,p,4,p,,n,,,i(i) s,,,s,,,s,,,H2

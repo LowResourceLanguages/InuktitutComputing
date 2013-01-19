@@ -1,0 +1,20 @@
+body {
+	font-family: georgia,serif;
+	font-size: medium;
+}
+fieldset {
+	font-family:tahoma,geneva,sans-serif;
+	font-size:10pt;
+}
+table {
+	font-family:tahoma,geneva,sans-serif;
+	font-size:10pt;
+}
+.special {
+	font-family:lucida sans unicode,lucida grande;
+}
+td.syl { font-family:pigiarniq; font-size:10pt; }
+td.no { font-size: smaller }
+DIV.entry {font-size:12.0pt}
+DIV.note {font-size:10.0pt}
+.inuk-uni { font-family:pigiarniq,ballymun ro,oskieast,uqammaq; }

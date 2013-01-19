@@ -1,0 +1,95 @@
+package donnees;
+
+import donneesCSV.DonneesLinguistiquesCSV;
+import junit.framework.TestCase;
+
+public class BaseTest extends TestCase {
+	
+	public void testMakeVerbMeaningsString_en() {
+		new DonneesLinguistiquesCSV();
+		String sense = "to /cut s.o.";
+		String [] meanings = Base.makeVerbMeanings(sense,"en");
+		assertTrue("[1] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("to cut s.o."));
+		assertTrue("[1] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("to be cut"));
+		assertTrue("[1] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("to cut oneself"));
+		
+		sense = "to /cut, to /gash s.o.";
+		meanings = Base.makeVerbMeanings(sense,"en");
+		assertTrue("[2] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("to cut, to gash s.o."));
+		assertTrue("[2] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("to be cut, to be gashed"));
+		assertTrue("[2] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("to cut, to gash oneself"));
+		
+		sense = "to /cut, to /gash s.o. or s.t.";
+		meanings = Base.makeVerbMeanings(sense,"en");
+		assertTrue("[3] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("to cut, to gash s.o. or s.t."));
+		assertTrue("[3] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("to be cut, to be gashed"));
+		assertTrue("[3] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("to cut, to gash oneself or itself"));
+
+		sense = "[-R](1) to /offer, /give, /bring s.t. to someone (-mut); (2) to /take s.t. away forcibly from someone (-mit)";
+		meanings = Base.makeVerbMeanings(sense,"en");
+		assertTrue("[4] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("(1) to offer, give, bring s.t. to someone (-mut); (2) to take s.t. away forcibly from someone (-mit)"));
+		assertTrue("[4] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("(1) to be offered, given, brought to someone (-mut); (2) to be taken away forcibly from someone (-mit)"));
+		assertTrue("[4] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+
+		sense = "to /shave s.o.";
+		meanings = Base.makeVerbMeanings(sense,"en");
+		assertTrue("[5] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("to shave s.o."));
+		assertTrue("[5] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("to be shaved"));
+		assertTrue("[5] Wrong resultive: '"+meanings[3]+"'",meanings[3].equals("to shave"));
+	
+	
+	}
+// [-R]/instruire qqn, /enseigner à qqn une chose une fois
+	public void testMakeVerbMeaningsString_fr() {
+		new DonneesLinguistiquesCSV();
+		String sense = "[-R]/instruire qqn d'une chose, /enseigner-à qqn une chose une fois";
+		String [] meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[1] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("instruire qqn d'une chose, enseigner à qqn une chose une fois"));
+		assertTrue("[1] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("être instruit d'une chose, se faire enseigner une chose une fois"));
+		assertTrue("[1] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+
+		sense = "/poser-à qqn une question";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[2] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("poser à qqn une question"));
+		assertTrue("[2] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("se faire poser une question"));
+		assertTrue("[2] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("se poser une question"));
+
+		sense = "[-R]/rencontrer qqn; /se-cogner-contre qqch.";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[3] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("rencontrer qqn; se cogner contre qqch."));
+		assertTrue("[3] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("être rencontré; se faire cogner"));
+		assertTrue("[3] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+
+		sense = "/essuyer-de qqn le nez ou la partie au-dessus de la lèvre supérieure";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[4] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("essuyer de qqn le nez ou la partie au-dessus de la lèvre supérieure"));
+		assertTrue("[4] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("se faire essuyer le nez ou la partie au-dessus de la lèvre supérieure"));
+		assertTrue("[4] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("s'essuyer le nez ou la partie au-dessus de la lèvre supérieure"));
+		
+		sense = "[-R]/mordre-dans qqch.; /gruger qqch. (dur ou gelé)";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[5] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("mordre dans qqch.; gruger qqch. (dur ou gelé)"));
+		assertTrue("[5] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("se faire mordre; grugé (dur ou gelé)"));
+		assertTrue("[5] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+		
+		sense = "/étaler, /étendre qqch.; [T]étirer qqch. de façon à le tendre[P]être étiré de façon à être tendu[R]s'étirer de façon à être tendu";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[6] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("étaler, étendre qqch.; étirer qqch. de façon à le tendre"));
+		assertTrue("[6] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("être étalé, étendu; être étiré de façon à être tendu"));
+		assertTrue("[6] Wrong reflexive: '"+meanings[2]+"'",meanings[2].equals("s'étaler, s'étendre; s'étirer de façon à être tendu"));
+		
+		sense = "[-R]/pousser qqn, /conseiller-à qqn, /recommander-à qqn de faire quelque chose";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[7] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("pousser qqn, conseiller à qqn, recommander à qqn de faire quelque chose"));
+		assertTrue("[7] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("être poussé, se faire conseiller, se faire recommander de faire quelque chose"));
+		assertTrue("[7] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+		
+		sense = "[-R]/tirer-sur qqn avec un arc et des flèches";
+		meanings = Base.makeVerbMeanings(sense,"fr");
+		assertTrue("[8] Wrong transitive: '"+meanings[0]+"'",meanings[0].equals("tirer sur qqn avec un arc et des flèches"));
+		assertTrue("[8] Wrong passive: '"+meanings[1]+"'",meanings[1].equals("se faire tirer dessus avec un arc et des flèches"));
+		assertTrue("[8] Wrong reflexive: '"+meanings[2]+"'",meanings[2]==null);
+		
+}
+	
+}

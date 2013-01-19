@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="c:/Documents and Settings/farleyb/workspace/InuktitutNew/documentHandling.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/InuktitutNew/documentHandlingJarDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLWriter.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{WebPageReaderTest.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{HTMLReaderPatch.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_PDFDocument.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{WebPageReader.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_Document.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLTag.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_DocumentException.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLDocumentByCobra.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLDocument.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLDocumentByCobra_KativikTest.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{CharsetOfURL.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_DOCDocument.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents.pdfboxAddition"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;documents{NRC_HTMLDocumentByCobra_Kativik.java"/>
+    </selectedElements>
+</jardesc>

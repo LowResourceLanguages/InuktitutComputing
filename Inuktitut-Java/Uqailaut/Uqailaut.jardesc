@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Documents and Settings/farleyb/workspace/InuktitutNew/Uqailaut/Uqailaut.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/InuktitutNew/Uqailaut/Uqailaut.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=InuktitutNew/&lt;applications{DecomposerSA.java[DecomposerSA" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Suffixe.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{DonneesLinguistiquesAbstract.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;ecriture{TransCoder.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{MyStreamTokenizer.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{RacineNominale.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;phonologie{TransformationPhonologique.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Morpheme.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{MonURLDecoder.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;morph"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Exemple.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Demonstratif.java"/>
+        <file path="/InuktitutNew/ressources/target_successful_analysis_DecomposerHansardWithDumpedDataTestForUser.txt.des"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;lib"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{Inuktitut.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donneesCSV{DonneesLinguistiquesCSV.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites1{Util.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Exemples.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{Conditions.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{Texte.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{TerminaisonDemonstrative.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{Imacond.java"/>
+        <file path="/InuktitutNew/donnees/exemples.txt"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{MonCharsetDecoder.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Forme.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{MyObjectOutputStream.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Pronom.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Inchoatif.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Donnees.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{FormeDeAffixe.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{FileDecryptor.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Base.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;phonologie{Dialecte.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{TerminaisonNominale.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DecomposerHansardWithDumpedDataTestForUser.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{Decomposer.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Lexique.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Source.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{AttrValCond.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{SimpleCharStream.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{maHashtable.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{MyStringTokenizer.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{Debogage.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{Condition.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{ImacondTokenManager.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{SizeComparator.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{Token.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;ecriture{Syllabics.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/log4j"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;ecriture{Roman.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{MotVerbe.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donneesDompees"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{ImacondConstants.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;applications{DecomposerSA.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{TestRead.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Action.java"/>
+        <file path="/InuktitutNew/ressources/log4j.properties"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;ecriture{Orthographe.java"/>
+        <file path="/InuktitutNew/ressources/goldstandardHansard.txt.des"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{Affixe.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;utilites{NRC_StringTokenizer.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{ParseException.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees{TerminaisonVerbale.java"/>
+        <javaElement handleIdentifier="=InuktitutNew/&lt;donnees.constraints{TokenMgrError.java"/>
+    </selectedElements>
+</jardesc>
